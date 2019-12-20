@@ -14,7 +14,7 @@ AC_CANONICAL_TARGET
 AM_INIT_AUTOMAKE
 
 # this doesn't work
-#AM_INIT_AUTOMAKE([subdir-objects])
+AM_INIT_AUTOMAKE([subdir-objects])
 
 AM_CONFIG_HEADER(include/config.h)
 
