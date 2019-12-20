@@ -15,6 +15,7 @@ Follow commands shown below to use it:
 
 If everything goes well, now you are in a container. Following commands are done in it.
 
+* \> cd /sword
 * \> ./autogen.sh 
 * \> ./usrinst.sh --enable-shared --enable-examples 
 * \> make 
