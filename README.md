@@ -22,3 +22,5 @@ If everything goes well, now you are in a container. Following commands are done
 * \> make install 
 * \> make install_config
 
+## How will BitBible grow (roadmap)
+![](https://raw.githubusercontent.com/michael2012z/BitBible/master/img/BitBible_growth.png)
