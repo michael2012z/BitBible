@@ -30,3 +30,11 @@ If everything goes well, now you are in a container. Following commands are done
 1. https://www.youtube.com/watch?v=pjT5wq11ZSE&list=PL2U2TQ__OrQ8jTf0_noNKtHMuYlyxQl4v
 1. https://www.gnu.org/software/ncurses/ncurses-intro.html
 1. http://www.cs.ukzn.ac.za/~hughm/os/notes/ncurses.html
+
+## Reference
+#### OSIS
+ - http://www.crosswire.org/osis/schemas/osisCore.2.1.1.xsd.html
+ - http://www.crosswire.org/osis/tutor.jsp
+ - https://wiki.crosswire.org/OSIS_Tutorial
+ - http://openscriptures.org/
+ - https://github.com/openscriptures
