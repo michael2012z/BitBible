@@ -31,6 +31,7 @@ If everything goes well, now you are in a container. Following commands are done
 - http://www.crosswire.org/osis/tutor.jsp
 - https://wiki.crosswire.org/OSIS_Tutorial
 - https://wiki.crosswire.org/OSIS_Bibles
+- https://wiki.crosswire.org/Official_and_Affiliated_Module_Repositories
 - http://openscriptures.org/
 - https://github.com/openscriptures
 #### ncurses
