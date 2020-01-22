@@ -34,6 +34,10 @@ If everything goes well, now you are in a container. Following commands are done
 - https://wiki.crosswire.org/Official_and_Affiliated_Module_Repositories
 - http://openscriptures.org/
 - https://github.com/openscriptures
+#### python tools
+- https://pypi.org/project/pysword/
+- https://tgc-dk.gitlab.io/pysword/index.html
+- https://gitlab.com/tgc-dk/pysword
 #### ncurses
 - https://www.youtube.com/watch?v=pjT5wq11ZSE&list=PL2U2TQ__OrQ8jTf0_noNKtHMuYlyxQl4v
 - https://www.gnu.org/software/ncurses/ncurses-intro.html
