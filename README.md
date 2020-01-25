@@ -26,6 +26,8 @@ If everything goes well, now you are in a container. Following commands are done
 ![](https://raw.githubusercontent.com/michael2012z/BitBible/master/img/BitBible_growth.png)
 
 ## Reference
+#### Bible resources
+- https://scripture.api.bible/
 #### OSIS
 - http://www.crosswire.org/osis/schemas/osisCore.2.1.1.xsd.html
 - http://www.crosswire.org/osis/tutor.jsp
@@ -38,6 +40,7 @@ If everything goes well, now you are in a container. Following commands are done
 - https://pypi.org/project/pysword/
 - https://tgc-dk.gitlab.io/pysword/index.html
 - https://gitlab.com/tgc-dk/pysword
+- https://github.com/wasdin/SWORD-to-JSON - Convert sword modules to json
 #### ncurses
 - https://www.youtube.com/watch?v=pjT5wq11ZSE&list=PL2U2TQ__OrQ8jTf0_noNKtHMuYlyxQl4v
 - https://www.gnu.org/software/ncurses/ncurses-intro.html
