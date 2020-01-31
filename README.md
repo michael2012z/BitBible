@@ -45,3 +45,6 @@ If everything goes well, now you are in a container. Following commands are done
 - https://www.youtube.com/watch?v=pjT5wq11ZSE&list=PL2U2TQ__OrQ8jTf0_noNKtHMuYlyxQl4v
 - https://www.gnu.org/software/ncurses/ncurses-intro.html
 - http://www.cs.ukzn.ac.za/~hughm/os/notes/ncurses.html
+- https://docs.python.org/3/howto/curses.html
+- https://docs.python.org/3/library/curses.html
+
