@@ -7,10 +7,52 @@ class Window(object):
         # self.win.border()
         self.win.hline(0, 0, '-', w)
         self.win.addstr(0, 2, '> ' + title + ' <', curses.color_pair(1))
-
+        self.columns = w
+        self.lines = h - 1
         
     def refresh(self):
         self.win.refresh()
+
+
+    def break_text(self, text, limit):
+        text_list = []
+        num_lines = (len(text) + limit - 1) // limit
+        for i in range(0, num_lines):
+            start = i * limit
+            if (i+1)*limit > len(text):
+                line = text[i*limit :]
+            else:
+                line = text[i*limit : (i+1)*limit]
+            text_list.append(line)
+        return text_list
+
+
+    def display(self, text_lines):
+        '''
+        This function breaks the text lines into display lines according to display columns and show the text.
+        text_lines: List of a tuple, each tuple contains a tag (usually index) and a line of text.
+        '''
+        # display_lines is a list of tuple, each tuple contains a tag and a list
+        display_blocks = []
+        for text_tuple in text_lines:
+            tag, text_line = text_tuple
+            display_blocks.append((tag, self.break_text(text_line, self.columns-4)))
+
+        # build display buffer,
+        display_buffer = []
+        for block in display_blocks:
+            head = "{:0>2d}. ".format(block[0])
+            for line in block[1]:
+                display_line = "{}{}".format(head, line)
+                display_buffer.append(display_line)
+                head = "    "
+
+        # render the display area
+        start_index = 0
+        for i in range(self.lines-1):
+            if (start_index + i) >= len(display_buffer):
+                break
+            self.win.addstr(i+1, 0, display_buffer[start_index + i])
         
 
 def create_title(main_window, title):
@@ -51,15 +93,45 @@ def setup_frames(main_window):
     br.refresh()
     return tl, tr, bl, br
     
-    
+demo_text_blocks = [
+    (1,
+     "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    ),
+    (2,
+     "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    ),
+    (3,
+     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    ),
+    (4,
+     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    ),
+    (5,
+     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    ),
+    (6,
+     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    ),
+    (7,
+     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    ),
+    (8,
+     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    ),
+
+]
+
 def main(main_window):
     # Clear screen
     main_window.clear()
     curses.init_pair(1, curses.COLOR_BLUE, curses.COLOR_WHITE)
 
     create_title(main_window, "BitBible")
-    setup_frames(main_window)
+    _, tr, _, _ = setup_frames(main_window)
 
+    tr.display(demo_text_blocks)
+    tr.refresh()
+    
     main_window.refresh()
     main_window.getkey()
 
