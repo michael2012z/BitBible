@@ -2,7 +2,7 @@
 
 ## Col.1
 
-Written from Rome to Colossians by Tychicus and Onesimus.
+__Written from Rome to Colossians by Tychicus and Onesimus.__
 
 1. Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 

@@ -2,7 +2,7 @@
 
 ## Gal.1
 
-To the Galatians written from Rome.
+__To the Galatians written from Rome.__
 
 1. Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 

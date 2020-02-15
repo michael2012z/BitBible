@@ -2,9 +2,9 @@
 
 ## 1Cor.1
 
-Written to the Romans from Corinthus, and sent by Phebe servant of the church at Cenchrea.
+__Written to the Romans from Corinthus, and sent by Phebe servant of the church at Cenchrea.__
 
-The first epistle to the Corinthians was written from Philippi by Stephanas and Fortunatus and Achaicus and Timotheus.
+__The first epistle to the Corinthians was written from Philippi by Stephanas and Fortunatus and Achaicus and Timotheus.__
 
 1. Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
 

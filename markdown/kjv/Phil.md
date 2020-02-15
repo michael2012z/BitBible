@@ -2,7 +2,7 @@
 
 ## Phil.1
 
-To the Philippians written from Rome, by Epaphroditus.
+__To the Philippians written from Rome, by Epaphroditus.__
 
 1. Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 

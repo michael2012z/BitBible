@@ -2,7 +2,7 @@
 
 ## Eph.1
 
-To the Ephesians written from Rome, by Tychicus.
+__To the Ephesians written from Rome, by Tychicus.__
 
 1. Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 

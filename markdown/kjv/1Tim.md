@@ -2,7 +2,7 @@
 
 ## 1Tim.1
 
-The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana.
+__The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana.__
 
 1. Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
 

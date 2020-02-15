@@ -2,7 +2,7 @@
 
 ## 2Thess.1
 
-The second epistle to the Thessalonians was written from Athens.
+__The second epistle to the Thessalonians was written from Athens.__
 
 1. Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 

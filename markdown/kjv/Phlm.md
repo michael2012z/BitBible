@@ -2,7 +2,7 @@
 
 ## Phlm.1
 
-Written from Rome to Philemon, by Onesimus a servant.
+__Written from Rome to Philemon, by Onesimus a servant.__
 
 1. Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,
 

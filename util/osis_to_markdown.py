@@ -53,7 +53,7 @@ def generate_bible(bible_name, bible_file):
             for verse in chapter:
                 line = ""
                 if verse.tag == tag_osis_title:
-                    line = verse.text
+                    line = "__" + verse.text + "__"
                 elif verse.tag == tag_osis_verse:
                     verse_id = verse.attrib['osisID']
                     # ignore the chapter id in each line

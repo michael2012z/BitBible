@@ -2,7 +2,7 @@
 
 ## 2Tim.1
 
-The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.
+__The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.__
 
 1. Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 

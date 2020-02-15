@@ -2,7 +2,7 @@
 
 ## Titus.1
 
-It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia.
+__It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia.__
 
 1. Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
 

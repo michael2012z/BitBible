@@ -2,7 +2,7 @@
 
 ## 1Thess.1
 
-The first epistle to the Thessalonians was written from Athens.
+__The first epistle to the Thessalonians was written from Athens.__
 
 1. Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.
 

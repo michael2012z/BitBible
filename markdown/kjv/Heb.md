@@ -2,7 +2,7 @@
 
 ## Heb.1
 
-Written to the Hebrews from Italy, by Timothy.
+__Written to the Hebrews from Italy, by Timothy.__
 
 1. God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
 
