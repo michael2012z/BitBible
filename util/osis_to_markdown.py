@@ -5,8 +5,6 @@ from pathlib import Path
 import shutil
 import os
 
-
-
 def generate_bible(bible_name, bible_file):
     dir_osis = '../source/osis/'
     dir_markdown = '../markdown/'
@@ -38,6 +36,8 @@ def generate_bible(bible_name, bible_file):
             print("OSIS body error. Exit.")
             exit()
         book_id = book.attrib['osisID']
+        if book_id == "Ps":
+            continue
         book_filename = dir_path + '/' + book_id + '.md'
         book_file = open(book_filename, "wt")
         print("writing " + book_filename)
@@ -70,7 +70,8 @@ def generate_bible(bible_name, bible_file):
         
 if __name__ == '__main__':
     bibles = [
-        ('kjv', 'kjv.xml')
+#        ('kjv', 'kjv.xml'),
+        ('niv', 'niv.xml')
         ]
 
     for bible in bibles:
