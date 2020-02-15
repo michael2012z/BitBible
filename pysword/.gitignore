@@ -1,7 +1,0 @@
-*.pyc
-__pycache__/
-.idea/
-tests/resources/mods.d
-tests/resources/modules
-tests/resources/*.zip
-
