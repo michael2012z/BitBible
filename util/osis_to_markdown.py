@@ -48,7 +48,7 @@ def generate_bible(bible_name, bible_file):
         for chapter in book:
             chapter_id = chapter.attrib['osisID']
             # chapter title
-            book_file.write("# " + chapter_id + "\n\n")
+            book_file.write("## " + chapter_id + "\n\n")
 
             for verse in chapter:
                 line = ""
@@ -59,7 +59,7 @@ def generate_bible(bible_name, bible_file):
                     # ignore the chapter id in each line
                     verse_head = verse_id[(len(chapter_id)+1):]
                     verse_text = verse.text
-                    line = " ".join([verse_head, verse_text])
+                    line = ". ".join([verse_head, verse_text])
                 else:
                     print("unknown tag at " + book_id + " : " + chapter_id)
                 book_file.write(line)
