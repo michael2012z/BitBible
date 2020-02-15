@@ -41,17 +41,25 @@ def generate_bible(bible_name, bible_file):
         book_filename = dir_path + '/' + book_id + '.md'
         book_file = open(book_filename, "wt")
         print("writing " + book_filename)
+
+        # book title
+        book_file.write("# " + book_id + "\n\n")
         
         for chapter in book:
             chapter_id = chapter.attrib['osisID']
+            # chapter title
+            book_file.write("# " + chapter_id + "\n\n")
+
             for verse in chapter:
                 line = ""
                 if verse.tag == tag_osis_title:
                     line = verse.text
                 elif verse.tag == tag_osis_verse:
                     verse_id = verse.attrib['osisID']
+                    # ignore the chapter id in each line
+                    verse_head = verse_id[(len(chapter_id)+1):]
                     verse_text = verse.text
-                    line = " ".join([verse_id, verse_text])
+                    line = " ".join([verse_head, verse_text])
                 else:
                     print("unknown tag at " + book_id + " : " + chapter_id)
                 book_file.write(line)
