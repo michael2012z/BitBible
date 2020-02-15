@@ -30,7 +30,7 @@ book_abbrev = [
     ("Job", "Job"),
     ("Psalms", "Ps"),
     ("Proverbs", "Prov"),
-    ("Ecclesiastes", "Ecc1"),
+    ("Ecclesiastes", "Eccl"),
     ("Song of Songs", "Song"),
     ("Canticles", "Cant"),
     ("Wisdom", "Wis"),
