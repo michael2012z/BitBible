@@ -8,7 +8,7 @@ import os
 
 
 def generate_bible(bible_name, bible_file):
-    dir_osis = '../osis/'
+    dir_osis = '../source/osis/'
     dir_markdown = '../markdown/'
     tree = ET.parse(dir_osis + bible_file)
     root = tree.getroot()
