@@ -173,6 +173,7 @@ for raw_filename in os.listdir(dir_niv):
     book_xml_lines.append('</div>')
     osis_file.write('\n'.join(book_xml_lines))
 
+
 osis_file.write(osis_file_tail)
 osis_file.close()
 

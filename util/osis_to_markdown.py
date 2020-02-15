@@ -36,8 +36,6 @@ def generate_bible(bible_name, bible_file):
             print("OSIS body error. Exit.")
             exit()
         book_id = book.attrib['osisID']
-        if book_id == "Ps":
-            continue
         book_filename = dir_path + '/' + book_id + '.md'
         book_file = open(book_filename, "wt")
         print("writing " + book_filename)
@@ -46,6 +44,12 @@ def generate_bible(bible_name, bible_file):
         book_file.write("# " + book_id + "\n\n")
         
         for chapter in book:
+            if chapter.tag == tag_osis_title: # not a chapter, but a title, only occurs in Psalms
+                line = "__" + chapter.text.strip() + "__"
+                book_file.write(line)
+                book_file.write('\n\n')
+                continue
+            
             chapter_id = chapter.attrib['osisID']
             # chapter title
             book_file.write("## " + chapter_id + "\n\n")
@@ -72,7 +76,7 @@ if __name__ == '__main__':
     bibles = [
 #        ('kjv', 'kjv.xml'),
         ('niv', 'niv.xml')
-        ]
+    ]
 
     for bible in bibles:
         generate_bible(bible[0], bible[1])
