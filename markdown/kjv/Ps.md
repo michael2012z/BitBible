@@ -42,7 +42,7 @@
 
 ## Ps.3
 
-**A Psalm of David, when he fled from Absalom his son.**
+__A Psalm of David, when he fled from Absalom his son.__
 
 1. LORD, how are they increased that trouble me! many are they that rise up against me.
 
@@ -62,7 +62,7 @@
 
 ## Ps.4
 
-**To the chief Musician on Neginoth, A Psalm of David.**
+__To the chief Musician on Neginoth, A Psalm of David.__
 
 1. Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.
 
@@ -82,7 +82,7 @@
 
 ## Ps.5
 
-**To the chief Musician upon Nehiloth, A Psalm of David.**
+__To the chief Musician upon Nehiloth, A Psalm of David.__
 
 1. Give ear to my words, O LORD, consider my meditation.
 
@@ -110,7 +110,7 @@
 
 ## Ps.6
 
-**To the chief Musician on Neginoth upon Sheminith, A Psalm of David.**
+__To the chief Musician on Neginoth upon Sheminith, A Psalm of David.__
 
 1. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
 
@@ -134,7 +134,7 @@
 
 ## Ps.7
 
-**Shiggaion of David, which he sang unto the LORD, concerning the words of Cush the Benjamite.**
+__Shiggaion of David, which he sang unto the LORD, concerning the words of Cush the Benjamite.__
 
 1. O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:
 
@@ -172,7 +172,7 @@
 
 ## Ps.8
 
-**To the chief Musician upon Gittith, A Psalm of David.**
+__To the chief Musician upon Gittith, A Psalm of David.__
 
 1. O LORD our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
 
@@ -194,7 +194,7 @@
 
 ## Ps.9
 
-**To the chief Musician upon Muthlabben, A Psalm of David. **
+__To the chief Musician upon Muthlabben, A Psalm of David.__
 
 1. I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.
 
@@ -276,7 +276,7 @@
 
 ## Ps.11
 
-** To the chief Musician, A Psalm of David.**
+__To the chief Musician, A Psalm of David.__
 
 1. In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?
 
@@ -294,7 +294,7 @@
 
 ## Ps.12
 
-**To the chief Musician upon Sheminith, A Psalm of David. **
+__To the chief Musician upon Sheminith, A Psalm of David.__
 
 1. Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.
 
@@ -314,7 +314,7 @@
 
 ## Ps.13
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?
 
@@ -330,7 +330,7 @@
 
 ## Ps.14
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
 
@@ -348,7 +348,7 @@
 
 ## Ps.15
 
-**A Psalm of David.**
+__A Psalm of David.__
 
 1. LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?
 
@@ -362,7 +362,7 @@
 
 ## Ps.16
 
-**Michtam of David. **
+__Michtam of David.__
 
 1. Preserve me, O God: for in thee do I put my trust.
 
@@ -388,7 +388,7 @@
 
 ## Ps.17
 
-**A Prayer of David.**
+__A Prayer of David.__
 
 1. Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.
 
@@ -422,7 +422,7 @@
 
 ## Ps.18
 
-**To the chief Musician, A Psalm of David, the servant of the LORD, who spake unto the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul: And he said, **
+__To the chief Musician, A Psalm of David, the servant of the LORD, who spake unto the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul: And he said,__
 
 1. I will love thee, O LORD, my strength.
 
@@ -526,7 +526,7 @@
 
 ## Ps.19
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. The heavens declare the glory of God; and the firmament sheweth his handywork.
 
@@ -558,7 +558,7 @@
 
 ## Ps.20
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;
 
@@ -580,7 +580,7 @@
 
 ## Ps.21
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!
 
@@ -610,7 +610,7 @@
 
 ## Ps.22
 
-**To the chief Musician upon Aijeleth Shahar, A Psalm of David. **
+__To the chief Musician upon Aijeleth Shahar, A Psalm of David.__
 
 1. My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
 
@@ -676,7 +676,7 @@
 
 ## Ps.23
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. The LORD is my shepherd; I shall not want.
 
@@ -692,7 +692,7 @@
 
 ## Ps.24
 
-**A Psalm of David.**
+__A Psalm of David.__
 
 1. The earth is the LORD'S, and the fulness thereof; the world, and they that dwell therein.
 
@@ -716,7 +716,7 @@
 
 ## Ps.25
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. Unto thee, O LORD, do I lift up my soul.
 
@@ -764,7 +764,7 @@
 
 ## Ps.26
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.
 
@@ -792,7 +792,7 @@
 
 ## Ps.27
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?
 
@@ -824,7 +824,7 @@
 
 ## Ps.28
 
-**A Psalm of David.**
+__A Psalm of David.__
 
 1. Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.
 
@@ -846,7 +846,7 @@
 
 ## Ps.29
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. Give unto the LORD, O ye mighty, give unto the LORD glory and strength.
 
@@ -872,7 +872,7 @@
 
 ## Ps.30
 
-**A Psalm and Song at the dedication of the house of David. **
+__A Psalm and Song at the dedication of the house of David.__
 
 1. I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.
 
@@ -900,7 +900,7 @@
 
 ## Ps.31
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.
 
@@ -952,7 +952,7 @@
 
 ## Ps.32
 
-**A Psalm of David, Maschil. **
+__A Psalm of David, Maschil.__
 
 1. Blessed is he whose transgression is forgiven, whose sin is covered.
 
@@ -1024,7 +1024,7 @@
 
 ## Ps.34
 
-**A Psalm of David, when he changed his behaviour before Abimelech; who drove him away, and he departed. **
+__A Psalm of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.__
 
 1. I will bless the LORD at all times: his praise shall continually be in my mouth.
 
@@ -1072,7 +1072,7 @@
 
 ## Ps.35
 
-**Psalm of David.**
+__Psalm of David.__
 
 1. Plead my cause, O LORD, with them that strive with me: fight against them that fight against me.
 
@@ -1132,7 +1132,7 @@
 
 ## Ps.36
 
-**To the chief Musician, A Psalm of David the servant of the LORD. **
+__To the chief Musician, A Psalm of David the servant of the LORD.__
 
 1. The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.
 
@@ -1160,7 +1160,7 @@
 
 ## Ps.37
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
 
@@ -1244,7 +1244,7 @@
 
 ## Ps.38
 
-**A Psalm of David, to bring to remembrance. **
+__A Psalm of David, to bring to remembrance.__
 
 1. O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
 
@@ -1292,7 +1292,7 @@
 
 ## Ps.39
 
-**To the chief Musician, even to Jeduthun, A Psalm of David. **
+__To the chief Musician, even to Jeduthun, A Psalm of David.__
 
 1. I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
 
@@ -1322,7 +1322,7 @@
 
 ## Ps.40
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. I waited patiently for the LORD; and he inclined unto me, and heard my cry.
 
@@ -1360,7 +1360,7 @@
 
 ## Ps.41
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.
 
@@ -1390,7 +1390,7 @@
 
 ## Ps.42
 
-**To the chief Musician, Maschil, for the sons of Korah. **
+__To the chief Musician, Maschil, for the sons of Korah.__
 
 1. As the hart panteth after the water brooks, so panteth my soul after thee, O God.
 
@@ -1428,7 +1428,7 @@
 
 ## Ps.44
 
-**To the chief Musician for the sons of Korah, Maschil. **
+__To the chief Musician for the sons of Korah, Maschil.__
 
 1. We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.
 
@@ -1484,7 +1484,7 @@
 
 ## Ps.45
 
-**To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves. **
+__To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves.__
 
 1. My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.
 
@@ -1522,7 +1522,7 @@
 
 ## Ps.46
 
-**To the chief Musician for the sons of Korah, A Song upon Alamoth. **
+__To the chief Musician for the sons of Korah, A Song upon Alamoth.__
 
 1. God is our refuge and strength, a very present help in trouble.
 
@@ -1548,7 +1548,7 @@
 
 ## Ps.47
 
-**To the chief Musician, A Psalm for the sons of Korah.**
+__To the chief Musician, A Psalm for the sons of Korah.__
 
 1. O clap your hands, all ye people; shout unto God with the voice of triumph.
 
@@ -1570,7 +1570,7 @@
 
 ## Ps.48
 
-**A Song and Psalm for the sons of Korah.**
+__A Song and Psalm for the sons of Korah.__
 
 1. Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness.
 
@@ -1602,7 +1602,7 @@
 
 ## Ps.49
 
-**To the chief Musician, A Psalm for the sons of Korah. **
+__To the chief Musician, A Psalm for the sons of Korah.__
 
 1. Hear this, all ye people; give ear, all ye inhabitants of the world:
 
@@ -1646,7 +1646,7 @@
 
 ## Ps.50
 
-**A Psalm of Asaph. **
+__A Psalm of Asaph.__
 
 1. The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
 
@@ -1696,7 +1696,7 @@
 
 ## Ps.51
 
-**To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba. **
+__To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba.__
 
 1. Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
 
@@ -1738,7 +1738,7 @@
 
 ## Ps.52
 
-**To the chief Musician, Maschil, A Psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. **
+__To the chief Musician, Maschil, A Psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.__
 
 1. Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
 
@@ -1760,7 +1760,7 @@
 
 ## Ps.53
 
-**To the chief Musician upon Mahalath, Maschil, A Psalm of David. **
+__To the chief Musician upon Mahalath, Maschil, A Psalm of David.__
 
 1. The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.
 
@@ -1776,7 +1776,7 @@
 
 ## Ps.54
 
-**To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphims came and said to Saul, Doth not David hide himself with us? **
+__To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?__
 
 1. Save me, O God, by thy name, and judge me by thy strength.
 
@@ -1794,7 +1794,7 @@
 
 ## Ps.55
 
-**To the chief Musician on Neginoth, Maschil, A Psalm of David. **
+__To the chief Musician on Neginoth, Maschil, A Psalm of David.__
 
 1. Give ear to my prayer, O God; and hide not thyself from my supplication.
 
@@ -1844,7 +1844,7 @@
 
 ## Ps.56
 
-**To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath. **
+__To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath.__
 
 1. Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
 
@@ -1874,7 +1874,7 @@
 
 ## Ps.57
 
-**To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave. **
+__To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave.__
 
 1. Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.
 
@@ -1900,7 +1900,7 @@
 
 ## Ps.58
 
-**To the chief Musician, Altaschith, Michtam of David. **
+__To the chief Musician, Altaschith, Michtam of David.__
 
 1. Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
 
@@ -1926,7 +1926,7 @@
 
 ## Ps.59
 
-**To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him. **
+__To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him.__
 
 1. Deliver me from mine enemies, O my God: defend me from them that rise up against me.
 
@@ -1964,7 +1964,7 @@
 
 ## Ps.60
 
-**To the chief Musician upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand. **
+__To the chief Musician upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand.__
 
 1. O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
 
@@ -1992,7 +1992,7 @@
 
 ## Ps.61
 
-**To the chief Musician upon Neginah, A Psalm of David. **
+__To the chief Musician upon Neginah, A Psalm of David.__
 
 1. Hear my cry, O God; attend unto my prayer.
 
@@ -2012,7 +2012,7 @@
 
 ## Ps.62
 
-**To the chief Musician, to Jeduthun, A Psalm of David. **
+__To the chief Musician, to Jeduthun, A Psalm of David.__
 
 1. Truly my soul waiteth upon God: from him cometh my salvation.
 
@@ -2040,7 +2040,7 @@
 
 ## Ps.63
 
-**A Psalm of David, when he was in the wilderness of Judah. **
+__A Psalm of David, when he was in the wilderness of Judah.__
 
 1. O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;
 
@@ -2066,7 +2066,7 @@
 
 ## Ps.64
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
 
@@ -2090,7 +2090,7 @@
 
 ## Ps.65
 
-**To the chief Musician, A Psalm and Song of David. **
+__To the chief Musician, A Psalm and Song of David.__
 
 1. Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
 
@@ -2120,7 +2120,7 @@
 
 ## Ps.66
 
-**To the chief Musician, A Song or Psalm. **
+__To the chief Musician, A Song or Psalm.__
 
 1. Make a joyful noise unto God, all ye lands:
 
@@ -2164,7 +2164,7 @@
 
 ## Ps.67
 
-**To the chief Musician on Neginoth, A Psalm or Song. **
+__To the chief Musician on Neginoth, A Psalm or Song.__
 
 1. God be merciful unto us, and bless us; and cause his face to shine upon us; Selah.
 
@@ -2182,7 +2182,7 @@
 
 ## Ps.68
 
-**To the chief Musician, A Psalm or Song of David. **
+__To the chief Musician, A Psalm or Song of David.__
 
 1. Let God arise, let his enemies be scattered: let them also that hate him flee before him.
 
@@ -2256,7 +2256,7 @@
 
 ## Ps.69
 
-**To the chief Musician upon Shoshannim, A Psalm of David. **
+__To the chief Musician upon Shoshannim, A Psalm of David.__
 
 1. Save me, O God; for the waters are come in unto my soul.
 
@@ -2332,7 +2332,7 @@
 
 ## Ps.70
 
-**To the chief Musician, A Psalm of David, to bring to remembrance. **
+__To the chief Musician, A Psalm of David, to bring to remembrance.__
 
 1. Make haste, O God, to deliver me; make haste to help me, O LORD.
 
@@ -2396,7 +2396,7 @@
 
 ## Ps.72
 
-**A Psalm for Solomon. **
+__A Psalm for Solomon.__
 
 1. Give the king thy judgments, O God, and thy righteousness unto the king's son.
 
@@ -2440,7 +2440,7 @@
 
 ## Ps.73
 
-**A Psalm of Asaph. **
+__A Psalm of Asaph.__
 
 1. Truly God is good to Israel, even to such as are of a clean heart.
 
@@ -2500,7 +2500,7 @@
 
 ## Ps.74
 
-**Maschil of Asaph. **
+__Maschil of Asaph.__
 
 1. O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?
 
@@ -2550,7 +2550,7 @@
 
 ## Ps.75
 
-**To the chief Musician, Altaschith, A Psalm or Song of Asaph. **
+__To the chief Musician, Altaschith, A Psalm or Song of Asaph.__
 
 1. Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.
 
@@ -2574,7 +2574,7 @@
 
 ## Ps.76
 
-**To the chief Musician on Neginoth, A Psalm or Song of Asaph. **
+__To the chief Musician on Neginoth, A Psalm or Song of Asaph.__
 
 1. In Judah is God known: his name is great in Israel.
 
@@ -2602,7 +2602,7 @@
 
 ## Ps.77
 
-**To the chief Musician, to Jeduthun, A Psalm of Asaph. **
+__To the chief Musician, to Jeduthun, A Psalm of Asaph.__
 
 1. I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.
 
@@ -2646,7 +2646,7 @@
 
 ## Ps.78
 
-**Maschil of Asaph. **
+__Maschil of Asaph.__
 
 1. Give ear, O my people, to my law: incline your ears to the words of my mouth.
 
@@ -2794,7 +2794,7 @@
 
 ## Ps.79
 
-**A Psalm of Asaph. **
+__A Psalm of Asaph.__
 
 1. O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
 
@@ -2824,7 +2824,7 @@
 
 ## Ps.80
 
-**To the chief Musician upon Shoshannimeduth, A Psalm of Asaph. **
+__To the chief Musician upon Shoshannimeduth, A Psalm of Asaph.__
 
 1. Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.
 
@@ -2866,7 +2866,7 @@
 
 ## Ps.81
 
-**To the chief Musician upon Gittith, A Psalm of Asaph. **
+__To the chief Musician upon Gittith, A Psalm of Asaph.__
 
 1. Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.
 
@@ -2902,7 +2902,7 @@
 
 ## Ps.82
 
-**A Psalm of Asaph. **
+__A Psalm of Asaph.__
 
 1. God standeth in the congregation of the mighty; he judgeth among the gods.
 
@@ -2922,7 +2922,7 @@
 
 ## Ps.83
 
-**A Song or Psalm of Asaph. **
+__A Song or Psalm of Asaph.__
 
 1. Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 
@@ -2962,7 +2962,7 @@
 
 ## Ps.84
 
-**To the chief Musician upon Gittith, A Psalm for the sons of Korah. **
+__To the chief Musician upon Gittith, A Psalm for the sons of Korah.__
 
 1. How amiable are thy tabernacles, O LORD of hosts!
 
@@ -2990,7 +2990,7 @@
 
 ## Ps.85
 
-**To the chief Musician, A Psalm for the sons of Korah. **
+__To the chief Musician, A Psalm for the sons of Korah.__
 
 1. LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
 
@@ -3020,7 +3020,7 @@
 
 ## Ps.86
 
-**A Prayer of David. **
+__A Prayer of David.__
 
 1. Bow down thine ear, O LORD, hear me: for I am poor and needy.
 
@@ -3058,7 +3058,7 @@
 
 ## Ps.87
 
-**A Psalm or Song for the sons of Korah. **
+__A Psalm or Song for the sons of Korah.__
 
 1. His foundation is in the holy mountains.
 
@@ -3076,7 +3076,7 @@
 
 ## Ps.88
 
-**A Song or Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite. **
+__A Song or Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite.__
 
 1. O LORD God of my salvation, I have cried day and night before thee:
 
@@ -3116,7 +3116,7 @@
 
 ## Ps.89
 
-**Maschil of Ethan the Ezrahite. **
+__Maschil of Ethan the Ezrahite.__
 
 1. I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.
 
@@ -3224,7 +3224,7 @@
 
 ## Ps.90
 
-** A Prayer of Moses the man of God.**
+__A Prayer of Moses the man of God.__
 
 1. Lord, thou hast been our dwelling place in all generations.
 
@@ -3296,7 +3296,7 @@
 
 ## Ps.92
 
-**A Psalm or Song for the sabbath day. **
+__A Psalm or Song for the sabbath day.__
 
 1. It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High:
 
@@ -3468,7 +3468,7 @@
 
 ## Ps.98
 
-**A Psalm. **
+__A Psalm.__
 
 1. O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.
 
@@ -3510,7 +3510,7 @@
 
 ## Ps.100
 
-**A Psalm of praise. **
+__A Psalm of praise.__
 
 1. Make a joyful noise unto the LORD, all ye lands.
 
@@ -3524,7 +3524,7 @@
 
 ## Ps.101
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. I will sing of mercy and judgment: unto thee, O LORD, will I sing.
 
@@ -3544,7 +3544,7 @@
 
 ## Ps.102
 
-**A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD. **
+__A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD.__
 
 1. Hear my prayer, O LORD, and let my cry come unto thee.
 
@@ -3604,7 +3604,7 @@
 
 ## Ps.103
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. Bless the LORD, O my soul: and all that is within me, bless his holy name.
 
@@ -4002,7 +4002,7 @@
 
 ## Ps.108
 
-**A Song or Psalm of David. **
+__A Song or Psalm of David.__
 
 1. O God, my heart is fixed; I will sing and give praise, even with my glory.
 
@@ -4032,7 +4032,7 @@
 
 ## Ps.109
 
-**To the chief Musician, A Psalm of David.**
+__To the chief Musician, A Psalm of David.__
 
 1. Hold not thy peace, O God of my praise;
 
@@ -4098,7 +4098,7 @@
 
 ## Ps.110
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 
@@ -4696,7 +4696,7 @@
 
 ## Ps.120
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. In my distress I cried unto the LORD, and he heard me.
 
@@ -4714,7 +4714,7 @@
 
 ## Ps.121
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. I will lift up mine eyes unto the hills, from whence cometh my help.
 
@@ -4734,7 +4734,7 @@
 
 ## Ps.122
 
-**A Song of degrees of David. **
+__A Song of degrees of David.__
 
 1. I was glad when they said unto me, Let us go into the house of the LORD.
 
@@ -4756,7 +4756,7 @@
 
 ## Ps.123
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. Unto thee lift I up mine eyes, O thou that dwellest in the heavens.
 
@@ -4768,7 +4768,7 @@
 
 ## Ps.124
 
-**A Song of degrees of David. **
+__A Song of degrees of David.__
 
 1. If it had not been the LORD who was on our side, now may Israel say;
 
@@ -4788,7 +4788,7 @@
 
 ## Ps.125
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.
 
@@ -4802,7 +4802,7 @@
 
 ## Ps.126
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. When the LORD turned again the captivity of Zion, we were like them that dream.
 
@@ -4818,7 +4818,7 @@
 
 ## Ps.127
 
-**A Song of degrees for Solomon.**
+__A Song of degrees for Solomon.__
 
 1.  Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.
 
@@ -4832,7 +4832,7 @@
 
 ## Ps.128
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. Blessed is every one that feareth the LORD; that walketh in his ways.
 
@@ -4848,7 +4848,7 @@
 
 ## Ps.129
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. Many a time have they afflicted me from my youth, may Israel now say:
 
@@ -4868,7 +4868,7 @@
 
 ## Ps.130
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. Out of the depths have I cried unto thee, O LORD.
 
@@ -4888,7 +4888,7 @@
 
 ## Ps.131
 
-**A Song of degrees of David. **
+__A Song of degrees of David.__
 
 1. LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.
 
@@ -4936,7 +4936,7 @@
 
 ## Ps.133
 
-**A Song of degrees of David. **
+__A Song of degrees of David.__
 
 1. Behold, how good and how pleasant it is for brethren to dwell together in unity!
 
@@ -4946,7 +4946,7 @@
 
 ## Ps.134
 
-**A Song of degrees. **
+__A Song of degrees.__
 
 1. Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD.
 
@@ -5074,7 +5074,7 @@
 
 ## Ps.138
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. I will praise thee with my whole heart: before the gods will I sing praise unto thee.
 
@@ -5094,7 +5094,7 @@
 
 ## Ps.139
 
-**To the chief Musician, A Psalm of David.**
+__To the chief Musician, A Psalm of David.__
 
 1. O LORD, thou hast searched me, and known me.
 
@@ -5146,7 +5146,7 @@
 
 ## Ps.140
 
-**To the chief Musician, A Psalm of David. **
+__To the chief Musician, A Psalm of David.__
 
 1. Deliver me, O LORD, from the evil man: preserve me from the violent man;
 
@@ -5176,7 +5176,7 @@
 
 ## Ps.141
 
-**Psalm of David.**
+__Psalm of David.__
 
 1. LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
 
@@ -5200,7 +5200,7 @@
 
 ## Ps.142
 
-**Maschil of David; A Prayer when he was in the cave. **
+__Maschil of David; A Prayer when he was in the cave.__
 
 1. I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.
 
@@ -5218,7 +5218,7 @@
 
 ## Ps.143
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.
 
@@ -5246,7 +5246,7 @@
 
 ## Ps.144
 
-**A Psalm of David. **
+__A Psalm of David.__
 
 1. Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:
 
@@ -5280,7 +5280,7 @@
 
 ## Ps.145
 
-**David's Psalm of praise. **
+__David's Psalm of praise.__
 
 1. I will extol thee, my God, O king; and I will bless thy name for ever and ever.
 
