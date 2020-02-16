@@ -99,6 +99,7 @@ def generate_readme_books_table(testament_abbrev, readme_items):
     num_books_added = 0
     book_names_set = set([x[0] for x in readme_items])
     buf = []
+    buf.append('<table>')
     row_buf = []
     for book_abbrev in testament_abbrev:
         long_name, short_name = book_abbrev
@@ -120,6 +121,7 @@ def generate_readme_books_table(testament_abbrev, readme_items):
     if len(row_buf) > 0:
         buf.append('<tr>\n' + '\n'.join(row_buf) + '</tr>')
 
+    buf.append('</table>')
     return '\n'.join(buf)
     
 
