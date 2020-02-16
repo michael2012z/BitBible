@@ -1,4 +1,4 @@
-# Eph
+# Ephesians
 
 ## Ephesians 1
 

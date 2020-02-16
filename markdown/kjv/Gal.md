@@ -1,4 +1,4 @@
-# Gal
+# Galatians
 
 ## Galatians 1
 

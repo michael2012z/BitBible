@@ -1,4 +1,4 @@
-# Mal
+# Malachi
 
 ## Malachi 1
 

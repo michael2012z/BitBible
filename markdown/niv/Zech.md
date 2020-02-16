@@ -1,4 +1,4 @@
-# Zech
+# Zechariah
 
 ## Zechariah 1
 

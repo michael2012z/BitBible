@@ -1,4 +1,4 @@
-# 1Thess
+# 1 Thessalonians
 
 ## 1 Thessalonians 1
 

@@ -1,4 +1,4 @@
-# Song
+# Song of Songs
 
 ## Song of Songs 1
 

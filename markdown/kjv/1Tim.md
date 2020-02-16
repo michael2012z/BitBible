@@ -1,4 +1,4 @@
-# 1Tim
+# 1 Timothy
 
 ## 1 Timothy 1
 

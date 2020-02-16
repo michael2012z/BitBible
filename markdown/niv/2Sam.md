@@ -1,4 +1,4 @@
-# 2Sam
+# 2 Samuel
 
 ## 2 Samuel 1
 

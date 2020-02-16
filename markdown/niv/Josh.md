@@ -1,4 +1,4 @@
-# Josh
+# Joshua
 
 ## Joshua 1
 

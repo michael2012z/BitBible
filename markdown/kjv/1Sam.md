@@ -1,4 +1,4 @@
-# 1Sam
+# 1 Samuel
 
 ## 1 Samuel 1
 

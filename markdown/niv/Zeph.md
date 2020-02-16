@@ -1,4 +1,4 @@
-# Zeph
+# Zephaniah
 
 ## Zephaniah 1
 

@@ -1,4 +1,4 @@
-# Col
+# Colossians
 
 ## Colossians 1
 

@@ -1,4 +1,4 @@
-# Gen
+# Genesis
 
 ## Genesis 1
 

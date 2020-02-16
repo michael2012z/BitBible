@@ -1,4 +1,4 @@
-# 2Thess
+# 2 Thessalonians
 
 ## 2 Thessalonians 1
 

@@ -1,4 +1,4 @@
-# Ezek
+# Ezekiel
 
 ## Ezekiel 1
 

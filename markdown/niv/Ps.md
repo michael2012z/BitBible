@@ -1,4 +1,4 @@
-# Ps
+# Psalms
 
 __BOOK I__
 

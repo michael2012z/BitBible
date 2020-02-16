@@ -1,4 +1,4 @@
-# Hos
+# Hosea
 
 ## Hosea 1
 

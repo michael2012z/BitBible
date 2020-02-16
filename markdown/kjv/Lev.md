@@ -1,4 +1,4 @@
-# Lev
+# Leviticus
 
 ## Leviticus 1
 

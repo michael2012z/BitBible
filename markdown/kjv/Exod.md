@@ -1,4 +1,4 @@
-# Exod
+# Exodus
 
 ## Exodus 1
 

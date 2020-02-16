@@ -1,4 +1,4 @@
-# Isa
+# Isaiah
 
 ## Isaiah 1
 

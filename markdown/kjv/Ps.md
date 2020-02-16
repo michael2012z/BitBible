@@ -1,4 +1,4 @@
-# Ps
+# Psalms
 
 ## Psalms 1
 

@@ -1,4 +1,4 @@
-# 2Pet
+# 2 Peter
 
 ## 2 Peter 1
 

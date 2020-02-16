@@ -1,4 +1,4 @@
-# Obad
+# Obadiah
 
 ## Obadiah 1
 

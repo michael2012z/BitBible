@@ -1,4 +1,4 @@
-# Prov
+# Proverbs
 
 ## Proverbs 1
 

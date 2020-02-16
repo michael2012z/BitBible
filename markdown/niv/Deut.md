@@ -1,4 +1,4 @@
-# Deut
+# Deuteronomy
 
 ## Deuteronomy 1
 

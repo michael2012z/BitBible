@@ -1,4 +1,4 @@
-# Neh
+# Nehemiah
 
 ## Nehemiah 1
 

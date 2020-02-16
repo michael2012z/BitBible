@@ -1,4 +1,4 @@
-# Hab
+# Habakkuk
 
 ## Habakkuk 1
 

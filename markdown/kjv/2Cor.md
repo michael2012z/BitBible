@@ -1,4 +1,4 @@
-# 2Cor
+# 2 Corinthians
 
 ## 2 Corinthians 1
 

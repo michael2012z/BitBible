@@ -1,4 +1,4 @@
-# Hag
+# Haggai
 
 ## Haggai 1
 

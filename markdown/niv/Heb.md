@@ -1,4 +1,4 @@
-# Heb
+# Hebrews
 
 ## Hebrews 1
 

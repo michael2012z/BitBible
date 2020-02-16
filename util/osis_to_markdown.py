@@ -106,11 +106,13 @@ def generate_readme_books_table(testament_abbrev, readme_items):
         if long_name in book_names_set:
             num_books_added += 1
             row_buf.append('<td>')
-            row_buf.append('<b>' + long_name + '</b><br/>')
+            link = short_name + '.md'
+            row_buf.append('<b>' + '<a href=\'' + link + '\'>' + long_name + '</a>' + '</b><br/>')
             chapter_list = []
             readme_item = list(filter(lambda x: x[0] == long_name, readme_items))[0]
             for i in range(readme_item[2]):
-                chapter_list.append(str(i))
+                link = short_name + '.md#' + (long_name + ' ' + str(i+1)).replace(' ', '-').lower()
+                chapter_list.append('<a href=\'' + link + '\'>' + str(i+1) + '</a>')
             row_buf.append(', '.join(chapter_list))
             row_buf.append('</td>')
 
@@ -205,7 +207,7 @@ def generate_bible(bible_name, bible_file):
         #print("writing " + book_filename)
 
         # book title
-        book_file.write("# " + book_id + "\n\n")
+        book_file.write("# " + book_long_name + "\n\n")
 
         chapter_index = 0
         for chapter in book:

@@ -1,4 +1,4 @@
-# 1Kgs
+# 1 Kings
 
 ## 1 Kings 1
 

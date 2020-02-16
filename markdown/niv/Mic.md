@@ -1,4 +1,4 @@
-# Mic
+# Micah
 
 ## Micah 1
 

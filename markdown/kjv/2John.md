@@ -1,4 +1,4 @@
-# 2John
+# 2 John
 
 ## 2 John 1
 

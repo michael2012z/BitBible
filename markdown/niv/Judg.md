@@ -1,4 +1,4 @@
-# Judg
+# Judges
 
 ## Judges 1
 

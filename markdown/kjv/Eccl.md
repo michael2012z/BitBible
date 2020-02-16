@@ -1,4 +1,4 @@
-# Eccl
+# Ecclesiastes
 
 ## Ecclesiastes 1
 

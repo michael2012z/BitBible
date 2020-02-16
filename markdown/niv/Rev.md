@@ -1,4 +1,4 @@
-# Rev
+# Revelation
 
 ## Revelation 1
 

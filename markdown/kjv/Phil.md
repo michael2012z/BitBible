@@ -1,4 +1,4 @@
-# Phil
+# Philippians
 
 ## Philippians 1
 

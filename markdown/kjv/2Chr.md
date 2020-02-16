@@ -1,4 +1,4 @@
-# 2Chr
+# 2 Chronicles
 
 ## 2 Chronicles 1
 

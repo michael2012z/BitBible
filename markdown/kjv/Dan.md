@@ -1,4 +1,4 @@
-# Dan
+# Daniel
 
 ## Daniel 1
 

@@ -1,4 +1,4 @@
-# 2Tim
+# 2 Timothy
 
 ## 2 Timothy 1
 

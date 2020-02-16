@@ -1,4 +1,4 @@
-# Nah
+# Nahum
 
 ## Nahum 1
 

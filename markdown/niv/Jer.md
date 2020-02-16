@@ -1,4 +1,4 @@
-# Jer
+# Jeremiah
 
 ## Jeremiah 1
 

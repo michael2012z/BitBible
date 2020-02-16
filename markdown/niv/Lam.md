@@ -1,4 +1,4 @@
-# Lam
+# Lamentations
 
 ## Lamentations 1
 

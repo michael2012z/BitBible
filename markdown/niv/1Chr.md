@@ -1,4 +1,4 @@
-# 1Chr
+# 1 Chronicles
 
 ## 1 Chronicles 1
 
