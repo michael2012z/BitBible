@@ -140,7 +140,8 @@ def generate_readme_books_table(testament_abbrev, readme_items):
 def generate_readme_buffer(readme_title, readme_description, readme_items):
     buf = []
     buf.append('# ' + readme_title)
-    buf.append(readme_description)
+    if readme_description != None and len(readme_description) > 0:
+        buf.append(readme_description)
 
     ot_abbrev, nt_abbrev = book_abbrev
     ot_names_set = set([x[0] for x in ot_abbrev])
@@ -158,7 +159,7 @@ def generate_readme_buffer(readme_title, readme_description, readme_items):
     if nt_names_set & book_names_set:
         buf.append('## New Testament')
         buf.append(generate_readme_books_table(nt_abbrev, readme_items))
-    
+
     return '\n\n'.join(buf)
 
 
@@ -259,8 +260,48 @@ def generate_bible(bible_name, bible_file):
         
 if __name__ == '__main__':
     bibles = [
-        ('kjv', 'kjv.xml'),
-        ('niv', 'niv.xml')
+        ("acv", "acv.xml"), 
+        ("bom", "bom.xml"), 
+        #("dour", "dour.xml"), 
+        ("isv", "isv.xml"), 
+        ("kjv", "kjv.xml"), 
+        ("lont", "lont.xml"), 
+        ("niv", "niv.xml"), 
+        ("rsv", "rsv.xml"), 
+        #("tyndale", "tyndale.xml"), 
+        ("web", "web.xml"), 
+        ("xxx", "xxx.xml"), 
+        ("akjv", "akjv.xml"), 
+        #("bwe", "bwe.xml"),
+        ("emtv", "emtv.xml"), 
+        ("jps", "jps.xml"), 
+        ("leb", "leb.xml"), 
+        ("mkjv1962", "mkjv1962.xml"), 
+        #("nsb", "nsb.xml"), 
+        ("rwebster", "rwebster.xml"), 
+        ("ukjv", "ukjv.xml"), 
+        ("wesley", "wesley.xml"), 
+        ("ylt", "ylt.xml"), 
+        ("asv", "asv.xml"), 
+        #("darby", "darby.xml"), 
+        ("etheridge", "etheridge.xml"), 
+        ("jubl2000", "jubl2000.xml"), 
+        #("leb2010", "leb2010.xml"), 
+        ("mont", "mont.xml"), 
+        ("rnt", "rnt.xml"), 
+        ("rylt", "rylt.xml"), 
+        ("updv", "updv.xml"), 
+        ("wmth", "wmth.xml"), 
+        ("bbe", "bbe.xml"), 
+        ("diaglot", "diaglot.xml"), 
+        #("gb", "gb.xml"), 
+        ("kj2000", "kj2000.xml"), 
+        #("leeser", "leeser.xml"), 
+        ("nheb", "nheb.xml"), 
+        ("roth", "roth.xml"), 
+        #("tce", "tce.xml"), 
+        ("wbs", "wbs.xml"), 
+        #("wycliffe", "wycliffe.xml"), 
     ]
 
     for bible in bibles:
