@@ -110,9 +110,18 @@ def generate_readme_books_table(testament_abbrev, readme_items):
             row_buf.append('<b>' + '<a href=\'' + link + '\'>' + long_name + '</a>' + '</b><br/>')
             chapter_list = []
             readme_item = list(filter(lambda x: x[0] == long_name, readme_items))[0]
-            for i in range(readme_item[2]):
-                link = short_name + '.md#' + (long_name + ' ' + str(i+1)).replace(' ', '-').lower()
-                chapter_list.append('<a href=\'' + link + '\'>' + str(i+1) + '</a>')
+
+            # show 10 chapter-links for the most
+            chapter_numbers = list(range(1, readme_item[2] + 1))
+            selected_chapter_numbers = chapter_numbers
+            if readme_item[2] > 10:
+                number_in_group = readme_item[2] / 10
+                selected_chapter_numbers = list(map(lambda x: chapter_numbers[int(x * number_in_group)], list(range(10))))
+                
+            for i in selected_chapter_numbers:
+                link = short_name + '.md#' + (long_name + ' ' + str(i)).replace(' ', '-').lower()
+                chapter_list.append('<a href=\'' + link + '\'>' + str(i) + '</a>')
+                
             row_buf.append(', '.join(chapter_list))
             row_buf.append('</td>')
 
