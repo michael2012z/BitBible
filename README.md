@@ -15,9 +15,15 @@ My favorite: [NIV - New International Version](markdown/niv/README.md)
 
 ## A command-line Bible reader
 
+Not ready yet.
+
 ## Bibles in OSIS
 
+Text source in OSIS format. [link](source/osis)
+
 ## Tools for format-converting
+
+Python scripts used to convert text between formats.
 
 ## Reference
 #### Bible resources
