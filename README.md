@@ -2,7 +2,7 @@
 
 BitBible is a bit I contribute to God the Father almighty.
 
-It contains a collection of utilities to read Holy Bible, in the way of a hacker/programmer likes.
+It contains a collection of utilities to read Holy Bible, in the way a hacker/programmer likes.
 
 ## Bibles in Markdown
 Following versions are ready now:
