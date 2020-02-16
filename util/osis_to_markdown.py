@@ -112,7 +112,7 @@ def generate_readme_books_table(testament_abbrev, readme_items):
             readme_item = list(filter(lambda x: x[0] == long_name, readme_items))[0]
 
             # show 10 chapter-links for the most
-            num_chapter_links = 8
+            num_chapter_links = 9
             chapter_numbers = list(range(1, readme_item[2] + 1))
             selected_chapter_numbers = chapter_numbers
             if readme_item[2] > num_chapter_links:
