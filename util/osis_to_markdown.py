@@ -111,7 +111,7 @@ def generate_readme_books_table(testament_abbrev, readme_items):
             readme_item = list(filter(lambda x: x[0] == long_name, readme_items))[0]
             for i in range(readme_item[2]):
                 chapter_list.append(str(i))
-            row_buf.append(','.join(chapter_list))
+            row_buf.append(', '.join(chapter_list))
             row_buf.append('</td>')
 
         if num_books_added % books_per_row == 0:
