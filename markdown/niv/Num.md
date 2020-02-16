@@ -1,6 +1,6 @@
 # Num
 
-## Num.1
+## Numbers 1
 
 __The Census__
 
@@ -112,7 +112,7 @@ __The Census__
 
 54. The Israelites did all this just as the LORD commanded Moses.
 
-## Num.2
+## Numbers 2
 
 __The Arrangement of the Tribal Camps__
 
@@ -184,7 +184,7 @@ __The Arrangement of the Tribal Camps__
 
 34. So the Israelites did everything the LORD commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each with his clan and family.
 
-## Num.3
+## Numbers 3
 
 __The Levites__
 
@@ -290,7 +290,7 @@ __The Levites__
 
 51. Moses gave the redemption money to Aaron and his sons, as he was commanded by the word of the LORD.
 
-## Num.4
+## Numbers 4
 
 __The Kohathites__
 
@@ -398,7 +398,7 @@ __The Numbering of the Levite Clans__
 
 49. At the LORD's command through Moses, each was assigned his work and told what to carry. Thus they were counted, as the LORD commanded Moses.
 
-## Num.5
+## Numbers 5
 
 __The Purity of the Camp__
 
@@ -466,7 +466,7 @@ __The Test for an Unfaithful Wife__
 
 31. The husband will be innocent of any wrongdoing, but the woman will bear the consequences of her sin.'"
 
-## Num.6
+## Numbers 6
 
 __The Nazirite__
 
@@ -526,7 +526,7 @@ __The Priestly Blessing__
 
 27. "So they will put my name on the Israelites, and I will bless them."
 
-## Num.7
+## Numbers 7
 
 __Offerings at the Dedication of the Tabernacle__
 
@@ -708,7 +708,7 @@ __Offerings at the Dedication of the Tabernacle__
 
 89. When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice speaking to him from between the two cherubim above the atonement cover on the ark of the Testimony. And he spoke with him.
 
-## Num.8
+## Numbers 8
 
 __Setting Up the Lamps__
 
@@ -766,7 +766,7 @@ __The Setting Apart of the Levites__
 
 26. They may assist their brothers in performing their duties at the Tent of Meeting, but they themselves must not do the work. This, then, is how you are to assign the responsibilities of the Levites."
 
-## Num.9
+## Numbers 9
 
 __The Passover__
 
@@ -818,7 +818,7 @@ __The Cloud Above the Tabernacle__
 
 23. At the LORD's command they encamped, and at the LORD's command they set out. They obeyed the LORD's order, in accordance with his command through Moses.
 
-## Num.10
+## Numbers 10
 
 __The Silver Trumpets__
 
@@ -896,7 +896,7 @@ __The Israelites Leave Sinai__
 
 36. Whenever it came to rest, he said, "Return, O LORD, to the countless thousands of Israel."
 
-## Num.11
+## Numbers 11
 
 __Fire From the LORD__
 
@@ -972,7 +972,7 @@ __Quail From the LORD__
 
 35. From Kibroth Hattaavah the people traveled to Hazeroth and stayed there.
 
-## Num.12
+## Numbers 12
 
 __Miriam and Aaron Oppose Moses__
 
@@ -1008,7 +1008,7 @@ __Miriam and Aaron Oppose Moses__
 
 16. After that, the people left Hazeroth and encamped in the Desert of Paran.
 
-## Num.13
+## Numbers 13
 
 __Exploring Canaan__
 
@@ -1080,7 +1080,7 @@ __Report on the Exploration__
 
 33. We saw the Nephilim there (the descendants of Anak come from the Nephilim). We seemed like grasshoppers in our own eyes, and we looked the same to them."
 
-## Num.14
+## Numbers 14
 
 __The People Rebel__
 
@@ -1174,7 +1174,7 @@ __The People Rebel__
 
 45. Then the Amalekites and Canaanites who lived in that hill country came down and attacked them and beat them down all the way to Hormah.
 
-## Num.15
+## Numbers 15
 
 __Supplementary Offerings__
 
@@ -1266,7 +1266,7 @@ __Tassels on Garments__
 
 41. I am the LORD your God, who brought you out of Egypt to be your God. I am the LORD your God.'"
 
-## Num.16
+## Numbers 16
 
 __Korah, Dathan and Abiram__
 
@@ -1370,7 +1370,7 @@ __Korah, Dathan and Abiram__
 
 50. Then Aaron returned to Moses at the entrance to the Tent of Meeting, for the plague had stopped.
 
-## Num.17
+## Numbers 17
 
 __The Budding of Aaron's Staff__
 
@@ -1400,7 +1400,7 @@ __The Budding of Aaron's Staff__
 
 13. Anyone who even comes near the tabernacle of the LORD will die. Are we all going to die?"
 
-## Num.18
+## Numbers 18
 
 __Duties of Priests and Levites__
 
@@ -1470,7 +1470,7 @@ __Offerings for Priests and Levites__
 
 32. By presenting the best part of it you will not be guilty in this matter; then you will not defile the holy offerings of the Israelites, and you will not die.'"
 
-## Num.19
+## Numbers 19
 
 __The Water of Cleansing__
 
@@ -1518,7 +1518,7 @@ __The Water of Cleansing__
 
 22. Anything that an unclean person touches becomes unclean, and anyone who touches it becomes unclean till evening."
 
-## Num.20
+## Numbers 20
 
 __Water From the Rock__
 
@@ -1584,7 +1584,7 @@ __The Death of Aaron__
 
 29. and when the whole community learned that Aaron had died, the entire house of Israel mourned for him thirty days.
 
-## Num.21
+## Numbers 21
 
 __Arad Destroyed__
 
@@ -1664,7 +1664,7 @@ __Defeat of Sihon and Og__
 
 35. So they struck him down, together with his sons and his whole army, leaving them no survivors. And they took possession of his land.
 
-## Num.22
+## Numbers 22
 
 __Balak Summons Balaam__
 
@@ -1752,7 +1752,7 @@ __Balaam's Donkey__
 
 41. The next morning Balak took Balaam up to Bamoth Baal, and from there he saw part of the people.
 
-## Num.23
+## Numbers 23
 
 __Balaam's First Oracle__
 
@@ -1820,7 +1820,7 @@ __Balaam's Third Oracle__
 
 30. Balak did as Balaam had said, and offered a bull and a ram on each altar.
 
-## Num.24
+## Numbers 24
 
 1. Now when Balaam saw that it pleased the LORD to bless Israel, he did not resort to sorcery as at other times, but turned his face toward the desert.
 
@@ -1876,7 +1876,7 @@ __Balaam's Final Oracles__
 
 25. Then Balaam got up and returned home and Balak went his own way.
 
-## Num.25
+## Numbers 25
 
 __Moab Seduces Israel__
 
@@ -1916,7 +1916,7 @@ __Moab Seduces Israel__
 
 18. because they treated you as enemies when they deceived you in the affair of Peor and their sister Cozbi, the daughter of a Midianite leader, the woman who was killed when the plague came as a result of Peor."
 
-## Num.26
+## Numbers 26
 
 __The Second Census__
 
@@ -2050,7 +2050,7 @@ __The Second Census__
 
 65. For the LORD had told those Israelites they would surely die in the desert, and not one of them was left except Caleb son of Jephunneh and Joshua son of Nun.
 
-## Num.27
+## Numbers 27
 
 __Zelophehad's Daughters__
 
@@ -2102,7 +2102,7 @@ __Joshua to Succeed Moses__
 
 23. Then he laid his hands on him and commissioned him, as the LORD instructed through Moses.
 
-## Num.28
+## Numbers 28
 
 __Daily Offerings__
 
@@ -2176,7 +2176,7 @@ __Feast of Weeks__
 
 31. Prepare these together with their drink offerings, in addition to the regular burnt offering and its grain offering. Be sure the animals are without defect.
 
-## Num.29
+## Numbers 29
 
 __Feast of Trumpets__
 
@@ -2264,7 +2264,7 @@ __Feast of Tabernacles__
 
 40. Moses told the Israelites all that the LORD commanded him.
 
-## Num.30
+## Numbers 30
 
 __Vows__
 
@@ -2300,7 +2300,7 @@ __Vows__
 
 16. These are the regulations the LORD gave Moses concerning relationships between a man and his wife, and between a father and his young daughter still living in his house.
 
-## Num.31
+## Numbers 31
 
 __Vengeance on the Midianites__
 
@@ -2414,7 +2414,7 @@ __Dividing the Spoils__
 
 54. Moses and Eleazar the priest accepted the gold from the commanders of thousands and commanders of hundreds and brought it into the Tent of Meeting as a memorial for the Israelites before the LORD.
 
-## Num.32
+## Numbers 32
 
 __The Transjordan Tribes__
 
@@ -2502,7 +2502,7 @@ __The Transjordan Tribes__
 
 42. And Nobah captured Kenath and its surrounding settlements and called it Nobah after himself.
 
-## Num.33
+## Numbers 33
 
 __Stages in Israel's Journey__
 
@@ -2618,7 +2618,7 @@ __Stages in Israel's Journey__
 
 56. And then I will do to you what I plan to do to them.'"
 
-## Num.34
+## Numbers 34
 
 __Boundaries of Canaan__
 
@@ -2680,7 +2680,7 @@ __Boundaries of Canaan__
 
 29. These are the men the LORD commanded to assign the inheritance to the Israelites in the land of Canaan.
 
-## Num.35
+## Numbers 35
 
 __Towns for the Levites__
 
@@ -2754,7 +2754,7 @@ __Cities of Refuge__
 
 34. Do not defile the land where you live and where I dwell, for I, the LORD, dwell among the Israelites.'"
 
-## Num.36
+## Numbers 36
 
 __Inheritance of Zelophehad's Daughters__
 

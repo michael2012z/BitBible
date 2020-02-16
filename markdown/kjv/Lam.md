@@ -1,6 +1,6 @@
 # Lam
 
-## Lam.1
+## Lamentations 1
 
 1. How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!
 
@@ -46,7 +46,7 @@
 
 22. Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint.
 
-## Lam.2
+## Lamentations 2
 
 1. How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
 
@@ -92,7 +92,7 @@
 
 22. Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD'S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.
 
-## Lam.3
+## Lamentations 3
 
 1. I am the man that hath seen affliction by the rod of his wrath.
 
@@ -226,7 +226,7 @@
 
 66. Persecute and destroy them in anger from under the heavens of the LORD.
 
-## Lam.4
+## Lamentations 4
 
 1. How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.
 
@@ -272,7 +272,7 @@
 
 22. The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.
 
-## Lam.5
+## Lamentations 5
 
 1. Remember, O LORD, what is come upon us: consider, and behold our reproach.
 

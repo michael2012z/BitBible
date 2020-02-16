@@ -1,6 +1,6 @@
 # Josh
 
-## Josh.1
+## Joshua 1
 
 __The LORD Commands Joshua__
 
@@ -40,7 +40,7 @@ __The LORD Commands Joshua__
 
 18. Whoever rebels against your word and does not obey your words, whatever you may command them, will be put to death. Only be strong and courageous!"
 
-## Josh.2
+## Joshua 2
 
 __Rahab and the Spies__
 
@@ -92,7 +92,7 @@ __Rahab and the Spies__
 
 24. They said to Joshua, "The LORD has surely given the whole land into our hands; all the people are melting in fear because of us."
 
-## Josh.3
+## Joshua 3
 
 __Crossing the Jordan__
 
@@ -130,7 +130,7 @@ __Crossing the Jordan__
 
 17. The priests who carried the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel passed by until the whole nation had completed the crossing on dry ground.
 
-## Josh.4
+## Joshua 4
 
 1. When the whole nation had finished crossing the Jordan, the LORD said to Joshua,
 
@@ -180,7 +180,7 @@ __Crossing the Jordan__
 
 24. He did this so that all the peoples of the earth might know that the hand of the LORD is powerful and so that you might always fear the LORD your God."
 
-## Josh.5
+## Joshua 5
 
 __Circumcision at Gilgal__
 
@@ -216,7 +216,7 @@ __The Fall of Jericho__
 
 15. The commander of the LORD's army replied, "Take off your sandals, for the place where you are standing is holy." And Joshua did so.
 
-## Josh.6
+## Joshua 6
 
 1. Now Jericho was tightly shut up because of the Israelites. No one went out and no one came in.
 
@@ -272,7 +272,7 @@ __The Fall of Jericho__
 
 27. So the LORD was with Joshua, and his fame spread throughout the land.
 
-## Josh.7
+## Joshua 7
 
 __Achan's Sin__
 
@@ -328,7 +328,7 @@ __Achan's Sin__
 
 26. Over Achan they heaped up a large pile of rocks, which remains to this day. Then the LORD turned from his fierce anger. Therefore that place has been called the Valley of Achor ever since.
 
-## Josh.8
+## Joshua 8
 
 __Ai Destroyed__
 
@@ -404,7 +404,7 @@ __The Covenant Renewed at Mount Ebal__
 
 35. There was not a word of all that Moses had commanded that Joshua did not read to the whole assembly of Israel, including the women and children, and the aliens who lived among them.
 
-## Josh.9
+## Joshua 9
 
 __The Gibeonite Deception__
 
@@ -462,7 +462,7 @@ __The Gibeonite Deception__
 
 27. That day he made the Gibeonites woodcutters and water carriers for the community and for the altar of the LORD at the place the LORD would choose. And that is what they are to this day.
 
-## Josh.10
+## Joshua 10
 
 __The Sun Stands Still__
 
@@ -556,7 +556,7 @@ __Southern Cities Conquered__
 
 43. Then Joshua returned with all Israel to the camp at Gilgal.
 
-## Josh.11
+## Joshua 11
 
 __Northern Kings Defeated__
 
@@ -606,7 +606,7 @@ __Northern Kings Defeated__
 
 23. So Joshua took the entire land, just as the LORD had directed Moses, and he gave it as an inheritance to Israel according to their tribal divisions. Then the land had rest from war.
 
-## Josh.12
+## Joshua 12
 
 __List of Defeated Kings__
 
@@ -658,7 +658,7 @@ __List of Defeated Kings__
 
 24. the king of Tirzah one thirty-one kings in all.
 
-## Josh.13
+## Joshua 13
 
 __Land Still to Be Taken__
 
@@ -730,7 +730,7 @@ __Division of the Land East of the Jordan__
 
 33. But to the tribe of Levi, Moses had given no inheritance; the LORD, the God of Israel, is their inheritance, as he promised them.
 
-## Josh.14
+## Joshua 14
 
 __Division of the Land West of the Jordan__
 
@@ -766,7 +766,7 @@ __Hebron Given to Caleb__
 
 15. (Hebron used to be called Kiriath Arba after Arba, who was the greatest man among the Anakites.) Then the land had rest from war.
 
-## Josh.15
+## Joshua 15
 
 __Allotment for Judah__
 
@@ -896,7 +896,7 @@ __Allotment for Judah__
 
 63. Judah could not dislodge the Jebusites, who were living in Jerusalem; to this day the Jebusites live there with the people of Judah.
 
-## Josh.16
+## Joshua 16
 
 __Allotment for Ephraim and Manasseh__
 
@@ -920,7 +920,7 @@ __Allotment for Ephraim and Manasseh__
 
 10. They did not dislodge the Canaanites living in Gezer; to this day the Canaanites live among the people of Ephraim but are required to do forced labor.
 
-## Josh.17
+## Joshua 17
 
 1. This was the allotment for the tribe of Manasseh as Joseph's firstborn, that is, for Makir, Manasseh's firstborn. Makir was the ancestor of the Gileadites, who had received Gilead and Bashan because the Makirites were great soldiers.
 
@@ -958,7 +958,7 @@ __Allotment for Ephraim and Manasseh__
 
 18. but the forested hill country as well. Clear it, and its farthest limits will be yours; though the Canaanites have iron chariots and though they are strong, you can drive them out."
 
-## Josh.18
+## Joshua 18
 
 __Division of the Rest of the Land__
 
@@ -1020,7 +1020,7 @@ __Allotment for Benjamin__
 
 28. Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah and Kiriath - fourteen towns and their villages. This was the inheritance of Benjamin for its clans.
 
-## Josh.19
+## Joshua 19
 
 __Allotment for Simeon__
 
@@ -1138,7 +1138,7 @@ __Allotment for Joshua__
 
 51. These are the territories that Eleazar the priest, Joshua son of Nun and the heads of the tribal clans of Israel assigned by lot at Shiloh in the presence of the LORD at the entrance to the Tent of Meeting. And so they finished dividing the land.
 
-## Josh.20
+## Joshua 20
 
 __Cities of Refuge__
 
@@ -1160,7 +1160,7 @@ __Cities of Refuge__
 
 9. Any of the Israelites or any alien living among them who killed someone accidentally could flee to these designated cities and not be killed by the avenger of blood prior to standing trial before the assembly.
 
-## Josh.21
+## Joshua 21
 
 __Towns for the Levites__
 
@@ -1254,7 +1254,7 @@ __Towns for the Levites__
 
 45. Not one of all the LORD's good promises to the house of Israel failed; every one was fulfilled.
 
-## Josh.22
+## Joshua 22
 
 __Eastern Tribes Return Home__
 
@@ -1326,7 +1326,7 @@ __Eastern Tribes Return Home__
 
 34. And the Reubenites and the Gadites gave the altar this name: A Witness Between Us that the LORD is God.
 
-## Josh.23
+## Joshua 23
 
 __Joshua's Farewell to the Leaders__
 
@@ -1362,7 +1362,7 @@ __Joshua's Farewell to the Leaders__
 
 16. If you violate the covenant of the LORD your God, which he commanded you, and go and serve other gods and bow down to them, the LORD's anger will burn against you, and you will quickly perish from the good land he has given you."
 
-## Josh.24
+## Joshua 24
 
 __The Covenant Renewed at Shechem__
 

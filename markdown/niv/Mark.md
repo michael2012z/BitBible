@@ -1,6 +1,6 @@
 # Mark
 
-## Mark.1
+## Mark 1
 
 __John the Baptist Prepares the Way__
 
@@ -106,7 +106,7 @@ __A Man With Leprosy__
 
 45. Instead he went out and began to talk freely, spreading the news. As a result, Jesus could no longer enter a town openly but stayed outside in lonely places. Yet the people still came to him from everywhere.
 
-## Mark.2
+## Mark 2
 
 __Jesus Heals a Paralytic__
 
@@ -172,7 +172,7 @@ __Lord of the Sabbath__
 
 28. So the Son of Man is Lord even of the Sabbath."
 
-## Mark.3
+## Mark 3
 
 1. Another time he went into the synagogue, and a man with a shriveled hand was there.
 
@@ -252,7 +252,7 @@ __Jesus' Mother and Brothers__
 
 35. Whoever does God's will is my brother and sister and mother."
 
-## Mark.4
+## Mark 4
 
 __The Parable of the Sower__
 
@@ -346,7 +346,7 @@ __Jesus Calms the Storm__
 
 41. They were terrified and asked each other, "Who is this? Even the wind and the waves obey him!"
 
-## Mark.5
+## Mark 5
 
 __The Healing of a Demon-possessed Man__
 
@@ -438,7 +438,7 @@ __A Dead Girl and a Sick Woman__
 
 43. He gave strict orders not to let anyone know about this, and told them to give her something to eat.
 
-## Mark.6
+## Mark 6
 
 __A Prophet Without Honor__
 
@@ -564,7 +564,7 @@ __Jesus Walks on the Water__
 
 56. And wherever he went - into villages, towns or countryside - they placed the sick in the marketplaces. They begged him to let them touch even the edge of his cloak, and all who touched him were healed.
 
-## Mark.7
+## Mark 7
 
 __Clean and Unclean__
 
@@ -644,7 +644,7 @@ __The Healing of a Deaf and Dumb Man__
 
 37. People were overwhelmed with amazement. "He has done everything well," they said. "He even makes the deaf hear and the mute speak."
 
-## Mark.8
+## Mark 8
 
 __Jesus Feeds the Four Thousand__
 
@@ -732,7 +732,7 @@ __Jesus Predicts His Death__
 
 38. If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of him when he comes in his Father's glory with the holy angels."
 
-## Mark.9
+## Mark 9
 
 1. And he said to them, "I tell you the truth, some who are standing here will not taste death before they see the kingdom of God come with power."
 
@@ -840,7 +840,7 @@ __Causing to Sin__
 
 50. "Salt is good, but if it loses its saltiness, how can you make it salty again? Have salt in yourselves, and be at peace with each other."
 
-## Mark.10
+## Mark 10
 
 __Divorce__
 
@@ -958,7 +958,7 @@ __Blind Bartimaeus Receives His Sight__
 
 52. "Go," said Jesus, "your faith has healed you." Immediately he received his sight and followed Jesus along the road.
 
-## Mark.11
+## Mark 11
 
 __The Triumphal Entry__
 
@@ -1032,7 +1032,7 @@ __The Authority of Jesus Questioned__
 
 33. So they answered Jesus, "We don't know." Jesus said, "Neither will I tell you by what authority I am doing these things."
 
-## Mark.12
+## Mark 12
 
 __The Parable of the Tenants__
 
@@ -1134,7 +1134,7 @@ __The Widow's Offering__
 
 44. They all gave out of their wealth; but she, out of her poverty, put in everything - all she had to live on."
 
-## Mark.13
+## Mark 13
 
 __Signs of the End of the Age__
 
@@ -1214,7 +1214,7 @@ __The Day and Hour Unknown__
 
 37. What I say to you, I say to everyone: `Watch!'"
 
-## Mark.14
+## Mark 14
 
 __Jesus Anointed at Bethany__
 
@@ -1374,7 +1374,7 @@ __Peter Disowns Jesus__
 
 72. Immediately the rooster crowed the second time. Then Peter remembered the word Jesus had spoken to him: "Before the rooster crows twice you will disown me three times." And he broke down and wept.
 
-## Mark.15
+## Mark 15
 
 __Jesus Before Pilate__
 
@@ -1478,7 +1478,7 @@ __The Burial of Jesus__
 
 47. Mary Magdalene and Mary the mother of Joses saw where he was laid.
 
-## Mark.16
+## Mark 16
 
 __The Resurrection__
 

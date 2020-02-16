@@ -1,6 +1,6 @@
 # 1Pet
 
-## 1Pet.1
+## 1 Peter 1
 
 1. Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 
@@ -52,7 +52,7 @@
 
 25. But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.
 
-## 1Pet.2
+## 1 Peter 2
 
 1. Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 
@@ -104,7 +104,7 @@
 
 25. For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.
 
-## 1Pet.3
+## 1 Peter 3
 
 1. Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
 
@@ -150,7 +150,7 @@
 
 22. Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.
 
-## 1Pet.4
+## 1 Peter 4
 
 1. Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;
 
@@ -190,7 +190,7 @@
 
 19. Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.
 
-## 1Pet.5
+## 1 Peter 5
 
 1. The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
 

@@ -1,6 +1,6 @@
 # Esth
 
-## Esth.1
+## Esther 1
 
 __Queen Vashti Deposed__
 
@@ -48,7 +48,7 @@ __Queen Vashti Deposed__
 
 22. He sent dispatches to all parts of the kingdom, to each province in its own script and to each people in its own language, proclaiming in each people's tongue that every man should be ruler over his own household.
 
-## Esth.2
+## Esther 2
 
 __Esther Made Queen__
 
@@ -100,7 +100,7 @@ __Mordecai Uncovers a Conspiracy__
 
 23. And when the report was investigated and found to be true, the two officials were hanged on a gallows. All this was recorded in the book of the annals in the presence of the king.
 
-## Esth.3
+## Esther 3
 
 __Haman's Plot to Destroy the Jews__
 
@@ -136,7 +136,7 @@ __pur__
 
 15. Spurred on by the king's command, the couriers went out, and the edict was issued in the citadel of Susa. The king and Haman sat down to drink, but the city of Susa was bewildered.
 
-## Esth.4
+## Esther 4
 
 __(that is, the lot) in the presence of Haman to select a day and month. And the lot fell onthe twelfth month, the month of Adar.Mordecai Persuades Esther to Help__
 
@@ -174,7 +174,7 @@ __(that is, the lot) in the presence of Haman to select a day and month. And the
 
 17. So Mordecai went away and carried out all of Esther's instructions.
 
-## Esth.5
+## Esther 5
 
 __Esther's Request to the King__
 
@@ -208,7 +208,7 @@ __Haman's Rage Against Mordecai__
 
 14. His wife Zeresh and all his friends said to him, "Have a gallows built, seventy-five feet high, and ask the king in the morning to have Mordecai hanged on it. Then go with the king to the dinner and be happy." This suggestion delighted Haman, and he had the gallows built.
 
-## Esth.6
+## Esther 6
 
 __Mordecai Honored__
 
@@ -240,7 +240,7 @@ __Mordecai Honored__
 
 14. While they were still talking with him, the king's eunuchs arrived and hurried Haman away to the banquet Esther had prepared.
 
-## Esth.7
+## Esther 7
 
 __Haman Hanged__
 
@@ -264,7 +264,7 @@ __Haman Hanged__
 
 10. So they hanged Haman on the gallows he had prepared for Mordecai. Then the king's fury subsided.
 
-## Esth.8
+## Esther 8
 
 __The King's Edict in Behalf of the Jews__
 
@@ -302,7 +302,7 @@ __The King's Edict in Behalf of the Jews__
 
 17. In every province and in every city, wherever the edict of the king went, there was joy and gladness among the Jews, with feasting and celebrating. And many people of other nationalities became Jews because fear of the Jews had seized them.
 
-## Esth.9
+## Esther 9
 
 __Triumph of the Jews__
 
@@ -376,7 +376,7 @@ __(that is, the lot) for their ruin and destruction.pur__
 
 32. Esther's decree confirmed these regulations about Purim, and it was written down in the records.
 
-## Esth.10
+## Esther 10
 
 __.) Because of everything written in this letter and because of what they had seen and what had happened to them,The Greatness of Mordecai__
 

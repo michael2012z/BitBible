@@ -1,6 +1,6 @@
 # Isa
 
-## Isa.1
+## Isaiah 1
 
 1. The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 
@@ -64,7 +64,7 @@
 
 31. And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench them.
 
-## Isa.2
+## Isaiah 2
 
 1. The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
 
@@ -110,7 +110,7 @@
 
 22. Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of?
 
-## Isa.3
+## Isaiah 3
 
 1. For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,
 
@@ -164,7 +164,7 @@
 
 26. And her gates shall lament and mourn; and she being desolate shall sit upon the ground.
 
-## Isa.4
+## Isaiah 4
 
 1. And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
 
@@ -178,7 +178,7 @@
 
 6. And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and for a covert from storm and from rain.
 
-## Isa.5
+## Isaiah 5
 
 1. Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:
 
@@ -240,7 +240,7 @@
 
 30. And in that day they shall roar against them like the roaring of the sea: and if one look unto the land, behold darkness and sorrow, and the light is darkened in the heavens thereof.
 
-## Isa.6
+## Isaiah 6
 
 1. In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.
 
@@ -268,7 +268,7 @@
 
 13. But yet in it shall be a tenth, and it shall return, and shall be eaten: as a teil tree, and as an oak, whose substance is in them, when they cast their leaves: so the holy seed shall be the substance thereof.
 
-## Isa.7
+## Isaiah 7
 
 1. And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
 
@@ -320,7 +320,7 @@
 
 25. And on all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle.
 
-## Isa.8
+## Isaiah 8
 
 1. Moreover the LORD said unto me, Take thee a great roll, and write in it with a man's pen concerning Mahershalalhashbaz.
 
@@ -366,7 +366,7 @@
 
 22. And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness.
 
-## Isa.9
+## Isaiah 9
 
 1. Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
 
@@ -410,7 +410,7 @@
 
 21. Manasseh, Ephraim; and Ephraim, Manasseh: and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.
 
-## Isa.10
+## Isaiah 10
 
 1. Woe unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;
 
@@ -480,7 +480,7 @@
 
 34. And he shall cut down the thickets of the forest with iron, and Lebanon shall fall by a mighty one.
 
-## Isa.11
+## Isaiah 11
 
 1. And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
 
@@ -514,7 +514,7 @@
 
 16. And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt.
 
-## Isa.12
+## Isaiah 12
 
 1. And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.
 
@@ -528,7 +528,7 @@
 
 6. Cry out and shout, thou inhabitant of Zion: for great is the Holy One of Israel in the midst of thee.
 
-## Isa.13
+## Isaiah 13
 
 1. The burden of Babylon, which Isaiah the son of Amoz did see.
 
@@ -574,7 +574,7 @@
 
 22. And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
 
-## Isa.14
+## Isaiah 14
 
 1. For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 
@@ -640,7 +640,7 @@
 
 32. What shall one then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it.
 
-## Isa.15
+## Isaiah 15
 
 1. The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;
 
@@ -660,7 +660,7 @@
 
 9. For the waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land.
 
-## Isa.16
+## Isaiah 16
 
 1. Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.
 
@@ -690,7 +690,7 @@
 
 14. But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble.
 
-## Isa.17
+## Isaiah 17
 
 1. The burden of Damascus. Behold, Damascus is taken away from being a city, and it shall be a ruinous heap.
 
@@ -720,7 +720,7 @@
 
 14. And behold at eveningtide trouble; and before the morning he is not. This is the portion of them that spoil us, and the lot of them that rob us.
 
-## Isa.18
+## Isaiah 18
 
 1. Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia:
 
@@ -736,7 +736,7 @@
 
 7. In that time shall the present be brought unto the LORD of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the LORD of hosts, the mount Zion.
 
-## Isa.19
+## Isaiah 19
 
 1. The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
 
@@ -788,7 +788,7 @@
 
 25. Whom the LORD of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.
 
-## Isa.20
+## Isaiah 20
 
 1. In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;
 
@@ -802,7 +802,7 @@
 
 6. And the inhabitant of this isle shall say in that day, Behold, such is our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?
 
-## Isa.21
+## Isaiah 21
 
 1. The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.
 
@@ -838,7 +838,7 @@
 
 17. And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken it.
 
-## Isa.22
+## Isaiah 22
 
 1. The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?
 
@@ -890,7 +890,7 @@
 
 25. In that day, saith the LORD of hosts, shall the nail that is fastened in the sure place be removed, and be cut down, and fall; and the burden that was upon it shall be cut off: for the LORD hath spoken it.
 
-## Isa.23
+## Isaiah 23
 
 1. The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them.
 
@@ -928,7 +928,7 @@
 
 18. And her merchandise and her hire shall be holiness to the LORD: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before the LORD, to eat sufficiently, and for durable clothing.
 
-## Isa.24
+## Isaiah 24
 
 1. Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.
 
@@ -976,7 +976,7 @@
 
 23. Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.
 
-## Isa.25
+## Isaiah 25
 
 1. O LORD, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things; thy counsels of old are faithfulness and truth.
 
@@ -1002,7 +1002,7 @@
 
 12. And the fortress of the high fort of thy walls shall he bring down, lay low, and bring to the ground, even to the dust.
 
-## Isa.26
+## Isaiah 26
 
 1. In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks.
 
@@ -1046,7 +1046,7 @@
 
 21. For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.
 
-## Isa.27
+## Isaiah 27
 
 1. In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
 
@@ -1074,7 +1074,7 @@
 
 13. And it shall come to pass in that day, that the great trumpet shall be blown, and they shall come which were ready to perish in the land of Assyria, and the outcasts in the land of Egypt, and shall worship the LORD in the holy mount at Jerusalem.
 
-## Isa.28
+## Isaiah 28
 
 1. Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine!
 
@@ -1134,7 +1134,7 @@
 
 29. This also cometh forth from the LORD of hosts, which is wonderful in counsel, and excellent in working.
 
-## Isa.29
+## Isaiah 29
 
 1. Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.
 
@@ -1184,7 +1184,7 @@
 
 24. They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
 
-## Isa.30
+## Isaiah 30
 
 1. Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
 
@@ -1252,7 +1252,7 @@
 
 33. For Tophet is ordained of old; yea, for the king it is prepared; he hath made it deep and large: the pile thereof is fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.
 
-## Isa.31
+## Isaiah 31
 
 1. Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because they are many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!
 
@@ -1272,7 +1272,7 @@
 
 9. And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the LORD, whose fire is in Zion, and his furnace in Jerusalem.
 
-## Isa.32
+## Isaiah 32
 
 1. Behold, a king shall reign in righteousness, and princes shall rule in judgment.
 
@@ -1314,7 +1314,7 @@
 
 20. Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass.
 
-## Isa.33
+## Isaiah 33
 
 1. Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
 
@@ -1364,7 +1364,7 @@
 
 24. And the inhabitant shall not say, I am sick: the people that dwell therein shall be forgiven their iniquity.
 
-## Isa.34
+## Isaiah 34
 
 1. Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
 
@@ -1400,7 +1400,7 @@
 
 17. And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.
 
-## Isa.35
+## Isaiah 35
 
 1. The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.
 
@@ -1422,7 +1422,7 @@
 
 10. And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.
 
-## Isa.36
+## Isaiah 36
 
 1. Now it came to pass in the fourteenth year of king Hezekiah, that Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.
 
@@ -1468,7 +1468,7 @@
 
 22. Then came Eliakim, the son of Hilkiah, that was over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh.
 
-## Isa.37
+## Isaiah 37
 
 1. And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.
 
@@ -1546,7 +1546,7 @@
 
 38. And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword; and they escaped into the land of Armenia: and Esarhaddon his son reigned in his stead.
 
-## Isa.38
+## Isaiah 38
 
 1. In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.
 
@@ -1592,7 +1592,7 @@
 
 22. Hezekiah also had said, What is the sign that I shall go up to the house of the LORD?
 
-## Isa.39
+## Isaiah 39
 
 1. At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered.
 
@@ -1610,7 +1610,7 @@
 
 8. Then said Hezekiah to Isaiah, Good is the word of the LORD which thou hast spoken. He said moreover, For there shall be peace and truth in my days.
 
-## Isa.40
+## Isaiah 40
 
 1. Comfort ye, comfort ye my people, saith your God.
 
@@ -1674,7 +1674,7 @@
 
 31. But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.
 
-## Isa.41
+## Isaiah 41
 
 1. Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment.
 
@@ -1734,7 +1734,7 @@
 
 29. Behold, they are all vanity; their works are nothing: their molten images are wind and confusion.
 
-## Isa.42
+## Isaiah 42
 
 1. Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.
 
@@ -1786,7 +1786,7 @@
 
 25. Therefore he hath poured upon him the fury of his anger, and the strength of battle: and it hath set him on fire round about, yet he knew not; and it burned him, yet he laid it not to heart.
 
-## Isa.43
+## Isaiah 43
 
 1. But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.
 
@@ -1844,7 +1844,7 @@
 
 28. Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.
 
-## Isa.44
+## Isaiah 44
 
 1. Yet now hear, O Jacob my servant; and Israel, whom I have chosen:
 
@@ -1902,7 +1902,7 @@
 
 28. That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid.
 
-## Isa.45
+## Isaiah 45
 
 1. Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;
 
@@ -1954,7 +1954,7 @@
 
 25. In the LORD shall all the seed of Israel be justified, and shall glory.
 
-## Isa.46
+## Isaiah 46
 
 1. Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast.
 
@@ -1982,7 +1982,7 @@
 
 13. I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.
 
-## Isa.47
+## Isaiah 47
 
 1. Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 
@@ -2014,7 +2014,7 @@
 
 15. Thus shall they be unto thee with whom thou hast laboured, even thy merchants, from thy youth: they shall wander every one to his quarter; none shall save thee.
 
-## Isa.48
+## Isaiah 48
 
 1. Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, but not in truth, nor in righteousness.
 
@@ -2060,7 +2060,7 @@
 
 22. There is no peace, saith the LORD, unto the wicked.
 
-## Isa.49
+## Isaiah 49
 
 1. Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.
 
@@ -2114,7 +2114,7 @@
 
 26. And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.
 
-## Isa.50
+## Isaiah 50
 
 1. Thus saith the LORD, Where is the bill of your mother's divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.
 
@@ -2138,7 +2138,7 @@
 
 11. Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.
 
-## Isa.51
+## Isaiah 51
 
 1. Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock whence ye are hewn, and to the hole of the pit whence ye are digged.
 
@@ -2186,7 +2186,7 @@
 
 23. But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.
 
-## Isa.52
+## Isaiah 52
 
 1. Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 
@@ -2218,7 +2218,7 @@
 
 15. So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.
 
-## Isa.53
+## Isaiah 53
 
 1. Who hath believed our report? and to whom is the arm of the LORD revealed?
 
@@ -2244,7 +2244,7 @@
 
 12. Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.
 
-## Isa.54
+## Isaiah 54
 
 1. Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD.
 
@@ -2280,7 +2280,7 @@
 
 17. No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD.
 
-## Isa.55
+## Isaiah 55
 
 1. Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.
 
@@ -2308,7 +2308,7 @@
 
 13. Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off.
 
-## Isa.56
+## Isaiah 56
 
 1. Thus saith the LORD, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.
 
@@ -2334,7 +2334,7 @@
 
 12. Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, and much more abundant.
 
-## Isa.57
+## Isaiah 57
 
 1. The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come.
 
@@ -2378,7 +2378,7 @@
 
 21. There is no peace, saith my God, to the wicked.
 
-## Isa.58
+## Isaiah 58
 
 1. Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
 
@@ -2408,7 +2408,7 @@
 
 14. Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken it.
 
-## Isa.59
+## Isaiah 59
 
 1. Behold, the LORD'S hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
 
@@ -2452,7 +2452,7 @@
 
 21. As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the LORD, from henceforth and for ever.
 
-## Isa.60
+## Isaiah 60
 
 1. Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.
 
@@ -2498,7 +2498,7 @@
 
 22. A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.
 
-## Isa.61
+## Isaiah 61
 
 1. The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
 
@@ -2522,7 +2522,7 @@
 
 11. For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations.
 
-## Isa.62
+## Isaiah 62
 
 1. For Zion's sake will I not hold my peace, and for Jerusalem's sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.
 
@@ -2548,7 +2548,7 @@
 
 12. And they shall call them, The holy people, The redeemed of the LORD: and thou shalt be called, Sought out, A city not forsaken.
 
-## Isa.63
+## Isaiah 63
 
 1. Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
 
@@ -2588,7 +2588,7 @@
 
 19. We are thine: thou never barest rule over them; they were not called by thy name.
 
-## Isa.64
+## Isaiah 64
 
 1. Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,
 
@@ -2614,7 +2614,7 @@
 
 12. Wilt thou refrain thyself for these things, O LORD? wilt thou hold thy peace, and afflict us very sore?
 
-## Isa.65
+## Isaiah 65
 
 1. I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name.
 
@@ -2666,7 +2666,7 @@
 
 25. The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD.
 
-## Isa.66
+## Isaiah 66
 
 1. Thus saith the LORD, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest?
 

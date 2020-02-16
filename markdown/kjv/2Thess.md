@@ -1,6 +1,6 @@
 # 2Thess
 
-## 2Thess.1
+## 2 Thessalonians 1
 
 __The second epistle to the Thessalonians was written from Athens.__
 
@@ -28,7 +28,7 @@ __The second epistle to the Thessalonians was written from Athens.__
 
 12. That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.
 
-## 2Thess.2
+## 2 Thessalonians 2
 
 1. Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,
 
@@ -64,7 +64,7 @@ __The second epistle to the Thessalonians was written from Athens.__
 
 17. Comfort your hearts, and stablish you in every good word and work.
 
-## 2Thess.3
+## 2 Thessalonians 3
 
 1. Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:
 

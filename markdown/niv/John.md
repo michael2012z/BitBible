@@ -1,6 +1,6 @@
 # John
 
-## John.1
+## John 1
 
 __The Word Became Flesh__
 
@@ -114,7 +114,7 @@ __Jesus Calls Philip and Nathaneal__
 
 51. He then added, "I tell you the truth, you shall see heaven open, and the angels of God ascending and descending on the Son of Man."
 
-## John.2
+## John 2
 
 __Jesus Changes Water to Wine__
 
@@ -170,7 +170,7 @@ __Jesus Clears the Temple__
 
 25. He did not need man's testimony about man, for he knew what was in a man.
 
-## John.3
+## John 3
 
 __Jesus Teaches Nicodemus__
 
@@ -248,7 +248,7 @@ __John the Baptist's Testimony About Jesus__
 
 36. Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on him." 
 
-## John.4
+## John 4
 
 __Jesus Talks With a Samaritan Woman__
 
@@ -366,7 +366,7 @@ __Jesus Heals the Official's Son__
 
 54. This was the second miraculous sign that Jesus performed, having come from Judea to Galilee.
 
-## John.5
+## John 5
 
 __The Healing at the Pool__
 
@@ -466,7 +466,7 @@ __Testimonies About Jesus__
 
 47. But since you do not believe what he wrote, how are you going to believe what I say?"
 
-## John.6
+## John 6
 
 __Jesus Feeds the Five Thousand__
 
@@ -616,7 +616,7 @@ __Many Disciples Desert Jesus__
 
 71. (He meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray him.)
 
-## John.7
+## John 7
 
 __Jesus Goes to the Feast of Tabernacles__
 
@@ -732,7 +732,7 @@ __Unbelief of the Jewish Leaders__
 
 53.  Then each went to his own home.
 
-## John.8
+## John 8
 
 1. But Jesus went to the Mount of Olives.
 
@@ -860,7 +860,7 @@ __The Claims of Jesus About Himself__
 
 59. At this, they picked up stones to stone him, but Jesus hid himself, slipping away from the temple grounds.
 
-## John.9
+## John 9
 
 __Jesus Heals a Man Born Blind__
 
@@ -950,7 +950,7 @@ __Spiritual Blindness__
 
 41. Jesus said, "If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.
 
-## John.10
+## John 10
 
 __The Shepherd and His Flock__
 
@@ -1040,7 +1040,7 @@ __The Unbelief of the Jews__
 
 42. And in that place many believed in Jesus.
 
-## John.11
+## John 11
 
 __The Death of Lazarus__
 
@@ -1164,7 +1164,7 @@ __The Plot to Kill Jesus__
 
 57. But the chief priests and Pharisees had given orders that if anyone found out where Jesus was, he should report it so that they might arrest him.
 
-## John.12
+## John 12
 
 __Jesus Anointed at Bethany__
 
@@ -1274,7 +1274,7 @@ __The Jews Continue in Their Unbelief__
 
 50. I know that his command leads to eternal life. So whatever I say is just what the Father has told me to say."
 
-## John.13
+## John 13
 
 __Jesus Washes His Disciples' Feet__
 
@@ -1358,7 +1358,7 @@ __Jesus Predicts Peter's Denial__
 
 38. Then Jesus answered, "Will you really lay down your life for me? I tell you the truth, before the rooster crows, you will disown me three times!
 
-## John.14
+## John 14
 
 __Jesus Comforts His Disciples__
 
@@ -1428,7 +1428,7 @@ __Jesus Promises the Holy Spirit__
 
 31. but the world must learn that I love the Father and that I do exactly what my Father has commanded me. "Come now; let us leave.
 
-## John.15
+## John 15
 
 __The Vine and the Branches__
 
@@ -1488,7 +1488,7 @@ __The World Hates the Disciples__
 
 27. And you also must testify, for you have been with me from the beginning.
 
-## John.16
+## John 16
 
 1. "All this I have told you so that you will not go astray.
 
@@ -1560,7 +1560,7 @@ __The Disciples' Grief Will Turn to Joy__
 
 33. "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world."
 
-## John.17
+## John 17
 
 __Jesus Prays for Himself__
 
@@ -1620,7 +1620,7 @@ __Jesus Prays for All Believers__
 
 26. I have made you known to them, and will continue to make you known in order that the love you have for me may be in them and that I myself may be in them."
 
-## John.18
+## John 18
 
 __Jesus Arrested__
 
@@ -1714,7 +1714,7 @@ __Jesus Before Pilate__
 
 40. They shouted back, "No, not him! Give us Barabbas!" Now Barabbas had taken part in a rebellion.
 
-## John.19
+## John 19
 
 __Jesus Sentenced to be Crucified__
 
@@ -1810,7 +1810,7 @@ __The Burial of Jesus__
 
 42. Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.
 
-## John.20
+## John 20
 
 __The Empty Tomb__
 
@@ -1882,7 +1882,7 @@ __Jesus Appears to Thomas__
 
 31. But these are written that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.
 
-## John.21
+## John 21
 
 __Jesus and the Miraculous Catch of Fish__
 

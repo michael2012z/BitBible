@@ -1,6 +1,6 @@
 # Dan
 
-## Dan.1
+## Daniel 1
 
 1. In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
 
@@ -44,7 +44,7 @@
 
 21. And Daniel continued even unto the first year of king Cyrus.
 
-## Dan.2
+## Daniel 2
 
 1. And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.
 
@@ -144,7 +144,7 @@
 
 49. Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel sat in the gate of the king.
 
-## Dan.3
+## Daniel 3
 
 1. Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.
 
@@ -206,7 +206,7 @@
 
 30. Then the king promoted Shadrach, Meshach, and Abednego, in the province of Babylon.
 
-## Dan.4
+## Daniel 4
 
 1. Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
 
@@ -282,7 +282,7 @@
 
 37. Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase.
 
-## Dan.5
+## Daniel 5
 
 1. Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
 
@@ -346,7 +346,7 @@
 
 31. And Darius the Median took the kingdom, being about threescore and two years old.
 
-## Dan.6
+## Daniel 6
 
 1. It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;
 
@@ -404,7 +404,7 @@
 
 28. So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.
 
-## Dan.7
+## Daniel 7
 
 1. In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters.
 
@@ -462,7 +462,7 @@
 
 28. Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 
-## Dan.8
+## Daniel 8
 
 1. In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first.
 
@@ -518,7 +518,7 @@
 
 27. And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood it.
 
-## Dan.9
+## Daniel 9
 
 1. In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;
 
@@ -574,7 +574,7 @@
 
 27. And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.
 
-## Dan.10
+## Daniel 10
 
 1. In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing was true, but the time appointed was long: and he understood the thing, and had understanding of the vision.
 
@@ -618,7 +618,7 @@
 
 21. But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.
 
-## Dan.11
+## Daniel 11
 
 1. Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.
 
@@ -710,7 +710,7 @@
 
 45. And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.
 
-## Dan.12
+## Daniel 12
 
 1. And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
 

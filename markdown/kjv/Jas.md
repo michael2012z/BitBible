@@ -1,6 +1,6 @@
 # Jas
 
-## Jas.1
+## James 1
 
 1. James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 
@@ -56,7 +56,7 @@
 
 27. Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.
 
-## Jas.2
+## James 2
 
 1. My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.
 
@@ -110,7 +110,7 @@
 
 26. For as the body without the spirit is dead, so faith without works is dead also.
 
-## Jas.3
+## James 3
 
 1. My brethren, be not many masters, knowing that we shall receive the greater condemnation.
 
@@ -148,7 +148,7 @@
 
 18. And the fruit of righteousness is sown in peace of them that make peace.
 
-## Jas.4
+## James 4
 
 1. From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
 
@@ -184,7 +184,7 @@
 
 17. Therefore to him that knoweth to do good, and doeth it not, to him it is sin.
 
-## Jas.5
+## James 5
 
 1. Go to now, ye rich men, weep and howl for your miseries that shall come upon you.
 

@@ -1,6 +1,6 @@
 # Ezra
 
-## Ezra.1
+## Ezra 1
 
 __Cyrus Helps the Exiles to Return__
 
@@ -26,7 +26,7 @@ __Cyrus Helps the Exiles to Return__
 
 11. In all, there were 5,400 articles of gold and of silver. Sheshbazzar brought all these along when the exiles came up from Babylon to Jerusalem.
 
-## Ezra.2
+## Ezra 2
 
 __The List of the Exiles Who Returned__
 
@@ -170,7 +170,7 @@ __The List of the Exiles Who Returned__
 
 70. The priests, the Levites, the singers, the gatekeepers and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns.
 
-## Ezra.3
+## Ezra 3
 
 __Rebuilding the Altar__
 
@@ -202,7 +202,7 @@ __Rebuilding the Temple__
 
 13. No one could distinguish the sound of the shouts of joy from the sound of weeping, because the people made so much noise. And the sound was heard far away.
 
-## Ezra.4
+## Ezra 4
 
 __Opposition to the Rebuilding__
 
@@ -256,7 +256,7 @@ __Later Opposition Under Artaxerxes__
 
 24. Thus the work on the house of God in Jerusalem came to a standstill until the second year of the reign of Darius king of Persia.
 
-## Ezra.5
+## Ezra 5
 
 __Tattenai's Letter to Darius__
 
@@ -294,7 +294,7 @@ __Tattenai's Letter to Darius__
 
 17. Now if it pleases the king, let a search be made in the royal archives of Babylon to see if King Cyrus did in fact issue a decree to rebuild this house of God in Jerusalem. Then let the king send us his decision in this matter.
 
-## Ezra.6
+## Ezra 6
 
 __The Decree of Darius__
 
@@ -346,7 +346,7 @@ __The Passover__
 
 22. For seven days they celebrated with joy the Feast of Unleavened Bread, because the LORD had filled them with joy by changing the attitude of the king of Assyria, so that he assisted them in the work on the house of God, the God of Israel.
 
-## Ezra.7
+## Ezra 7
 
 __Ezra Comes to Jerusalem__
 
@@ -408,7 +408,7 @@ __King Artaxerxes' Letter to Ezra__
 
 28. and who has extended his good favor to me before the king and his advisers and all the king's powerful officials. Because the hand of the LORD my God was on me, I took courage and gathered leading men from Israel to go up with me.
 
-## Ezra.8
+## Ezra 8
 
 __List of the Family Heads Returning With Ezra__
 
@@ -486,7 +486,7 @@ __The Return to Jerusalem__
 
 36. They also delivered the king's orders to the royal satraps and to the governors of Trans-Euphrates, who then gave assistance to the people and to the house of God.
 
-## Ezra.9
+## Ezra 9
 
 __Ezra's Prayer About Intermarriage__
 
@@ -520,7 +520,7 @@ __Ezra's Prayer About Intermarriage__
 
 15. O LORD, God of Israel, you are righteous! We are left this day as a remnant. Here we are before you in our guilt, though because of it not one of us can stand in your presence."
 
-## Ezra.10
+## Ezra 10
 
 __The People's Confession of Sin__
 

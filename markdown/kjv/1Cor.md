@@ -1,6 +1,6 @@
 # 1Cor
 
-## 1Cor.1
+## 1 Corinthians 1
 
 __Written to the Romans from Corinthus, and sent by Phebe servant of the church at Cenchrea.__
 
@@ -68,7 +68,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 31. That, according as it is written, He that glorieth, let him glory in the Lord.
 
-## 1Cor.2
+## 1 Corinthians 2
 
 1. And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.
 
@@ -102,7 +102,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 16. For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.
 
-## 1Cor.3
+## 1 Corinthians 3
 
 1. And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
 
@@ -150,7 +150,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 23. And ye are Christ's; and Christ is God's.
 
-## 1Cor.4
+## 1 Corinthians 4
 
 1. Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.
 
@@ -194,7 +194,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 21. What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?
 
-## 1Cor.5
+## 1 Corinthians 5
 
 1. It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father's wife.
 
@@ -222,7 +222,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 13. But them that are without God judgeth. Therefore put away from among yourselves that wicked person.
 
-## 1Cor.6
+## 1 Corinthians 6
 
 1. Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
 
@@ -264,7 +264,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 20. For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.
 
-## 1Cor.7
+## 1 Corinthians 7
 
 1. Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.
 
@@ -346,7 +346,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 40. But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.
 
-## 1Cor.8
+## 1 Corinthians 8
 
 1. Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.
 
@@ -374,7 +374,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 13. Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.
 
-## 1Cor.9
+## 1 Corinthians 9
 
 1. Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
 
@@ -430,7 +430,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 27. But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.
 
-## 1Cor.10
+## 1 Corinthians 10
 
 1. Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 
@@ -498,7 +498,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 33. Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.
 
-## 1Cor.11
+## 1 Corinthians 11
 
 1. Be ye followers of me, even as I also am of Christ.
 
@@ -568,7 +568,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 34. And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.
 
-## 1Cor.12
+## 1 Corinthians 12
 
 1. Now concerning spiritual gifts, brethren, I would not have you ignorant.
 
@@ -632,7 +632,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 31. But covet earnestly the best gifts: and yet shew I unto you a more excellent way.
 
-## 1Cor.13
+## 1 Corinthians 13
 
 1. Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
 
@@ -660,7 +660,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 13. And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 
-## 1Cor.14
+## 1 Corinthians 14
 
 1. Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.
 
@@ -742,7 +742,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 40. Let all things be done decently and in order.
 
-## 1Cor.15
+## 1 Corinthians 15
 
 1. Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
 
@@ -860,7 +860,7 @@ __The first epistle to the Corinthians was written from Philippi by Stephanas an
 
 58. Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
 
-## 1Cor.16
+## 1 Corinthians 16
 
 1. Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.
 

@@ -1,6 +1,6 @@
 # Eph
 
-## Eph.1
+## Ephesians 1
 
 __To the Ephesians written from Rome, by Tychicus.__
 
@@ -50,7 +50,7 @@ __To the Ephesians written from Rome, by Tychicus.__
 
 23. Which is his body, the fulness of him that filleth all in all.
 
-## Eph.2
+## Ephesians 2
 
 1. And you hath he quickened, who were dead in trespasses and sins;
 
@@ -96,7 +96,7 @@ __To the Ephesians written from Rome, by Tychicus.__
 
 22. In whom ye also are builded together for an habitation of God through the Spirit.
 
-## Eph.3
+## Ephesians 3
 
 1. For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
 
@@ -140,7 +140,7 @@ __To the Ephesians written from Rome, by Tychicus.__
 
 21. Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.
 
-## Eph.4
+## Ephesians 4
 
 1. I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
 
@@ -206,7 +206,7 @@ __To the Ephesians written from Rome, by Tychicus.__
 
 32. And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.
 
-## Eph.5
+## Ephesians 5
 
 1. Be ye therefore followers of God, as dear children;
 
@@ -274,7 +274,7 @@ __To the Ephesians written from Rome, by Tychicus.__
 
 33. Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
 
-## Eph.6
+## Ephesians 6
 
 1. Children, obey your parents in the Lord: for this is right.
 

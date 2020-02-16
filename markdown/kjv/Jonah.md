@@ -1,6 +1,6 @@
 # Jonah
 
-## Jonah.1
+## Jonah 1
 
 1. Now the word of the LORD came unto Jonah the son of Amittai, saying,
 
@@ -36,7 +36,7 @@
 
 17. Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 
-## Jonah.2
+## Jonah 2
 
 1. Then Jonah prayed unto the LORD his God out of the fish's belly,
 
@@ -58,7 +58,7 @@
 
 10. And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.
 
-## Jonah.3
+## Jonah 3
 
 1. And the word of the LORD came unto Jonah the second time, saying,
 
@@ -80,7 +80,7 @@
 
 10. And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.
 
-## Jonah.4
+## Jonah 4
 
 1. But it displeased Jonah exceedingly, and he was very angry.
 

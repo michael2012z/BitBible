@@ -1,6 +1,6 @@
 # Phlm
 
-## Phlm.1
+## Philemon 1
 
 __Written from Rome to Philemon, by Onesimus a servant.__
 

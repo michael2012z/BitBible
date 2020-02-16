@@ -1,6 +1,6 @@
 # Col
 
-## Col.1
+## Colossians 1
 
 __Written from Rome to Colossians by Tychicus and Onesimus.__
 
@@ -62,7 +62,7 @@ __Written from Rome to Colossians by Tychicus and Onesimus.__
 
 29. Whereunto I also labour, striving according to his working, which worketh in me mightily.
 
-## Col.2
+## Colossians 2
 
 1. For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;
 
@@ -110,7 +110,7 @@ __Written from Rome to Colossians by Tychicus and Onesimus.__
 
 23. Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh.
 
-## Col.3
+## Colossians 3
 
 1. If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
 
@@ -162,7 +162,7 @@ __Written from Rome to Colossians by Tychicus and Onesimus.__
 
 25. But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.
 
-## Col.4
+## Colossians 4
 
 1. Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.
 

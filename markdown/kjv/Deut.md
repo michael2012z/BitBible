@@ -1,6 +1,6 @@
 # Deut
 
-## Deut.1
+## Deuteronomy 1
 
 1. These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
 
@@ -94,7 +94,7 @@
 
 46. So ye abode in Kadesh many days, according unto the days that ye abode there.
 
-## Deut.2
+## Deuteronomy 2
 
 1. Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.
 
@@ -170,7 +170,7 @@
 
 37. Only unto the land of the children of Ammon thou camest not, nor unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us.
 
-## Deut.3
+## Deuteronomy 3
 
 1. Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.
 
@@ -230,7 +230,7 @@
 
 29. So we abode in the valley over against Bethpeor.
 
-## Deut.4
+## Deuteronomy 4
 
 1. Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you.
 
@@ -330,7 +330,7 @@
 
 49. And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah.
 
-## Deut.5
+## Deuteronomy 5
 
 1. And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.
 
@@ -398,7 +398,7 @@
 
 33. Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess.
 
-## Deut.6
+## Deuteronomy 6
 
 1. Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it:
 
@@ -450,7 +450,7 @@
 
 25. And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us.
 
-## Deut.7
+## Deuteronomy 7
 
 1. When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;
 
@@ -504,7 +504,7 @@
 
 26. Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing.
 
-## Deut.8
+## Deuteronomy 8
 
 1. All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers.
 
@@ -546,7 +546,7 @@
 
 20. As the nations which the LORD destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the LORD your God.
 
-## Deut.9
+## Deuteronomy 9
 
 1. Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,
 
@@ -606,7 +606,7 @@
 
 29. Yet they are thy people and thine inheritance, which thou broughtest out by thy mighty power and by thy stretched out arm.
 
-## Deut.10
+## Deuteronomy 10
 
 1. At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.
 
@@ -652,7 +652,7 @@
 
 22. Thy fathers went down into Egypt with threescore and ten persons; and now the LORD thy God hath made thee as the stars of heaven for multitude.
 
-## Deut.11
+## Deuteronomy 11
 
 1. Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.
 
@@ -718,7 +718,7 @@
 
 32. And ye shall observe to do all the statutes and judgments which I set before you this day.
 
-## Deut.12
+## Deuteronomy 12
 
 1. These are the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.
 
@@ -784,7 +784,7 @@
 
 32. What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.
 
-## Deut.13
+## Deuteronomy 13
 
 1. If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder,
 
@@ -822,7 +822,7 @@
 
 18. When thou shalt hearken to the voice of the LORD thy God, to keep all his commandments which I command thee this day, to do that which is right in the eyes of the LORD thy God.
 
-## Deut.14
+## Deuteronomy 14
 
 1. Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.
 
@@ -882,7 +882,7 @@
 
 29. And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest.
 
-## Deut.15
+## Deuteronomy 15
 
 1. At the end of every seven years thou shalt make a release.
 
@@ -930,7 +930,7 @@
 
 23. Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water.
 
-## Deut.16
+## Deuteronomy 16
 
 1. Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.
 
@@ -976,7 +976,7 @@
 
 22. Neither shalt thou set thee up any image; which the LORD thy God hateth.
 
-## Deut.17
+## Deuteronomy 17
 
 1. Thou shalt not sacrifice unto the LORD thy God any bullock, or sheep, wherein is blemish, or any evilfavouredness: for that is an abomination unto the LORD thy God.
 
@@ -1018,7 +1018,7 @@
 
 20. That his heart be not lifted up above his brethren, and that he turn not aside from the commandment, to the right hand, or to the left: to the end that he may prolong his days in his kingdom, he, and his children, in the midst of Israel.
 
-## Deut.18
+## Deuteronomy 18
 
 1. The priests the Levites, and all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance.
 
@@ -1064,7 +1064,7 @@
 
 22. When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.
 
-## Deut.19
+## Deuteronomy 19
 
 1. When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
 
@@ -1108,7 +1108,7 @@
 
 21. And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
 
-## Deut.20
+## Deuteronomy 20
 
 1. When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt.
 
@@ -1150,7 +1150,7 @@
 
 20. Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.
 
-## Deut.21
+## Deuteronomy 21
 
 1. If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:
 
@@ -1198,7 +1198,7 @@
 
 23. His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance.
 
-## Deut.22
+## Deuteronomy 22
 
 1. Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.
 
@@ -1260,7 +1260,7 @@
 
 30. A man shall not take his father's wife, nor discover his father's skirt.
 
-## Deut.23
+## Deuteronomy 23
 
 1. He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the LORD.
 
@@ -1312,7 +1312,7 @@
 
 25. When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour's standing corn.
 
-## Deut.24
+## Deuteronomy 24
 
 1. When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house.
 
@@ -1358,7 +1358,7 @@
 
 22. And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing.
 
-## Deut.25
+## Deuteronomy 25
 
 1. If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked.
 
@@ -1398,7 +1398,7 @@
 
 19. Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it.
 
-## Deut.26
+## Deuteronomy 26
 
 1. And it shall be, when thou art come in unto the land which the LORD thy God giveth thee for an inheritance, and possessest it, and dwellest therein;
 
@@ -1438,7 +1438,7 @@
 
 19. And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that thou mayest be an holy people unto the LORD thy God, as he hath spoken.
 
-## Deut.27
+## Deuteronomy 27
 
 1. And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.
 
@@ -1492,7 +1492,7 @@
 
 26. Cursed be he that confirmeth not all the words of this law to do them. And all the people shall say, Amen.
 
-## Deut.28
+## Deuteronomy 28
 
 1. And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:
 
@@ -1630,7 +1630,7 @@
 
 68. And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
-## Deut.29
+## Deuteronomy 29
 
 1. These are the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.
 
@@ -1690,7 +1690,7 @@
 
 29. The secret things belong unto the LORD our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
 
-## Deut.30
+## Deuteronomy 30
 
 1. And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the LORD thy God hath driven thee,
 
@@ -1732,7 +1732,7 @@
 
 20. That thou mayest love the LORD thy God, and that thou mayest obey his voice, and that thou mayest cleave unto him: for he is thy life, and the length of thy days: that thou mayest dwell in the land which the LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.
 
-## Deut.31
+## Deuteronomy 31
 
 1. And Moses went and spake these words unto all Israel.
 
@@ -1794,7 +1794,7 @@
 
 30. And Moses spake in the ears of all the congregation of Israel the words of this song, until they were ended.
 
-## Deut.32
+## Deuteronomy 32
 
 1. Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.
 
@@ -1900,7 +1900,7 @@
 
 52. Yet thou shalt see the land before thee; but thou shalt not go thither unto the land which I give the children of Israel.
 
-## Deut.33
+## Deuteronomy 33
 
 1. And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.
 
@@ -1960,7 +1960,7 @@
 
 29. Happy art thou, O Israel: who is like unto thee, O people saved by the LORD, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
 
-## Deut.34
+## Deuteronomy 34
 
 1. And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,
 

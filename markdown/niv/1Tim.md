@@ -1,6 +1,6 @@
 # 1Tim
 
-## 1Tim.1
+## 1 Timothy 1
 
 1. Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
 
@@ -46,7 +46,7 @@ __The Lord's Grace to Paul__
 
 20. Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to blaspheme.
 
-## 1Tim.2
+## 1 Timothy 2
 
 __Instructions on Worship__
 
@@ -80,7 +80,7 @@ __Instructions on Worship__
 
 15. But women will be saved through childbearing - if they continue in faith, love and holiness with propriety.
 
-## 1Tim.3
+## 1 Timothy 3
 
 __Overseers and Deacons__
 
@@ -116,7 +116,7 @@ __Overseers and Deacons__
 
 16. Beyond all question, the mystery of godliness is great: He appeared in a body, was vindicated by the Spirit, was seen by angels, was preached among the nations, was believed on in the world, was taken up in glory.
 
-## 1Tim.4
+## 1 Timothy 4
 
 __Instructions to Timothy__
 
@@ -152,7 +152,7 @@ __Instructions to Timothy__
 
 16. Watch your life and doctrine closely. Persevere in them, because if you do, you will save both yourself and your hearers.
 
-## 1Tim.5
+## 1 Timothy 5
 
 __Advice About Widows, Elders and Slaves__
 
@@ -206,7 +206,7 @@ __Advice About Widows, Elders and Slaves__
 
 25. In the same way, good deeds are obvious, and even those that are not cannot be hidden.
 
-## 1Tim.6
+## 1 Timothy 6
 
 1. All who are under the yoke of slavery should consider their masters worthy of full respect, so that God's name and our teaching may not be slandered.
 

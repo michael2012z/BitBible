@@ -1,6 +1,6 @@
 # Jas
 
-## Jas.1
+## James 1
 
 1. James, a servant of God and of the Lord Jesus Christ, To the twelve tribes scattered among the nations: Greetings.
 
@@ -60,7 +60,7 @@ __Listening and Doing__
 
 27. Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world.
 
-## Jas.2
+## James 2
 
 __Favoritism Forbidden__
 
@@ -118,7 +118,7 @@ __Faith and Deeds__
 
 26. As the body without the spirit is dead, so faith without deeds is dead.
 
-## Jas.3
+## James 3
 
 __Taming the Tongue__
 
@@ -160,7 +160,7 @@ __Two Kinds of Wisdom__
 
 18. Peacemakers who sow in peace raise a harvest of righteousness.
 
-## Jas.4
+## James 4
 
 __Submit Yourselves to God__
 
@@ -200,7 +200,7 @@ __Boasting About Tomorrow__
 
 17. Anyone, then, who knows the good he ought to do and doesn't do it, sins.
 
-## Jas.5
+## James 5
 
 __Warning to Rich Oppressors__
 

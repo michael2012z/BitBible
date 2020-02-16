@@ -1,6 +1,6 @@
 # 2Pet
 
-## 2Pet.1
+## 2 Peter 1
 
 1. Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:
 
@@ -48,7 +48,7 @@ __Prophecy of Scripture__
 
 21. For prophecy never had its origin in the will of man, but men spoke from God as they were carried along by the Holy Spirit.
 
-## 2Pet.2
+## 2 Peter 2
 
 __False Teachers and Their Destruction__
 
@@ -96,7 +96,7 @@ __False Teachers and Their Destruction__
 
 22. Of them the proverbs are true: "A dog returns to its vomit," and, "A sow that is washed goes back to her wallowing in the mud."
 
-## 2Pet.3
+## 2 Peter 3
 
 __The Day of the Lord__
 

@@ -1,6 +1,6 @@
 # Luke
 
-## Luke.1
+## Luke 1
 
 __Introduction__
 
@@ -176,7 +176,7 @@ __Zechariah's Song__
 
 80. And the child grew and became strong in spirit; and he lived in the desert until he appeared publicly to Israel.
 
-## Luke.2
+## Luke 2
 
 __The Birth of Jesus__
 
@@ -290,7 +290,7 @@ __The Boy Jesus at the Temple__
 
 52. And Jesus grew in wisdom and stature, and in favor with God and men.
 
-## Luke.3
+## Luke 3
 
 __John the Baptist Prepares the Way__
 
@@ -372,7 +372,7 @@ __The Baptism and Genealogy of Jesus__
 
 38. the son of Enosh, the son of Seth, the son of Adam, the son of God.
 
-## Luke.4
+## Luke 4
 
 __The Temptation of Jesus__
 
@@ -470,7 +470,7 @@ __Jesus Heals Many__
 
 44. And he kept on preaching in the synagogues of Judea. 
 
-## Luke.5
+## Luke 5
 
 __The Calling of the First Disciples__
 
@@ -560,7 +560,7 @@ __Jesus Questioned About Fasting__
 
 39. And no one after drinking old wine wants the new, for he says, `The old is better.'"
 
-## Luke.6
+## Luke 6
 
 __Lord of the Sabbath__
 
@@ -674,7 +674,7 @@ __The Wise and Foolish Builders__
 
 49. But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete."
 
-## Luke.7
+## Luke 7
 
 __The Faith of the Centurion__
 
@@ -784,7 +784,7 @@ __Jesus Anointed by a Sinful Woman__
 
 50. Jesus said to the woman, "Your faith has saved you; go in peace."
 
-## Luke.8
+## Luke 8
 
 __The Parable of the Sower__
 
@@ -908,7 +908,7 @@ __The Healing of a Demon-possessed Man__
 
 56. Her parents were astonished, but he ordered them not to tell anyone what had happened.
 
-## Luke.9
+## Luke 9
 
 __Jesus Sends Out the Twelve__
 
@@ -1048,7 +1048,7 @@ __Samaritan Opposition__
 
 62. Jesus replied, "No one who puts his hand to the plow and looks back is fit for service in the kingdom of God."
 
-## Luke.10
+## Luke 10
 
 __Jesus Sends Out the Seventy-two__
 
@@ -1140,7 +1140,7 @@ __At the Home of Martha and Mary__
 
 42. but only one thing is needed. Mary has chosen what is better, and it will not be taken away from her."
 
-## Luke.11
+## Luke 11
 
 __Jesus' Teaching on Prayer__
 
@@ -1260,7 +1260,7 @@ __Six Woes__
 
 54. waiting to catch him in something he might say.
 
-## Luke.12
+## Luke 12
 
 __Warnings and Encouragements__
 
@@ -1392,7 +1392,7 @@ __Interpreting the Times__
 
 59. I tell you, you will not get out until you have paid the last penny. "
 
-## Luke.13
+## Luke 13
 
 __Repent or Perish__
 
@@ -1474,7 +1474,7 @@ __Jesus' Sorrow for Jerusalem__
 
 35. Look, your house is left to you desolate. I tell you, you will not see me again until you say, `Blessed is he who comes in the name of the Lord.' "
 
-## Luke.14
+## Luke 14
 
 __Jesus at a Pharisee's House__
 
@@ -1552,7 +1552,7 @@ __The Cost of Being a Disciple__
 
 35. It is fit neither for the soil nor for the manure pile; it is thrown out. "He who has ears to hear, let him hear."
 
-## Luke.15
+## Luke 15
 
 __The Parable of the Lost Sheep__
 
@@ -1624,7 +1624,7 @@ __The Parable of the Lost Son__
 
 32. But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.'"
 
-## Luke.16
+## Luke 16
 
 __The Parable of the Shrewd Manager__
 
@@ -1692,7 +1692,7 @@ __The Rich Man and Lazarus__
 
 31. "He said to him, `If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.'"
 
-## Luke.17
+## Luke 17
 
 __Sin, Faith, Duty__
 
@@ -1772,7 +1772,7 @@ __The Coming of the Kingdom of God__
 
 37. "Where, Lord?" they asked. He replied, "Where there is a dead body, there the vultures will gather."
 
-## Luke.18
+## Luke 18
 
 __The Parable of the Persistent Widow__
 
@@ -1872,7 +1872,7 @@ __A Blind Beggar Receives His Sight__
 
 43. Immediately he received his sight and followed Jesus, praising God. When all the people saw it, they also praised God.
 
-## Luke.19
+## Luke 19
 
 __Zacchaeus the Tax Collector__
 
@@ -1978,7 +1978,7 @@ __Jesus at the Temple__
 
 48. Yet they could not find any way to do it, because all the people hung on his words.
 
-## Luke.20
+## Luke 20
 
 __The Authority of Jesus Questioned__
 
@@ -2084,7 +2084,7 @@ __Whose Son Is the Christ__
 
 47. They devour widows' houses and for a show make lengthy prayers. Such men will be punished most severely."
 
-## Luke.21
+## Luke 21
 
 __The Widow's Offering__
 
@@ -2166,7 +2166,7 @@ __Signs of the End of the Age__
 
 38. and all the people came early in the morning to hear him at the temple.
 
-## Luke.22
+## Luke 22
 
 __Judas Agrees to Betray Jesus__
 
@@ -2324,7 +2324,7 @@ __Jesus Before Pilate and Herod__
 
 71. Then they said, "Why do we need any more testimony? We have heard it from his own lips."
 
-## Luke.23
+## Luke 23
 
 1. Then the whole assembly rose and led him off to Pilate.
 
@@ -2442,7 +2442,7 @@ __Jesus' Burial__
 
 56. Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment.
 
-## Luke.24
+## Luke 24
 
 __The Resurrection__
 

@@ -1,6 +1,6 @@
 # Gal
 
-## Gal.1
+## Galatians 1
 
 __To the Galatians written from Rome.__
 
@@ -52,7 +52,7 @@ __To the Galatians written from Rome.__
 
 24. And they glorified God in me.
 
-## Gal.2
+## Galatians 2
 
 1. Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
 
@@ -96,7 +96,7 @@ __To the Galatians written from Rome.__
 
 21. I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.
 
-## Gal.3
+## Galatians 3
 
 1. O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
 
@@ -156,7 +156,7 @@ __To the Galatians written from Rome.__
 
 29. And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise.
 
-## Gal.4
+## Galatians 4
 
 1. Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;
 
@@ -220,7 +220,7 @@ __To the Galatians written from Rome.__
 
 31. So then, brethren, we are not children of the bondwoman, but of the free.
 
-## Gal.5
+## Galatians 5
 
 1. Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
 
@@ -274,7 +274,7 @@ __To the Galatians written from Rome.__
 
 26. Let us not be desirous of vain glory, provoking one another, envying one another.
 
-## Gal.6
+## Galatians 6
 
 1. Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
 

@@ -1,6 +1,6 @@
 # Col
 
-## Col.1
+## Colossians 1
 
 1. Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 
@@ -66,7 +66,7 @@ __Paul's Labor for the Church__
 
 29. To this end I labor, struggling with all his energy, which so powerfully works in me.
 
-## Col.2
+## Colossians 2
 
 1. I want you to know how much I am struggling for you and for those at Laodicea, and for all who have not met me personally.
 
@@ -116,7 +116,7 @@ __Freedom From Human Regulations Through Life With Christ__
 
 23. Such regulations indeed have an appearance of wisdom, with their self-imposed worship, their false humility and their harsh treatment of the body, but they lack any value in restraining sensual indulgence.
 
-## Col.3
+## Colossians 3
 
 __Rules for Holy Living__
 
@@ -172,7 +172,7 @@ __Rules for Christian Households__
 
 25. Anyone who does wrong will be repaid for his wrong, and there is no favoritism.
 
-## Col.4
+## Colossians 4
 
 1. Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven.
 

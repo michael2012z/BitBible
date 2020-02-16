@@ -1,6 +1,6 @@
 # Gal
 
-## Gal.1
+## Galatians 1
 
 1. Paul, an apostle - sent not from men nor by man, but by Jesus Christ and God the Father, who raised him from the dead -
 
@@ -54,7 +54,7 @@ __Paul Called by God__
 
 24. And they praised God because of me.
 
-## Gal.2
+## Galatians 2
 
 __Paul Accepted by the Apostles__
 
@@ -102,7 +102,7 @@ __Paul Opposes Peter__
 
 21. I do not set aside the grace of God, for if righteousness could be gained through the law, Christ died for nothing!" 
 
-## Gal.3
+## Galatians 3
 
 __Faith or Observance of the Law__
 
@@ -168,7 +168,7 @@ __Sons of God__
 
 29. If you belong to Christ, then you are Abraham's seed, and heirs according to the promise.
 
-## Gal.4
+## Galatians 4
 
 1. What I am saying is that as long as the heir is a child, he is no different from a slave, although he owns the whole estate.
 
@@ -236,7 +236,7 @@ __Hagar and Sarah__
 
 31. Therefore, brothers, we are not children of the slave woman, but of the free woman.
 
-## Gal.5
+## Galatians 5
 
 __Freedom in Christ__
 
@@ -294,7 +294,7 @@ __Life by the Spirit__
 
 26. Let us not become conceited, provoking and envying each other.
 
-## Gal.6
+## Galatians 6
 
 __Doing Good to All__
 

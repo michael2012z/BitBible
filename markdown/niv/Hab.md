@@ -1,6 +1,6 @@
 # Hab
 
-## Hab.1
+## Habakkuk 1
 
 1. The oracle that Habakkuk the prophet received.
 
@@ -42,7 +42,7 @@ __Habakkuk's Second Complaint__
 
 17. Is he to keep on emptying his net, destroying nations without mercy?
 
-## Hab.2
+## Habakkuk 2
 
 1. I will stand at my watch and station myself on the ramparts; I will look to see what he will say to me, and what answer I am to give to this complaint. 
 
@@ -86,7 +86,7 @@ __The LORD'S Answer__
 
 20. But the LORD is in his holy temple; let all the earth be silent before him."
 
-## Hab.3
+## Habakkuk 3
 
 __Habakkuk's Prayer__
 

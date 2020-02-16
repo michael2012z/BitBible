@@ -1,6 +1,6 @@
 # 2Thess
 
-## 2Thess.1
+## 2 Thessalonians 1
 
 1. Paul, Silas and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 
@@ -28,7 +28,7 @@ __Thanksgiving and Prayer__
 
 12. We pray this so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ. 
 
-## 2Thess.2
+## 2 Thessalonians 2
 
 __The Man of Lawlessness__
 
@@ -68,7 +68,7 @@ __Stand Firm__
 
 17. encourage your hearts and strengthen you in every good deed and word.
 
-## 2Thess.3
+## 2 Thessalonians 3
 
 __Request for Prayer__
 

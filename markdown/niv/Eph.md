@@ -1,6 +1,6 @@
 # Eph
 
-## Eph.1
+## Ephesians 1
 
 1. Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:
 
@@ -52,7 +52,7 @@ __Thanksgiving and Prayer__
 
 23. which is his body, the fullness of him who fills everything in every way.
 
-## Eph.2
+## Ephesians 2
 
 __Made Alive in Christ__
 
@@ -102,7 +102,7 @@ __One in Christ__
 
 22. And in him you too are being built together to become a dwelling in which God lives by his Spirit.
 
-## Eph.3
+## Ephesians 3
 
 __Paul the Preacher to the Gentiles__
 
@@ -150,7 +150,7 @@ __A Prayer for the Ephesians__
 
 21. to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen.
 
-## Eph.4
+## Ephesians 4
 
 __Unity in the Body of Christ__
 
@@ -220,7 +220,7 @@ __Living as Children of Light__
 
 32. Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.
 
-## Eph.5
+## Ephesians 5
 
 1. Be imitators of God, therefore, as dearly loved children
 
@@ -290,7 +290,7 @@ __Wives and Husbands__
 
 33. However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.
 
-## Eph.6
+## Ephesians 6
 
 __Children and Parents__
 

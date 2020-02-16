@@ -1,6 +1,6 @@
 # Jude
 
-## Jude.1
+## Jude 1
 
 1. Jude, a servant of Jesus Christ and a brother of James, To those who have been called, who are loved by God the Father and kept by Jesus Christ:
 

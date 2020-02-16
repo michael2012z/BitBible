@@ -4,7 +4,7 @@ __BOOK I__
 
 __Psalms 1-41__
 
-## Ps.1
+## Psalms 1
 
 1. Psalm 1
 
@@ -20,7 +20,7 @@ __Psalms 1-41__
 
 6. For the LORD watches over the way of the righteous, but the way of the wicked will perish.
 
-## Ps.2
+## Psalms 2
 
 1. Psalm 2
 
@@ -48,7 +48,7 @@ __Psalms 1-41__
 
 12. Kiss the Son, lest he be angry and you be destroyed in your way, for his wrath can flare up in a moment. Blessed are all who take refuge in him.
 
-## Ps.3
+## Psalms 3
 
 1. Psalm 3 A psalm of David. When he fled from his son Absalom.
 
@@ -74,7 +74,7 @@ __Selah__
 
 8. From the LORD comes deliverance. May your blessing be on your people.
 
-## Ps.4
+## Psalms 4
 
 1. Psalm 4 For the director of music. With stringed instruments. A psalm of David.
 
@@ -98,7 +98,7 @@ __Selah__
 
 8. I will lie down and sleep in peace, for you alone, O LORD, make me dwell in safety.
 
-## Ps.5
+## Psalms 5
 
 1. Psalm 5 For the director of music. For flutes. A psalm of David.
 
@@ -126,7 +126,7 @@ __Selah__
 
 12. For surely, O LORD, you bless the righteous; you surround them with your favor as with a shield.
 
-## Ps.6
+## Psalms 6
 
 __sheminith.__
 
@@ -152,7 +152,7 @@ __sheminith.__
 
 10. All my enemies will be ashamed and dismayed; they will turn back in sudden disgrace.
 
-## Ps.7
+## Psalms 7
 
 __A psalm of David.shiggaion__
 
@@ -194,7 +194,7 @@ __of David, which he sang to the LORD concerning Cush, a Benjamite.Selah__
 
 17. I will give thanks to the LORD because of his righteousness and will sing praise to the name of the LORD Most High.
 
-## Ps.8
+## Psalms 8
 
 __gittith.__
 
@@ -218,7 +218,7 @@ __gittith.__
 
 9. O LORD, our Lord, how majestic is your name in all the earth!
 
-## Ps.9
+## Psalms 9
 
 1. Psalm 9 For the director of music. To [the tune of] "The Death of the Son." A psalm of David. 
 
@@ -266,7 +266,7 @@ __Selah__
 
 20. Strike them with terror, O LORD; let the nations know they are but men.
 
-## Ps.10
+## Psalms 10
 
 1. Psalm 10 
 
@@ -306,7 +306,7 @@ __Selah__
 
 18. defending the fatherless and the oppressed, in order that man, who is of the earth, may terrify no more.
 
-## Ps.11
+## Psalms 11
 
 1. Psalm 11 For the director of music. Of David.
 
@@ -324,7 +324,7 @@ __Selah__
 
 7. For the LORD is righteous, he loves justice; upright men will see his face.
 
-## Ps.12
+## Psalms 12
 
 __sheminith.__
 
@@ -346,7 +346,7 @@ __sheminith.__
 
 8. The wicked freely strut about when what is vile is honored among men.
 
-## Ps.13
+## Psalms 13
 
 1. Psalm 13 For the director of music. A psalm of David.
 
@@ -362,7 +362,7 @@ __sheminith.__
 
 6. I will sing to the LORD, for he has been good to me.
 
-## Ps.14
+## Psalms 14
 
 1. Psalm 14 For the director of music. Of David.
 
@@ -380,7 +380,7 @@ __sheminith.__
 
 7. Oh, that salvation for Israel would come out of Zion! When the LORD restores the fortunes of his people, let Jacob rejoice and Israel be glad!
 
-## Ps.15
+## Psalms 15
 
 1. Psalm 15 A psalm of David.
 
@@ -394,7 +394,7 @@ __sheminith.__
 
 5. who lends his money without usury and does not accept a bribe against the innocent. He who does these things will never be shaken.
 
-## Ps.16
+## Psalms 16
 
 __A psalm of David.miktam__
 
@@ -422,7 +422,7 @@ __A psalm of David.miktam__
 
 11. You have made known to me the path of life; you will fill me with joy in your presence, with eternal pleasures at your right hand.
 
-## Ps.17
+## Psalms 17
 
 1. Psalm 17 A prayer of David.
 
@@ -456,7 +456,7 @@ __A psalm of David.miktam__
 
 15. And I - in righteousness I will see your face; when I awake, I will be satisfied with seeing your likeness.
 
-## Ps.18
+## Psalms 18
 
 1. Psalm 18 For the director of music. Of David the servant of the LORD. He sang to the LORD the words of this song when the LORD delivered him from the hand of all his enemies and from the hand of Saul. He said:
 
@@ -560,7 +560,7 @@ __A psalm of David.miktam__
 
 50. He gives his king great victories; he shows unfailing kindness to his anointed, to David and his descendants forever.
 
-## Ps.19
+## Psalms 19
 
 1. Psalm 19 For the director of music. A psalm of David.
 
@@ -592,7 +592,7 @@ __A psalm of David.miktam__
 
 14. May the words of my mouth and the meditation of my heart be pleasing in your sight, O LORD, my Rock and my Redeemer.
 
-## Ps.20
+## Psalms 20
 
 1. Psalm 20 For the director of music. A psalm of David.
 
@@ -616,7 +616,7 @@ __of David.Selah__
 
 9. O LORD, save the king! Answer us when we call!
 
-## Ps.21
+## Psalms 21
 
 1. Psalm 21 For the director of music. A psalm of David.
 
@@ -648,7 +648,7 @@ __Selah__
 
 13. Be exalted, O LORD, in your strength; we will sing and praise your might.
 
-## Ps.22
+## Psalms 22
 
 1. Psalm 22 For the director of music. To [the tune of] "The Doe of the Morning." A psalm of David.
 
@@ -714,7 +714,7 @@ __Selah__
 
 31. They will proclaim his righteousness to a people yet unborn - for he has done it.
 
-## Ps.23
+## Psalms 23
 
 1. Psalm 23 A psalm of David.
 
@@ -730,7 +730,7 @@ __Selah__
 
 6. Surely goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD forever.
 
-## Ps.24
+## Psalms 24
 
 1. Psalm 24 Of David. A psalm.
 
@@ -758,7 +758,7 @@ __Selah__
 
 10. Who is he, this King of glory? The LORD Almighty - he is the King of glory.
 
-## Ps.25
+## Psalms 25
 
 1. Psalm 25 Of David. 
 
@@ -806,7 +806,7 @@ __Selah__
 
 22. Redeem Israel, O God, from all their troubles!
 
-## Ps.26
+## Psalms 26
 
 1. Psalm 26 Of David.
 
@@ -834,7 +834,7 @@ __Selah__
 
 12. My feet stand on level ground; in the great assembly I will praise the LORD.
 
-## Ps.27
+## Psalms 27
 
 1. Psalm 27 Of David.
 
@@ -866,7 +866,7 @@ __Selah__
 
 14. Wait for the LORD; be strong and take heart and wait for the LORD.
 
-## Ps.28
+## Psalms 28
 
 1. Psalm 28 Of David.
 
@@ -888,7 +888,7 @@ __Selah__
 
 9. Save your people and bless your inheritance; be their shepherd and carry them forever.
 
-## Ps.29
+## Psalms 29
 
 1. Psalm 29 A psalm of David.
 
@@ -914,7 +914,7 @@ __Selah__
 
 11. The LORD gives strength to his people; the LORD blesses his people with peace.
 
-## Ps.30
+## Psalms 30
 
 1. Psalm 30 A psalm. A song. For the dedication of the temple. Of David.
 
@@ -942,7 +942,7 @@ __Selah__
 
 12. that my heart may sing to you and not be silent. O LORD my God, I will give you thanks forever.
 
-## Ps.31
+## Psalms 31
 
 1. Psalm 31 For the director of music. A psalm of David.
 
@@ -994,7 +994,7 @@ __Selah__
 
 24. Be strong and take heart, all you who hope in the LORD.
 
-## Ps.32
+## Psalms 32
 
 __maskil.__
 
@@ -1028,7 +1028,7 @@ __Selah__
 
 11. Rejoice in the LORD and be glad, you righteous; sing, all you who are upright in heart!
 
-## Ps.33
+## Psalms 33
 
 1. Psalm 33
 
@@ -1076,7 +1076,7 @@ __Selah__
 
 22. May your unfailing love rest upon us, O LORD, even as we put our hope in you.
 
-## Ps.34
+## Psalms 34
 
 1. Psalm 34 Of David. When he pretended to be insane before Abimelech, who drove him away, and he left. 
 
@@ -1124,7 +1124,7 @@ __Selah__
 
 22. The LORD redeems his servants; no one will be condemned who takes refuge in him.
 
-## Ps.35
+## Psalms 35
 
 1. Psalm 35 Of David.
 
@@ -1184,7 +1184,7 @@ __Selah__
 
 28. My tongue will speak of your righteousness and of your praises all day long.
 
-## Ps.36
+## Psalms 36
 
 1. Psalm 36 For the director of music. Of David the servant of the LORD.
 
@@ -1212,7 +1212,7 @@ __Selah__
 
 12. See how the evildoers lie fallen - thrown down, not able to rise!
 
-## Ps.37
+## Psalms 37
 
 1. Psalm 37 Of David. 
 
@@ -1296,7 +1296,7 @@ __Selah__
 
 40. The LORD helps them and delivers them; he delivers them from the wicked and saves them, because they take refuge in him.
 
-## Ps.38
+## Psalms 38
 
 1. Psalm 38 A psalm of David. A petition.
 
@@ -1344,7 +1344,7 @@ __Selah__
 
 22. Come quickly to help me, O Lord my Savior.
 
-## Ps.39
+## Psalms 39
 
 1. Psalm 39 For the director of music. For Jeduthun. A psalm of David.
 
@@ -1378,7 +1378,7 @@ __Selah__
 
 13. Look away from me, that I may rejoice again before I depart and am no more."
 
-## Ps.40
+## Psalms 40
 
 1. Psalm 40 For the director of music. Of David. A psalm.
 
@@ -1416,7 +1416,7 @@ __Selah__
 
 17. Yet I am poor and needy; may the Lord think of me. You are my help and my deliverer; O my God, do not delay.
 
-## Ps.41
+## Psalms 41
 
 1. Psalm 41 For the director of music. A psalm of David.
 
@@ -1450,7 +1450,7 @@ __BOOK II__
 
 __Psalms 42-72__
 
-## Ps.42
+## Psalms 42
 
 __maskil__
 
@@ -1478,7 +1478,7 @@ __maskil__
 
 11. Why are you downcast, O my soul? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.
 
-## Ps.43
+## Psalms 43
 
 1. Psalm 43 
 
@@ -1492,7 +1492,7 @@ __maskil__
 
 5. Why are you downcast, O my soul? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.
 
-## Ps.44
+## Psalms 44
 
 __of the Sons of Korah.maskil.__
 
@@ -1552,7 +1552,7 @@ __Selah__
 
 26. Rise up and help us; redeem us because of your unfailing love.
 
-## Ps.45
+## Psalms 45
 
 __maskil.__
 
@@ -1592,7 +1592,7 @@ __maskil.__
 
 17. I will perpetuate your memory through all generations; therefore the nations will praise you for ever and ever.
 
-## Ps.46
+## Psalms 46
 
 1. Psalm 46 For the director of music. Of the Sons of Korah. According to [alamoth]. A song.
 
@@ -1624,7 +1624,7 @@ __Selah__
 
 11. The LORD Almighty is with us; the God of Jacob is our fortress.
 
-## Ps.47
+## Psalms 47
 
 1. Psalm 47 For the director of music. Of the Sons of Korah. A psalm.
 
@@ -1648,7 +1648,7 @@ __Selah__
 
 9. The nobles of the nations assemble as the people of the God of Abraham, for the kings of the earth belong to God; he is greatly exalted.
 
-## Ps.48
+## Psalms 48
 
 1. Psalm 48 A song. A psalm of the Sons of Korah.
 
@@ -1682,7 +1682,7 @@ __Selah__
 
 14. For this God is our God for ever and ever; he will be our guide even to the end.
 
-## Ps.49
+## Psalms 49
 
 1. Psalm 49 For the director of music. Of the Sons of Korah. A psalm.
 
@@ -1730,7 +1730,7 @@ __Selah__
 
 20. A man who has riches without understanding is like the beasts that perish.
 
-## Ps.50
+## Psalms 50
 
 1. Psalm 50 A psalm of Asaph.
 
@@ -1782,7 +1782,7 @@ __Selah__
 
 23. He who sacrifices thank offerings honors me, and he prepares the way so that I may show him the salvation of God."
 
-## Ps.51
+## Psalms 51
 
 1. Psalm 51 For the director of music. A psalm of David. When the prophet Nathan came to him after David had committed adultery with Bathsheba.
 
@@ -1824,7 +1824,7 @@ __Selah__
 
 19. Then there will be righteous sacrifices, whole burnt offerings to delight you; then bulls will be offered on your altar.
 
-## Ps.52
+## Psalms 52
 
 __maskil__
 
@@ -1852,7 +1852,7 @@ __Selah__
 
 9. I will praise you forever for what you have done; in your name I will hope, for your name is good. I will praise you in the presence of your saints.
 
-## Ps.53
+## Psalms 53
 
 __mahalath.__
 
@@ -1872,7 +1872,7 @@ __Amaskil__
 
 6. Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, let Jacob rejoice and Israel be glad!
 
-## Ps.54
+## Psalms 54
 
 __of David.maskil__
 
@@ -1894,7 +1894,7 @@ __of David. When the Ziphites had gone to Saul and said, "Is not David hiding am
 
 7. For he has delivered me from all my troubles, and my eyes have looked in triumph on my foes.
 
-## Ps.55
+## Psalms 55
 
 1. Psalm 55 For the director of music. With stringed instruments. A Listen to my prayer, O God, do not ignore my plea;
 
@@ -1946,7 +1946,7 @@ __Selah__
 
 23. But you, O God, will bring down the wicked into the pit of corruption; bloodthirsty and deceitful men will not live out half their days. But as for me, I trust in you.
 
-## Ps.56
+## Psalms 56
 
 __men who never change their ways and have no fear of God.miktam.__
 
@@ -1978,7 +1978,7 @@ __men who never change their ways and have no fear of God.miktam.__
 
 13. For you have delivered me from death and my feet from stumbling, that I may walk before God in the light of life. 
 
-## Ps.57
+## Psalms 57
 
 __When the Philistines had seized him in Gath.miktam.__
 
@@ -2010,7 +2010,7 @@ __God sends his love and his faithfulness.Selah__
 
 11. Be exalted, O God, above the heavens; let your glory be over all the earth.
 
-## Ps.58
+## Psalms 58
 
 __miktam.__
 
@@ -2038,7 +2038,7 @@ __miktam.__
 
 11. Then men will say, "Surely the righteous still are rewarded; surely there is a God who judges the earth."
 
-## Ps.59
+## Psalms 59
 
 __miktam.__
 
@@ -2082,7 +2082,7 @@ __Selah__
 
 17. O my Strength, I sing praise to you; you, O God, are my fortress, my loving God.
 
-## Ps.60
+## Psalms 60
 
 __miktam__
 
@@ -2114,7 +2114,7 @@ __of David. For teaching. When he fought Aram Naharaimand Aram Zobah,and when Jo
 
 12. With God we will gain the victory, and he will trample down our enemies.
 
-## Ps.61
+## Psalms 61
 
 1. Psalm 61 For the director of music. With stringed instruments. Of David.
 
@@ -2136,7 +2136,7 @@ __Selah__
 
 8. Then will I ever sing praise to your name and fulfill my vows day after day.
 
-## Ps.62
+## Psalms 62
 
 1. Psalm 62 For the director of music. For Jeduthun. A psalm of David.
 
@@ -2168,7 +2168,7 @@ __Selah__
 
 12. and that you, O Lord, are loving. Surely you will reward each person according to what he has done.
 
-## Ps.63
+## Psalms 63
 
 1. Psalm 63 A psalm of David. When he was in the Desert of Judah.
 
@@ -2194,7 +2194,7 @@ __Selah__
 
 11. But the king will rejoice in God; all who swear by God's name will praise him, while the mouths of liars will be silenced.
 
-## Ps.64
+## Psalms 64
 
 1. Psalm 64 For the director of music. A psalm of David.
 
@@ -2218,7 +2218,7 @@ __Selah__
 
 10. Let the righteous rejoice in the LORD and take refuge in him; let all the upright in heart praise him!
 
-## Ps.65
+## Psalms 65
 
 1. Psalm 65 For the director of music. A psalm of David. A song.
 
@@ -2248,7 +2248,7 @@ __Selah__
 
 13. The meadows are covered with flocks and the valleys are mantled with grain; they shout for joy and sing.
 
-## Ps.66
+## Psalms 66
 
 1. Psalm 66 For the director of music. A song. A psalm.
 
@@ -2298,7 +2298,7 @@ __Selah__
 
 20. Praise be to God, who has not rejected my prayer or withheld his love from me!
 
-## Ps.67
+## Psalms 67
 
 1. Psalm 67 For the director of music. With stringed instruments. A psalm. A song.
 
@@ -2320,7 +2320,7 @@ __Selah__
 
 7. God will bless us, and all the ends of the earth will fear him.
 
-## Ps.68
+## Psalms 68
 
 1. Psalm 68 For the director of music. Of David. A psalm. A song.
 
@@ -2400,7 +2400,7 @@ __Selah__
 
 35. You are awesome, O God, in your sanctuary; the God of Israel gives power and strength to his people. Praise be to God!
 
-## Ps.69
+## Psalms 69
 
 1. Psalm 69 For the director of music. To [the tune of] "Lilies." Of David.
 
@@ -2476,7 +2476,7 @@ __Selah__
 
 36. the children of his servants will inherit it, and those who love his name will dwell there.
 
-## Ps.70
+## Psalms 70
 
 1. Psalm 70 For the director of music. Of David. A petition.
 
@@ -2490,7 +2490,7 @@ __Selah__
 
 5. Yet I am poor and needy; come quickly to me, O God. You are my help and my deliverer; O LORD, do not delay.
 
-## Ps.71
+## Psalms 71
 
 1. Psalm 71
 
@@ -2542,7 +2542,7 @@ __Selah__
 
 24. My tongue will tell of your righteous acts all day long, for those who wanted to harm me have been put to shame and confusion.
 
-## Ps.72
+## Psalms 72
 
 1. Psalm 72 Of Solomon.
 
@@ -2590,7 +2590,7 @@ __BOOK III__
 
 __Psalms 73-89__
 
-## Ps.73
+## Psalms 73
 
 1. Psalm 73 A psalm of Asaph.
 
@@ -2650,7 +2650,7 @@ __Psalms 73-89__
 
 28. But as for me, it is good to be near God. I have made the Sovereign LORD my refuge; I will tell of all your deeds.
 
-## Ps.74
+## Psalms 74
 
 __maskil__
 
@@ -2702,7 +2702,7 @@ __maskil__
 
 23. Do not ignore the clamor of your adversaries, the uproar of your enemies, which rises continually.
 
-## Ps.75
+## Psalms 75
 
 1. Psalm 75 For the director of music. [To the tune of] "Do Not Destroy." A psalm of Asaph. A song.
 
@@ -2728,7 +2728,7 @@ __of Asaph.Selah__
 
 10. I will cut off the horns of all the wicked, but the horns of the righteous will be lifted up.
 
-## Ps.76
+## Psalms 76
 
 1. Psalm 76 For the director of music. With stringed instruments. A psalm of Asaph. A song.
 
@@ -2760,7 +2760,7 @@ __Selah__
 
 12. He breaks the spirit of rulers; he is feared by the kings of the earth.
 
-## Ps.77
+## Psalms 77
 
 1. Psalm 77 For the director of music. For Jeduthun. Of Asaph. A psalm.
 
@@ -2810,7 +2810,7 @@ __Selah__
 
 20. You led your people like a flock by the hand of Moses and Aaron.
 
-## Ps.78
+## Psalms 78
 
 __maskil__
 
@@ -2960,7 +2960,7 @@ __maskil__
 
 72. And David shepherded them with integrity of heart; with skillful hands he led them.
 
-## Ps.79
+## Psalms 79
 
 1. Psalm 79 A psalm of Asaph.
 
@@ -2990,7 +2990,7 @@ __maskil__
 
 13. Then we your people, the sheep of your pasture, will praise you forever; from generation to generation we will recount your praise.
 
-## Ps.80
+## Psalms 80
 
 1. Psalm 80 For the director of music. To [the tune of] "The Lilies of the Covenant." Of Asaph. A psalm.
 
@@ -3032,7 +3032,7 @@ __maskil__
 
 19. Restore us, O LORD God Almighty; make your face shine upon us, that we may be saved.
 
-## Ps.81
+## Psalms 81
 
 __of Asaph.gittith.__
 
@@ -3072,7 +3072,7 @@ __Of Asaph.Selah__
 
 16. But you would be fed with the finest of wheat; with honey from the rock I would satisfy you."
 
-## Ps.82
+## Psalms 82
 
 1. Psalm 82 A psalm of Asaph.
 
@@ -3094,7 +3094,7 @@ __Selah__
 
 8. Rise up, O God, judge the earth, for all the nations are your inheritance.
 
-## Ps.83
+## Psalms 83
 
 1. Psalm 83 A song. A psalm of Asaph.
 
@@ -3136,7 +3136,7 @@ __Selah__
 
 18. Let them know that you, whose name is the LORD - that you alone are the Most High over all the earth.
 
-## Ps.84
+## Psalms 84
 
 __gittith.__
 
@@ -3170,7 +3170,7 @@ __Selah__
 
 12. O LORD Almighty, blessed is the man who trusts in you.
 
-## Ps.85
+## Psalms 85
 
 1. Psalm 85 For the director of music. Of the Sons of Korah. A psalm.
 
@@ -3202,7 +3202,7 @@ __Selah__
 
 13. Righteousness goes before him and prepares the way for his steps.
 
-## Ps.86
+## Psalms 86
 
 1. Psalm 86 A prayer of David.
 
@@ -3240,7 +3240,7 @@ __Selah__
 
 17. Give me a sign of your goodness, that my enemies may see it and be put to shame, for you, O LORD, have helped me and comforted me.
 
-## Ps.87
+## Psalms 87
 
 1. Psalm 87 Of the Sons of Korah. A psalm. A song.
 
@@ -3262,7 +3262,7 @@ __Selah__
 
 7. As they make music they will sing, "All my fountains are in you."
 
-## Ps.88
+## Psalms 88
 
 __mahalath leannoth.__
 
@@ -3310,7 +3310,7 @@ __Selah__
 
 18. You have taken my companions and loved ones from me; the darkness is my closest friend.
 
-## Ps.89
+## Psalms 89
 
 __maskil__
 
@@ -3432,7 +3432,7 @@ __BOOK IV__
 
 __Psalms 90-106__
 
-## Ps.90
+## Psalms 90
 
 1. Psalm 90 A prayer of Moses the man of God.
 
@@ -3470,7 +3470,7 @@ __Psalms 90-106__
 
 17. May the favor of the Lord our God rest upon us; establish the work of our hands for us - yes, establish the work of our hands.
 
-## Ps.91
+## Psalms 91
 
 1. Psalm 91
 
@@ -3506,7 +3506,7 @@ __Psalms 90-106__
 
 16. With long life will I satisfy him and show him my salvation."
 
-## Ps.92
+## Psalms 92
 
 1. Psalm 92 A psalm. A song. For the Sabbath day.
 
@@ -3540,7 +3540,7 @@ __Psalms 90-106__
 
 15. proclaiming, "The LORD is upright; he is my Rock, and there is no wickedness in him."
 
-## Ps.93
+## Psalms 93
 
 1. Psalm 93
 
@@ -3554,7 +3554,7 @@ __Psalms 90-106__
 
 5. Your statutes stand firm; holiness adorns your house for endless days, O LORD.
 
-## Ps.94
+## Psalms 94
 
 1. Psalm 94
 
@@ -3604,7 +3604,7 @@ __Psalms 90-106__
 
 23. He will repay them for their sins and destroy them for their wickedness; the LORD our God will destroy them.
 
-## Ps.95
+## Psalms 95
 
 1. Psalm 95
 
@@ -3630,7 +3630,7 @@ __Psalms 90-106__
 
 11. So I declared on oath in my anger, "They shall never enter my rest."
 
-## Ps.96
+## Psalms 96
 
 1. Psalm 96
 
@@ -3660,7 +3660,7 @@ __Psalms 90-106__
 
 13. they will sing before the LORD, for he comes, he comes to judge the earth. He will judge the world in righteousness and the peoples in his truth.
 
-## Ps.97
+## Psalms 97
 
 1. Psalm 97
 
@@ -3688,7 +3688,7 @@ __Psalms 90-106__
 
 12. Rejoice in the LORD, you who are righteous, and praise his holy name.
 
-## Ps.98
+## Psalms 98
 
 1. Psalm 98 A psalm.
 
@@ -3710,7 +3710,7 @@ __Psalms 90-106__
 
 9. let them sing before the LORD, for he comes to judge the earth. He will judge the world in righteousness and the peoples with equity.
 
-## Ps.99
+## Psalms 99
 
 1. Psalm 99
 
@@ -3732,7 +3732,7 @@ __Psalms 90-106__
 
 9. Exalt the LORD our God and worship at his holy mountain, for the LORD our God is holy.
 
-## Ps.100
+## Psalms 100
 
 1. Psalm 100 A psalm. For giving thanks.
 
@@ -3746,7 +3746,7 @@ __Psalms 90-106__
 
 5. For the LORD is good and his love endures forever; his faithfulness continues through all generations.
 
-## Ps.101
+## Psalms 101
 
 1. Psalm 101 Of David. A psalm.
 
@@ -3766,7 +3766,7 @@ __Psalms 90-106__
 
 8. Every morning I will put to silence all the wicked in the land; I will cut off every evildoer from the city of the LORD.
 
-## Ps.102
+## Psalms 102
 
 1. Psalm 102 A prayer of an afflicted man. When he is faint and pours out his lament before the LORD.
 
@@ -3826,7 +3826,7 @@ __Psalms 90-106__
 
 28. The children of your servants will live in your presence; their descendants will be established before you."
 
-## Ps.103
+## Psalms 103
 
 1. Psalm 103 Of David.
 
@@ -3874,7 +3874,7 @@ __Psalms 90-106__
 
 22. Praise the LORD, all his works everywhere in his dominion. Praise the LORD, O my soul.
 
-## Ps.104
+## Psalms 104
 
 1. Psalm 104
 
@@ -3948,7 +3948,7 @@ __Psalms 90-106__
 
 35. But may sinners vanish from the earth and the wicked be no more. Praise the LORD, O my soul. Praise the LORD. 
 
-## Ps.105
+## Psalms 105
 
 1. Psalm 105
 
@@ -4042,7 +4042,7 @@ __Psalms 90-106__
 
 45. that they might keep his precepts and observe his laws. Praise the LORD. 
 
-## Ps.106
+## Psalms 106
 
 1. Psalm 106
 
@@ -4146,7 +4146,7 @@ __BOOK V__
 
 __Psalms 107-150__
 
-## Ps.107
+## Psalms 107
 
 1. Psalm 107
 
@@ -4236,7 +4236,7 @@ __Psalms 107-150__
 
 43. Whoever is wise, let him heed these things and consider the great love of the LORD.
 
-## Ps.108
+## Psalms 108
 
 1. Psalm 108 A song. A psalm of David.
 
@@ -4266,7 +4266,7 @@ __Psalms 107-150__
 
 13. With God we will gain the victory, and he will trample down our enemies.
 
-## Ps.109
+## Psalms 109
 
 1. Psalm 109 For the director of music. Of David. A psalm.
 
@@ -4332,7 +4332,7 @@ __Psalms 107-150__
 
 31. For he stands at the right hand of the needy one, to save his life from those who condemn him.
 
-## Ps.110
+## Psalms 110
 
 1. Psalm 110 Of David. A psalm.
 
@@ -4350,7 +4350,7 @@ __Psalms 107-150__
 
 7. He will drink from a brook beside the way ; therefore he will lift up his head.
 
-## Ps.111
+## Psalms 111
 
 1. Psalm 111 
 
@@ -4374,7 +4374,7 @@ __Psalms 107-150__
 
 10. The fear of the LORD is the beginning of wisdom; all who follow his precepts have good understanding. To him belongs eternal praise.
 
-## Ps.112
+## Psalms 112
 
 1. Psalm 112 
 
@@ -4398,7 +4398,7 @@ __Psalms 107-150__
 
 10. The wicked man will see and be vexed, he will gnash his teeth and waste away; the longings of the wicked will come to nothing.
 
-## Ps.113
+## Psalms 113
 
 1. Psalm 113
 
@@ -4420,7 +4420,7 @@ __Psalms 107-150__
 
 9. He settles the barren woman in her home as a happy mother of children. Praise the LORD.
 
-## Ps.114
+## Psalms 114
 
 1. Psalm 114
 
@@ -4440,7 +4440,7 @@ __Psalms 107-150__
 
 8. who turned the rock into a pool, the hard rock into springs of water.
 
-## Ps.115
+## Psalms 115
 
 1. Psalm 115
 
@@ -4480,7 +4480,7 @@ __Psalms 107-150__
 
 18. it is we who extol the LORD, both now and forevermore. Praise the LORD. 
 
-## Ps.116
+## Psalms 116
 
 1. Psalm 116
 
@@ -4522,7 +4522,7 @@ __Psalms 107-150__
 
 19. in the courts of the house of the LORD - in your midst, O Jerusalem. Praise the LORD. 
 
-## Ps.117
+## Psalms 117
 
 1. Psalm 117
 
@@ -4530,7 +4530,7 @@ __Psalms 107-150__
 
 2. For great is his love toward us, and the faithfulness of the LORD endures forever. Praise the LORD. 
 
-## Ps.118
+## Psalms 118
 
 1. Psalm 118
 
@@ -4592,7 +4592,7 @@ __Psalms 107-150__
 
 29. Give thanks to the LORD, for he is good; his love endures forever.
 
-## Ps.119
+## Psalms 119
 
 1. Psalm 119 
 
@@ -4992,7 +4992,7 @@ __Psalms 107-150__
 
 176. I have strayed like a lost sheep. Seek your servant, for I have not forgotten your commands.
 
-## Ps.120
+## Psalms 120
 
 1. Psalm 120 A song of ascents.
 
@@ -5010,7 +5010,7 @@ __Psalms 107-150__
 
 7. I am a man of peace; but when I speak, they are for war.
 
-## Ps.121
+## Psalms 121
 
 1. Psalm 121 A song of ascents.
 
@@ -5030,7 +5030,7 @@ __Psalms 107-150__
 
 8. the LORD will watch over your coming and going both now and forevermore.
 
-## Ps.122
+## Psalms 122
 
 1. Psalm 122 A song of ascents. Of David.
 
@@ -5052,7 +5052,7 @@ __Psalms 107-150__
 
 9. For the sake of the house of the LORD our God, I will seek your prosperity.
 
-## Ps.123
+## Psalms 123
 
 1. Psalm 123 A song of ascents.
 
@@ -5064,7 +5064,7 @@ __Psalms 107-150__
 
 4. We have endured much ridicule from the proud, much contempt from the arrogant.
 
-## Ps.124
+## Psalms 124
 
 1. Psalm 124 A song of ascents. Of David.
 
@@ -5084,7 +5084,7 @@ __Psalms 107-150__
 
 8. Our help is in the name of the LORD, the Maker of heaven and earth.
 
-## Ps.125
+## Psalms 125
 
 1. Psalm 125 A song of ascents.
 
@@ -5098,7 +5098,7 @@ __Psalms 107-150__
 
 5. But those who turn to crooked ways the LORD will banish with the evildoers. Peace be upon Israel.
 
-## Ps.126
+## Psalms 126
 
 1. Psalm 126 A song of ascents.
 
@@ -5114,7 +5114,7 @@ __Psalms 107-150__
 
 6. He who goes out weeping, carrying seed to sow, will return with songs of joy, carrying sheaves with him.
 
-## Ps.127
+## Psalms 127
 
 1. Psalm 127 A song of ascents. Of Solomon.
 
@@ -5128,7 +5128,7 @@ __Psalms 107-150__
 
 5. Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their enemies in the gate.
 
-## Ps.128
+## Psalms 128
 
 1. Psalm 128 A song of ascents.
 
@@ -5144,7 +5144,7 @@ __Psalms 107-150__
 
 6. and may you live to see your children's children. Peace be upon Israel.
 
-## Ps.129
+## Psalms 129
 
 1. Psalm 129 A song of ascents.
 
@@ -5164,7 +5164,7 @@ __Psalms 107-150__
 
 8. May those who pass by not say, "The blessing of the LORD be upon you; we bless you in the name of the LORD."
 
-## Ps.130
+## Psalms 130
 
 1. Psalm 130 A song of ascents.
 
@@ -5184,7 +5184,7 @@ __Psalms 107-150__
 
 8. He himself will redeem Israel from all their sins.
 
-## Ps.131
+## Psalms 131
 
 1. Psalm 131 A song of ascents. Of David.
 
@@ -5194,7 +5194,7 @@ __Psalms 107-150__
 
 3. O Israel, put your hope in the LORD both now and forevermore.
 
-## Ps.132
+## Psalms 132
 
 1. Psalm 132 A song of ascents.
 
@@ -5234,7 +5234,7 @@ __Psalms 107-150__
 
 18. I will clothe his enemies with shame, but the crown on his head will be resplendent."
 
-## Ps.133
+## Psalms 133
 
 1. Psalm 133 A song of ascents. Of David.
 
@@ -5244,7 +5244,7 @@ __Psalms 107-150__
 
 3. It is as if the dew of Hermon were falling on Mount Zion. For there the LORD bestows his blessing, even life forevermore.
 
-## Ps.134
+## Psalms 134
 
 1. Psalm 134 A song of ascents.
 
@@ -5254,7 +5254,7 @@ __Psalms 107-150__
 
 3. May the LORD, the Maker of heaven and earth, bless you from Zion.
 
-## Ps.135
+## Psalms 135
 
 1. Psalm 135
 
@@ -5300,7 +5300,7 @@ __Psalms 107-150__
 
 21. Praise be to the LORD from Zion, to him who dwells in Jerusalem. Praise the LORD.
 
-## Ps.136
+## Psalms 136
 
 1. Psalm 136
 
@@ -5408,7 +5408,7 @@ __His love endures forever.__
 
 26. Give thanks to the God of heaven.
 
-## Ps.137
+## Psalms 137
 
 1. Psalm 137
 
@@ -5430,7 +5430,7 @@ __His love endures forever.__
 
 9. he who seizes your infants and dashes them against the rocks.
 
-## Ps.138
+## Psalms 138
 
 1. Psalm 138 Of David.
 
@@ -5450,7 +5450,7 @@ __His love endures forever.__
 
 8. The LORD will fulfill [his purpose] for me; your love, O LORD, endures forever - do not abandon the works of your hands.
 
-## Ps.139
+## Psalms 139
 
 1. Psalm 139 For the director of music. Of David. A psalm.
 
@@ -5502,7 +5502,7 @@ __His love endures forever.__
 
 24. See if there is any offensive way in me, and lead me in the way everlasting.
 
-## Ps.140
+## Psalms 140
 
 1. Psalm 140 For the director of music. A psalm of David.
 
@@ -5538,7 +5538,7 @@ __Selah__
 
 13. Surely the righteous will praise your name and the upright will live before you.
 
-## Ps.141
+## Psalms 141
 
 1. Psalm 141 A psalm of David.
 
@@ -5562,7 +5562,7 @@ __Selah__
 
 10. Let the wicked fall into their own nets, while I pass by in safety.
 
-## Ps.142
+## Psalms 142
 
 __maskil__
 
@@ -5582,7 +5582,7 @@ __maskil__
 
 7. Set me free from my prison, that I may praise your name. Then the righteous will gather about me because of your goodness to me.
 
-## Ps.143
+## Psalms 143
 
 1. Psalm 143 A psalm of David.
 
@@ -5612,7 +5612,7 @@ __of David. When he was in the cave. A prayer.Selah__
 
 12. In your unfailing love, silence my enemies; destroy all my foes, for I am your servant.
 
-## Ps.144
+## Psalms 144
 
 1. Psalm 144 Of David.
 
@@ -5646,7 +5646,7 @@ __of David. When he was in the cave. A prayer.Selah__
 
 15. Blessed are the people of whom this is true; blessed are the people whose God is the LORD.
 
-## Ps.145
+## Psalms 145
 
 1. Psalm 145 A psalm of praise. Of David. 
 
@@ -5692,7 +5692,7 @@ __of David. When he was in the cave. A prayer.Selah__
 
 21. My mouth will speak in praise of the LORD. Let every creature praise his holy name for ever and ever.
 
-## Ps.146
+## Psalms 146
 
 1. Psalm 146
 
@@ -5716,7 +5716,7 @@ __of David. When he was in the cave. A prayer.Selah__
 
 10. The LORD reigns forever, your God, O Zion, for all generations. Praise the LORD.
 
-## Ps.147
+## Psalms 147
 
 1. Psalm 147
 
@@ -5760,7 +5760,7 @@ __of David. When he was in the cave. A prayer.Selah__
 
 20. He has done this for no other nation; they do not know his laws. Praise the LORD.
 
-## Ps.148
+## Psalms 148
 
 1. Psalm 148
 
@@ -5792,7 +5792,7 @@ __of David. When he was in the cave. A prayer.Selah__
 
 14. He has raised up for his people a horn, the praise of all his saints, of Israel, the people close to his heart. Praise the LORD.
 
-## Ps.149
+## Psalms 149
 
 1. Psalm 149
 
@@ -5814,7 +5814,7 @@ __of David. When he was in the cave. A prayer.Selah__
 
 9. to carry out the sentence written against them. This is the glory of all his saints. Praise the LORD.
 
-## Ps.150
+## Psalms 150
 
 1. Psalm 150
 

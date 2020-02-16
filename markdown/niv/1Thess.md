@@ -1,6 +1,6 @@
 # 1Thess
 
-## 1Thess.1
+## 1 Thessalonians 1
 
 1. Paul, Silas and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace and peace to you. 
 
@@ -24,7 +24,7 @@ __Thanksgiving for the Thessalonians' Faith__
 
 10. and to wait for his Son from heaven, whom he raised from the dead - Jesus, who rescues us from the coming wrath.
 
-## 1Thess.2
+## 1 Thessalonians 2
 
 __Paul's Ministry in Thessalonica__
 
@@ -70,7 +70,7 @@ __Paul's Longing to See the Thessalonians__
 
 20. Indeed, you are our glory and joy.
 
-## 1Thess.3
+## 1 Thessalonians 3
 
 1. So when we could stand it no longer, we thought it best to be left by ourselves in Athens.
 
@@ -100,7 +100,7 @@ __Timothy's Encouraging Report__
 
 13. May he strengthen your hearts so that you will be blameless and holy in the presence of our God and Father when our Lord Jesus comes with all his holy ones.
 
-## 1Thess.4
+## 1 Thessalonians 4
 
 __Living to Please God__
 
@@ -142,7 +142,7 @@ __The Coming of the Lord__
 
 18. Therefore encourage each other with these words.
 
-## 1Thess.5
+## 1 Thessalonians 5
 
 1. Now, brothers, about times and dates we do not need to write to you,
 

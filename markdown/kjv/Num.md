@@ -1,6 +1,6 @@
 # Num
 
-## Num.1
+## Numbers 1
 
 1. And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 
@@ -110,7 +110,7 @@
 
 54. And the children of Israel did according to all that the LORD commanded Moses, so did they.
 
-## Num.2
+## Numbers 2
 
 1. And the LORD spake unto Moses and unto Aaron, saying,
 
@@ -180,7 +180,7 @@
 
 34. And the children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers.
 
-## Num.3
+## Numbers 3
 
 1. These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.
 
@@ -284,7 +284,7 @@
 
 51. And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses.
 
-## Num.4
+## Numbers 4
 
 1. And the LORD spake unto Moses and unto Aaron, saying,
 
@@ -384,7 +384,7 @@
 
 49. According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses.
 
-## Num.5
+## Numbers 5
 
 1. And the LORD spake unto Moses, saying,
 
@@ -448,7 +448,7 @@
 
 31. Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity.
 
-## Num.6
+## Numbers 6
 
 1. And the LORD spake unto Moses, saying,
 
@@ -504,7 +504,7 @@
 
 27. And they shall put my name upon the children of Israel; and I will bless them.
 
-## Num.7
+## Numbers 7
 
 1. And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;
 
@@ -684,7 +684,7 @@
 
 89. And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.
 
-## Num.8
+## Numbers 8
 
 1. And the LORD spake unto Moses, saying,
 
@@ -738,7 +738,7 @@
 
 26. But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.
 
-## Num.9
+## Numbers 9
 
 1. And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
 
@@ -786,7 +786,7 @@
 
 23. At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses.
 
-## Num.10
+## Numbers 10
 
 1. And the LORD spake unto Moses, saying,
 
@@ -860,7 +860,7 @@
 
 36. And when it rested, he said, Return, O LORD, unto the many thousands of Israel.
 
-## Num.11
+## Numbers 11
 
 1. And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp.
 
@@ -932,7 +932,7 @@
 
 35. And the people journeyed from Kibrothhattaavah unto Hazeroth; and abode at Hazeroth.
 
-## Num.12
+## Numbers 12
 
 1. And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 
@@ -966,7 +966,7 @@
 
 16. And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran.
 
-## Num.13
+## Numbers 13
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1034,7 +1034,7 @@
 
 33. And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 
-## Num.14
+## Numbers 14
 
 1. And all the congregation lifted up their voice, and cried; and the people wept that night.
 
@@ -1126,7 +1126,7 @@
 
 45. Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, even unto Hormah.
 
-## Num.15
+## Numbers 15
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1210,7 +1210,7 @@
 
 41. I am the LORD your God, which brought you out of the land of Egypt, to be your God: I am the LORD your God.
 
-## Num.16
+## Numbers 16
 
 1. Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:
 
@@ -1312,7 +1312,7 @@
 
 50. And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed.
 
-## Num.17
+## Numbers 17
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1340,7 +1340,7 @@
 
 13. Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?
 
-## Num.18
+## Numbers 18
 
 1. And the LORD said unto Aaron, Thou and thy sons and thy father's house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.
 
@@ -1406,7 +1406,7 @@
 
 32. And ye shall bear no sin by reason of it, when ye have heaved from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.
 
-## Num.19
+## Numbers 19
 
 1. And the LORD spake unto Moses and unto Aaron, saying,
 
@@ -1452,7 +1452,7 @@
 
 22. And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even.
 
-## Num.20
+## Numbers 20
 
 1. Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
 
@@ -1512,7 +1512,7 @@
 
 29. And when all the congregation saw that Aaron was dead, they mourned for Aaron thirty days, even all the house of Israel.
 
-## Num.21
+## Numbers 21
 
 1. And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners.
 
@@ -1584,7 +1584,7 @@
 
 35. So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land.
 
-## Num.22
+## Numbers 22
 
 1. And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.
 
@@ -1668,7 +1668,7 @@
 
 41. And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost part of the people.
 
-## Num.23
+## Numbers 23
 
 1. And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.
 
@@ -1730,7 +1730,7 @@
 
 30. And Balak did as Balaam had said, and offered a bullock and a ram on every altar.
 
-## Num.24
+## Numbers 24
 
 1. And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 
@@ -1782,7 +1782,7 @@
 
 25. And Balaam rose up, and went and returned to his place: and Balak also went his way.
 
-## Num.25
+## Numbers 25
 
 1. And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 
@@ -1820,7 +1820,7 @@
 
 18. For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor's sake.
 
-## Num.26
+## Numbers 26
 
 1. And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,
 
@@ -1952,7 +1952,7 @@
 
 65. For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.
 
-## Num.27
+## Numbers 27
 
 1. Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
 
@@ -2000,7 +2000,7 @@
 
 23. And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses.
 
-## Num.28
+## Numbers 28
 
 1. And the LORD spake unto Moses, saying,
 
@@ -2064,7 +2064,7 @@
 
 31. Ye shall offer them beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings.
 
-## Num.29
+## Numbers 29
 
 1. And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.
 
@@ -2146,7 +2146,7 @@
 
 40. And Moses told the children of Israel according to all that the LORD commanded Moses.
 
-## Num.30
+## Numbers 30
 
 1. And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded.
 
@@ -2180,7 +2180,7 @@
 
 16. These are the statutes, which the LORD commanded Moses, between a man and his wife, between the father and his daughter, being yet in her youth in her father's house.
 
-## Num.31
+## Numbers 31
 
 1. And the LORD spake unto Moses, saying,
 
@@ -2290,7 +2290,7 @@
 
 54. And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, for a memorial for the children of Israel before the LORD.
 
-## Num.32
+## Numbers 32
 
 1. Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;
 
@@ -2376,7 +2376,7 @@
 
 42. And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.
 
-## Num.33
+## Numbers 33
 
 1. These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
 
@@ -2490,7 +2490,7 @@
 
 56. Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.
 
-## Num.34
+## Numbers 34
 
 1. And the LORD spake unto Moses, saying,
 
@@ -2550,7 +2550,7 @@
 
 29. These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan.
 
-## Num.35
+## Numbers 35
 
 1. And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,
 
@@ -2620,7 +2620,7 @@
 
 34. Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel.
 
-## Num.36
+## Numbers 36
 
 1. And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
 

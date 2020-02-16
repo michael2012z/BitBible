@@ -1,6 +1,6 @@
 # 1Chr
 
-## 1Chr.1
+## 1 Chronicles 1
 
 1. Adam, Sheth, Enosh,
 
@@ -110,7 +110,7 @@
 
 54. Duke Magdiel, duke Iram. These are the dukes of Edom.
 
-## 1Chr.2
+## 1 Chronicles 2
 
 1. These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,
 
@@ -222,7 +222,7 @@
 
 55. And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the Kenites that came of Hemath, the father of the house of Rechab.
 
-## 1Chr.3
+## 1 Chronicles 3
 
 1. Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:
 
@@ -272,7 +272,7 @@
 
 24. And the sons of Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.
 
-## 1Chr.4
+## 1 Chronicles 4
 
 1. The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.
 
@@ -360,7 +360,7 @@
 
 43. And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.
 
-## 1Chr.5
+## 1 Chronicles 5
 
 1. Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.
 
@@ -414,7 +414,7 @@
 
 26. And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.
 
-## 1Chr.6
+## 1 Chronicles 6
 
 1. The sons of Levi; Gershon, Kohath, and Merari.
 
@@ -578,7 +578,7 @@
 
 81. And Heshbon with her suburbs, and Jazer with her suburbs.
 
-## 1Chr.7
+## 1 Chronicles 7
 
 1. Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four.
 
@@ -660,7 +660,7 @@
 
 40. All these were the children of Asher, heads of their father's house, choice and mighty men of valour, chief of the princes. And the number throughout the genealogy of them that were apt to the war and to battle was twenty and six thousand men.
 
-## 1Chr.8
+## 1 Chronicles 8
 
 1. Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
 
@@ -742,7 +742,7 @@
 
 40. And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons' sons, an hundred and fifty. All these are of the sons of Benjamin.
 
-## 1Chr.9
+## 1 Chronicles 9
 
 1. So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression.
 
@@ -832,7 +832,7 @@
 
 44. And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.
 
-## 1Chr.10
+## 1 Chronicles 10
 
 1. Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
 
@@ -862,7 +862,7 @@
 
 14. And enquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse.
 
-## 1Chr.11
+## 1 Chronicles 11
 
 1. Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh.
 
@@ -958,7 +958,7 @@
 
 47. Eliel, and Obed, and Jasiel the Mesobaite.
 
-## 1Chr.12
+## 1 Chronicles 12
 
 1. Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war.
 
@@ -1040,7 +1040,7 @@
 
 40. Moreover they that were nigh them, even unto Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, and meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for there was joy in Israel.
 
-## 1Chr.13
+## 1 Chronicles 13
 
 1. And David consulted with the captains of thousands and hundreds, and with every leader.
 
@@ -1070,7 +1070,7 @@
 
 14. And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had.
 
-## 1Chr.14
+## 1 Chronicles 14
 
 1. Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.
 
@@ -1106,7 +1106,7 @@
 
 17. And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations.
 
-## 1Chr.15
+## 1 Chronicles 15
 
 1. And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
 
@@ -1166,7 +1166,7 @@
 
 29. And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
 
-## 1Chr.16
+## 1 Chronicles 16
 
 1. So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
 
@@ -1254,7 +1254,7 @@
 
 43. And all the people departed every man to his house: and David returned to bless his house.
 
-## 1Chr.17
+## 1 Chronicles 17
 
 1. Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD remaineth under curtains.
 
@@ -1310,7 +1310,7 @@
 
 27. Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O LORD, and it shall be blessed for ever.
 
-## 1Chr.18
+## 1 Chronicles 18
 
 1. Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.
 
@@ -1346,7 +1346,7 @@
 
 17. And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king.
 
-## 1Chr.19
+## 1 Chronicles 19
 
 1. Now it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead.
 
@@ -1386,7 +1386,7 @@
 
 19. And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more.
 
-## 1Chr.20
+## 1 Chronicles 20
 
 1. And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
 
@@ -1404,7 +1404,7 @@
 
 8. These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
 
-## 1Chr.21
+## 1 Chronicles 21
 
 1. And Satan stood up against Israel, and provoked David to number Israel.
 
@@ -1466,7 +1466,7 @@
 
 30. But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD.
 
-## 1Chr.22
+## 1 Chronicles 22
 
 1. Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel.
 
@@ -1506,7 +1506,7 @@
 
 19. Now set your heart and your soul to seek the LORD your God; arise therefore, and build ye the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.
 
-## 1Chr.23
+## 1 Chronicles 23
 
 1. So when David was old and full of days, he made Solomon his son king over Israel.
 
@@ -1572,7 +1572,7 @@
 
 32. And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.
 
-## 1Chr.24
+## 1 Chronicles 24
 
 1. Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 
@@ -1636,7 +1636,7 @@
 
 31. These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.
 
-## 1Chr.25
+## 1 Chronicles 25
 
 1. Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
 
@@ -1700,7 +1700,7 @@
 
 31. The four and twentieth to Romamtiezer, he, his sons, and his brethren, were twelve.
 
-## 1Chr.26
+## 1 Chronicles 26
 
 1. Concerning the divisions of the porters: Of the Korhites was Meshelemiah the son of Kore, of the sons of Asaph.
 
@@ -1766,7 +1766,7 @@
 
 32. And his brethren, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.
 
-## 1Chr.27
+## 1 Chronicles 27
 
 1. Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand.
 
@@ -1836,7 +1836,7 @@
 
 34. And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king's army was Joab.
 
-## 1Chr.28
+## 1 Chronicles 28
 
 1. And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.
 
@@ -1880,7 +1880,7 @@
 
 21. And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment.
 
-## 1Chr.29
+## 1 Chronicles 29
 
 1. Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God.
 

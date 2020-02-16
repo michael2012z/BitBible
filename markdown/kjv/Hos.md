@@ -1,6 +1,6 @@
 # Hos
 
-## Hos.1
+## Hosea 1
 
 1. The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 
@@ -24,7 +24,7 @@
 
 11. Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
 
-## Hos.2
+## Hosea 2
 
 1. Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.
 
@@ -72,7 +72,7 @@
 
 23. And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God.
 
-## Hos.3
+## Hosea 3
 
 1. Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.
 
@@ -84,7 +84,7 @@
 
 5. Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.
 
-## Hos.4
+## Hosea 4
 
 1. Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
 
@@ -124,7 +124,7 @@
 
 19. The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.
 
-## Hos.5
+## Hosea 5
 
 1. Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.
 
@@ -156,7 +156,7 @@
 
 15. I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
-## Hos.6
+## Hosea 6
 
 1. Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
 
@@ -180,7 +180,7 @@
 
 11. Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people.
 
-## Hos.7
+## Hosea 7
 
 1. When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without.
 
@@ -214,7 +214,7 @@
 
 16. They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.
 
-## Hos.8
+## Hosea 8
 
 1. Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.
 
@@ -244,7 +244,7 @@
 
 14. For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.
 
-## Hos.9
+## Hosea 9
 
 1. Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.
 
@@ -280,7 +280,7 @@
 
 17. My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.
 
-## Hos.10
+## Hosea 10
 
 1. Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.
 
@@ -312,7 +312,7 @@
 
 15. So shall Bethel do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.
 
-## Hos.11
+## Hosea 11
 
 1. When Israel was a child, then I loved him, and called my son out of Egypt.
 
@@ -338,7 +338,7 @@
 
 12. Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.
 
-## Hos.12
+## Hosea 12
 
 1. Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.
 
@@ -368,7 +368,7 @@
 
 14. Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.
 
-## Hos.13
+## Hosea 13
 
 1. When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.
 
@@ -402,7 +402,7 @@
 
 16. Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
 
-## Hos.14
+## Hosea 14
 
 1. O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.
 

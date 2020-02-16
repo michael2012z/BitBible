@@ -1,6 +1,6 @@
 # Acts
 
-## Acts.1
+## Acts 1
 
 __Jesus Taken Up Into Heaven__
 
@@ -58,7 +58,7 @@ __Mattias Chosen to Replace Judas__
 
 26. Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles.
 
-## Acts.2
+## Acts 2
 
 __The Holy Spirit Comes at Pentecost__
 
@@ -160,7 +160,7 @@ __The Fellowship of the Believers__
 
 47. praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.
 
-## Acts.3
+## Acts 3
 
 __Peter Heals the Crippled Beggar__
 
@@ -218,7 +218,7 @@ __Peter Speaks to the Onlookers__
 
 26. When God raised up his servant, he sent him first to you to bless you by turning each of you from your wicked ways."
 
-## Acts.4
+## Acts 4
 
 __Peter and John Before the Sanhedrin__
 
@@ -300,7 +300,7 @@ __The Believers Share Their Possessions__
 
 37. sold a field he owned and brought the money and put it at the apostles' feet.
 
-## Acts.5
+## Acts 5
 
 __Ananias and Sapphira__
 
@@ -392,7 +392,7 @@ __The Apostles Persecuted__
 
 42. Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Christ. 
 
-## Acts.6
+## Acts 6
 
 __The Choosing of the Seven__
 
@@ -428,7 +428,7 @@ __Stephen Seized__
 
 15. All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.
 
-## Acts.7
+## Acts 7
 
 __Stephen's Speech to the Sanhedrin__
 
@@ -554,7 +554,7 @@ __The Stoning of Stephen__
 
 60. Then he fell on his knees and cried out, "Lord, do not hold this sin against them." When he had said this, he fell asleep.
 
-## Acts.8
+## Acts 8
 
 1. And Saul was there, giving approval to his death.
 
@@ -644,7 +644,7 @@ __Philip and the Ethiopian__
 
 40. Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.
 
-## Acts.9
+## Acts 9
 
 __Saul's Conversion__
 
@@ -740,7 +740,7 @@ __Aeneas and Dorcas__
 
 43. Peter stayed in Joppa for some time with a tanner named Simon.
 
-## Acts.10
+## Acts 10
 
 __Cornelius Calls for Peter__
 
@@ -846,7 +846,7 @@ __Peter at Cornelius' House__
 
 48. So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.
 
-## Acts.11
+## Acts 11
 
 __Peter Explains His Actions__
 
@@ -912,7 +912,7 @@ __The Church in Antioch__
 
 30. This they did, sending their gift to the elders by Barnabas and Saul.
 
-## Acts.12
+## Acts 12
 
 __Peter's Miraculous Escape from Prison__
 
@@ -970,7 +970,7 @@ __Herod's Death__
 
 25. When Barnabas and Saul had finished their mission, they returned from Jerusalem, taking with them John, also called Mark.
 
-## Acts.13
+## Acts 13
 
 __Barnabas and Saul Sent Off__
 
@@ -1082,7 +1082,7 @@ __In Pisidian Antioch__
 
 52. And the disciples were filled with joy and with the Holy Spirit.
 
-## Acts.14
+## Acts 14
 
 __In Iconium__
 
@@ -1146,7 +1146,7 @@ __The Return to Antioch in Syria__
 
 28. And they stayed there a long time with the disciples.
 
-## Acts.15
+## Acts 15
 
 __The Council at Jerusalem__
 
@@ -1234,7 +1234,7 @@ __Disagreement Between Paul and Baranabas__
 
 41. He went through Syria and Cilicia, strengthening the churches.
 
-## Acts.16
+## Acts 16
 
 __Timothy Joins Paul and Silas__
 
@@ -1324,7 +1324,7 @@ __Paul and Silas in Prison__
 
 40. After Paul and Silas came out of the prison, they went to Lydia's house, where they met with the brothers and encouraged them. Then they left.
 
-## Acts.17
+## Acts 17
 
 __In Thessalonica__
 
@@ -1400,7 +1400,7 @@ __In Athens__
 
 34. A few men became followers of Paul and believed. Among them was Dionysius, a member of the Areopagus, also a woman named Damaris, and a number of others.
 
-## Acts.18
+## Acts 18
 
 __In Corinth__
 
@@ -1462,7 +1462,7 @@ __Priscilla, Aquila and Apollos__
 
 28. For he vigorously refuted the Jews in public debate, proving from the Scriptures that Jesus was the Christ.
 
-## Acts.19
+## Acts 19
 
 __Paul in Ephesus__
 
@@ -1550,7 +1550,7 @@ __The Riot in Ephesus__
 
 41. After he had said this, he dismissed the assembly.
 
-## Acts.20
+## Acts 20
 
 __Through Macedonia and Greece__
 
@@ -1634,7 +1634,7 @@ __Paul's Farewell to the Ephesian Elders__
 
 38. What grieved them most was his statement that they would never see his face again. Then they accompanied him to the ship.
 
-## Acts.21
+## Acts 21
 
 __On to Jerusalem__
 
@@ -1724,7 +1724,7 @@ __Paul Speaks to the Crowd__
 
 40. Having received the commander's permission, Paul stood on the steps and motioned to the crowd. When they were all silent, he said to them in Aramaic :
 
-## Acts.22
+## Acts 22
 
 1. "Brothers and fathers, listen now to my defense."
 
@@ -1790,7 +1790,7 @@ __Before the Sanhedrin__
 
 30. The next day, since the commander wanted to find out exactly why Paul was being accused by the Jews, he released him and ordered the chief priests and all the Sanhedrin to assemble. Then he brought Paul and had him stand before them.
 
-## Acts.23
+## Acts 23
 
 1. Paul looked straight at the Sanhedrin and said, "My brothers, I have fulfilled my duty to God in all good conscience to this day."
 
@@ -1866,7 +1866,7 @@ __Paul Transferred to Caesarea__
 
 35. he said, "I will hear your case when your accusers get here." Then he ordered that Paul be kept under guard in Herod's palace.
 
-## Acts.24
+## Acts 24
 
 __The Trial Before Felix__
 
@@ -1922,7 +1922,7 @@ __The Trial Before Felix__
 
 27. When two years had passed, Felix was succeeded by Porcius Festus, but because Felix wanted to grant a favor to the Jews, he left Paul in prison.
 
-## Acts.25
+## Acts 25
 
 __The Trial Before Festus__
 
@@ -1984,7 +1984,7 @@ __Paul Before Agrippa__
 
 27. For I think it is unreasonable to send on a prisoner without specifying the charges against him."
 
-## Acts.26
+## Acts 26
 
 1. Then Agrippa said to Paul, "You have permission to speak for yourself." So Paul motioned with his hand and began his defense:
 
@@ -2050,7 +2050,7 @@ __Paul Before Agrippa__
 
 32. Agrippa said to Festus, "This man could have been set free if he had not appealed to Caesar."
 
-## Acts.27
+## Acts 27
 
 __Paul Sails for Rome__
 
@@ -2146,7 +2146,7 @@ __The Shipwreck__
 
 44. The rest were to get there on planks or on pieces of the ship. In this way everyone reached land in safety.
 
-## Acts.28
+## Acts 28
 
 __Ashore on Malta__
 

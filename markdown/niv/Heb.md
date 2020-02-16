@@ -1,6 +1,6 @@
 # Heb
 
-## Heb.1
+## Hebrews 1
 
 __The Son Superior to Angels__
 
@@ -32,7 +32,7 @@ __The Son Superior to Angels__
 
 14. Are not all angels ministering spirits sent to serve those who will inherit salvation?
 
-## Heb.2
+## Hebrews 2
 
 __Warning to Pay Attention__
 
@@ -74,7 +74,7 @@ __Jesus Made Like His Brothers__
 
 18. Because he himself suffered when he was tempted, he is able to help those who are being tempted.
 
-## Heb.3
+## Hebrews 3
 
 __Jesus Greater Than Moses__
 
@@ -118,7 +118,7 @@ __Warning Against Unbelief__
 
 19. So we see that they were not able to enter, because of their unbelief.
 
-## Heb.4
+## Hebrews 4
 
 __A Sabbath-rest for the People of God__
 
@@ -156,7 +156,7 @@ __Jesus the Great High Priest__
 
 16. Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.
 
-## Heb.5
+## Hebrews 5
 
 1. Every high priest is selected from among men and is appointed to represent them in matters related to God, to offer gifts and sacrifices for sins.
 
@@ -188,7 +188,7 @@ __Warning Against Falling Away__
 
 14. But solid food is for the mature, who by constant use have trained themselves to distinguish good from evil.
 
-## Heb.6
+## Hebrews 6
 
 1. Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from acts that lead to death, and of faith in God,
 
@@ -232,7 +232,7 @@ __The Certainty of God's Promise__
 
 20. where Jesus, who went before us, has entered on our behalf. He has become a high priest forever, in the order of Melchizedek.
 
-## Heb.7
+## Hebrews 7
 
 __Melchizedek the Priest__
 
@@ -294,7 +294,7 @@ __Jesus Like Melchizedek__
 
 28. For the law appoints as high priests men who are weak; but the oath, which came after the law, appointed the Son, who has been made perfect forever.
 
-## Heb.8
+## Hebrews 8
 
 __The High Priest of a New Covenant__
 
@@ -324,7 +324,7 @@ __The High Priest of a New Covenant__
 
 13. By calling this covenant "new," he has made the first one obsolete; and what is obsolete and aging will soon disappear.
 
-## Heb.9
+## Hebrews 9
 
 __Worship in the Earthly Tabernacle__
 
@@ -386,7 +386,7 @@ __The Blood of Christ__
 
 28. so Christ was sacrificed once to take away the sins of many people; and he will appear a second time, not to bear sin, but to bring salvation to those who are waiting for him.
 
-## Heb.10
+## Hebrews 10
 
 __Christ's Sacrifice Once for All__
 
@@ -470,7 +470,7 @@ __A Call to Persevere__
 
 39. But we are not of those who shrink back and are destroyed, but of those who believe and are saved.
 
-## Heb.11
+## Hebrews 11
 
 __By Faith__
 
@@ -554,7 +554,7 @@ __By Faith__
 
 40. God had planned something better for us so that only together with us would they be made perfect.
 
-## Heb.12
+## Hebrews 12
 
 __God Disciplines His Sons__
 
@@ -618,7 +618,7 @@ __Warning Against Refusing God__
 
 29. for our "God is a consuming fire." 
 
-## Heb.13
+## Hebrews 13
 
 __Concluding Exhortations__
 

@@ -1,6 +1,6 @@
 # Neh
 
-## Neh.1
+## Nehemiah 1
 
 __Nehemiah's Prayer__
 
@@ -26,7 +26,7 @@ __Nehemiah's Prayer__
 
 11. O Lord, let your ear be attentive to the prayer of this your servant and to the prayer of your servants who delight in revering your name. Give your servant success today by granting him favor in the presence of this man." I was cupbearer to the king.
 
-## Neh.2
+## Nehemiah 2
 
 __Artaxerxes Sends Nehemiah to Jerusalem__
 
@@ -72,7 +72,7 @@ __Nehemiah Inspects Jerusalem's Walls__
 
 20. I answered them by saying, "The God of heaven will give us success. We his servants will start rebuilding, but as for you, you have no share in Jerusalem or any claim or historic right to it."
 
-## Neh.3
+## Nehemiah 3
 
 __Builders of the Wall__
 
@@ -140,7 +140,7 @@ __Builders of the Wall__
 
 32. and between the room above the corner and the Sheep Gate the goldsmiths and merchants made repairs.
 
-## Neh.4
+## Nehemiah 4
 
 __Opposition to the Rebuilding__
 
@@ -190,7 +190,7 @@ __Opposition to the Rebuilding__
 
 23. Neither I nor my brothers nor my men nor the guards with me took off our clothes; each had his weapon, even when he went for water. 
 
-## Neh.5
+## Nehemiah 5
 
 __Nehemiah Helps the Poor__
 
@@ -232,7 +232,7 @@ __Nehemiah Helps the Poor__
 
 19. Remember me with favor, O my God, for all I have done for these people.
 
-## Neh.6
+## Nehemiah 6
 
 __Further Opposition to the Rebuilding__
 
@@ -276,7 +276,7 @@ __The Completion of the Wall__
 
 19. Moreover, they kept reporting to me his good deeds and then telling him what I said. And Tobiah sent letters to intimidate me.
 
-## Neh.7
+## Nehemiah 7
 
 1. After the wall had been rebuilt and I had set the doors in place, the gatekeepers and the singers and the Levites were appointed.
 
@@ -426,7 +426,7 @@ __The List of the Exiles Who Returned__
 
 73. The priests, the Levites, the gatekeepers, the singers and the temple servants, along with certain of the people and the rest of the Israelites, settled in their own towns. When the seventh month came and the Israelites had settled in their towns,
 
-## Neh.8
+## Nehemiah 8
 
 __Ezra Reads the Law__
 
@@ -466,7 +466,7 @@ __Ezra Reads the Law__
 
 18. Day after day, from the first day to the last, Ezra read from the Book of the Law of God. They celebrated the feast for seven days, and on the eighth day, in accordance with the regulation, there was an assembly.
 
-## Neh.9
+## Nehemiah 9
 
 __The Israelites Confess Their Sins__
 
@@ -548,7 +548,7 @@ __The Agreement of the People__
 
 38. "In view of all this, we are making a binding agreement, putting it in writing, and our leaders, our Levites and our priests are affixing their seals to it."
 
-## Neh.10
+## Nehemiah 10
 
 1. Those who sealed it were: Nehemiah the governor, the son of Hacaliah. Zedekiah,
 
@@ -628,7 +628,7 @@ __The Agreement of the People__
 
 39. The people of Israel, including the Levites, are to bring their contributions of grain, new wine and oil to the storerooms where the articles for the sanctuary are kept and where the ministering priests, the gatekeepers and the singers stay. "We will not neglect the house of our God."
 
-## Neh.11
+## Nehemiah 11
 
 __The New Residents of Jerusalem__
 
@@ -704,7 +704,7 @@ __The New Residents of Jerusalem__
 
 36. Some of the divisions of the Levites of Judah settled in Benjamin.
 
-## Neh.12
+## Nehemiah 12
 
 __Priests and Levites__
 
@@ -804,7 +804,7 @@ __Dedication of the Wall of Jerusalem__
 
 47. So in the days of Zerubbabel and of Nehemiah, all Israel contributed the daily portions for the singers and gatekeepers. They also set aside the portion for the other Levites, and the Levites set aside the portion for the descendants of Aaron.
 
-## Neh.13
+## Nehemiah 13
 
 __Nehemiah's Final Reforms__
 

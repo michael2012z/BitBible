@@ -1,6 +1,6 @@
 # 3John
 
-## 3John.1
+## 3 John 1
 
 1. The elder, To my dear friend Gaius, whom I love in the truth.
 

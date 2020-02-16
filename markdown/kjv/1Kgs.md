@@ -1,6 +1,6 @@
 # 1Kgs
 
-## 1Kgs.1
+## 1 Kings 1
 
 1. Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.
 
@@ -108,7 +108,7 @@
 
 53. So king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon: and Solomon said unto him, Go to thine house.
 
-## 1Kgs.2
+## 1 Kings 2
 
 1. Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,
 
@@ -202,7 +202,7 @@
 
 46. So the king commanded Benaiah the son of Jehoiada; which went out, and fell upon him, that he died. And the kingdom was established in the hand of Solomon.
 
-## 1Kgs.3
+## 1 Kings 3
 
 1. And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about.
 
@@ -260,7 +260,7 @@
 
 28. And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment.
 
-## 1Kgs.4
+## 1 Kings 4
 
 1. So king Solomon was king over all Israel.
 
@@ -330,7 +330,7 @@
 
 34. And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom.
 
-## 1Kgs.5
+## 1 Kings 5
 
 1. And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.
 
@@ -368,7 +368,7 @@
 
 18. And Solomon's builders and Hiram's builders did hew them, and the stonesquarers: so they prepared timber and stones to build the house.
 
-## 1Kgs.6
+## 1 Kings 6
 
 1. And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD.
 
@@ -446,7 +446,7 @@
 
 38. And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.
 
-## 1Kgs.7
+## 1 Kings 7
 
 1. But Solomon was building his own house thirteen years, and he finished all his house.
 
@@ -550,7 +550,7 @@
 
 51. So was ended all the work that king Solomon made for the house of the LORD. And Solomon brought in the things which David his father had dedicated; even the silver, and the gold, and the vessels, did he put among the treasures of the house of the LORD.
 
-## 1Kgs.8
+## 1 Kings 8
 
 1. Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the LORD out of the city of David, which is Zion.
 
@@ -684,7 +684,7 @@
 
 66. On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the LORD had done for David his servant, and for Israel his people.
 
-## 1Kgs.9
+## 1 Kings 9
 
 1. And it came to pass, when Solomon had finished the building of the house of the LORD, and the king's house, and all Solomon's desire which he was pleased to do,
 
@@ -742,7 +742,7 @@
 
 28. And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon.
 
-## 1Kgs.10
+## 1 Kings 10
 
 1. And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.
 
@@ -802,7 +802,7 @@
 
 29. And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means.
 
-## 1Kgs.11
+## 1 Kings 11
 
 1. But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;
 
@@ -890,7 +890,7 @@
 
 43. And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.
 
-## 1Kgs.12
+## 1 Kings 12
 
 1. And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 
@@ -958,7 +958,7 @@
 
 33. So he offered upon the altar which he had made in Bethel the fifteenth day of the eighth month, even in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense.
 
-## 1Kgs.13
+## 1 Kings 13
 
 1. And, behold, there came a man of God out of Judah by the word of the LORD unto Bethel: and Jeroboam stood by the altar to burn incense.
 
@@ -1028,7 +1028,7 @@
 
 34. And this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth.
 
-## 1Kgs.14
+## 1 Kings 14
 
 1. At that time Abijah the son of Jeroboam fell sick.
 
@@ -1092,7 +1092,7 @@
 
 31. And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead.
 
-## 1Kgs.15
+## 1 Kings 15
 
 1. Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.
 
@@ -1162,7 +1162,7 @@
 
 34. And he did evil in the sight of the LORD, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin.
 
-## 1Kgs.16
+## 1 Kings 16
 
 1. Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying,
 
@@ -1232,7 +1232,7 @@
 
 34. In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun.
 
-## 1Kgs.17
+## 1 Kings 17
 
 1. And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
 
@@ -1282,7 +1282,7 @@
 
 24. And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of the LORD in thy mouth is truth.
 
-## 1Kgs.18
+## 1 Kings 18
 
 1. And it came to pass after many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth.
 
@@ -1376,7 +1376,7 @@
 
 46. And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.
 
-## 1Kgs.19
+## 1 Kings 19
 
 1. And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.
 
@@ -1420,7 +1420,7 @@
 
 21. And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.
 
-## 1Kgs.20
+## 1 Kings 20
 
 1. And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it.
 
@@ -1508,7 +1508,7 @@
 
 43. And the king of Israel went to his house heavy and displeased, and came to Samaria.
 
-## 1Kgs.21
+## 1 Kings 21
 
 1. And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria.
 
@@ -1568,7 +1568,7 @@
 
 29. Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: but in his son's days will I bring the evil upon his house.
 
-## 1Kgs.22
+## 1 Kings 22
 
 1. And they continued three years without war between Syria and Israel.
 

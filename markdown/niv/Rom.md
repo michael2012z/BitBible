@@ -1,6 +1,6 @@
 # Rom
 
-## Rom.1
+## Romans 1
 
 1. Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God -
 
@@ -70,7 +70,7 @@ __God's Wrath Against Mankind__
 
 32. Although they know God's righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them.
 
-## Rom.2
+## Romans 2
 
 __God's Righteous Judgment__
 
@@ -134,7 +134,7 @@ __The Jews and the Law__
 
 29. No, a man is a Jew if he is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the written code. Such a man's praise is not from men, but from God.
 
-## Rom.3
+## Romans 3
 
 __God's Faithfulness__
 
@@ -204,7 +204,7 @@ __Righteousness Through Faith__
 
 31. Do we, then, nullify the law by this faith? Not at all! Rather, we uphold the law.
 
-## Rom.4
+## Romans 4
 
 __Abraham Justified by Faith__
 
@@ -258,7 +258,7 @@ __Abraham Justified by Faith__
 
 25. He was delivered over to death for our sins and was raised to life for our justification.
 
-## Rom.5
+## Romans 5
 
 __Peace and Joy__
 
@@ -306,7 +306,7 @@ __Death Through Adam, Life Through Christ__
 
 21. so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord.
 
-## Rom.6
+## Romans 6
 
 __Dead to Sin, Alive in Christ__
 
@@ -358,7 +358,7 @@ __Slaves to Righteousness__
 
 23. For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
-## Rom.7
+## Romans 7
 
 __An Illustration From Marriage__
 
@@ -414,7 +414,7 @@ __Strugging With Sin__
 
 25. Thanks be to God - through Jesus Christ our Lord! So then, I myself in my mind am a slave to God's law, but in the sinful nature a slave to the law of sin.
 
-## Rom.8
+## Romans 8
 
 __Life Through the Spirit__
 
@@ -500,7 +500,7 @@ __More Than Conquerors__
 
 39. neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.
 
-## Rom.9
+## Romans 9
 
 __God's Sovereign Choice__
 
@@ -572,7 +572,7 @@ __Israel's Unbelief__
 
 33. As it is written: "See, I lay in Zion a stone that causes men to stumble and a rock that makes them fall, and the one who trusts in him will never be put to shame." 
 
-## Rom.10
+## Romans 10
 
 1. Brothers, my heart's desire and prayer to God for the Israelites is that they may be saved.
 
@@ -616,7 +616,7 @@ __Israel's Unbelief__
 
 21. But concerning Israel he says, "All day long I have held out my hands to a disobedient and obstinate people." 
 
-## Rom.11
+## Romans 11
 
 __The Remnant of Israel__
 
@@ -694,7 +694,7 @@ __All Israel Will Be Saved__
 
 36. For from him and through him and to him are all things. To him be the glory forever! Amen.
 
-## Rom.12
+## Romans 12
 
 __Living Sacrifices__
 
@@ -742,7 +742,7 @@ __Love__
 
 21. Do not be overcome by evil, but overcome evil with good.
 
-## Rom.13
+## Romans 13
 
 __Submission to the Authorities__
 
@@ -776,7 +776,7 @@ __Love, for the Day Is Near__
 
 14. Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the sinful nature. 
 
-## Rom.14
+## Romans 14
 
 __The Weak and the Strong__
 
@@ -826,7 +826,7 @@ __The Weak and the Strong__
 
 23. But the man who has doubts is condemned if he eats, because his eating is not from faith; and everything that does not come from faith is sin.
 
-## Rom.15
+## Romans 15
 
 1. We who are strong ought to bear with the failings of the weak and not to please ourselves.
 
@@ -898,7 +898,7 @@ __Paul's Plan to Visit Rome__
 
 33. The God of peace be with you all. Amen.
 
-## Rom.16
+## Romans 16
 
 __Personal Greetings__
 

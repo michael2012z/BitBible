@@ -1,6 +1,6 @@
 # 2Kgs
 
-## 2Kgs.1
+## 2 Kings 1
 
 __The LORD'S Judgment on Ahaziah__
 
@@ -40,7 +40,7 @@ __The LORD'S Judgment on Ahaziah__
 
 18. As for all the other events of Ahaziah's reign, and what he did, are they not written in the book of the annals of the kings of Israel?
 
-## 2Kgs.2
+## 2 Kings 2
 
 __Elijah Taken up to Heaven__
 
@@ -98,7 +98,7 @@ __Elisha is Jeered__
 
 25. And he went on to Mount Carmel and from there returned to Samaria.
 
-## 2Kgs.3
+## 2 Kings 3
 
 __Moab Revolts__
 
@@ -156,7 +156,7 @@ __Moab Revolts__
 
 27. Then he took his firstborn son, who was to succeed him as king, and offered him as a sacrifice on the city wall. The fury against Israel was great; they withdrew and returned to their own land.
 
-## 2Kgs.4
+## 2 Kings 4
 
 __The Widow's Oil__
 
@@ -254,7 +254,7 @@ __Feeding of a Hundred__
 
 44. Then he set it before them, and they ate and had some left over, according to the word of the LORD.
 
-## 2Kgs.5
+## 2 Kings 5
 
 __Naaman Healed of Leprosy__
 
@@ -312,7 +312,7 @@ __Naaman Healed of Leprosy__
 
 27. Naaman's leprosy will cling to you and to your descendants forever." Then Gehazi went from Elisha's presence and he was leprous, as white as snow.
 
-## 2Kgs.6
+## 2 Kings 6
 
 __An Axhead Floats__
 
@@ -386,7 +386,7 @@ __Famine in Besieged Samaria__
 
 33. While he was still talking to them, the messenger came down to him. And [the king] said, "This disaster is from the LORD. Why should I wait for the LORD any longer?"
 
-## 2Kgs.7
+## 2 Kings 7
 
 1. Elisha said, "Hear the word of the LORD. This is what the LORD says: About this time tomorrow, a seah of flour will sell for a shekel and two seahs of barley for a shekel at the gate of Samaria."
 
@@ -430,7 +430,7 @@ __The Siege Lifted__
 
 20. And that is exactly what happened to him, for the people trampled him in the gateway, and he died.
 
-## 2Kgs.8
+## 2 Kings 8
 
 __The Shunammite's Land Restored__
 
@@ -498,7 +498,7 @@ __Ahaziah King of Judah__
 
 29. so King Joram returned to Jezreel to recover from the wounds the Arameans had inflicted on him at Ramoth in his battle with Hazael king of Aram. Then Ahaziah son of Jehoram king of Judah went down to Jezreel to see Joram son of Ahab, because he had been wounded.
 
-## 2Kgs.9
+## 2 Kings 9
 
 __Jehu Anointed King of Israel__
 
@@ -580,7 +580,7 @@ __Jezebel Killed__
 
 37. Jezebel's body will be like refuse on the ground in the plot at Jezreel, so that no one will be able to say, `This is Jezebel.'"
 
-## 2Kgs.10
+## 2 Kings 10
 
 __Ahab's Family Killed__
 
@@ -658,7 +658,7 @@ __Ministers of Baal Killed__
 
 36. The time that Jehu reigned over Israel in Samaria was twenty-eight years.
 
-## 2Kgs.11
+## 2 Kings 11
 
 __Athaliah and Joash__
 
@@ -704,7 +704,7 @@ __Athaliah and Joash__
 
 21. Joash was seven years old when he began to reign.
 
-## 2Kgs.12
+## 2 Kings 12
 
 __Joash Repairs the Temple__
 
@@ -750,7 +750,7 @@ __Joash Repairs the Temple__
 
 21. The officials who murdered him were Jozabad son of Shimeath and Jehozabad son of Shomer. He died and was buried with his fathers in the City of David. And Amaziah his son succeeded him as king.
 
-## 2Kgs.13
+## 2 Kings 13
 
 __Jehoahaz King of Israel__
 
@@ -806,7 +806,7 @@ __Jehoash King of Israel__
 
 25. Then Jehoash son of Jehoahaz recaptured from Ben-Hadad son of Hazael the towns he had taken in battle from his father Jehoahaz. Three times Jehoash defeated him, and so he recovered the Israelite towns.
 
-## 2Kgs.14
+## 2 Kings 14
 
 __Amaziah King of Judah__
 
@@ -870,7 +870,7 @@ __Jeroboam II King of Israel__
 
 29. Jeroboam rested with his fathers, the kings of Israel. And Zechariah his son succeeded him as king.
 
-## 2Kgs.15
+## 2 Kings 15
 
 __Azariah King of Judah__
 
@@ -962,7 +962,7 @@ __Jotham King of Judah__
 
 38. Jotham rested with his fathers and was buried with them in the City of David, the city of his father. And Ahaz his son succeeded him as king.
 
-## 2Kgs.16
+## 2 Kings 16
 
 __Ahaz King of Judah__
 
@@ -1006,7 +1006,7 @@ __Ahaz King of Judah__
 
 20. Ahaz rested with his fathers and was buried with them in the City of David. And Hezekiah his son succeeded him as king.
 
-## 2Kgs.17
+## 2 Kings 17
 
 __Hoshea Last King of Israel__
 
@@ -1096,7 +1096,7 @@ __Samaria Resettled__
 
 41. Even while these people were worshiping the LORD, they were serving their idols. To this day their children and grandchildren continue to do as their fathers did.
 
-## 2Kgs.18
+## 2 Kings 18
 
 __Hezekiah King of Judah__
 
@@ -1176,7 +1176,7 @@ __Sennacherib Threatens Jerusalem__
 
 37. Then Eliakim son of Hilkiah the palace administrator, Shebna the secretary and Joah son of Asaph the recorder went to Hezekiah, with their clothes torn, and told him what the field commander had said.
 
-## 2Kgs.19
+## 2 Kings 19
 
 __Jerusalem's Deliverance Foretold__
 
@@ -1258,7 +1258,7 @@ __Isaiah Prophesies Sennacherib's Fall__
 
 37. One day, while he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer cut him down with the sword, and they escaped to the land of Ararat. And Esarhaddon his son succeeded him as king.
 
-## 2Kgs.20
+## 2 Kings 20
 
 __Hezekiah's Illness__
 
@@ -1306,7 +1306,7 @@ __Envoys From Babylon__
 
 21. Hezekiah rested with his fathers. And Manasseh his son succeeded him as king.
 
-## 2Kgs.21
+## 2 Kings 21
 
 __Manasseh King of Judah__
 
@@ -1364,7 +1364,7 @@ __Amon King of Judah__
 
 26. He was buried in his grave in the garden of Uzza. And Josiah his son succeeded him as king.
 
-## 2Kgs.22
+## 2 Kings 22
 
 __The Book of the Law Found__
 
@@ -1408,7 +1408,7 @@ __The Book of the Law Found__
 
 20. Therefore I will gather you to your fathers, and you will be buried in peace. Your eyes will not see all the disaster I am going to bring on this place.'" So they took her answer back to the king.
 
-## 2Kgs.23
+## 2 Kings 23
 
 __Josiah Renews the Covenant__
 
@@ -1490,7 +1490,7 @@ __Jehoiakim King of Judah__
 
 37. And he did evil in the eyes of the LORD, just as his fathers had done.
 
-## 2Kgs.24
+## 2 Kings 24
 
 1. During Jehoiakim's reign, Nebuchadnezzar king of Babylon invaded the land, and Jehoiakim became his vassal for three years. But then he changed his mind and rebelled against Nebuchadnezzar.
 
@@ -1540,7 +1540,7 @@ __The Fall of Jerusalem__
 
 20. Now Zedekiah rebelled against the king of Babylon.
 
-## 2Kgs.25
+## 2 Kings 25
 
 1. So in the ninth year of Zedekiah's reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his whole army. He encamped outside the city and built siege works all around it.
 

@@ -1,6 +1,6 @@
 # 2Tim
 
-## 2Tim.1
+## 2 Timothy 1
 
 __The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.__
 
@@ -40,7 +40,7 @@ __The second epistle unto Timotheus, ordained the first bishop of the church of 
 
 18. The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.
 
-## 2Tim.2
+## 2 Timothy 2
 
 1. Thou therefore, my son, be strong in the grace that is in Christ Jesus.
 
@@ -94,7 +94,7 @@ __The second epistle unto Timotheus, ordained the first bishop of the church of 
 
 26. And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 
-## 2Tim.3
+## 2 Timothy 3
 
 1. This know also, that in the last days perilous times shall come.
 
@@ -130,7 +130,7 @@ __The second epistle unto Timotheus, ordained the first bishop of the church of 
 
 17. That the man of God may be perfect, throughly furnished unto all good works.
 
-## 2Tim.4
+## 2 Timothy 4
 
 1. I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;
 

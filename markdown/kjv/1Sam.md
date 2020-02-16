@@ -1,6 +1,6 @@
 # 1Sam
 
-## 1Sam.1
+## 1 Samuel 1
 
 1. Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:
 
@@ -58,7 +58,7 @@
 
 28. Therefore also I have lent him to the LORD; as long as he liveth he shall be lent to the LORD. And he worshipped the LORD there.
 
-## 1Sam.2
+## 1 Samuel 2
 
 1. And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.
 
@@ -132,7 +132,7 @@
 
 36. And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread.
 
-## 1Sam.3
+## 1 Samuel 3
 
 1. And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; there was no open vision.
 
@@ -176,7 +176,7 @@
 
 21. And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD.
 
-## 1Sam.4
+## 1 Samuel 4
 
 1. And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Ebenezer: and the Philistines pitched in Aphek.
 
@@ -222,7 +222,7 @@
 
 22. And she said, The glory is departed from Israel: for the ark of God is taken.
 
-## 1Sam.5
+## 1 Samuel 5
 
 1. And the Philistines took the ark of God, and brought it from Ebenezer unto Ashdod.
 
@@ -248,7 +248,7 @@
 
 12. And the men that died not were smitten with the emerods: and the cry of the city went up to heaven.
 
-## 1Sam.6
+## 1 Samuel 6
 
 1. And the ark of the LORD was in the country of the Philistines seven months.
 
@@ -292,7 +292,7 @@
 
 21. And they sent messengers to the inhabitants of Kirjathjearim, saying, The Philistines have brought again the ark of the LORD; come ye down, and fetch it up to you.
 
-## 1Sam.7
+## 1 Samuel 7
 
 1. And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD.
 
@@ -328,7 +328,7 @@
 
 17. And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD.
 
-## 1Sam.8
+## 1 Samuel 8
 
 1. And it came to pass, when Samuel was old, that he made his sons judges over Israel.
 
@@ -374,7 +374,7 @@
 
 22. And the LORD said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city.
 
-## 1Sam.9
+## 1 Samuel 9
 
 1. Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.
 
@@ -430,7 +430,7 @@
 
 27. And as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God.
 
-## 1Sam.10
+## 1 Samuel 10
 
 1. Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said, Is it not because the LORD hath anointed thee to be captain over his inheritance?
 
@@ -486,7 +486,7 @@
 
 27. But the children of Belial said, How shall this man save us? And they despised him, and brought him no presents. But he held his peace.
 
-## 1Sam.11
+## 1 Samuel 11
 
 1. Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.
 
@@ -518,7 +518,7 @@
 
 15. And all the people went to Gilgal; and there they made Saul king before the LORD in Gilgal; and there they sacrificed sacrifices of peace offerings before the LORD; and there Saul and all the men of Israel rejoiced greatly.
 
-## 1Sam.12
+## 1 Samuel 12
 
 1. And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you.
 
@@ -570,7 +570,7 @@
 
 25. But if ye shall still do wickedly, ye shall be consumed, both ye and your king.
 
-## 1Sam.13
+## 1 Samuel 13
 
 1. Saul reigned one year; and when he had reigned two years over Israel,
 
@@ -618,7 +618,7 @@
 
 23. And the garrison of the Philistines went out to the passage of Michmash.
 
-## 1Sam.14
+## 1 Samuel 14
 
 1. Now it came to pass upon a day, that Jonathan the son of Saul said unto the young man that bare his armour, Come, and let us go over to the Philistines' garrison, that is on the other side. But he told not his father.
 
@@ -724,7 +724,7 @@
 
 52. And there was sore war against the Philistines all the days of Saul: and when Saul saw any strong man, or any valiant man, he took him unto him.
 
-## 1Sam.15
+## 1 Samuel 15
 
 1. Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD.
 
@@ -796,7 +796,7 @@
 
 35. And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel.
 
-## 1Sam.16
+## 1 Samuel 16
 
 1. And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons.
 
@@ -844,7 +844,7 @@
 
 23. And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him.
 
-## 1Sam.17
+## 1 Samuel 17
 
 1. Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which belongeth to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.
 
@@ -962,7 +962,7 @@
 
 58. And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Bethlehemite.
 
-## 1Sam.18
+## 1 Samuel 18
 
 1. And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
 
@@ -1024,7 +1024,7 @@
 
 30. Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by.
 
-## 1Sam.19
+## 1 Samuel 19
 
 1. And Saul spake to Jonathan his son, and to all his servants, that they should kill David.
 
@@ -1074,7 +1074,7 @@
 
 24. And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, Is Saul also among the prophets?
 
-## 1Sam.20
+## 1 Samuel 20
 
 1. And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life?
 
@@ -1160,7 +1160,7 @@
 
 42. And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city.
 
-## 1Sam.21
+## 1 Samuel 21
 
 1. Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?
 
@@ -1192,7 +1192,7 @@
 
 15. Have I need of mad men, that ye have brought this fellow to play the mad man in my presence? shall this fellow come into my house?
 
-## 1Sam.22
+## 1 Samuel 22
 
 1. David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him.
 
@@ -1240,7 +1240,7 @@
 
 23. Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou shalt be in safeguard.
 
-## 1Sam.23
+## 1 Samuel 23
 
 1. Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.
 
@@ -1300,7 +1300,7 @@
 
 29. And David went up from thence, and dwelt in strong holds at Engedi.
 
-## 1Sam.24
+## 1 Samuel 24
 
 1. And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of Engedi.
 
@@ -1346,7 +1346,7 @@
 
 22. And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold.
 
-## 1Sam.25
+## 1 Samuel 25
 
 1. And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.
 
@@ -1436,7 +1436,7 @@
 
 44. But Saul had given Michal his daughter, David's wife, to Phalti the son of Laish, which was of Gallim.
 
-## 1Sam.26
+## 1 Samuel 26
 
 1. And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?
 
@@ -1488,7 +1488,7 @@
 
 25. Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place.
 
-## 1Sam.27
+## 1 Samuel 27
 
 1. And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.
 
@@ -1514,7 +1514,7 @@
 
 12. And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.
 
-## 1Sam.28
+## 1 Samuel 28
 
 1. And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.
 
@@ -1566,7 +1566,7 @@
 
 25. And she brought it before Saul, and before his servants; and they did eat. Then they rose up, and went away that night.
 
-## 1Sam.29
+## 1 Samuel 29
 
 1. Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which is in Jezreel.
 
@@ -1590,7 +1590,7 @@
 
 11. So David and his men rose up early to depart in the morning, to return into the land of the Philistines. And the Philistines went up to Jezreel.
 
-## 1Sam.30
+## 1 Samuel 30
 
 1. And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;
 
@@ -1654,7 +1654,7 @@
 
 31. And to them which were in Hebron, and to all the places where David himself and his men were wont to haunt.
 
-## 1Sam.31
+## 1 Samuel 31
 
 1. Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
 

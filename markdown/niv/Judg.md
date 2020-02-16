@@ -1,6 +1,6 @@
 # Judg
 
-## Judg.1
+## Judges 1
 
 __Israel Fights the Remaining Canaanites__
 
@@ -76,7 +76,7 @@ __Israel Fights the Remaining Canaanites__
 
 36. The boundary of the Amorites was from Scorpion Pass to Sela and beyond.
 
-## Judg.2
+## Judges 2
 
 __The Angel of the Lord at Bokim__
 
@@ -128,7 +128,7 @@ __Disobedience and Defeat__
 
 23. The LORD had allowed those nations to remain; he did not drive them out at once by giving them into the hands of Joshua.
 
-## Judg.3
+## Judges 3
 
 1. These are the nations the LORD left to test all those Israelites who had not experienced any of the wars in Canaan
 
@@ -198,7 +198,7 @@ __Shamgar__
 
 31. After Ehud came Shamgar son of Anath, who struck down six hundred Philistines with an oxgoad. He too saved Israel.
 
-## Judg.4
+## Judges 4
 
 __Deborah__
 
@@ -250,7 +250,7 @@ __Deborah__
 
 24. And the hand of the Israelites grew stronger and stronger against Jabin, the Canaanite king, until they destroyed him.
 
-## Judg.5
+## Judges 5
 
 __The Song of Deborah__
 
@@ -316,7 +316,7 @@ __The Song of Deborah__
 
 31. "So may all your enemies perish, O LORD! But may they who love you be like the sun when it rises in its strength." Then the land had peace forty years.
 
-## Judg.6
+## Judges 6
 
 __Gideon__
 
@@ -400,7 +400,7 @@ __Gideon__
 
 40. That night God did so. Only the fleece was dry; all the ground was covered with dew.
 
-## Judg.7
+## Judges 7
 
 __Gideon Defeats the Midianites__
 
@@ -454,7 +454,7 @@ __Gideon Defeats the Midianites__
 
 25. They also captured two of the Midianite leaders, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb at the winepress of Zeeb. They pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was by the Jordan.
 
-## Judg.8
+## Judges 8
 
 __Zebah and Zalmunna__
 
@@ -532,7 +532,7 @@ __Gideon's Death__
 
 35. They also failed to show kindness to the family of Jerub-Baal (that is, Gideon) for all the good things he had done for them.
 
-## Judg.9
+## Judges 9
 
 __Abimelech__
 
@@ -650,7 +650,7 @@ __Abimelech__
 
 57. God also made the men of Shechem pay for all their wickedness. The curse of Jotham son of Jerub-Baal came on them.
 
-## Judg.10
+## Judges 10
 
 __Tola__
 
@@ -694,7 +694,7 @@ __Jephthah__
 
 18. The leaders of the people of Gilead said to each other, "Whoever will launch the attack against the Ammonites will be the head of all those living in Gilead."
 
-## Judg.11
+## Judges 11
 
 1. Jephthah the Gileadite was a mighty warrior. His father was Gilead; his mother was a prostitute.
 
@@ -776,7 +776,7 @@ __Jephthah__
 
 40. that each year the young women of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite.
 
-## Judg.12
+## Judges 12
 
 __Jephthah and Ephraim__
 
@@ -812,7 +812,7 @@ __Ibzan, Elon and Abdon__
 
 15. Then Abdon son of Hillel died, and was buried at Pirathon in Ephraim, in the hill country of the Amalekites.
 
-## Judg.13
+## Judges 13
 
 __The Birth of Samson__
 
@@ -866,7 +866,7 @@ __The Birth of Samson__
 
 25. and the Spirit of the LORD began to stir him while he was in Mahaneh Dan, between Zorah and Eshtaol.
 
-## Judg.14
+## Judges 14
 
 __Samson's Marriage__
 
@@ -910,7 +910,7 @@ __Samson's Marriage__
 
 20. And Samson's wife was given to the friend who had attended him at his wedding.
 
-## Judg.15
+## Judges 15
 
 __Samson's Vengeance on the Philistines__
 
@@ -954,7 +954,7 @@ __Samson's Vengeance on the Philistines__
 
 20. Samson led Israel for twenty years in the days of the Philistines.
 
-## Judg.16
+## Judges 16
 
 __Samson and Delilah__
 
@@ -1022,7 +1022,7 @@ __The Death of Samson__
 
 31. Then his brothers and his father's whole family went down to get him. They brought him back and buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had led Israel twenty years.
 
-## Judg.17
+## Judges 17
 
 __Micah's Idols__
 
@@ -1052,7 +1052,7 @@ __Micah's Idols__
 
 13. And Micah said, "Now I know that the LORD will be good to me, since this Levite has become my priest."
 
-## Judg.18
+## Judges 18
 
 __Danites Settle in Laish__
 
@@ -1118,7 +1118,7 @@ __Danites Settle in Laish__
 
 31. They continued to use the idols Micah had made, all the time the house of God was in Shiloh.
 
-## Judg.19
+## Judges 19
 
 __A Levite and His Concubine__
 
@@ -1182,7 +1182,7 @@ __A Levite and His Concubine__
 
 30. Everyone who saw it said, "Such a thing has never been seen or done, not since the day the Israelites came up out of Egypt. Think about it! Consider it! Tell us what to do!"
 
-## Judg.20
+## Judges 20
 
 __Israelites Fight the Benjamites__
 
@@ -1282,7 +1282,7 @@ __Israelites Fight the Benjamites__
 
 48. The men of Israel went back to Benjamin and put all the towns to the sword, including the animals and everything else they found. All the towns they came across they set on fire.
 
-## Judg.21
+## Judges 21
 
 __Wives for the Benjamites__
 

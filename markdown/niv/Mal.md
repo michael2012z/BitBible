@@ -1,6 +1,6 @@
 # Mal
 
-## Mal.1
+## Malachi 1
 
 1. An oracle: The word of the LORD to Israel through Malachi. 
 
@@ -34,7 +34,7 @@ __Blemished Sacrifices__
 
 14. "Cursed is the cheat who has an acceptable male in his flock and vows to give it, but then sacrifices a blemished animal to the Lord. For I am a great king," says the LORD Almighty, "and my name is to be feared among the nations.
 
-## Mal.2
+## Malachi 2
 
 __Admonition for the Priests__
 
@@ -76,7 +76,7 @@ __The Day of Judgment__
 
 17. You have wearied the LORD with your words. "How have we wearied him?" you ask. By saying, "All who do evil are good in the eyes of the LORD, and he is pleased with them" or "Where is the God of justice?"
 
-## Mal.3
+## Malachi 3
 
 1. "See, I will send my messenger, who will prepare the way before me. Then suddenly the Lord you are seeking will come to his temple; the messenger of the covenant, whom you desire, will come," says the LORD Almighty.
 
@@ -116,7 +116,7 @@ __Robbing God__
 
 18. And you will again see the distinction between the righteous and the wicked, between those who serve God and those who do not.
 
-## Mal.4
+## Malachi 4
 
 __The Day of the Lord__
 

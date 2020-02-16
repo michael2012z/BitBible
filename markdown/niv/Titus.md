@@ -1,6 +1,6 @@
 # Titus
 
-## Titus.1
+## Titus 1
 
 1. Paul, a servant of God and an apostle of Jesus Christ for the faith of God's elect and the knowledge of the truth that leads to godliness -
 
@@ -36,7 +36,7 @@ __Titus' Task on Crete__
 
 16. They claim to know God, but by their actions they deny him. They are detestable, disobedient and unfit for doing anything good.
 
-## Titus.2
+## Titus 2
 
 __What Must Be Taught to Various Groups__
 
@@ -70,7 +70,7 @@ __What Must Be Taught to Various Groups__
 
 15. These, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you.
 
-## Titus.3
+## Titus 3
 
 __Doing What Is Good__
 

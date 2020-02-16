@@ -1,6 +1,6 @@
 # Lam
 
-## Lam.1
+## Lamentations 1
 
 1.  How deserted lies the city, once so full of people! How like a widow is she, who once was great among the nations! She who was queen among the provinces has now become a slave.
 
@@ -46,7 +46,7 @@
 
 22. "Let all their wickedness come before you; deal with them as you have dealt with me because of all my sins. My groans are many and my heart is faint."
 
-## Lam.2
+## Lamentations 2
 
 1.  How the Lord has covered the Daughter of Zion with the cloud of his anger ! He has hurled down the splendor of Israel from heaven to earth; he has not remembered his footstool in the day of his anger.
 
@@ -92,7 +92,7 @@
 
 22. "As you summon to a feast day, so you summoned against me terrors on every side. In the day of the LORD's anger no one escaped or survived; those I cared for and reared, my enemy has destroyed."
 
-## Lam.3
+## Lamentations 3
 
 1.  I am the man who has seen affliction by the rod of his wrath.
 
@@ -226,7 +226,7 @@
 
 66. Pursue them in anger and destroy them from under the heavens of the LORD.
 
-## Lam.4
+## Lamentations 4
 
 1.  How the gold has lost its luster, the fine gold become dull! The sacred gems are scattered at the head of every street.
 
@@ -272,7 +272,7 @@
 
 22. O Daughter of Zion, your punishment will end; he will not prolong your exile. But, O Daughter of Edom, he will punish your sin and expose your wickedness.
 
-## Lam.5
+## Lamentations 5
 
 1. Remember, O LORD, what has happened to us; look, and see our disgrace.
 

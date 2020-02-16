@@ -1,6 +1,6 @@
 # Zeph
 
-## Zeph.1
+## Zephaniah 1
 
 1. The word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:
 
@@ -44,7 +44,7 @@ __The Great Day of the LORD__
 
 18. Neither their silver nor their gold will be able to save them on the day of the LORD's wrath. In the fire of his jealousy the whole world will be consumed, for he will make a sudden end of all who live in the earth."
 
-## Zeph.2
+## Zephaniah 2
 
 1. Gather together, gather together, O shameful nation,
 
@@ -84,7 +84,7 @@ __Against Assyria__
 
 15. This is the carefree city that lived in safety. She said to herself, "I am, and there is none besides me." What a ruin she has become, a lair for wild beasts! All who pass by her scoff and shake their fists.
 
-## Zeph.3
+## Zephaniah 3
 
 __The Future of Jerusalem__
 

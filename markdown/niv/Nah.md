@@ -1,6 +1,6 @@
 # Nah
 
-## Nah.1
+## Nahum 1
 
 __The LORD'S Anger Against Nineveh__
 
@@ -34,7 +34,7 @@ __The LORD'S Anger Against Nineveh__
 
 15. Look, there on the mountains, the feet of one who brings good news, who proclaims peace! Celebrate your festivals, O Judah, and fulfill your vows. No more will the wicked invade you; they will be completely destroyed.
 
-## Nah.2
+## Nahum 2
 
 __Nineveh to Fall__
 
@@ -64,7 +64,7 @@ __Nineveh to Fall__
 
 13. "I am against you," declares the LORD Almighty. "I will burn up your chariots in smoke, and the sword will devour your young lions. I will leave you no prey on the earth. The voices of your messengers will no longer be heard."
 
-## Nah.3
+## Nahum 3
 
 __Woe to Nineveh__
 

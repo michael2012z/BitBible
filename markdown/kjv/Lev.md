@@ -1,6 +1,6 @@
 # Lev
 
-## Lev.1
+## Leviticus 1
 
 1. And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,
 
@@ -36,7 +36,7 @@
 
 17. And he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.
 
-## Lev.2
+## Leviticus 2
 
 1. And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:
 
@@ -70,7 +70,7 @@
 
 16. And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD.
 
-## Lev.3
+## Leviticus 3
 
 1. And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD.
 
@@ -106,7 +106,7 @@
 
 17. It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood.
 
-## Lev.4
+## Leviticus 4
 
 1. And the LORD spake unto Moses, saying,
 
@@ -178,7 +178,7 @@
 
 35. And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.
 
-## Lev.5
+## Leviticus 5
 
 1. And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity.
 
@@ -218,7 +218,7 @@
 
 19. It is a trespass offering: he hath certainly trespassed against the LORD.
 
-## Lev.6
+## Leviticus 6
 
 1. And the LORD spake unto Moses, saying,
 
@@ -280,7 +280,7 @@
 
 30. And no sin offering, whereof any of the blood is brought into the tabernacle of the congregation to reconcile withal in the holy place, shall be eaten: it shall be burnt in the fire.
 
-## Lev.7
+## Leviticus 7
 
 1. Likewise this is the law of the trespass offering: it is most holy.
 
@@ -358,7 +358,7 @@
 
 38. Which the LORD commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations unto the LORD, in the wilderness of Sinai.
 
-## Lev.8
+## Leviticus 8
 
 1. And the LORD spake unto Moses, saying,
 
@@ -432,7 +432,7 @@
 
 36. So Aaron and his sons did all things which the LORD commanded by the hand of Moses.
 
-## Lev.9
+## Leviticus 9
 
 1. And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;
 
@@ -482,7 +482,7 @@
 
 24. And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces.
 
-## Lev.10
+## Leviticus 10
 
 1. And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not.
 
@@ -524,7 +524,7 @@
 
 20. And when Moses heard that, he was content.
 
-## Lev.11
+## Leviticus 11
 
 1. And the LORD spake unto Moses and to Aaron, saying unto them,
 
@@ -620,7 +620,7 @@
 
 47. To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.
 
-## Lev.12
+## Leviticus 12
 
 1. And the LORD spake unto Moses, saying,
 
@@ -638,7 +638,7 @@
 
 8. And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.
 
-## Lev.13
+## Leviticus 13
 
 1. And the LORD spake unto Moses and Aaron, saying,
 
@@ -758,7 +758,7 @@
 
 59. This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.
 
-## Lev.14
+## Leviticus 14
 
 1. And the LORD spake unto Moses, saying,
 
@@ -874,7 +874,7 @@
 
 57. To teach when it is unclean, and when it is clean: this is the law of leprosy.
 
-## Lev.15
+## Leviticus 15
 
 1. And the LORD spake unto Moses and to Aaron, saying,
 
@@ -942,7 +942,7 @@
 
 33. And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean.
 
-## Lev.16
+## Leviticus 16
 
 1. And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;
 
@@ -1012,7 +1012,7 @@
 
 34. And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses.
 
-## Lev.17
+## Leviticus 17
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1046,7 +1046,7 @@
 
 16. But if he wash them not, nor bathe his flesh; then he shall bear his iniquity.
 
-## Lev.18
+## Leviticus 18
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1108,7 +1108,7 @@
 
 30. Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the LORD your God.
 
-## Lev.19
+## Leviticus 19
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1184,7 +1184,7 @@
 
 37. Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the LORD.
 
-## Lev.20
+## Leviticus 20
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1240,7 +1240,7 @@
 
 27. A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood shall be upon them.
 
-## Lev.21
+## Leviticus 21
 
 1. And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:
 
@@ -1290,7 +1290,7 @@
 
 24. And Moses told it unto Aaron, and to his sons, and unto all the children of Israel.
 
-## Lev.22
+## Leviticus 22
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1358,7 +1358,7 @@
 
 33. That brought you out of the land of Egypt, to be your God: I am the LORD.
 
-## Lev.23
+## Leviticus 23
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1448,7 +1448,7 @@
 
 44. And Moses declared unto the children of Israel the feasts of the LORD.
 
-## Lev.24
+## Leviticus 24
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1496,7 +1496,7 @@
 
 23. And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses.
 
-## Lev.25
+## Leviticus 25
 
 1. And the LORD spake unto Moses in mount Sinai, saying,
 
@@ -1608,7 +1608,7 @@
 
 55. For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God.
 
-## Lev.26
+## Leviticus 26
 
 1. Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God.
 
@@ -1702,7 +1702,7 @@
 
 46. These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.
 
-## Lev.27
+## Leviticus 27
 
 1. And the LORD spake unto Moses, saying,
 

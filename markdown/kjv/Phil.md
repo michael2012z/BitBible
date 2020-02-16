@@ -1,6 +1,6 @@
 # Phil
 
-## Phil.1
+## Philippians 1
 
 __To the Philippians written from Rome, by Epaphroditus.__
 
@@ -64,7 +64,7 @@ __To the Philippians written from Rome, by Epaphroditus.__
 
 30. Having the same conflict which ye saw in me, and now hear to be in me.
 
-## Phil.2
+## Philippians 2
 
 1. If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
 
@@ -126,7 +126,7 @@ __To the Philippians written from Rome, by Epaphroditus.__
 
 30. Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
 
-## Phil.3
+## Philippians 3
 
 1. Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.
 
@@ -170,7 +170,7 @@ __To the Philippians written from Rome, by Epaphroditus.__
 
 21. Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.
 
-## Phil.4
+## Philippians 4
 
 1. Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.
 

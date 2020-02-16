@@ -1,6 +1,6 @@
 # 1Pet
 
-## 1Pet.1
+## 1 Peter 1
 
 1. Peter, an apostle of Jesus Christ, To God's elect, strangers in the world, scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia,
 
@@ -56,7 +56,7 @@ __Be Holy__
 
 25. but the word of the Lord stands forever." And this is the word that was preached to you.
 
-## 1Pet.2
+## 1 Peter 2
 
 1. Therefore, rid yourselves of all malice and all deceit, hypocrisy, envy, and slander of every kind.
 
@@ -112,7 +112,7 @@ __Submission to Rulers and Masters__
 
 25. For you were like sheep going astray, but now you have returned to the Shepherd and Overseer of your souls.
 
-## 1Pet.3
+## 1 Peter 3
 
 __Wives and Husbands__
 
@@ -162,7 +162,7 @@ __Suffering for Doing Good__
 
 22. who has gone into heaven and is at God's right hand - with angels, authorities and powers in submission to him.
 
-## 1Pet.4
+## 1 Peter 4
 
 __Living for God__
 
@@ -206,7 +206,7 @@ __Suffering for Being a Christian__
 
 19. So then, those who suffer according to God's will should commit themselves to their faithful Creator and continue to do good.
 
-## 1Pet.5
+## 1 Peter 5
 
 __To Elders and Young Men__
 

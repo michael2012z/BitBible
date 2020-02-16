@@ -1,6 +1,6 @@
 # Eccl
 
-## Eccl.1
+## Ecclesiastes 1
 
 __Everything is Meaningless__
 
@@ -40,7 +40,7 @@ __Everything is Meaningless__
 
 18. For with much wisdom comes much sorrow; the more knowledge, the more grief.
 
-## Eccl.2
+## Ecclesiastes 2
 
 __Pleasures are Meaningless__
 
@@ -100,7 +100,7 @@ __Toil Is Meaningless__
 
 26. To the man who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind.
 
-## Eccl.3
+## Ecclesiastes 3
 
 __A Time for Everything__
 
@@ -148,7 +148,7 @@ __A Time for Everything__
 
 22. So I saw that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will happen after him?
 
-## Eccl.4
+## Ecclesiastes 4
 
 __Oppression, Toil, Friendlessness__
 
@@ -186,7 +186,7 @@ __Advancement Is Meaningless__
 
 16. There was no end to all the people who were before them. But those who came later were not pleased with the successor. This too is meaningless, a chasing after the wind.
 
-## Eccl.5
+## Ecclesiastes 5
 
 __Stand in Awe of God__
 
@@ -232,7 +232,7 @@ __Riches Are Meaningless__
 
 20. He seldom reflects on the days of his life, because God keeps him occupied with gladness of heart.
 
-## Eccl.6
+## Ecclesiastes 6
 
 1. I have seen another evil under the sun, and it weighs heavily on men:
 
@@ -258,7 +258,7 @@ __Riches Are Meaningless__
 
 12. For who knows what is good for a man in life, during the few and meaningless days he passes through like a shadow? Who can tell him what will happen under the sun after he is gone?
 
-## Eccl.7
+## Ecclesiastes 7
 
 __Wisdom__
 
@@ -320,7 +320,7 @@ __Wisdom__
 
 29. This only have I found: God made mankind upright, but men have gone in search of many schemes."
 
-## Eccl.8
+## Ecclesiastes 8
 
 1. Who is like the wise man? Who knows the explanation of things? Wisdom brightens a man's face and changes its hard appearance.
 
@@ -358,7 +358,7 @@ __Obey the King__
 
 17. then I saw all that God has done. No one can comprehend what goes on under the sun. Despite all his efforts to search it out, man cannot discover its meaning. Even if a wise man claims he knows, he cannot really comprehend it.
 
-## Eccl.9
+## Ecclesiastes 9
 
 __A Common Destiny for All__
 
@@ -400,7 +400,7 @@ __Wisdom Better Than Folly__
 
 18. Wisdom is better than weapons of war, but one sinner destroys much good.
 
-## Eccl.10
+## Ecclesiastes 10
 
 1. As dead flies give perfume a bad smell, so a little folly outweighs wisdom and honor.
 
@@ -442,7 +442,7 @@ __Wisdom Better Than Folly__
 
 20. Do not revile the king even in your thoughts, or curse the rich in your bedroom, because a bird of the air may carry your words, and a bird on the wing may report what you say.
 
-## Eccl.11
+## Ecclesiastes 11
 
 __Bread Upon the Waters__
 
@@ -468,7 +468,7 @@ __Remember Your Creator While Young__
 
 10. So then, banish anxiety from your heart and cast off the troubles of your body, for youth and vigor are meaningless.
 
-## Eccl.12
+## Ecclesiastes 12
 
 1. Remember your Creator in the days of your youth, before the days of trouble come and the years approach when you will say, "I find no pleasure in them" -
 

@@ -1,6 +1,6 @@
 # Hag
 
-## Hag.1
+## Haggai 1
 
 __A Call to Build the House of the LORD__
 
@@ -34,7 +34,7 @@ __A Call to Build the House of the LORD__
 
 15. on the twenty-fourth day of the sixth month in the second year of King Darius.
 
-## Hag.2
+## Haggai 2
 
 __The Promised Glory of the New House__
 

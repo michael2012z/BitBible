@@ -1,6 +1,6 @@
 # Mic
 
-## Mic.1
+## Micah 1
 
 1. The word of the LORD that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah - the vision he saw concerning Samaria and Jerusalem.
 
@@ -38,7 +38,7 @@ __Weeping and Mourning__
 
 16. Shave your heads in mourning for the children in whom you delight; make yourselves as bald as the vulture, for they will go from you into exile.
 
-## Mic.2
+## Micah 2
 
 __Man's Plans and God's__
 
@@ -72,7 +72,7 @@ __Deliverance Promised__
 
 13. One who breaks open the way will go up before them; they will break through the gate and go out. Their king will pass through before them, the LORD at their head."
 
-## Mic.3
+## Micah 3
 
 __Leaders and Prophets Rebuked__
 
@@ -100,7 +100,7 @@ __Leaders and Prophets Rebuked__
 
 12. Therefore because of you, Zion will be plowed like a field, Jerusalem will become a heap of rubble, the temple hill a mound overgrown with thickets.
 
-## Mic.4
+## Micah 4
 
 __The Mountain of the LORD__
 
@@ -132,7 +132,7 @@ __The LORD'S Plan__
 
 13. "Rise and thresh, O Daughter of Zion, for I will give you horns of iron; I will give you hoofs of bronze and you will break to pieces many nations." You will devote their ill-gotten gains to the LORD, their wealth to the Lord of all the earth.
 
-## Mic.5
+## Micah 5
 
 __A Promised Ruler From Bethlehem__
 
@@ -170,7 +170,7 @@ __Deliverance and Destruction__
 
 15. I will take vengeance in anger and wrath upon the nations that have not obeyed me."
 
-## Mic.6
+## Micah 6
 
 __The LORD'S Case Against Israel__
 
@@ -208,7 +208,7 @@ __Israel's Guilt and Punishment__
 
 16. You have observed the statutes of Omri and all the practices of Ahab's house, and you have followed their traditions. Therefore I will give you over to ruin and your people to derision; you will bear the scorn of the nations. "
 
-## Mic.7
+## Micah 7
 
 __Israel's Misery__
 

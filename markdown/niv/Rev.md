@@ -1,6 +1,6 @@
 # Rev
 
-## Rev.1
+## Revelation 1
 
 __Prologue__
 
@@ -48,7 +48,7 @@ __One Like a Son of Man__
 
 20. The mystery of the seven stars that you saw in my right hand and of the seven golden lampstands is this: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.
 
-## Rev.2
+## Revelation 2
 
 __To the Church in Ephesus__
 
@@ -116,7 +116,7 @@ __To the Church in Thyatira__
 
 29. He who has an ear, let him hear what the Spirit says to the churches.
 
-## Rev.3
+## Revelation 3
 
 __To the Church in Sardis__
 
@@ -168,7 +168,7 @@ __To the Church in Laodicea__
 
 22. He who has an ear, let him hear what the Spirit says to the churches."
 
-## Rev.4
+## Revelation 4
 
 __The Throne in Heaven__
 
@@ -194,7 +194,7 @@ __The Throne in Heaven__
 
 11. "You are worthy, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they were created and have their being."
 
-## Rev.5
+## Revelation 5
 
 __The Scroll and the Lamb__
 
@@ -226,7 +226,7 @@ __The Scroll and the Lamb__
 
 14. The four living creatures said, "Amen," and the elders fell down and worshiped.
 
-## Rev.6
+## Revelation 6
 
 __The Seals__
 
@@ -264,7 +264,7 @@ __The Seals__
 
 17. For the great day of their wrath has come, and who can stand?"
 
-## Rev.7
+## Revelation 7
 
 __144,000 Sealed__
 
@@ -304,7 +304,7 @@ __The Great Multitude in White Robes__
 
 17. For the Lamb at the center of the throne will be their shepherd; he will lead them to springs of living water. And God will wipe away every tear from their eyes."
 
-## Rev.8
+## Revelation 8
 
 __The Seventh Seal and the Golden Censer__
 
@@ -336,7 +336,7 @@ __The Trumpets__
 
 13. As I watched, I heard an eagle that was flying in midair call out in a loud voice: "Woe! Woe! Woe to the inhabitants of the earth, because of the trumpet blasts about to be sounded by the other three angels!"
 
-## Rev.9
+## Revelation 9
 
 1. The fifth angel sounded his trumpet, and I saw a star that had fallen from the sky to the earth. The star was given the key to the shaft of the Abyss.
 
@@ -380,7 +380,7 @@ __The Trumpets__
 
 21. Nor did they repent of their murders, their magic arts, their sexual immorality or their thefts.
 
-## Rev.10
+## Revelation 10
 
 __The Angel and the Little Scroll__
 
@@ -406,7 +406,7 @@ __The Angel and the Little Scroll__
 
 11. Then I was told, "You must prophesy again about many peoples, nations, languages and kings."
 
-## Rev.11
+## Revelation 11
 
 __The Two Witnesses__
 
@@ -450,7 +450,7 @@ __The Seventh Trumpet__
 
 19. Then God's temple in heaven was opened, and within his temple was seen the ark of his covenant. And there came flashes of lightning, rumblings, peals of thunder, an earthquake and a great hailstorm.
 
-## Rev.12
+## Revelation 12
 
 __The Woman and the Dragon__
 
@@ -488,7 +488,7 @@ __The Woman and the Dragon__
 
 17. Then the dragon was enraged at the woman and went off to make war against the rest of her offspring - those who obey God's commandments and hold to the testimony of Jesus.
 
-## Rev.13
+## Revelation 13
 
 1. And the dragon stood on the shore of the sea.
 
@@ -532,7 +532,7 @@ __The Beast out of the Earth__
 
 18. This calls for wisdom. If anyone has insight, let him calculate the number of the beast, for it is man's number. His number is 666.
 
-## Rev.14
+## Revelation 14
 
 __The Lamb and the 144,000__
 
@@ -580,7 +580,7 @@ __The Harvest of the Earth__
 
 20. They were trampled in the winepress outside the city, and blood flowed out of the press, rising as high as the horses' bridles for a distance of 1,600 stadia. 
 
-## Rev.15
+## Revelation 15
 
 __Seven Angels With Seven Plagues__
 
@@ -600,7 +600,7 @@ __Seven Angels With Seven Plagues__
 
 8. And the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.
 
-## Rev.16
+## Revelation 16
 
 __The Seven Bowls of God's Wrath__
 
@@ -646,7 +646,7 @@ __The Seven Bowls of God's Wrath__
 
 21. From the sky huge hailstones of about a hundred pounds each fell upon men. And they cursed God on account of the plague of hail, because the plague was so terrible.
 
-## Rev.17
+## Revelation 17
 
 __The Woman on the Beast__
 
@@ -686,7 +686,7 @@ __The Woman on the Beast__
 
 18. The woman you saw is the great city that rules over the kings of the earth."
 
-## Rev.18
+## Revelation 18
 
 __The Fall of Babylon__
 
@@ -738,7 +738,7 @@ __The Fall of Babylon__
 
 24. In her was found the blood of prophets and of the saints, and of all who have been killed on the earth."
 
-## Rev.19
+## Revelation 19
 
 __Hallelujah!__
 
@@ -786,7 +786,7 @@ __The Rider on the White Horse__
 
 21. The rest of them were killed with the sword that came out of the mouth of the rider on the horse, and all the birds gorged themselves on their flesh.
 
-## Rev.20
+## Revelation 20
 
 __The Thousand Years__
 
@@ -824,7 +824,7 @@ __The Dead Are Judged__
 
 15. If anyone's name was not found written in the book of life, he was thrown into the lake of fire.
 
-## Rev.21
+## Revelation 21
 
 __The New Jerusalem__
 
@@ -882,7 +882,7 @@ __The New Jerusalem__
 
 27. Nothing impure will ever enter it, nor will anyone who does what is shameful or deceitful, but only those whose names are written in the Lamb's book of life.
 
-## Rev.22
+## Revelation 22
 
 __The River of Life__
 

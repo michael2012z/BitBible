@@ -1,6 +1,6 @@
 # Eccl
 
-## Eccl.1
+## Ecclesiastes 1
 
 1. The words of the Preacher, the son of David, king in Jerusalem.
 
@@ -38,7 +38,7 @@
 
 18. For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
 
-## Eccl.2
+## Ecclesiastes 2
 
 1. I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.
 
@@ -92,7 +92,7 @@
 
 26. For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.
 
-## Eccl.3
+## Ecclesiastes 3
 
 1. To every thing there is a season, and a time to every purpose under the heaven:
 
@@ -138,7 +138,7 @@
 
 22. Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?
 
-## Eccl.4
+## Ecclesiastes 4
 
 1. So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 
@@ -172,7 +172,7 @@
 
 16. There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.
 
-## Eccl.5
+## Ecclesiastes 5
 
 1. Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
 
@@ -214,7 +214,7 @@
 
 20. For he shall not much remember the days of his life; because God answereth him in the joy of his heart.
 
-## Eccl.6
+## Ecclesiastes 6
 
 1. There is an evil which I have seen under the sun, and it is common among men:
 
@@ -240,7 +240,7 @@
 
 12. For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
 
-## Eccl.7
+## Ecclesiastes 7
 
 1. A good name is better than precious ointment; and the day of death than the day of one's birth.
 
@@ -300,7 +300,7 @@
 
 29. Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.
 
-## Eccl.8
+## Ecclesiastes 8
 
 1. Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed.
 
@@ -336,7 +336,7 @@
 
 17. Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it.
 
-## Eccl.9
+## Ecclesiastes 9
 
 1. For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.
 
@@ -374,7 +374,7 @@
 
 18. Wisdom is better than weapons of war: but one sinner destroyeth much good.
 
-## Eccl.10
+## Ecclesiastes 10
 
 1. Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.
 
@@ -416,7 +416,7 @@
 
 20. Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.
 
-## Eccl.11
+## Ecclesiastes 11
 
 1. Cast thy bread upon the waters: for thou shalt find it after many days.
 
@@ -438,7 +438,7 @@
 
 10. Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.
 
-## Eccl.12
+## Ecclesiastes 12
 
 1. Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
 

@@ -1,6 +1,6 @@
 # 2Cor
 
-## 2Cor.1
+## 2 Corinthians 1
 
 __The second epistle to the Corinthians was written from Philippi, a city of Macedonia, by Titus and Lucas.__
 
@@ -52,7 +52,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 24. Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.
 
-## 2Cor.2
+## 2 Corinthians 2
 
 1. But I determined this with myself, that I would not come again to you in heaviness.
 
@@ -88,7 +88,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 17. For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.
 
-## 2Cor.3
+## 2 Corinthians 3
 
 1. Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?
 
@@ -126,7 +126,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 18. But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.
 
-## 2Cor.4
+## 2 Corinthians 4
 
 1. Therefore seeing we have this ministry, as we have received mercy, we faint not;
 
@@ -164,7 +164,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 18. While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
 
-## 2Cor.5
+## 2 Corinthians 5
 
 1. For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
 
@@ -208,7 +208,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 21. For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.
 
-## 2Cor.6
+## 2 Corinthians 6
 
 1. We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.
 
@@ -246,7 +246,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 18. And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
 
-## 2Cor.7
+## 2 Corinthians 7
 
 1. Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
 
@@ -280,7 +280,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 16. I rejoice therefore that I have confidence in you in all things.
 
-## 2Cor.8
+## 2 Corinthians 8
 
 1. Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;
 
@@ -330,7 +330,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 24. Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.
 
-## 2Cor.9
+## 2 Corinthians 9
 
 1. For as touching the ministering to the saints, it is superfluous for me to write to you:
 
@@ -362,7 +362,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 15. Thanks be unto God for his unspeakable gift.
 
-## 2Cor.10
+## 2 Corinthians 10
 
 1. Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:
 
@@ -400,7 +400,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 18. For not he that commendeth himself is approved, but whom the Lord commendeth.
 
-## 2Cor.11
+## 2 Corinthians 11
 
 1. Would to God ye could bear with me a little in my folly: and indeed bear with me.
 
@@ -468,7 +468,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 33. And through a window in a basket was I let down by the wall, and escaped his hands.
 
-## 2Cor.12
+## 2 Corinthians 12
 
 1. It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
 
@@ -512,7 +512,7 @@ __The second epistle to the Corinthians was written from Philippi, a city of Mac
 
 21. And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.
 
-## 2Cor.13
+## 2 Corinthians 13
 
 1. This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.
 

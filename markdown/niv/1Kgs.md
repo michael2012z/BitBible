@@ -1,6 +1,6 @@
 # 1Kgs
 
-## 1Kgs.1
+## 1 Kings 1
 
 __Adonijah Sets Himself Up as King__
 
@@ -112,7 +112,7 @@ __David Makes Solomon King__
 
 53. Then King Solomon sent men, and they brought him down from the altar. And Adonijah came and bowed down to King Solomon, and Solomon said, "Go to your home."
 
-## 1Kgs.2
+## 1 Kings 2
 
 __David's Charge to Solomon__
 
@@ -210,7 +210,7 @@ __Solomon's Throne Established__
 
 46. Then the king gave the order to Benaiah son of Jehoiada, and he went out and struck Shimei down and killed him. The kingdom was now firmly established in Solomon's hands.
 
-## 1Kgs.3
+## 1 Kings 3
 
 __Solomon Asks for Wisdom__
 
@@ -272,7 +272,7 @@ __A Wise Ruling__
 
 28. When all Israel heard the verdict the king had given, they held the king in awe, because they saw that he had wisdom from God to administer justice.
 
-## 1Kgs.4
+## 1 Kings 4
 
 __Solomon's Officials and Governors__
 
@@ -348,7 +348,7 @@ __Solomon's Wisdom__
 
 34. Men of all nations came to listen to Solomon's wisdom, sent by all the kings of the world, who had heard of his wisdom.
 
-## 1Kgs.5
+## 1 Kings 5
 
 __Preparations for Building the Temple__
 
@@ -388,7 +388,7 @@ __Preparations for Building the Temple__
 
 18. The craftsmen of Solomon and Hiram and the men of Gebal cut and prepared the timber and stone for the building of the temple.
 
-## 1Kgs.6
+## 1 Kings 6
 
 __Solomon Builds the Temple__
 
@@ -468,7 +468,7 @@ __Solomon Builds the Temple__
 
 38. In the eleventh year in the month of Bul, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it.
 
-## 1Kgs.7
+## 1 Kings 7
 
 __Solomon Builds His Palace__
 
@@ -576,7 +576,7 @@ __The Temple's Furnishings__
 
 51. When all the work King Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated - the silver and gold and the furnishings - and he placed them in the treasuries of the LORD's temple.
 
-## 1Kgs.8
+## 1 Kings 8
 
 __The Ark Brought to the Temple__
 
@@ -716,7 +716,7 @@ __The Dedication of the Temple__
 
 66. On the following day he sent the people away. They blessed the king and then went home, joyful and glad in heart for all the good things the LORD had done for his servant David and his people Israel.
 
-## 1Kgs.9
+## 1 Kings 9
 
 __The LORD Appears to Solomon__
 
@@ -778,7 +778,7 @@ __Solomon's Other Activities__
 
 28. They sailed to Ophir and brought back 420 talents of gold, which they delivered to King Solomon.
 
-## 1Kgs.10
+## 1 Kings 10
 
 __The Queen of Sheba Visits Solomon__
 
@@ -842,7 +842,7 @@ __Solomon's Splendor__
 
 29. They imported a chariot from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. They also exported them to all the kings of the Hittites and of the Arameans.
 
-## 1Kgs.11
+## 1 Kings 11
 
 __Solomon's Wives__
 
@@ -938,7 +938,7 @@ __Solomon's Death__
 
 43. Then he rested with his fathers and was buried in the city of David his father. And Rehoboam his son succeeded him as king.
 
-## 1Kgs.12
+## 1 Kings 12
 
 __Israel Rebels Against Rehoboam__
 
@@ -1010,7 +1010,7 @@ __Golden Calves at Bethel and Dan__
 
 33. On the fifteenth day of the eighth month, a month of his own choosing, he offered sacrifices on the altar he had built at Bethel. So he instituted the festival for the Israelites and went up to the altar to make offerings.
 
-## 1Kgs.13
+## 1 Kings 13
 
 __The Man of God From Judah__
 
@@ -1082,7 +1082,7 @@ __The Man of God From Judah__
 
 34. This was the sin of the house of Jeroboam that led to its downfall and to its destruction from the face of the earth.
 
-## 1Kgs.14
+## 1 Kings 14
 
 __Ahijah's Prophecy Against Jeroboam__
 
@@ -1150,7 +1150,7 @@ __Rehoboam King of Judah__
 
 31. And Rehoboam rested with his fathers and was buried with them in the City of David. His mother's name was Naamah; she was an Ammonite. And Abijah his son succeeded him as king.
 
-## 1Kgs.15
+## 1 Kings 15
 
 __Abijah King of Judah__
 
@@ -1228,7 +1228,7 @@ __Baasha King of Israel__
 
 34. He did evil in the eyes of the LORD, walking in the ways of Jeroboam and in his sin, which he had caused Israel to commit.
 
-## 1Kgs.16
+## 1 Kings 16
 
 1. Then the word of the LORD came to Jehu son of Hanani against Baasha:
 
@@ -1306,7 +1306,7 @@ __Ahab Becomes King of Israel__
 
 34. In Ahab's time, Hiel of Bethel rebuilt Jericho. He laid its foundations at the cost of his firstborn son Abiram, and he set up its gates at the cost of his youngest son Segub, in accordance with the word of the LORD spoken by Joshua son of Nun.
 
-## 1Kgs.17
+## 1 Kings 17
 
 __Elijah Fed by Ravens__
 
@@ -1360,7 +1360,7 @@ __The Widow at Zarephath__
 
 24. Then the woman said to Elijah, "Now I know that you are a man of God and that the word of the LORD from your mouth is the truth."
 
-## 1Kgs.18
+## 1 Kings 18
 
 __Elijah and Obadiah__
 
@@ -1458,7 +1458,7 @@ __Elijah on Mount Carmel__
 
 46. The power of the LORD came upon Elijah and, tucking his cloak into his belt, he ran ahead of Ahab all the way to Jezreel.
 
-## 1Kgs.19
+## 1 Kings 19
 
 __Elijah Flees to Horeb__
 
@@ -1510,7 +1510,7 @@ __The Call of Elisha__
 
 21. So Elisha left him and went back. He took his yoke of oxen and slaughtered them. He burned the plowing equipment to cook the meat and gave it to the people, and they ate. Then he set out to follow Elijah and became his attendant.
 
-## 1Kgs.20
+## 1 Kings 20
 
 __Ben-Hadad Attacks Samaria__
 
@@ -1604,7 +1604,7 @@ __A Prophet Condemns Ahab__
 
 43. Sullen and angry, the king of Israel went to his palace in Samaria.
 
-## 1Kgs.21
+## 1 Kings 21
 
 __Naboth's Vineyard__
 
@@ -1666,7 +1666,7 @@ __Naboth's Vineyard__
 
 29. "Have you noticed how Ahab has humbled himself before me? Because he has humbled himself, I will not bring this disaster in his day, but I will bring it on his house in the days of his son."
 
-## 1Kgs.22
+## 1 Kings 22
 
 __Micaiah Prophesies Against Ahab__
 

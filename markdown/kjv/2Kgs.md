@@ -1,6 +1,6 @@
 # 2Kgs
 
-## 2Kgs.1
+## 2 Kings 1
 
 1. Then Moab rebelled against Israel after the death of Ahab.
 
@@ -38,7 +38,7 @@
 
 18. Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?
 
-## 2Kgs.2
+## 2 Kings 2
 
 1. And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.
 
@@ -90,7 +90,7 @@
 
 25. And he went from thence to mount Carmel, and from thence he returned to Samaria.
 
-## 2Kgs.3
+## 2 Kings 3
 
 1. Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
 
@@ -146,7 +146,7 @@
 
 27. Then he took his eldest son that should have reigned in his stead, and offered him for a burnt offering upon the wall. And there was great indignation against Israel: and they departed from him, and returned to their own land.
 
-## 2Kgs.4
+## 2 Kings 4
 
 1. Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.
 
@@ -236,7 +236,7 @@
 
 44. So he set it before them, and they did eat, and left thereof, according to the word of the LORD.
 
-## 2Kgs.5
+## 2 Kings 5
 
 1. Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper.
 
@@ -292,7 +292,7 @@
 
 27. The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow.
 
-## 2Kgs.6
+## 2 Kings 6
 
 1. And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.
 
@@ -360,7 +360,7 @@
 
 33. And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the LORD; what should I wait for the LORD any longer?
 
-## 2Kgs.7
+## 2 Kings 7
 
 1. Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time shall a measure of fine flour be sold for a shekel, and two measures of barley for a shekel, in the gate of Samaria.
 
@@ -402,7 +402,7 @@
 
 20. And so it fell out unto him: for the people trode upon him in the gate, and he died.
 
-## 2Kgs.8
+## 2 Kings 8
 
 1. Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years.
 
@@ -462,7 +462,7 @@
 
 29. And king Joram went back to be healed in Jezreel of the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick.
 
-## 2Kgs.9
+## 2 Kings 9
 
 1. And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramothgilead:
 
@@ -538,7 +538,7 @@
 
 37. And the carcase of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; so that they shall not say, This is Jezebel.
 
-## 2Kgs.10
+## 2 Kings 10
 
 1. And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab's children, saying,
 
@@ -612,7 +612,7 @@
 
 36. And the time that Jehu reigned over Israel in Samaria was twenty and eight years.
 
-## 2Kgs.11
+## 2 Kings 11
 
 1. And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.
 
@@ -656,7 +656,7 @@
 
 21. Seven years old was Jehoash when he began to reign.
 
-## 2Kgs.12
+## 2 Kings 12
 
 1. In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother's name was Zibiah of Beersheba.
 
@@ -700,7 +700,7 @@
 
 21. For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.
 
-## 2Kgs.13
+## 2 Kings 13
 
 1. In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
 
@@ -752,7 +752,7 @@
 
 25. And Jehoash the son of Jehoahaz took again out of the hand of Benhadad the son of Hazael the cities, which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel.
 
-## 2Kgs.14
+## 2 Kings 14
 
 1. In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.
 
@@ -812,7 +812,7 @@
 
 29. And Jeroboam slept with his fathers, even with the kings of Israel; and Zachariah his son reigned in his stead.
 
-## 2Kgs.15
+## 2 Kings 15
 
 1. In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign.
 
@@ -890,7 +890,7 @@
 
 38. And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead.
 
-## 2Kgs.16
+## 2 Kings 16
 
 1. In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.
 
@@ -932,7 +932,7 @@
 
 20. And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead.
 
-## 2Kgs.17
+## 2 Kings 17
 
 1. In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
 
@@ -1016,7 +1016,7 @@
 
 41. So these nations feared the LORD, and served their graven images, both their children, and their children's children: as did their fathers, so do they unto this day.
 
-## 2Kgs.18
+## 2 Kings 18
 
 1. Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to reign.
 
@@ -1092,7 +1092,7 @@
 
 37. Then came Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh.
 
-## 2Kgs.19
+## 2 Kings 19
 
 1. And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.
 
@@ -1168,7 +1168,7 @@
 
 37. And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead.
 
-## 2Kgs.20
+## 2 Kings 20
 
 1. In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.
 
@@ -1212,7 +1212,7 @@
 
 21. And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead.
 
-## 2Kgs.21
+## 2 Kings 21
 
 1. Manasseh was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother's name was Hephzibah.
 
@@ -1266,7 +1266,7 @@
 
 26. And he was buried in his sepulchre in the garden of Uzza: and Josiah his son reigned in his stead.
 
-## 2Kgs.22
+## 2 Kings 22
 
 1. Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother's name was Jedidah, the daughter of Adaiah of Boscath.
 
@@ -1308,7 +1308,7 @@
 
 20. Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place. And they brought the king word again.
 
-## 2Kgs.23
+## 2 Kings 23
 
 1. And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.
 
@@ -1384,7 +1384,7 @@
 
 37. And he did that which was evil in the sight of the LORD, according to all that his fathers had done.
 
-## 2Kgs.24
+## 2 Kings 24
 
 1. In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.
 
@@ -1426,7 +1426,7 @@
 
 20. For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.
 
-## 2Kgs.25
+## 2 Kings 25
 
 1. And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.
 

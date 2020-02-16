@@ -1,6 +1,6 @@
 # Amos
 
-## Amos.1
+## Amos 1
 
 1. The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
 
@@ -32,7 +32,7 @@
 
 15. And their king shall go into captivity, he and his princes together, saith the LORD.
 
-## Amos.2
+## Amos 2
 
 1. Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime:
 
@@ -66,7 +66,7 @@
 
 16. And he that is courageous among the mighty shall flee away naked in that day, saith the LORD.
 
-## Amos.3
+## Amos 3
 
 1. Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
 
@@ -98,7 +98,7 @@
 
 15. And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD.
 
-## Amos.4
+## Amos 4
 
 1. Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.
 
@@ -126,7 +126,7 @@
 
 13. For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The LORD, The God of hosts, is his name.
 
-## Amos.5
+## Amos 5
 
 1. Hear ye this word which I take up against you, even a lamentation, O house of Israel.
 
@@ -182,7 +182,7 @@
 
 27. Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name is The God of hosts.
 
-## Amos.6
+## Amos 6
 
 1. Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!
 
@@ -212,7 +212,7 @@
 
 14. But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness.
 
-## Amos.7
+## Amos 7
 
 1. Thus hath the Lord GOD shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king's mowings.
 
@@ -248,7 +248,7 @@
 
 17. Therefore thus saith the LORD; Thy wife shall be an harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou shalt die in a polluted land: and Israel shall surely go into captivity forth of his land.
 
-## Amos.8
+## Amos 8
 
 1. Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit.
 
@@ -278,7 +278,7 @@
 
 14. They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beersheba liveth; even they shall fall, and never rise up again.
 
-## Amos.9
+## Amos 9
 
 1. I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.
 

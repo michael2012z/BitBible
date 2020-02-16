@@ -1,6 +1,6 @@
 # Mark
 
-## Mark.1
+## Mark 1
 
 1. The beginning of the gospel of Jesus Christ, the Son of God;
 
@@ -92,7 +92,7 @@
 
 45. But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
 
-## Mark.2
+## Mark 2
 
 1. And again he entered into Capernaum after some days; and it was noised that he was in the house.
 
@@ -150,7 +150,7 @@
 
 28. Therefore the Son of man is Lord also of the sabbath.
 
-## Mark.3
+## Mark 3
 
 1. And he entered again into the synagogue; and there was a man there which had a withered hand.
 
@@ -222,7 +222,7 @@
 
 35. For whosoever shall do the will of God, the same is my brother, and my sister, and mother.
 
-## Mark.4
+## Mark 4
 
 1. And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.
 
@@ -306,7 +306,7 @@
 
 41. And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?
 
-## Mark.5
+## Mark 5
 
 1. And they came over unto the other side of the sea, into the country of the Gadarenes.
 
@@ -394,7 +394,7 @@
 
 43. And he charged them straitly that no man should know it; and commanded that something should be given her to eat.
 
-## Mark.6
+## Mark 6
 
 1. And he went out from thence, and came into his own country; and his disciples follow him.
 
@@ -508,7 +508,7 @@
 
 56. And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole.
 
-## Mark.7
+## Mark 7
 
 1. Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.
 
@@ -584,7 +584,7 @@
 
 37. And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.
 
-## Mark.8
+## Mark 8
 
 1. In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,
 
@@ -662,7 +662,7 @@
 
 38. Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
 
-## Mark.9
+## Mark 9
 
 1. And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
 
@@ -764,7 +764,7 @@
 
 50. Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another.
 
-## Mark.10
+## Mark 10
 
 1. And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
 
@@ -870,7 +870,7 @@
 
 52. And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way.
 
-## Mark.11
+## Mark 11
 
 1. And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,
 
@@ -938,7 +938,7 @@
 
 33. And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things.
 
-## Mark.12
+## Mark 12
 
 1. And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country.
 
@@ -1028,7 +1028,7 @@
 
 44. For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living.
 
-## Mark.13
+## Mark 13
 
 1. And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!
 
@@ -1104,7 +1104,7 @@
 
 37. And what I say unto you I say unto all, Watch.
 
-## Mark.14
+## Mark 14
 
 1. After two days was the feast of the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put him to death.
 
@@ -1250,7 +1250,7 @@
 
 72. And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.
 
-## Mark.15
+## Mark 15
 
 1. And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.
 
@@ -1346,7 +1346,7 @@
 
 47. And Mary Magdalene and Mary the mother of Joses beheld where he was laid.
 
-## Mark.16
+## Mark 16
 
 1. And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him.
 

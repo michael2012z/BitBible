@@ -1,6 +1,6 @@
 # Mic
 
-## Mic.1
+## Micah 1
 
 1. The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 
@@ -34,7 +34,7 @@
 
 16. Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.
 
-## Mic.2
+## Micah 2
 
 1. Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
 
@@ -62,7 +62,7 @@
 
 13. The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them.
 
-## Mic.3
+## Micah 3
 
 1. And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; Is it not for you to know judgment?
 
@@ -88,7 +88,7 @@
 
 12. Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.
 
-## Mic.4
+## Micah 4
 
 1. But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.
 
@@ -116,7 +116,7 @@
 
 13. Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.
 
-## Mic.5
+## Micah 5
 
 1. Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek.
 
@@ -148,7 +148,7 @@
 
 15. And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.
 
-## Mic.6
+## Micah 6
 
 1. Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.
 
@@ -182,7 +182,7 @@
 
 16. For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.
 
-## Mic.7
+## Micah 7
 
 1. Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit.
 

@@ -1,6 +1,6 @@
 # Gen
 
-## Gen.1
+## Genesis 1
 
 __The Beginning__
 
@@ -66,7 +66,7 @@ __The Beginning__
 
 31. God saw all that he had made, and it was very good. And there was evening, and there was morning - the sixth day.
 
-## Gen.2
+## Genesis 2
 
 1. Thus the heavens and the earth were completed in all their vast array.
 
@@ -120,7 +120,7 @@ __Adam and Eve__
 
 25. The man and his wife were both naked, and they felt no shame.
 
-## Gen.3
+## Genesis 3
 
 __The Fall of Man__
 
@@ -172,7 +172,7 @@ __The Fall of Man__
 
 24. After he drove the man out, he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.
 
-## Gen.4
+## Genesis 4
 
 __Cain and Abel__
 
@@ -228,7 +228,7 @@ __Cain and Abel__
 
 26. Seth also had a son, and he named him Enosh. At that time men began to call on the name of the LORD.
 
-## Gen.5
+## Genesis 5
 
 __From Adam to Noah__
 
@@ -296,7 +296,7 @@ __From Adam to Noah__
 
 32. After Noah was 500 years old, he became the father of Shem, Ham and Japheth.
 
-## Gen.6
+## Genesis 6
 
 __The Flood__
 
@@ -344,7 +344,7 @@ __The Flood__
 
 22. Noah did everything just as God commanded him.
 
-## Gen.7
+## Genesis 7
 
 1. The LORD then said to Noah, "Go into the ark, you and your whole family, because I have found you righteous in this generation.
 
@@ -394,7 +394,7 @@ __The Flood__
 
 24. The waters flooded the earth for a hundred and fifty days.
 
-## Gen.8
+## Genesis 8
 
 1. But God remembered Noah and all the wild animals and the livestock that were with him in the ark, and he sent a wind over the earth, and the waters receded.
 
@@ -440,7 +440,7 @@ __The Flood__
 
 22. "As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease."
 
-## Gen.9
+## Genesis 9
 
 __God's Covenant With Noah__
 
@@ -504,7 +504,7 @@ __The Sons of Noah__
 
 29. Altogether, Noah lived 950 years, and then he died.
 
-## Gen.10
+## Genesis 10
 
 __The Table of Nations__
 
@@ -572,7 +572,7 @@ __The Table of Nations__
 
 32. These are the clans of Noah's sons, according to their lines of descent, within their nations. From these the nations spread out over the earth after the flood.
 
-## Gen.11
+## Genesis 11
 
 __The Tower of Babel__
 
@@ -642,7 +642,7 @@ __From Shem to Abram__
 
 32. Terah lived 205 years, and he died in Haran.
 
-## Gen.12
+## Genesis 12
 
 __The Call of Abram__
 
@@ -688,7 +688,7 @@ __Abram in Egypt__
 
 20. Then Pharaoh gave orders about Abram to his men, and they sent him on his way, with his wife and everything he had.
 
-## Gen.13
+## Genesis 13
 
 __Abram and Lot Separate__
 
@@ -728,7 +728,7 @@ __Abram and Lot Separate__
 
 18. So Abram moved his tents and went to live near the great trees of Mamre at Hebron, where he built an altar to the LORD.
 
-## Gen.14
+## Genesis 14
 
 __Abram Rescues Lot__
 
@@ -780,7 +780,7 @@ __Abram Rescues Lot__
 
 24. I will accept nothing but what my men have eaten and the share that belongs to the men who went with me - to Aner, Eshcol and Mamre. Let them have their share."
 
-## Gen.15
+## Genesis 15
 
 __God's Covenant With Abram__
 
@@ -826,7 +826,7 @@ __God's Covenant With Abram__
 
 21. Amorites, Canaanites, Girgashites and Jebusites."
 
-## Gen.16
+## Genesis 16
 
 __Hagar and Ishmael__
 
@@ -862,7 +862,7 @@ __Hagar and Ishmael__
 
 16. Abram was eighty-six years old when Hagar bore him Ishmael.
 
-## Gen.17
+## Genesis 17
 
 __The Covenant of Circumcision__
 
@@ -920,7 +920,7 @@ __The Covenant of Circumcision__
 
 27. And every male in Abraham's household, including those born in his household or bought from a foreigner, was circumcised with him.
 
-## Gen.18
+## Genesis 18
 
 __The Three Visitors__
 
@@ -992,7 +992,7 @@ __Abraham Pleads for Sodom__
 
 33. When the LORD had finished speaking with Abraham, he left, and Abraham returned home.
 
-## Gen.19
+## Genesis 19
 
 __Sodom and Gomorrah Destroyed__
 
@@ -1074,7 +1074,7 @@ __Lot and His Daughters__
 
 38. The younger daughter also had a son, and she named him Ben-Ammi ; he is the father of the Ammonites of today.
 
-## Gen.20
+## Genesis 20
 
 __Abraham and Abimelech__
 
@@ -1114,7 +1114,7 @@ __Abraham and Abimelech__
 
 18. for the LORD had closed up every womb in Abimelech's household because of Abraham's wife Sarah.
 
-## Gen.21
+## Genesis 21
 
 __The Birth of Isaac__
 
@@ -1190,7 +1190,7 @@ __The Treaty at Beersheba__
 
 34. And Abraham stayed in the land of the Philistines for a long time.
 
-## Gen.22
+## Genesis 22
 
 __Abraham Tested__
 
@@ -1244,7 +1244,7 @@ __Nahor's Sons__
 
 24. His concubine, whose name was Reumah, also had sons: Tebah, Gaham, Tahash and Maacah.
 
-## Gen.23
+## Genesis 23
 
 __The Death of Sarah__
 
@@ -1288,7 +1288,7 @@ __The Death of Sarah__
 
 20. So the field and the cave in it were deeded to Abraham by the Hittites as a burial site.
 
-## Gen.24
+## Genesis 24
 
 __Isaac and Rebekah__
 
@@ -1426,7 +1426,7 @@ __Isaac and Rebekah__
 
 67. Isaac brought her into the tent of his mother Sarah, and he married Rebekah. So she became his wife, and he loved her; and Isaac was comforted after his mother's death.
 
-## Gen.25
+## Genesis 25
 
 __The Death of Abraham__
 
@@ -1502,7 +1502,7 @@ __Jacob and Esau__
 
 34. Then Jacob gave Esau some bread and some lentil stew. He ate and drank, and then got up and left. So Esau despised his birthright.
 
-## Gen.26
+## Genesis 26
 
 __Isaac and Abimelech__
 
@@ -1576,7 +1576,7 @@ __Isaac and Abimelech__
 
 35. They were a source of grief to Isaac and Rebekah.
 
-## Gen.27
+## Genesis 27
 
 __Jacob Gets Isaac's Blessing__
 
@@ -1674,7 +1674,7 @@ __Jacob Flees to Laban__
 
 46. Then Rebekah said to Isaac, "I'm disgusted with living because of these Hittite women. If Jacob takes a wife from among the women of this land, from Hittite women like these, my life will not be worth living."
 
-## Gen.28
+## Genesis 28
 
 1. So Isaac called for Jacob and blessed him and commanded him: "Do not marry a Canaanite woman.
 
@@ -1722,7 +1722,7 @@ __Jacob's Dream at Bethel__
 
 22. and this stone that I have set up as a pillar will be God's house, and of all that you give me I will give you a tenth."
 
-## Gen.29
+## Genesis 29
 
 __Jacob Arrives in Paddan Aram__
 
@@ -1802,7 +1802,7 @@ __Jacob's Children__
 
 35. She conceived again, and when she gave birth to a son she said, "This time I will praise the LORD." So she named him Judah. Then she stopped having children.
 
-## Gen.30
+## Genesis 30
 
 1. When Rachel saw that she was not bearing Jacob any children, she became jealous of her sister. So she said to Jacob, "Give me children, or I'll die!"
 
@@ -1892,7 +1892,7 @@ __Jacob's Flocks Increase__
 
 43. In this way the man grew exceedingly prosperous and came to own large flocks, and maidservants and menservants, and camels and donkeys.
 
-## Gen.31
+## Genesis 31
 
 __Jacob Flees From Laban__
 
@@ -2008,7 +2008,7 @@ __Laban Pursues Jacob__
 
 55. Early the next morning Laban kissed his grandchildren and his daughters and blessed them. Then he left and returned home.
 
-## Gen.32
+## Genesis 32
 
 __Jacob Prepares to Meet Esau__
 
@@ -2076,7 +2076,7 @@ __Jacob Prepares to Meet Esau__
 
 32. Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob's hip was touched near the tendon.
 
-## Gen.33
+## Genesis 33
 
 __Jacob Wrestles With GodJacob Meets Esau__
 
@@ -2120,7 +2120,7 @@ __Jacob Wrestles With GodJacob Meets Esau__
 
 20. There he set up an altar and called it El Elohe Israel. 
 
-## Gen.34
+## Genesis 34
 
 __Dinah and the Shechemites__
 
@@ -2186,7 +2186,7 @@ __Dinah and the Shechemites__
 
 31. But they replied, "Should he have treated our sister like a prostitute?"
 
-## Gen.35
+## Genesis 35
 
 __Jacob Returns to Bethel__
 
@@ -2250,7 +2250,7 @@ __The Deaths of Rachel and Isaac__
 
 29. Then he breathed his last and died and was gathered to his people, old and full of years. And his sons Esau and Jacob buried him.
 
-## Gen.36
+## Genesis 36
 
 __Esau's Descendants__
 
@@ -2342,7 +2342,7 @@ __The Rulers of Edom__
 
 43. Magdiel and Iram. These were the chiefs of Edom, according to their settlements in the land they occupied. This was Esau the father of the Edomites.
 
-## Gen.37
+## Genesis 37
 
 __Joseph's Dreams__
 
@@ -2420,7 +2420,7 @@ __Joseph Sold by His Brothers__
 
 36. Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh's officials, the captain of the guard.
 
-## Gen.38
+## Genesis 38
 
 __Judah and Tamar__
 
@@ -2484,7 +2484,7 @@ __Judah and Tamar__
 
 30. Then his brother, who had the scarlet thread on his wrist, came out and he was given the name Zerah. 
 
-## Gen.39
+## Genesis 39
 
 __Joseph and Potiphar's Wife__
 
@@ -2534,7 +2534,7 @@ __Joseph and Potiphar's Wife__
 
 23. The warden paid no attention to anything under Joseph's care, because the LORD was with Joseph and gave him success in whatever he did.
 
-## Gen.40
+## Genesis 40
 
 __The Cupbearer and the Baker__
 
@@ -2584,7 +2584,7 @@ __The Cupbearer and the Baker__
 
 23. The chief cupbearer, however, did not remember Joseph; he forgot him.
 
-## Gen.41
+## Genesis 41
 
 __Pharaoh's Dreams__
 
@@ -2704,7 +2704,7 @@ __Joseph in Charge of Egypt__
 
 57. And all the countries came to Egypt to buy grain from Joseph, because the famine was severe in all the world.
 
-## Gen.42
+## Genesis 42
 
 __Joseph's Brothers Go to Egypt__
 
@@ -2784,7 +2784,7 @@ __Joseph's Brothers Go to Egypt__
 
 38. But Jacob said, "My son will not go down there with you; his brother is dead and he is the only one left. If harm comes to him on the journey you are taking, you will bring my gray head down to the grave in sorrow."
 
-## Gen.43
+## Genesis 43
 
 __The Second Journey to Egypt__
 
@@ -2856,7 +2856,7 @@ __The Second Journey to Egypt__
 
 34. When portions were served to them from Joseph's table, Benjamin's portion was five times as much as anyone else's. So they feasted and drank freely with him.
 
-## Gen.44
+## Genesis 44
 
 __A Silver Cup in a Sack__
 
@@ -2928,7 +2928,7 @@ __A Silver Cup in a Sack__
 
 34. How can I go back to my father if the boy is not with me? No! Do not let me see the misery that would come upon my father."
 
-## Gen.45
+## Genesis 45
 
 __Joseph Makes Himself Known__
 
@@ -2988,7 +2988,7 @@ __Joseph Makes Himself Known__
 
 28. And Israel said, "I'm convinced! My son Joseph is still alive. I will go and see him before I die."
 
-## Gen.46
+## Genesis 46
 
 __Jacob Goes to Egypt__
 
@@ -3060,7 +3060,7 @@ __Jacob Goes to Egypt__
 
 34. you should answer, `Your servants have tended livestock from our boyhood on, just as our fathers did.' Then you will be allowed to settle in the region of Goshen, for all shepherds are detestable to the Egyptians."
 
-## Gen.47
+## Genesis 47
 
 1. Joseph went and told Pharaoh, "My father and brothers, with their flocks and herds and everything they own, have come from the land of Canaan and are now in Goshen."
 
@@ -3126,7 +3126,7 @@ __Joseph and the Famine__
 
 31. "Swear to me," he said. Then Joseph swore to him, and Israel worshiped as he leaned on the top of his staff. 
 
-## Gen.48
+## Genesis 48
 
 __Manasseh and Ephraim__
 
@@ -3174,7 +3174,7 @@ __Manasseh and Ephraim__
 
 22. And to you, as one who is over your brothers, I give the ridge of land I took from the Amorites with my sword and my bow."
 
-## Gen.49
+## Genesis 49
 
 __Jacob Blesses His Sons__
 
@@ -3246,7 +3246,7 @@ __The Death of Jacob__
 
 33. When Jacob had finished giving instructions to his sons, he drew his feet up into the bed, breathed his last and was gathered to his people.
 
-## Gen.50
+## Genesis 50
 
 1. Joseph threw himself upon his father and wept over him and kissed him.
 

@@ -1,6 +1,6 @@
 # 2Sam
 
-## 2Sam.1
+## 2 Samuel 1
 
 __David Hears of Saul's Death__
 
@@ -60,7 +60,7 @@ __David's Lament for Saul and Jonathan__
 
 27. "How the mighty have fallen! The weapons of war have perished!"
 
-## 2Sam.2
+## 2 Samuel 2
 
 __David Anointed King Over Judah__
 
@@ -130,7 +130,7 @@ __War Between the Houses of David and Saul__
 
 32. They took Asahel and buried him in his father's tomb at Bethlehem. Then Joab and his men marched all night and arrived at Hebron by daybreak.
 
-## 2Sam.3
+## 2 Samuel 3
 
 1. The war between the house of Saul and the house of David lasted a long time. David grew stronger and stronger, while the house of Saul grew weaker and weaker.
 
@@ -214,7 +214,7 @@ __Joab Murders Abner__
 
 39. And today, though I am the anointed king, I am weak, and these sons of Zeruiah are too strong for me. May the LORD repay the evildoer according to his evil deeds!"
 
-## 2Sam.4
+## 2 Samuel 4
 
 __Ish-Bosheth Murdered__
 
@@ -242,7 +242,7 @@ __Ish-Bosheth Murdered__
 
 12. So David gave an order to his men, and they killed them. They cut off their hands and feet and hung the bodies by the pool in Hebron. But they took the head of Ish-Bosheth and buried it in Abner's tomb at Hebron.
 
-## 2Sam.5
+## 2 Samuel 5
 
 __David Becomes King Over Israel__
 
@@ -300,7 +300,7 @@ __David Defeats the Philistines__
 
 25. So David did as the LORD commanded him, and he struck down the Philistines all the way from Gibeon to Gezer.
 
-## 2Sam.6
+## 2 Samuel 6
 
 __The Ark Brought to Jerusalem__
 
@@ -350,7 +350,7 @@ __The Ark Brought to Jerusalem__
 
 23. And Michal daughter of Saul had no children to the day of her death.
 
-## 2Sam.7
+## 2 Samuel 7
 
 __God's Promise to David__
 
@@ -414,7 +414,7 @@ __David's Prayer__
 
 29. Now be pleased to bless the house of your servant, that it may continue forever in your sight; for you, O Sovereign LORD, have spoken, and with your blessing the house of your servant will be blessed forever."
 
-## 2Sam.8
+## 2 Samuel 8
 
 __David's Victories__
 
@@ -456,7 +456,7 @@ __David's Officials__
 
 18. Benaiah son of Jehoiada was over the Kerethites and Pelethites; and David's sons were royal advisers. 
 
-## 2Sam.9
+## 2 Samuel 9
 
 __David and Mephibosheth__
 
@@ -486,7 +486,7 @@ __David and Mephibosheth__
 
 13. And Mephibosheth lived in Jerusalem, because he always ate at the king's table, and he was crippled in both feet.
 
-## 2Sam.10
+## 2 Samuel 10
 
 __David Defeats the Ammonites__
 
@@ -528,7 +528,7 @@ __David Defeats the Ammonites__
 
 19. When all the kings who were vassals of Hadadezer saw that they had been defeated by Israel, they made peace with the Israelites and became subject to them. So the Arameans were afraid to help the Ammonites anymore.
 
-## 2Sam.11
+## 2 Samuel 11
 
 __David and Bathsheba__
 
@@ -586,7 +586,7 @@ __David and Bathsheba__
 
 27. After the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing David had done displeased the LORD.
 
-## 2Sam.12
+## 2 Samuel 12
 
 __Nathan Rebukes David__
 
@@ -652,7 +652,7 @@ __Nathan Rebukes David__
 
 31. and brought out the people who were there, consigning them to labor with saws and with iron picks and axes, and he made them work at brickmaking. He did this to all the Ammonite towns. Then David and his entire army returned to Jerusalem.
 
-## 2Sam.13
+## 2 Samuel 13
 
 __Amnon and Tamar__
 
@@ -736,7 +736,7 @@ __Absalom Kills Amnon__
 
 39. And the spirit of the king longed to go to Absalom, for he was consoled concerning Amnon's death.
 
-## 2Sam.14
+## 2 Samuel 14
 
 __Absalom Returns to Jerusalem__
 
@@ -806,7 +806,7 @@ __Absalom Returns to Jerusalem__
 
 33. So Joab went to the king and told him this. Then the king summoned Absalom, and he came in and bowed down with his face to the ground before the king. And the king kissed Absalom.
 
-## 2Sam.15
+## 2 Samuel 15
 
 __Absalom's Conspiracy__
 
@@ -886,7 +886,7 @@ __David Flees__
 
 37. So David's friend Hushai arrived at Jerusalem as Absalom was entering the city.
 
-## 2Sam.16
+## 2 Samuel 16
 
 __David and Ziba__
 
@@ -940,7 +940,7 @@ __The Advice of Hushai and Ahithophel__
 
 23. Now in those days the advice Ahithophel gave was like that of one who inquires of God. That was how both David and Absalom regarded all of Ahithophel's advice.
 
-## 2Sam.17
+## 2 Samuel 17
 
 1. Ahithophel said to Absalom, "I would choose twelve thousand men and set out tonight in pursuit of David.
 
@@ -1000,7 +1000,7 @@ __The Advice of Hushai and Ahithophel__
 
 29. honey and curds, sheep, and cheese from cows' milk for David and his people to eat. For they said, "The people have become hungry and tired and thirsty in the desert."
 
-## 2Sam.18
+## 2 Samuel 18
 
 __Absalom's Death__
 
@@ -1072,7 +1072,7 @@ __David Mourns__
 
 33. The king was shaken. He went up to the room over the gateway and wept. As he went, he said: "O my son Absalom! My son, my son Absalom! If only I had died instead of you - O Absalom, my son, my son!"
 
-## 2Sam.19
+## 2 Samuel 19
 
 1. Joab was told, "The king is weeping and mourning for Absalom."
 
@@ -1164,7 +1164,7 @@ __David Returns to Jerusalem__
 
 43. Then the men of Israel answered the men of Judah, "We have ten shares in the king; and besides, we have a greater claim on David than you have. So why do you treat us with contempt? Were we not the first to speak of bringing back our king?" But the men of Judah responded even more harshly than the men of Israel.
 
-## 2Sam.20
+## 2 Samuel 20
 
 __Sheba Rebels Against David__
 
@@ -1220,7 +1220,7 @@ __Sheba Rebels Against David__
 
 26. and Ira the Jairite was David's priest.
 
-## 2Sam.21
+## 2 Samuel 21
 
 __The Gibeonites Avenged__
 
@@ -1270,7 +1270,7 @@ __Wars Against the Philistines__
 
 22. These four were descendants of Rapha in Gath, and they fell at the hands of David and his men.
 
-## 2Sam.22
+## 2 Samuel 22
 
 __David's Song of Praise__
 
@@ -1376,7 +1376,7 @@ __David's Song of Praise__
 
 51. He gives his king great victories; he shows unfailing kindness to his anointed, to David and his descendants forever."
 
-## 2Sam.23
+## 2 Samuel 23
 
 __The Last Words of David__
 
@@ -1460,7 +1460,7 @@ __David's Mighty Men__
 
 39. and Uriah the Hittite. There were thirty-seven in all.
 
-## 2Sam.24
+## 2 Samuel 24
 
 __David Counts the Fighting Men__
 

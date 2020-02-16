@@ -1,6 +1,6 @@
 # 1Chr
 
-## 1Chr.1
+## 1 Chronicles 1
 
 __Historical Records From Adam to Abraham__
 
@@ -116,7 +116,7 @@ __The Edomites__
 
 54. Magdiel and Iram. These were the chiefs of Edom.
 
-## 1Chr.2
+## 1 Chronicles 2
 
 __Israel's Sons__
 
@@ -232,7 +232,7 @@ __Judah__
 
 55. and the clans of scribes who lived at Jabez: the Tirathites, Shimeathites and Sucathites. These are the Kenites who came from Hammath, the father of the house of Recab. 
 
-## 1Chr.3
+## 1 Chronicles 3
 
 1. These were the sons of David born to him in Hebron: The firstborn was Amnon the son of Ahinoam of Jezreel; the second, Daniel the son of Abigail of Carmel;
 
@@ -282,7 +282,7 @@ __Judah__
 
 24. The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah and Anani - seven in all.
 
-## 1Chr.4
+## 1 Chronicles 4
 
 1. The descendants of Judah: Perez, Hezron, Carmi, Hur and Shobal.
 
@@ -372,7 +372,7 @@ __Simeon__
 
 43. They killed the remaining Amalekites who had escaped, and they have lived there to this day.
 
-## 1Chr.5
+## 1 Chronicles 5
 
 __Reuben__
 
@@ -432,7 +432,7 @@ __The Half-Tribe of Manasseh__
 
 26. So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-Pileser king of Assyria), who took the Reubenites, the Gadites and the half-tribe of Manasseh into exile. He took them to Halah, Habor, Hara and the river of Gozan, where they are to this day.
 
-## 1Chr.6
+## 1 Chronicles 6
 
 __Levi__
 
@@ -598,7 +598,7 @@ __Levi__
 
 81. Heshbon and Jazer, together with their pasturelands.
 
-## 1Chr.7
+## 1 Chronicles 7
 
 __Issachar__
 
@@ -692,7 +692,7 @@ __Asher__
 
 40. All these were descendants of Asher - heads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was 26,000.
 
-## 1Chr.8
+## 1 Chronicles 8
 
 __The Genealogy of Saul the Benjamite__
 
@@ -776,7 +776,7 @@ __The Genealogy of Saul the Benjamite__
 
 40. The sons of Ulam were brave warriors who could handle the bow. They had many sons and grandsons - 150 in all. All these were the descendants of Benjamin.
 
-## 1Chr.9
+## 1 Chronicles 9
 
 1. All Israel was listed in the genealogies recorded in the book of the kings of Israel.
 
@@ -872,7 +872,7 @@ __The Genealogy of Saul__
 
 44. Azel had six sons, and these were their names: Azrikam, Bokeru, Ishmael, Sheariah, Obadiah and Hanan. These were the sons of Azel.
 
-## 1Chr.10
+## 1 Chronicles 10
 
 __Saul Takes His Life__
 
@@ -904,7 +904,7 @@ __Saul Takes His Life__
 
 14. and did not inquire of the LORD. So the LORD put him to death and turned the kingdom over to David son of Jesse.
 
-## 1Chr.11
+## 1 Chronicles 11
 
 __David Becomes King Over Israel__
 
@@ -1006,7 +1006,7 @@ __David's Mighty Men__
 
 47. Eliel, Obed and Jaasiel the Mezobaite.
 
-## 1Chr.12
+## 1 Chronicles 12
 
 __Warriors Join David__
 
@@ -1092,7 +1092,7 @@ __Others Join David at Hebron__
 
 40. Also, their neighbors from as far away as Issachar, Zebulun and Naphtali came bringing food on donkeys, camels, mules and oxen. There were plentiful supplies of flour, fig cakes, raisin cakes, wine, oil, cattle and sheep, for there was joy in Israel.
 
-## 1Chr.13
+## 1 Chronicles 13
 
 __Bringing Back the Ark__
 
@@ -1124,7 +1124,7 @@ __Bringing Back the Ark__
 
 14. The ark of God remained with the family of Obed-Edom in his house for three months, and the LORD blessed his household and everything he had.
 
-## 1Chr.14
+## 1 Chronicles 14
 
 __David's House and Family__
 
@@ -1164,7 +1164,7 @@ __David Defeats the Philistines__
 
 17. So David's fame spread throughout every land, and the LORD made all the nations fear him.
 
-## 1Chr.15
+## 1 Chronicles 15
 
 __The Ark Brought to Jerusalem__
 
@@ -1226,7 +1226,7 @@ __The Ark Brought to Jerusalem__
 
 29. As the ark of the covenant of the LORD was entering the City of David, Michal daughter of Saul watched from a window. And when she saw King David dancing and celebrating, she despised him in her heart.
 
-## 1Chr.16
+## 1 Chronicles 16
 
 1. They brought the ark of God and set it inside the tent that David had pitched for it, and they presented burnt offerings and fellowship offerings before God.
 
@@ -1316,7 +1316,7 @@ __David's Psalm of Thanks__
 
 43. Then all the people left, each for his own home, and David returned home to bless his family.
 
-## 1Chr.17
+## 1 Chronicles 17
 
 __God's Promise to David__
 
@@ -1376,7 +1376,7 @@ __David's Prayer__
 
 27. Now you have been pleased to bless the house of your servant, that it may continue forever in your sight; for you, O LORD, have blessed it, and it will be blessed forever."
 
-## 1Chr.18
+## 1 Chronicles 18
 
 __David's Victories__
 
@@ -1416,7 +1416,7 @@ __David's Officials__
 
 17. Benaiah son of Jehoiada was over the Kerethites and Pelethites; and David's sons were chief officials at the king's side.
 
-## 1Chr.19
+## 1 Chronicles 19
 
 __The Battle Against the Ammonites__
 
@@ -1458,7 +1458,7 @@ __The Battle Against the Ammonites__
 
 19. When the vassals of Hadadezer saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Arameans were not willing to help the Ammonites anymore.
 
-## 1Chr.20
+## 1 Chronicles 20
 
 __The Capture of Rabbah__
 
@@ -1480,7 +1480,7 @@ __War With the Philistines__
 
 8. These were descendants of Rapha in Gath, and they fell at the hands of David and his men.
 
-## 1Chr.21
+## 1 Chronicles 21
 
 __David Numbers the Fighting Men__
 
@@ -1544,7 +1544,7 @@ __David Numbers the Fighting Men__
 
 30. But David could not go before it to inquire of God, because he was afraid of the sword of the angel of the LORD.
 
-## 1Chr.22
+## 1 Chronicles 22
 
 1. Then David said, "The house of the LORD God is to be here, and also the altar of burnt offering for Israel."
 
@@ -1586,7 +1586,7 @@ __Preparations for the Temple__
 
 19. Now devote your heart and soul to seeking the LORD your God. Begin to build the sanctuary of the LORD God, so that you may bring the ark of the covenant of the LORD and the sacred articles belonging to God into the temple that will be built for the Name of the LORD."
 
-## 1Chr.23
+## 1 Chronicles 23
 
 __The Levites__
 
@@ -1660,7 +1660,7 @@ __The Merarites__
 
 32. And so the Levites carried out their responsibilities for the Tent of Meeting, for the Holy Place and, under their brothers the descendants of Aaron, for the service of the temple of the LORD.
 
-## 1Chr.24
+## 1 Chronicles 24
 
 __The Divisions of Priests__
 
@@ -1728,7 +1728,7 @@ __The Rest of the Levites__
 
 31. They also cast lots, just as their brothers the descendants of Aaron did, in the presence of King David and of Zadok, Ahimelech, and the heads of families of the priests and of the Levites. The families of the oldest brother were treated the same as those of the youngest.
 
-## 1Chr.25
+## 1 Chronicles 25
 
 __The Singers__
 
@@ -1794,7 +1794,7 @@ __The Singers__
 
 31. the twenty-fourth to Romamti-Ezer, his sons and relatives, 12
 
-## 1Chr.26
+## 1 Chronicles 26
 
 __The Gatekeepers__
 
@@ -1864,7 +1864,7 @@ __The Treasurers and Other Officials__
 
 32. Jeriah had twenty-seven hundred relatives, who were able men and heads of families, and King David put them in charge of the Reubenites, the Gadites and the half-tribe of Manasseh for every matter pertaining to God and for the affairs of the king.
 
-## 1Chr.27
+## 1 Chronicles 27
 
 __Army Divisions__
 
@@ -1940,7 +1940,7 @@ __The King's Overseers__
 
 34. Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar. Joab was the commander of the royal army.
 
-## 1Chr.28
+## 1 Chronicles 28
 
 __David's Plans for the Temple__
 
@@ -1986,7 +1986,7 @@ __David's Plans for the Temple__
 
 21. The divisions of the priests and Levites are ready for all the work on the temple of God, and every willing man skilled in any craft will help you in all the work. The officials and all the people will obey your every command."
 
-## 1Chr.29
+## 1 Chronicles 29
 
 __Gifts for Building the Temple__
 

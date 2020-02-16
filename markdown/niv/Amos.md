@@ -1,6 +1,6 @@
 # Amos
 
-## Amos.1
+## Amos 1
 
 1. The words of Amos, one of the shepherds of Tekoa - what he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel.
 
@@ -34,7 +34,7 @@ __Judgment on Israel's Neighbors__
 
 15. Her king will go into exile, he and his officials together," says the LORD.
 
-## Amos.2
+## Amos 2
 
 1. This is what the LORD says: "For three sins of Moab, even for four, I will not turn back [my wrath]. Because he burned, as if to lime, the bones of Edom's king,
 
@@ -70,7 +70,7 @@ __Judgment on Israel__
 
 16. Even the bravest warriors will flee naked on that day," declares the LORD.
 
-## Amos.3
+## Amos 3
 
 __Witnesses Summoned Against Israel__
 
@@ -104,7 +104,7 @@ __Witnesses Summoned Against Israel__
 
 15. I will tear down the winter house along with the summer house; the houses adorned with ivory will be destroyed and the mansions will be demolished," declares the LORD.
 
-## Amos.4
+## Amos 4
 
 __Israel Has Not Returned to God__
 
@@ -134,7 +134,7 @@ __Israel Has Not Returned to God__
 
 13. He who forms the mountains, creates the wind, and reveals his thoughts to man, he who turns dawn to darkness, and treads the high places of the earth - the LORD God Almighty is his name.
 
-## Amos.5
+## Amos 5
 
 __A Lament Over Israel__
 
@@ -196,7 +196,7 @@ __The Day of the Lord__
 
 27. Therefore I will send you into exile beyond Damascus," says the LORD, whose name is God Almighty.
 
-## Amos.6
+## Amos 6
 
 __Woe to the Complacent__
 
@@ -230,7 +230,7 @@ __The Lord Abhors the Pride of Israel__
 
 14. For the LORD God Almighty declares, "I will stir up a nation against you, O house of Israel, that will oppress you all the way from Lebo Hamath to the valley of the Arabah."
 
-## Amos.7
+## Amos 7
 
 __Locusts, Fire and a Plumb Line__
 
@@ -270,7 +270,7 @@ __Amos and Amaziah__
 
 17. "Therefore this is what the LORD says: "`Your wife will become a prostitute in the city, and your sons and daughters will fall by the sword. Your land will be measured and divided up, and you yourself will die in a pagan country. And Israel will certainly go into exile, away from their native land.'"
 
-## Amos.8
+## Amos 8
 
 __A Basket of Ripe Fruit__
 
@@ -302,7 +302,7 @@ __A Basket of Ripe Fruit__
 
 14. They who swear by the shame of Samaria, or say, `As surely as your god lives, O Dan,' or, `As surely as the god of Beersheba lives' - they will fall, never to rise again."
 
-## Amos.9
+## Amos 9
 
 __Israel to Be Destroyed__
 

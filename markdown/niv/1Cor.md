@@ -1,6 +1,6 @@
 # 1Cor
 
-## 1Cor.1
+## 1 Corinthians 1
 
 1. Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,
 
@@ -68,7 +68,7 @@ __Christ the Wisdom and Power of God__
 
 31. Therefore, as it is written: "Let him who boasts boast in the Lord." 
 
-## 1Cor.2
+## 1 Corinthians 2
 
 1. When I came to you, brothers, I did not come with eloquence or superior wisdom as I proclaimed to you the testimony about God. 
 
@@ -104,7 +104,7 @@ __Wisdom From the Spirit__
 
 16. "For who has known the mind of the Lord that he may instruct him?" But we have the mind of Christ.
 
-## 1Cor.3
+## 1 Corinthians 3
 
 __On Divisions in the Church__
 
@@ -154,7 +154,7 @@ __On Divisions in the Church__
 
 23. and you are of Christ, and Christ is of God.
 
-## 1Cor.4
+## 1 Corinthians 4
 
 __Apostles of Christ__
 
@@ -200,7 +200,7 @@ __Apostles of Christ__
 
 21. What do you prefer? Shall I come to you with a whip, or in love and with a gentle spirit?
 
-## 1Cor.5
+## 1 Corinthians 5
 
 __Expel the Immoral Brother!__
 
@@ -230,7 +230,7 @@ __Expel the Immoral Brother!__
 
 13. God will judge those outside. "Expel the wicked man from among you." 
 
-## 1Cor.6
+## 1 Corinthians 6
 
 __Lawsuits Among Believers__
 
@@ -276,7 +276,7 @@ __Sexual Immorality__
 
 20. you were bought at a price. Therefore honor God with your body.
 
-## 1Cor.7
+## 1 Corinthians 7
 
 __Marriage__
 
@@ -360,7 +360,7 @@ __Marriage__
 
 40. In my judgment, she is happier if she stays as she is - and I think that I too have the Spirit of God.
 
-## 1Cor.8
+## 1 Corinthians 8
 
 __Food Sacrificed to Idols__
 
@@ -390,7 +390,7 @@ __Food Sacrificed to Idols__
 
 13. Therefore, if what I eat causes my brother to fall into sin, I will never eat meat again, so that I will not cause him to fall.
 
-## 1Cor.9
+## 1 Corinthians 9
 
 __The Rights of an Apostle__
 
@@ -448,7 +448,7 @@ __The Rights of an Apostle__
 
 27. No, I beat my body and make it my slave so that after I have preached to others, I myself will not be disqualified for the prize.
 
-## 1Cor.10
+## 1 Corinthians 10
 
 __Warnings From Israel's History__
 
@@ -522,7 +522,7 @@ __The Believer's Freedom__
 
 33. even as I try to please everybody in every way. For I am not seeking my own good but the good of many, so that they may be saved.
 
-## 1Cor.11
+## 1 Corinthians 11
 
 1. Follow my example, as I follow the example of Christ.
 
@@ -596,7 +596,7 @@ __The Lord's Supper__
 
 34. If anyone is hungry, he should eat at home, so that when you meet together it may not result in judgment. And when I come I will give further directions.
 
-## 1Cor.12
+## 1 Corinthians 12
 
 __Spritual Gifts__
 
@@ -668,7 +668,7 @@ __Love__
 
 31. And now I will show you the most excellent way.
 
-## 1Cor.13
+## 1 Corinthians 13
 
 1. If I speak in the tongues of men and of angels, but have not love, I am only a resounding gong or a clanging cymbal.
 
@@ -696,7 +696,7 @@ __Love__
 
 13. And now these three remain: faith, hope and love. But the greatest of these is love.
 
-## 1Cor.14
+## 1 Corinthians 14
 
 __Gifts of Prophecy and Tongues__
 
@@ -782,7 +782,7 @@ __Orderly Worship__
 
 40. But everything should be done in a fitting and orderly way.
 
-## 1Cor.15
+## 1 Corinthians 15
 
 __The Resurrection of Christ__
 
@@ -906,7 +906,7 @@ __The Resurrection Body__
 
 58. Therefore, my dear brothers, stand firm. Let nothing move you. Always give yourselves fully to the work of the Lord, because you know that your labor in the Lord is not in vain.
 
-## 1Cor.16
+## 1 Corinthians 16
 
 __The Collection for God's People__
 

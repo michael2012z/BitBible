@@ -1,6 +1,6 @@
 # Zech
 
-## Zech.1
+## Zechariah 1
 
 __A Call to Return to the LORD__
 
@@ -50,7 +50,7 @@ __Four Horns and Four Craftsmen__
 
 21. I asked, "What are these coming to do?" He answered, "These are the horns that scattered Judah so that no one could raise his head, but the craftsmen have come to terrify them and throw down these horns of the nations who lifted up their horns against the land of Judah to scatter its people."
 
-## Zech.2
+## Zechariah 2
 
 __A Man With a Measuring Line__
 
@@ -80,7 +80,7 @@ __A Man With a Measuring Line__
 
 13. Be still before the LORD, all mankind, because he has roused himself from his holy dwelling."
 
-## Zech.3
+## Zechariah 3
 
 __Clean Garments for the High Priest__
 
@@ -104,7 +104,7 @@ __Clean Garments for the High Priest__
 
 10. "`In that day each of you will invite his neighbor to sit under his vine and fig tree,' declares the LORD Almighty."
 
-## Zech.4
+## Zechariah 4
 
 __The Gold Lampstand and the Two Olive Trees__
 
@@ -136,7 +136,7 @@ __The Gold Lampstand and the Two Olive Trees__
 
 14. So he said, "These are the two who are anointed to serve the Lord of all the earth."
 
-## Zech.5
+## Zechariah 5
 
 __The Flying Scroll__
 
@@ -164,7 +164,7 @@ __The Woman in a Basket__
 
 11. He replied, "To the country of Babylonia to build a house for it. When it is ready, the basket will be set there in its place."
 
-## Zech.6
+## Zechariah 6
 
 __Four Chariots__
 
@@ -200,7 +200,7 @@ __A Crown for Joshua__
 
 15. Those who are far away will come and help to build the temple of the LORD, and you will know that the LORD Almighty has sent me to you. This will happen if you diligently obey the LORD your God."
 
-## Zech.7
+## Zechariah 7
 
 __Justice and Mercy, Not Fasting__
 
@@ -232,7 +232,7 @@ __Justice and Mercy, Not Fasting__
 
 14. `I scattered them with a whirlwind among all the nations, where they were strangers. The land was left so desolate behind them that no one could come or go. This is how they made the pleasant land desolate.'"
 
-## Zech.8
+## Zechariah 8
 
 __The LORD Promises to Bless Jerusalem__
 
@@ -282,7 +282,7 @@ __The LORD Promises to Bless Jerusalem__
 
 23. This is what the LORD Almighty says: "In those days ten men from all languages and nations will take firm hold of one Jew by the hem of his robe and say, `Let us go with you, because we have heard that God is with you.'"
 
-## Zech.9
+## Zechariah 9
 
 __Judgment on Israel's Enemies__
 
@@ -324,7 +324,7 @@ __The LORD Will Appear__
 
 17. How attractive and beautiful they will be! Grain will make the young men thrive, and new wine the young women.
 
-## Zech.10
+## Zechariah 10
 
 __The LORD Will Care for Judah__
 
@@ -352,7 +352,7 @@ __The LORD Will Care for Judah__
 
 12. I will strengthen them in the LORD and in his name they will walk," declares the LORD.
 
-## Zech.11
+## Zechariah 11
 
 1. Open your doors, O Lebanon, so that fire may devour your cedars!
 
@@ -390,7 +390,7 @@ __Two Shepherds__
 
 17. "Woe to the worthless shepherd, who deserts the flock! May the sword strike his arm and his right eye! May his arm be completely withered, his right eye totally blinded!"
 
-## Zech.12
+## Zechariah 12
 
 __Jerusalem's Enemies to Be Destroyed__
 
@@ -424,7 +424,7 @@ __Mourning for the One They Pierced__
 
 14. and all the rest of the clans and their wives.
 
-## Zech.13
+## Zechariah 13
 
 __Cleansing From Sin__
 
@@ -448,7 +448,7 @@ __The Shepherd Struck, the Sheep Scattered__
 
 9. This third I will bring into the fire; I will refine them like silver and test them like gold. They will call on my name and I will answer them; I will say, `They are my people,' and they will say, `The LORD is our God.'"
 
-## Zech.14
+## Zechariah 14
 
 __The LORD Comes and Reigns__
 

@@ -1,6 +1,6 @@
 # Phlm
 
-## Phlm.1
+## Philemon 1
 
 1. Paul, a prisoner of Christ Jesus, and Timothy our brother, To Philemon our dear friend and fellow worker,
 

@@ -1,6 +1,6 @@
 # Hab
 
-## Hab.1
+## Habakkuk 1
 
 1. The burden which Habakkuk the prophet did see.
 
@@ -36,7 +36,7 @@
 
 17. Shall they therefore empty their net, and not spare continually to slay the nations?
 
-## Hab.2
+## Habakkuk 2
 
 1. I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
 
@@ -78,7 +78,7 @@
 
 20. But the LORD is in his holy temple: let all the earth keep silence before him.
 
-## Hab.3
+## Habakkuk 3
 
 1. A prayer of Habakkuk the prophet upon Shigionoth.
 

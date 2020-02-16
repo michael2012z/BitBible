@@ -1,6 +1,6 @@
 # Zech
 
-## Zech.1
+## Zechariah 1
 
 1. In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 
@@ -44,7 +44,7 @@
 
 21. Then said I, What come these to do? And he spake, saying, These are the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up their horn over the land of Judah to scatter it.
 
-## Zech.2
+## Zechariah 2
 
 1. I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.
 
@@ -72,7 +72,7 @@
 
 13. Be silent, O all flesh, before the LORD: for he is raised up out of his holy habitation.
 
-## Zech.3
+## Zechariah 3
 
 1. And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.
 
@@ -94,7 +94,7 @@
 
 10. In that day, saith the LORD of hosts, shall ye call every man his neighbour under the vine and under the fig tree.
 
-## Zech.4
+## Zechariah 4
 
 1. And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
 
@@ -124,7 +124,7 @@
 
 14. Then said he, These are the two anointed ones, that stand by the Lord of the whole earth.
 
-## Zech.5
+## Zechariah 5
 
 1. Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
 
@@ -148,7 +148,7 @@
 
 11. And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base.
 
-## Zech.6
+## Zechariah 6
 
 1. And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass.
 
@@ -180,7 +180,7 @@
 
 15. And they that are far off shall come and build in the temple of the LORD, and ye shall know that the LORD of hosts hath sent me unto you. And this shall come to pass, if ye will diligently obey the voice of the LORD your God.
 
-## Zech.7
+## Zechariah 7
 
 1. And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu;
 
@@ -210,7 +210,7 @@
 
 14. But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.
 
-## Zech.8
+## Zechariah 8
 
 1. Again the word of the LORD of hosts came to me, saying,
 
@@ -258,7 +258,7 @@
 
 23. Thus saith the LORD of hosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you.
 
-## Zech.9
+## Zechariah 9
 
 1. The burden of the word of the LORD in the land of Hadrach, and Damascus shall be the rest thereof: when the eyes of man, as of all the tribes of Israel, shall be toward the LORD.
 
@@ -294,7 +294,7 @@
 
 17. For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids.
 
-## Zech.10
+## Zechariah 10
 
 1. Ask ye of the LORD rain in the time of the latter rain; so the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field.
 
@@ -320,7 +320,7 @@
 
 12. And I will strengthen them in the LORD; and they shall walk up and down in his name, saith the LORD.
 
-## Zech.11
+## Zechariah 11
 
 1. Open thy doors, O Lebanon, that the fire may devour thy cedars.
 
@@ -356,7 +356,7 @@
 
 17. Woe to the idol shepherd that leaveth the flock! the sword shall be upon his arm, and upon his right eye: his arm shall be clean dried up, and his right eye shall be utterly darkened.
 
-## Zech.12
+## Zechariah 12
 
 1. The burden of the word of the LORD for Israel, saith the LORD, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him.
 
@@ -386,7 +386,7 @@
 
 14. All the families that remain, every family apart, and their wives apart.
 
-## Zech.13
+## Zechariah 13
 
 1. In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
 
@@ -406,7 +406,7 @@
 
 9. And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God.
 
-## Zech.14
+## Zechariah 14
 
 1. Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.
 

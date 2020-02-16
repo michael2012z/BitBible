@@ -1,6 +1,6 @@
 # Acts
 
-## Acts.1
+## Acts 1
 
 1. The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
 
@@ -54,7 +54,7 @@
 
 26. And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.
 
-## Acts.2
+## Acts 2
 
 1. And when the day of Pentecost was fully come, they were all with one accord in one place.
 
@@ -150,7 +150,7 @@
 
 47. Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
 
-## Acts.3
+## Acts 3
 
 1. Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour.
 
@@ -204,7 +204,7 @@
 
 26. Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.
 
-## Acts.4
+## Acts 4
 
 1. And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,
 
@@ -280,7 +280,7 @@
 
 37. Having land, sold it, and brought the money, and laid it at the apostles' feet.
 
-## Acts.5
+## Acts 5
 
 1. But a certain man named Ananias, with Sapphira his wife, sold a possession,
 
@@ -366,7 +366,7 @@
 
 42. And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.
 
-## Acts.6
+## Acts 6
 
 1. And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
 
@@ -398,7 +398,7 @@
 
 15. And all that sat in the council, looking stedfastly on him, saw his face as it had been the face of an angel.
 
-## Acts.7
+## Acts 7
 
 1. Then said the high priest, Are these things so?
 
@@ -520,7 +520,7 @@
 
 60. And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
 
-## Acts.8
+## Acts 8
 
 1. And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.
 
@@ -602,7 +602,7 @@
 
 40. But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.
 
-## Acts.9
+## Acts 9
 
 1. And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,
 
@@ -690,7 +690,7 @@
 
 43. And it came to pass, that he tarried many days in Joppa with one Simon a tanner.
 
-## Acts.10
+## Acts 10
 
 1. There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,
 
@@ -788,7 +788,7 @@
 
 48. And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.
 
-## Acts.11
+## Acts 11
 
 1. And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.
 
@@ -850,7 +850,7 @@
 
 30. Which also they did, and sent it to the elders by the hands of Barnabas and Saul.
 
-## Acts.12
+## Acts 12
 
 1. Now about that time Herod the king stretched forth his hands to vex certain of the church.
 
@@ -902,7 +902,7 @@
 
 25. And Barnabas and Saul returned from Jerusalem, when they had fulfilled their ministry, and took with them John, whose surname was Mark.
 
-## Acts.13
+## Acts 13
 
 1. Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
 
@@ -1008,7 +1008,7 @@
 
 52. And the disciples were filled with joy, and with the Holy Ghost.
 
-## Acts.14
+## Acts 14
 
 1. And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.
 
@@ -1066,7 +1066,7 @@
 
 28. And there they abode long time with the disciples.
 
-## Acts.15
+## Acts 15
 
 1. And certain men which came down from Judaea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.
 
@@ -1150,7 +1150,7 @@
 
 41. And he went through Syria and Cilicia, confirming the churches.
 
-## Acts.16
+## Acts 16
 
 1. Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek:
 
@@ -1232,7 +1232,7 @@
 
 40. And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed.
 
-## Acts.17
+## Acts 17
 
 1. Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:
 
@@ -1302,7 +1302,7 @@
 
 34. Howbeit certain men clave unto him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them.
 
-## Acts.18
+## Acts 18
 
 1. After these things Paul departed from Athens, and came to Corinth;
 
@@ -1360,7 +1360,7 @@
 
 28. For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ.
 
-## Acts.19
+## Acts 19
 
 1. And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,
 
@@ -1444,7 +1444,7 @@
 
 41. And when he had thus spoken, he dismissed the assembly.
 
-## Acts.20
+## Acts 20
 
 1. And after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia.
 
@@ -1522,7 +1522,7 @@
 
 38. Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
 
-## Acts.21
+## Acts 21
 
 1. And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the day following unto Rhodes, and from thence unto Patara:
 
@@ -1604,7 +1604,7 @@
 
 40. And when he had given him licence, Paul stood on the stairs, and beckoned with the hand unto the people. And when there was made a great silence, he spake unto them in the Hebrew tongue, saying,
 
-## Acts.22
+## Acts 22
 
 1. Men, brethren, and fathers, hear ye my defence which I make now unto you.
 
@@ -1666,7 +1666,7 @@
 
 30. On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.
 
-## Acts.23
+## Acts 23
 
 1. And Paul, earnestly beholding the council, said, Men and brethren, I have lived in all good conscience before God until this day.
 
@@ -1738,7 +1738,7 @@
 
 35. I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod's judgment hall.
 
-## Acts.24
+## Acts 24
 
 1. And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul.
 
@@ -1794,7 +1794,7 @@
 
 27. But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound.
 
-## Acts.25
+## Acts 25
 
 1. Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.
 
@@ -1850,7 +1850,7 @@
 
 27. For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him.
 
-## Acts.26
+## Acts 26
 
 1. Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:
 
@@ -1916,7 +1916,7 @@
 
 32. Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.
 
-## Acts.27
+## Acts 27
 
 1. And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus' band.
 
@@ -2006,7 +2006,7 @@
 
 44. And the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land.
 
-## Acts.28
+## Acts 28
 
 1. And when they were escaped, then they knew that the island was called Melita.
 

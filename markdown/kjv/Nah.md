@@ -1,6 +1,6 @@
 # Nah
 
-## Nah.1
+## Nahum 1
 
 1. The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
 
@@ -32,7 +32,7 @@
 
 15. Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.
 
-## Nah.2
+## Nahum 2
 
 1. He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily.
 
@@ -60,7 +60,7 @@
 
 13. Behold, I am against thee, saith the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.
 
-## Nah.3
+## Nahum 3
 
 1. Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;
 

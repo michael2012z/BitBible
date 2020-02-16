@@ -1,6 +1,6 @@
 # Jer
 
-## Jer.1
+## Jeremiah 1
 
 1. The words of Jeremiah son of Hilkiah, one of the priests at Anathoth in the territory of Benjamin.
 
@@ -42,7 +42,7 @@ __The Call of Jeremiah__
 
 19. They will fight against you but will not overcome you, for I am with you and will rescue you," declares the LORD.
 
-## Jer.2
+## Jeremiah 2
 
 __Israel Forsakes God__
 
@@ -120,7 +120,7 @@ __Israel Forsakes God__
 
 37. You will also leave that place with your hands on your head, for the LORD has rejected those you trust; you will not be helped by them.
 
-## Jer.3
+## Jeremiah 3
 
 1. "If a man divorces his wife and she leaves him and marries another man, should he return to her again? Would not the land be completely defiled? But you have lived as a prostitute with many lovers - would you now return to me?" declares the LORD.
 
@@ -174,7 +174,7 @@ __Unfaithful Israel__
 
 25. Let us lie down in our shame, and let our disgrace cover us. We have sinned against the LORD our God, both we and our fathers; from our youth till this day we have not obeyed the LORD our God."
 
-## Jer.4
+## Jeremiah 4
 
 1. "If you will return, O Israel, return to me," declares the LORD. "If you put your detestable idols out of my sight and no longer go astray,
 
@@ -240,7 +240,7 @@ __Disaster From the North__
 
 31. I hear a cry as of a woman in labor, a groan as of one bearing her first child - the cry of the Daughter of Zion gasping for breath, stretching out her hands and saying, "Alas! I am fainting; my life is given over to murderers."
 
-## Jer.5
+## Jeremiah 5
 
 __Not One Is Upright__
 
@@ -306,7 +306,7 @@ __Not One Is Upright__
 
 31. The prophets prophesy lies, the priests rule by their own authority, and my people love it this way. But what will you do in the end?
 
-## Jer.6
+## Jeremiah 6
 
 __Jerusalem Under Seige__
 
@@ -370,7 +370,7 @@ __Jerusalem Under Seige__
 
 30. They are called rejected silver, because the LORD has rejected them."
 
-## Jer.7
+## Jeremiah 7
 
 __False Religion Worthless__
 
@@ -444,7 +444,7 @@ __The Valley of Slaughter__
 
 34. I will bring an end to the sounds of joy and gladness and to the voices of bride and bridegroom in the towns of Judah and the streets of Jerusalem, for the land will become desolate.
 
-## Jer.8
+## Jeremiah 8
 
 1. "`At that time, declares the LORD, the bones of the kings and officials of Judah, the bones of the priests and prophets, and the bones of the people of Jerusalem will be removed from their graves.
 
@@ -492,7 +492,7 @@ __Sin and Punishment__
 
 22. Is there no balm in Gilead? Is there no physician there? Why then is there no healing for the wound of my people?
 
-## Jer.9
+## Jeremiah 9
 
 1. Oh, that my head were a spring of water and my eyes a fountain of tears! I would weep day and night for the slain of my people.
 
@@ -546,7 +546,7 @@ __Sin and Punishment__
 
 26. Egypt, Judah, Edom, Ammon, Moab and all who live in the desert in distant places. For all these nations are really uncircumcised, and even the whole house of Israel is uncircumcised in heart."
 
-## Jer.10
+## Jeremiah 10
 
 __God and Idols__
 
@@ -604,7 +604,7 @@ __Jeremiah's Prayer__
 
 25. Pour out your wrath on the nations that do not acknowledge you, on the peoples who do not call on your name. For they have devoured Jacob; they have devoured him completely and destroyed his homeland.
 
-## Jer.11
+## Jeremiah 11
 
 __The Covenant is Broken__
 
@@ -656,7 +656,7 @@ __Plot Against Jeremiah__
 
 23. Not even a remnant will be left to them, because I will bring disaster on the men of Anathoth in the year of their punishment.'"
 
-## Jer.12
+## Jeremiah 12
 
 __Jeremiah's Complaint__
 
@@ -696,7 +696,7 @@ __God's Answer__
 
 17. But if any nation does not listen, I will completely uproot and destroy it," declares the LORD.
 
-## Jer.13
+## Jeremiah 13
 
 __A Linen Belt__
 
@@ -758,7 +758,7 @@ __Threat of Captivity__
 
 27. your adulteries and lustful neighings, your shameless prostitution! I have seen your detestable acts on the hills and in the fields. Woe to you, O Jerusalem! How long will you be unclean?"
 
-## Jer.14
+## Jeremiah 14
 
 __Drought, Famine, Sword__
 
@@ -806,7 +806,7 @@ __Drought, Famine, Sword__
 
 22. Do any of the worthless idols of the nations bring rain? Do the skies themselves send down showers? No, it is you, O LORD our God. Therefore our hope is in you, for you are the one who does all this.
 
-## Jer.15
+## Jeremiah 15
 
 1. Then the LORD said to me: "Even if Moses and Samuel were to stand before me, my heart would not go out to this people. Send them away from my presence! Let them go!
 
@@ -850,7 +850,7 @@ __Drought, Famine, Sword__
 
 21. "I will save you from the hands of the wicked and redeem you from the grasp of the cruel."
 
-## Jer.16
+## Jeremiah 16
 
 __Day of Disaster__
 
@@ -896,7 +896,7 @@ __Day of Disaster__
 
 21. "Therefore I will teach them - this time I will teach them my power and might. Then they will know that my name is the LORD.
 
-## Jer.17
+## Jeremiah 17
 
 1. "Judah's sin is engraved with an iron tool, inscribed with a flint point, on the tablets of their hearts and on the horns of their altars.
 
@@ -954,7 +954,7 @@ __Keeping the Sabbath Holy__
 
 27. But if you do not obey me to keep the Sabbath day holy by not carrying any load as you come through the gates of Jerusalem on the Sabbath day, then I will kindle an unquenchable fire in the gates of Jerusalem that will consume her fortresses.'"
 
-## Jer.18
+## Jeremiah 18
 
 __At the Potter's House__
 
@@ -1004,7 +1004,7 @@ __At the Potter's House__
 
 23. But you know, O LORD, all their plots to kill me. Do not forgive their crimes or blot out their sins from your sight. Let them be overthrown before you; deal with them in the time of your anger.
 
-## Jer.19
+## Jeremiah 19
 
 1. This is what the LORD says: "Go and buy a clay jar from a potter. Take along some of the elders of the people and of the priests
 
@@ -1036,7 +1036,7 @@ __At the Potter's House__
 
 15. "This is what the LORD Almighty, the God of Israel, says: `Listen! I am going to bring on this city and the villages around it every disaster I pronounced against them, because they were stiff-necked and would not listen to my words.'"
 
-## Jer.20
+## Jeremiah 20
 
 __Jeremiah and Pashhur__
 
@@ -1078,7 +1078,7 @@ __Jeremiah's Complaint__
 
 18. Why did I ever come out of the womb to see trouble and sorrow and to end my days in shame?
 
-## Jer.21
+## Jeremiah 21
 
 __God Rejects Zedekiah's Request__
 
@@ -1110,7 +1110,7 @@ __God Rejects Zedekiah's Request__
 
 14. I will punish you as your deeds deserve, declares the LORD. I will kindle a fire in your forests that will consume everything around you.'"
 
-## Jer.22
+## Jeremiah 22
 
 __Judgment Against Evil Kings__
 
@@ -1174,7 +1174,7 @@ __Judgment Against Evil Kings__
 
 30. This is what the LORD says: "Record this man as if childless, a man who will not prosper in his lifetime, for none of his offspring will prosper, none will sit on the throne of David or rule anymore in Judah."
 
-## Jer.23
+## Jeremiah 23
 
 __The Righteous Branch__
 
@@ -1262,7 +1262,7 @@ __False Oracles and False Prophets__
 
 40. I will bring upon you everlasting disgrace - everlasting shame that will not be forgotten."
 
-## Jer.24
+## Jeremiah 24
 
 __Two Baskets of Figs__
 
@@ -1286,7 +1286,7 @@ __Two Baskets of Figs__
 
 10. I will send the sword, famine and plague against them until they are destroyed from the land I gave to them and their fathers.'"
 
-## Jer.25
+## Jeremiah 25
 
 __Seventy Years of Captivity__
 
@@ -1368,7 +1368,7 @@ __The Cup of God's Wrath__
 
 38. Like a lion he will leave his lair, and their land will become desolate because of the sword of the oppressor and because of the LORD's fierce anger.
 
-## Jer.26
+## Jeremiah 26
 
 __Jeremiah Threatened With Death__
 
@@ -1420,7 +1420,7 @@ __Jeremiah Threatened With Death__
 
 24. Furthermore, Ahikam son of Shaphan supported Jeremiah, and so he was not handed over to the people to be put to death.
 
-## Jer.27
+## Jeremiah 27
 
 __Judah to Serve Nebuchadnezzar__
 
@@ -1468,7 +1468,7 @@ __Judah to Serve Nebuchadnezzar__
 
 22. `They will be taken to Babylon and there they will remain until the day I come for them,' declares the LORD. `Then I will bring them back and restore them to this place.'"
 
-## Jer.28
+## Jeremiah 28
 
 __The False Prophet Hananiah__
 
@@ -1506,7 +1506,7 @@ __The False Prophet Hananiah__
 
 17. In the seventh month of that same year, Hananiah the prophet died.
 
-## Jer.29
+## Jeremiah 29
 
 __A Letter to the Exiles__
 
@@ -1576,7 +1576,7 @@ __Message to Shemaiah__
 
 32. this is what the LORD says: I will surely punish Shemaiah the Nehelamite and his descendants. He will have no one left among this people, nor will he see the good things I will do for my people, declares the LORD, because he has preached rebellion against me.'"
 
-## Jer.30
+## Jeremiah 30
 
 __Restoration of Israel__
 
@@ -1628,7 +1628,7 @@ __Restoration of Israel__
 
 24. The fierce anger of the LORD will not turn back until he fully accomplishes the purposes of his heart. In days to come you will understand this.
 
-## Jer.31
+## Jeremiah 31
 
 1. "At that time," declares the LORD, "I will be the God of all the clans of Israel, and they will be my people."
 
@@ -1710,7 +1710,7 @@ __Restoration of Israel__
 
 40. The whole valley where dead bodies and ashes are thrown, and all the terraces out to the Kidron Valley on the east as far as the corner of the Horse Gate, will be holy to the LORD. The city will never again be uprooted or demolished."
 
-## Jer.32
+## Jeremiah 32
 
 __Jeremiah Buys a Field__
 
@@ -1802,7 +1802,7 @@ __Jeremiah Buys a Field__
 
 44. Fields will be bought for silver, and deeds will be signed, sealed and witnessed in the territory of Benjamin, in the villages around Jerusalem, in the towns of Judah and in the towns of the hill country, of the western foothills and of the Negev, because I will restore their fortunes, declares the LORD."
 
-## Jer.33
+## Jeremiah 33
 
 __Promise of Restoration__
 
@@ -1858,7 +1858,7 @@ __Promise of Restoration__
 
 26. then I will reject the descendants of Jacob and David my servant and will not choose one of his sons to rule over the descendants of Abraham, Isaac and Jacob. For I will restore their fortunes and have compassion on them.'"
 
-## Jer.34
+## Jeremiah 34
 
 __Warning to Zedekiah__
 
@@ -1908,7 +1908,7 @@ __Freedom for Slaves__
 
 22. I am going to give the order, declares the LORD, and I will bring them back to this city. They will fight against it, take it and burn it down. And I will lay waste the towns of Judah so no one can live there."
 
-## Jer.35
+## Jeremiah 35
 
 __The Recabites__
 
@@ -1950,7 +1950,7 @@ __The Recabites__
 
 19. Therefore, this is what the LORD Almighty, the God of Israel, says: `Jonadab son of Recab will never fail to have a man to serve me.'"
 
-## Jer.36
+## Jeremiah 36
 
 __Jehoiakim Burns Jeremiah's Scroll__
 
@@ -2018,7 +2018,7 @@ __Jehoiakim Burns Jeremiah's Scroll__
 
 32. So Jeremiah took another scroll and gave it to the scribe Baruch son of Neriah, and as Jeremiah dictated, Baruch wrote on it all the words of the scroll that Jehoiakim king of Judah had burned in the fire. And many similar words were added to them.
 
-## Jer.37
+## Jeremiah 37
 
 __Jeremiah in Prison__
 
@@ -2064,7 +2064,7 @@ __Jeremiah in Prison__
 
 21. King Zedekiah then gave orders for Jeremiah to be placed in the courtyard of the guard and given bread from the street of the bakers each day until all the bread in the city was gone. So Jeremiah remained in the courtyard of the guard.
 
-## Jer.38
+## Jeremiah 38
 
 __Jeremiah Thrown Into a Cistern__
 
@@ -2126,7 +2126,7 @@ __Zedekiah Questions Jeremiah Again__
 
 28. And Jeremiah remained in the courtyard of the guard until the day Jerusalem was captured.
 
-## Jer.39
+## Jeremiah 39
 
 __The Fall of Jerusalem__
 
@@ -2168,7 +2168,7 @@ __The Fall of Jerusalem__
 
 18. I will save you; you will not fall by the sword but will escape with your life, because you trust in me, declares the LORD.'"
 
-## Jer.40
+## Jeremiah 40
 
 __Jerusalem Freed__
 
@@ -2206,7 +2206,7 @@ __Gedaliah Assassinated__
 
 16. But Gedaliah son of Ahikam said to Johanan son of Kareah, "Don't do such a thing! What you are saying about Ishmael is not true."
 
-## Jer.41
+## Jeremiah 41
 
 1. In the seventh month Ishmael son of Nethaniah, the son of Elishama, who was of royal blood and had been one of the king's officers, came with ten men to Gedaliah son of Ahikam at Mizpah. While they were eating together there,
 
@@ -2246,7 +2246,7 @@ __Flight to Egypt__
 
 18. to escape the Babylonians. They were afraid of them because Ishmael son of Nethaniah had killed Gedaliah son of Ahikam, whom the king of Babylon had appointed as governor over the land.
 
-## Jer.42
+## Jeremiah 42
 
 1. Then all the army officers, including Johanan son of Kareah and Jezaniah son of Hoshaiah, and all the people from the least to the greatest approached
 
@@ -2292,7 +2292,7 @@ __Flight to Egypt__
 
 22. So now, be sure of this: You will die by the sword, famine and plague in the place where you want to go to settle."
 
-## Jer.43
+## Jeremiah 43
 
 1. When Jeremiah finished telling the people all the words of the LORD their God - everything the LORD had sent him to tell them -
 
@@ -2320,7 +2320,7 @@ __Flight to Egypt__
 
 13. There in the temple of the sun in Egypt he will demolish the sacred pillars and will burn down the temples of the gods of Egypt.'"
 
-## Jer.44
+## Jeremiah 44
 
 __Disaster Because of Idolatry__
 
@@ -2384,7 +2384,7 @@ __Disaster Because of Idolatry__
 
 30. This is what the LORD says: `I am going to hand Pharaoh Hophra king of Egypt over to his enemies who seek his life, just as I handed Zedekiah king of Judah over to Nebuchadnezzar king of Babylon, the enemy who was seeking his life.'"
 
-## Jer.45
+## Jeremiah 45
 
 __A Message to Baruch__
 
@@ -2398,7 +2398,7 @@ __A Message to Baruch__
 
 5. Should you then seek great things for yourself? Seek them not. For I will bring disaster on all people, declares the LORD, but wherever you go I will let you escape with your life.'"
 
-## Jer.46
+## Jeremiah 46
 
 __A Message About Egypt__
 
@@ -2458,7 +2458,7 @@ __A Message About Egypt__
 
 28. Do not fear, O Jacob my servant, for I am with you," declares the LORD. "Though I completely destroy all the nations among which I scatter you, I will not completely destroy you. I will discipline you but only with justice; I will not let you go entirely unpunished."
 
-## Jer.47
+## Jeremiah 47
 
 __A Message About the Philistines__
 
@@ -2476,7 +2476,7 @@ __A Message About the Philistines__
 
 7. But how can it rest when the LORD has commanded it, when he has ordered it to attack Ashkelon and the coast?"
 
-## Jer.48
+## Jeremiah 48
 
 __A Message About Moab__
 
@@ -2574,7 +2574,7 @@ __A Message About Moab__
 
 47. "Yet I will restore the fortunes of Moab in days to come," declares the LORD. Here ends the judgment on Moab.
 
-## Jer.49
+## Jeremiah 49
 
 __A Message About Ammon__
 
@@ -2664,7 +2664,7 @@ __A Message About Elam__
 
 39. "Yet I will restore the fortunes of Elam in days to come," declares the LORD.
 
-## Jer.50
+## Jeremiah 50
 
 __A Message About Babylon__
 
@@ -2760,7 +2760,7 @@ __A Message About Babylon__
 
 46. At the sound of Babylon's capture the earth will tremble; its cry will resound among the nations.
 
-## Jer.51
+## Jeremiah 51
 
 1. This is what the LORD says: "See, I will stir up the spirit of a destroyer against Babylon and the people of Leb Kamai. 
 
@@ -2890,7 +2890,7 @@ __A Message About Babylon__
 
 64. Then say, `So will Babylon sink to rise no more because of the disaster I will bring upon her. And her people will fall.'" The words of Jeremiah end here.
 
-## Jer.52
+## Jeremiah 52
 
 __The Fall of Jerusalem__
 

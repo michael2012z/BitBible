@@ -1,6 +1,6 @@
 # Ruth
 
-## Ruth.1
+## Ruth 1
 
 1. Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.
 
@@ -46,7 +46,7 @@
 
 22. So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.
 
-## Ruth.2
+## Ruth 2
 
 1. And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.
 
@@ -94,7 +94,7 @@
 
 23. So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.
 
-## Ruth.3
+## Ruth 3
 
 1. Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?
 
@@ -132,7 +132,7 @@
 
 18. Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.
 
-## Ruth.4
+## Ruth 4
 
 1. Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.
 

@@ -1,6 +1,6 @@
 # Ezek
 
-## Ezek.1
+## Ezekiel 1
 
 __The Living Creatures and the Glory of the LORD__
 
@@ -60,7 +60,7 @@ __The Living Creatures and the Glory of the LORD__
 
 28. Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown, and I heard the voice of one speaking.
 
-## Ezek.2
+## Ezekiel 2
 
 __Ezekiel's Call__
 
@@ -84,7 +84,7 @@ __Ezekiel's Call__
 
 10. which he unrolled before me. On both sides of it were written words of lament and mourning and woe.
 
-## Ezek.3
+## Ezekiel 3
 
 1. And he said to me, "Son of man, eat what is before you, eat this scroll; then go and speak to the house of Israel."
 
@@ -142,7 +142,7 @@ __Warning to Israel__
 
 27. But when I speak to you, I will open your mouth and you shall say to them, `This is what the Sovereign LORD says.' Whoever will listen let him listen, and whoever will refuse let him refuse; for they are a rebellious house.
 
-## Ezek.4
+## Ezekiel 4
 
 __Siege of Jerusalem Symbolized__
 
@@ -180,7 +180,7 @@ __Siege of Jerusalem Symbolized__
 
 17. for food and water will be scarce. They will be appalled at the sight of each other and will waste away because of their sin.
 
-## Ezek.5
+## Ezekiel 5
 
 1. "Now, son of man, take a sharp sword and use it as a barber's razor to shave your head and your beard. Then take a set of scales and divide up the hair.
 
@@ -216,7 +216,7 @@ __Siege of Jerusalem Symbolized__
 
 17. I will send famine and wild beasts against you, and they will leave you childless. Plague and bloodshed will sweep through you, and I will bring the sword against you. I the LORD have spoken."
 
-## Ezek.6
+## Ezekiel 6
 
 __A Prophecy Against the Mountains of Israel__
 
@@ -248,7 +248,7 @@ __A Prophecy Against the Mountains of Israel__
 
 14. And I will stretch out my hand against them and make the land a desolate waste from the desert to Diblah - wherever they live. Then they will know that I am the LORD.'"
 
-## Ezek.7
+## Ezekiel 7
 
 __The End Has Come__
 
@@ -306,7 +306,7 @@ __The End Has Come__
 
 27. The king will mourn, the prince will be clothed with despair, and the hands of the people of the land will tremble. I will deal with them according to their conduct, and by their own standards I will judge them. Then they will know that I am the LORD."
 
-## Ezek.8
+## Ezekiel 8
 
 __Idolatry in the Temple__
 
@@ -346,7 +346,7 @@ __Idolatry in the Temple__
 
 18. Therefore I will deal with them in anger; I will not look on them with pity or spare them. Although they shout in my ears, I will not listen to them."
 
-## Ezek.9
+## Ezekiel 9
 
 __Idolaters Killed__
 
@@ -372,7 +372,7 @@ __Idolaters Killed__
 
 11. Then the man in linen with the writing kit at his side brought back word, saying, "I have done as you commanded."
 
-## Ezek.10
+## Ezekiel 10
 
 __The Glory Departs From the Temple__
 
@@ -420,7 +420,7 @@ __The Glory Departs From the Temple__
 
 22. Their faces had the same appearance as those I had seen by the Kebar River. Each one went straight ahead.
 
-## Ezek.11
+## Ezekiel 11
 
 __Judgment on Israel's Leaders__
 
@@ -476,7 +476,7 @@ __Promised Return of Israel__
 
 25. and I told the exiles everything the LORD had shown me.
 
-## Ezek.12
+## Ezekiel 12
 
 __The Exile Symbolized__
 
@@ -536,7 +536,7 @@ __The Exile Symbolized__
 
 28. "Therefore say to them, `This is what the Sovereign LORD says: None of my words will be delayed any longer; whatever I say will be fulfilled, declares the Sovereign LORD.'"
 
-## Ezek.13
+## Ezekiel 13
 
 __False Prophets Condemned__
 
@@ -586,7 +586,7 @@ __False Prophets Condemned__
 
 23. therefore you will no longer see false visions or practice divination. I will save my people from your hands. And then you will know that I am the LORD.'"
 
-## Ezek.14
+## Ezekiel 14
 
 __Idolatars Condemned__
 
@@ -638,7 +638,7 @@ __Judgment Inescapable__
 
 23. You will be consoled when you see their conduct and their actions, for you will know that I have done nothing in it without cause, declares the Sovereign LORD."
 
-## Ezek.15
+## Ezekiel 15
 
 __Jerusalem, A Useless Vine__
 
@@ -658,7 +658,7 @@ __Jerusalem, A Useless Vine__
 
 8. I will make the land desolate because they have been unfaithful, declares the Sovereign LORD."
 
-## Ezek.16
+## Ezekiel 16
 
 __An Allegory of Unfaithful Jerusalem__
 
@@ -788,7 +788,7 @@ __An Allegory of Unfaithful Jerusalem__
 
 63. Then, when I make atonement for you for all you have done, you will remember and be ashamed and never again open your mouth because of your humiliation, declares the Sovereign LORD.'"
 
-## Ezek.17
+## Ezekiel 17
 
 __Two Eagles and a Vine__
 
@@ -840,7 +840,7 @@ __Two Eagles and a Vine__
 
 24. All the trees of the field will know that I the LORD bring down the tall tree and make the low tree grow tall. I dry up the green tree and make the dry tree flourish. "`I the LORD have spoken, and I will do it.'"
 
-## Ezek.18
+## Ezekiel 18
 
 __The Soul Who Sins Will Die__
 
@@ -908,7 +908,7 @@ __The Soul Who Sins Will Die__
 
 32. For I take no pleasure in the death of anyone, declares the Sovereign LORD. Repent and live!
 
-## Ezek.19
+## Ezekiel 19
 
 __A Lament for Israel's Princes__
 
@@ -940,7 +940,7 @@ __A Lament for Israel's Princes__
 
 14. Fire spread from one of its main branches and consumed its fruit. No strong branch is left on it fit for a ruler's scepter.' This is a lament and is to be used as a lament."
 
-## Ezek.20
+## Ezekiel 20
 
 __Rebellious Israel__
 
@@ -1046,7 +1046,7 @@ __Prophecy Against the South__
 
 49. Then I said, "Ah, Sovereign LORD! They are saying of me, `Isn't he just telling parables?'"
 
-## Ezek.21
+## Ezekiel 21
 
 __Babylon, God's Sword of Judgment__
 
@@ -1114,7 +1114,7 @@ __Babylon, God's Sword of Judgment__
 
 32. You will be fuel for the fire, your blood will be shed in your land, you will be remembered no more; for I the LORD have spoken.'"
 
-## Ezek.22
+## Ezekiel 22
 
 __Jerusalem's Sins__
 
@@ -1180,7 +1180,7 @@ __Jerusalem's Sins__
 
 31. So I will pour out my wrath on them and consume them with my fiery anger, bringing down on their own heads all they have done, declares the Sovereign LORD."
 
-## Ezek.23
+## Ezekiel 23
 
 __Two Adulterous Sisters__
 
@@ -1282,7 +1282,7 @@ __Two Adulterous Sisters__
 
 49. You will suffer the penalty for your lewdness and bear the consequences of your sins of idolatry. Then you will know that I am the Sovereign LORD."
 
-## Ezek.24
+## Ezekiel 24
 
 __The Cooking Pot__
 
@@ -1342,7 +1342,7 @@ __Ezekiel's Wife Dies__
 
 27. At that time your mouth will be opened; you will speak with him and will no longer be silent. So you will be a sign to them, and they will know that I am the LORD."
 
-## Ezek.25
+## Ezekiel 25
 
 __A Prophecy Against Ammon__
 
@@ -1386,7 +1386,7 @@ __A Prophecy Against Philistia__
 
 17. I will carry out great vengeance on them and punish them in my wrath. Then they will know that I am the LORD, when I take vengeance on them.'"
 
-## Ezek.26
+## Ezekiel 26
 
 __A Prophecy Against Tyre__
 
@@ -1432,7 +1432,7 @@ __A Prophecy Against Tyre__
 
 21. I will bring you to a horrible end and you will be no more. You will be sought, but you will never again be found, declares the Sovereign LORD."
 
-## Ezek.27
+## Ezekiel 27
 
 __A Lament for Tyre__
 
@@ -1508,7 +1508,7 @@ __A Lament for Tyre__
 
 36. The merchants among the nations hiss at you; you have come to a horrible end and will be no more.'"
 
-## Ezek.28
+## Ezekiel 28
 
 __A Prophecy Against the King of Tyre__
 
@@ -1564,7 +1564,7 @@ __A Prophecy Against the King of Tyre__
 
 26. They will live there in safety and will build houses and plant vineyards; they will live in safety when I inflict punishment on all their neighbors who maligned them. Then they will know that I am the LORD their God.'"
 
-## Ezek.29
+## Ezekiel 29
 
 __A Prophecy Against Egypt__
 
@@ -1610,7 +1610,7 @@ __A Prophecy Against Egypt__
 
 21. "On that day I will make a horn grow for the house of Israel, and I will open your mouth among them. Then they will know that I am the LORD."
 
-## Ezek.30
+## Ezekiel 30
 
 __A Lament for Egypt__
 
@@ -1666,7 +1666,7 @@ __A Lament for Egypt__
 
 26. I will disperse the Egyptians among the nations and scatter them through the countries. Then they will know that I am the LORD."
 
-## Ezek.31
+## Ezekiel 31
 
 __A Cedar in Lebanon__
 
@@ -1706,7 +1706,7 @@ __A Cedar in Lebanon__
 
 18. "`Which of the trees of Eden can be compared with you in splendor and majesty? Yet you, too, will be brought down with the trees of Eden to the earth below; you will lie among the uncircumcised, with those killed by the sword. "`This is Pharaoh and all his hordes, declares the Sovereign LORD.'"
 
-## Ezek.32
+## Ezekiel 32
 
 __A Lament for Pharoah__
 
@@ -1774,7 +1774,7 @@ __A Lament for Pharoah__
 
 32. Although I had him spread terror in the land of the living, Pharaoh and all his hordes will be laid among the uncircumcised, with those killed by the sword, declares the Sovereign LORD."
 
-## Ezek.33
+## Ezekiel 33
 
 __Ezekiel a Watchman__
 
@@ -1846,7 +1846,7 @@ __Jerusalem's Fall Explained__
 
 33. "When all this comes true - and it surely will - then they will know that a prophet has been among them."
 
-## Ezek.34
+## Ezekiel 34
 
 __Shepherds and Sheep__
 
@@ -1912,7 +1912,7 @@ __Shepherds and Sheep__
 
 31. You my sheep, the sheep of my pasture, are people, and I am your God, declares the Sovereign LORD.'"
 
-## Ezek.35
+## Ezekiel 35
 
 __A Prophecy Against Edom__
 
@@ -1946,7 +1946,7 @@ __A Prophecy Against Edom__
 
 15. Because you rejoiced when the inheritance of the house of Israel became desolate, that is how I will treat you. You will be desolate, O Mount Seir, you and all of Edom. Then they will know that I am the LORD.'"
 
-## Ezek.36
+## Ezekiel 36
 
 __A Prophecy to the Mountains of Israel__
 
@@ -2026,7 +2026,7 @@ __A Prophecy to the Mountains of Israel__
 
 38. as numerous as the flocks for offerings at Jerusalem during her appointed feasts. So will the ruined cities be filled with flocks of people. Then they will know that I am the LORD."
 
-## Ezek.37
+## Ezekiel 37
 
 __The Valley of Dry Bones__
 
@@ -2088,7 +2088,7 @@ __One Nation Under One King__
 
 28. Then the nations will know that I the LORD make Israel holy, when my sanctuary is among them forever.'"
 
-## Ezek.38
+## Ezekiel 38
 
 __A Prophecy Against Gog__
 
@@ -2138,7 +2138,7 @@ __A Prophecy Against Gog__
 
 23. And so I will show my greatness and my holiness, and I will make myself known in the sight of many nations. Then they will know that I am the LORD.'
 
-## Ezek.39
+## Ezekiel 39
 
 1. "Son of man, prophesy against Gog and say: `This is what the Sovereign LORD says: I am against you, O Gog, chief prince of Meshech and Tubal.
 
@@ -2198,7 +2198,7 @@ __A Prophecy Against Gog__
 
 29. I will no longer hide my face from them, for I will pour out my Spirit on the house of Israel, declares the Sovereign LORD."
 
-## Ezek.40
+## Ezekiel 40
 
 __The New Temple Area__
 
@@ -2316,7 +2316,7 @@ __The Temple__
 
 49. The portico was twenty cubits wide, and twelve cubits from front to back. It was reached by a flight of stairs, and there were pillars on each side of the jambs.
 
-## Ezek.41
+## Ezekiel 41
 
 1. Then the man brought me to the outer sanctuary and measured the jambs; the width of the jambs was six cubits on each side. 
 
@@ -2370,7 +2370,7 @@ __The Temple__
 
 26. On the sidewalls of the portico were narrow windows with palm trees carved on each side. The side rooms of the temple also had overhangs.
 
-## Ezek.42
+## Ezekiel 42
 
 __Rooms for the Priests__
 
@@ -2414,7 +2414,7 @@ __Rooms for the Priests__
 
 20. So he measured the area on all four sides. It had a wall around it, five hundred cubits long and five hundred cubits wide, to separate the holy from the common.
 
-## Ezek.43
+## Ezekiel 43
 
 1. Then the man brought me to the gate facing east,
 
@@ -2474,7 +2474,7 @@ __The Altar__
 
 27. At the end of these days, from the eighth day on, the priests are to present your burnt offerings and fellowship offerings on the altar. Then I will accept you, declares the Sovereign LORD."
 
-## Ezek.44
+## Ezekiel 44
 
 __The Prince, the Levites, the Priests__
 
@@ -2540,7 +2540,7 @@ __The Prince, the Levites, the Priests__
 
 31. The priests must not eat anything, bird or animal, found dead or torn by wild animals.
 
-## Ezek.45
+## Ezekiel 45
 
 __Division of the Land__
 
@@ -2596,7 +2596,7 @@ __Offerings and Holy Days__
 
 25. "`During the seven days of the Feast, which begins in the seventh month on the fifteenth day, he is to make the same provision for sin offerings, burnt offerings, grain offerings and oil.
 
-## Ezek.46
+## Ezekiel 46
 
 1. "`This is what the Sovereign LORD says: The gate of the inner court facing east is to be shut on the six working days, but on the Sabbath day and on the day of the New Moon it is to be opened.
 
@@ -2646,7 +2646,7 @@ __Offerings and Holy Days__
 
 24. He said to me, "These are the kitchens where those who minister at the temple will cook the sacrifices of the people."
 
-## Ezek.47
+## Ezekiel 47
 
 __The River From the Temple__
 
@@ -2698,7 +2698,7 @@ __The Boundaries of the Land__
 
 23. In whatever tribe the alien settles, there you are to give him his inheritance," declares the Sovereign LORD.
 
-## Ezek.48
+## Ezekiel 48
 
 __The Division of the Land__
 

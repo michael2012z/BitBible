@@ -1,6 +1,6 @@
 # 2Tim
 
-## 2Tim.1
+## 2 Timothy 1
 
 1. Paul, an apostle of Christ Jesus by the will of God, according to the promise of life that is in Christ Jesus,
 
@@ -42,7 +42,7 @@ __A Workman Approved by God__
 
 18. May the Lord grant that he will find mercy from the Lord on that day! You know very well in how many ways he helped me in Ephesus.
 
-## 2Tim.2
+## 2 Timothy 2
 
 __Godlessness in the Last Days__
 
@@ -100,7 +100,7 @@ __Paul's Charge to Timothy__
 
 26. and that they will come to their senses and escape from the trap of the devil, who has taken them captive to do his will.
 
-## 2Tim.3
+## 2 Timothy 3
 
 1. But mark this: There will be terrible times in the last days.
 
@@ -138,7 +138,7 @@ __Personal Remarks__
 
 17. so that the man of God may be thoroughly equipped for every good work.
 
-## 2Tim.4
+## 2 Timothy 4
 
 1. In the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of his appearing and his kingdom, I give you this charge:
 

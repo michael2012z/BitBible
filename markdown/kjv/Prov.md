@@ -1,6 +1,6 @@
 # Prov
 
-## Prov.1
+## Proverbs 1
 
 1. The proverbs of Solomon the son of David, king of Israel;
 
@@ -68,7 +68,7 @@
 
 33. But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.
 
-## Prov.2
+## Proverbs 2
 
 1. My son, if thou wilt receive my words, and hide my commandments with thee;
 
@@ -114,7 +114,7 @@
 
 22. But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.
 
-## Prov.3
+## Proverbs 3
 
 1. My son, forget not my law; but let thine heart keep my commandments:
 
@@ -186,7 +186,7 @@
 
 35. The wise shall inherit glory: but shame shall be the promotion of fools.
 
-## Prov.4
+## Proverbs 4
 
 1. Hear, ye children, the instruction of a father, and attend to know understanding.
 
@@ -242,7 +242,7 @@
 
 27. Turn not to the right hand nor to the left: remove thy foot from evil.
 
-## Prov.5
+## Proverbs 5
 
 1. My son, attend unto my wisdom, and bow thine ear to my understanding:
 
@@ -290,7 +290,7 @@
 
 23. He shall die without instruction; and in the greatness of his folly he shall go astray.
 
-## Prov.6
+## Proverbs 6
 
 1. My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,
 
@@ -362,7 +362,7 @@
 
 35. He will not regard any ransom; neither will he rest content, though thou givest many gifts.
 
-## Prov.7
+## Proverbs 7
 
 1. My son, keep my words, and lay up my commandments with thee.
 
@@ -418,7 +418,7 @@
 
 27. Her house is the way to hell, going down to the chambers of death.
 
-## Prov.8
+## Proverbs 8
 
 1. Doth not wisdom cry? and understanding put forth her voice?
 
@@ -492,7 +492,7 @@
 
 36. But he that sinneth against me wrongeth his own soul: all they that hate me love death.
 
-## Prov.9
+## Proverbs 9
 
 1. Wisdom hath builded her house, she hath hewn out her seven pillars:
 
@@ -530,7 +530,7 @@
 
 18. But he knoweth not that the dead are there; and that her guests are in the depths of hell.
 
-## Prov.10
+## Proverbs 10
 
 1. The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.
 
@@ -596,7 +596,7 @@
 
 32. The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.
 
-## Prov.11
+## Proverbs 11
 
 1. A false balance is abomination to the LORD: but a just weight is his delight.
 
@@ -660,7 +660,7 @@
 
 31. Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner.
 
-## Prov.12
+## Proverbs 12
 
 1. Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.
 
@@ -718,7 +718,7 @@
 
 28. In the way of righteousness is life; and in the pathway thereof there is no death.
 
-## Prov.13
+## Proverbs 13
 
 1. A wise son heareth his father's instruction: but a scorner heareth not rebuke.
 
@@ -770,7 +770,7 @@
 
 25. The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.
 
-## Prov.14
+## Proverbs 14
 
 1. Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
 
@@ -842,7 +842,7 @@
 
 35. The king's favour is toward a wise servant: but his wrath is against him that causeth shame.
 
-## Prov.15
+## Proverbs 15
 
 1. A soft answer turneth away wrath: but grievous words stir up anger.
 
@@ -910,7 +910,7 @@
 
 33. The fear of the LORD is the instruction of wisdom; and before honour is humility.
 
-## Prov.16
+## Proverbs 16
 
 1. The preparations of the heart in man, and the answer of the tongue, is from the LORD.
 
@@ -978,7 +978,7 @@
 
 33. The lot is cast into the lap; but the whole disposing thereof is of the LORD.
 
-## Prov.17
+## Proverbs 17
 
 1. Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.
 
@@ -1036,7 +1036,7 @@
 
 28. Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.
 
-## Prov.18
+## Proverbs 18
 
 1. Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.
 
@@ -1086,7 +1086,7 @@
 
 24. A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.
 
-## Prov.19
+## Proverbs 19
 
 1. Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.
 
@@ -1146,7 +1146,7 @@
 
 29. Judgments are prepared for scorners, and stripes for the back of fools.
 
-## Prov.20
+## Proverbs 20
 
 1. Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.
 
@@ -1208,7 +1208,7 @@
 
 30. The blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly.
 
-## Prov.21
+## Proverbs 21
 
 1. The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.
 
@@ -1272,7 +1272,7 @@
 
 31. The horse is prepared against the day of battle: but safety is of the LORD.
 
-## Prov.22
+## Proverbs 22
 
 1. A good name is rather to be chosen than great riches, and loving favour rather than silver and gold.
 
@@ -1332,7 +1332,7 @@
 
 29. Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.
 
-## Prov.23
+## Proverbs 23
 
 1. When thou sittest to eat with a ruler, consider diligently what is before thee:
 
@@ -1404,7 +1404,7 @@
 
 35. They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again.
 
-## Prov.24
+## Proverbs 24
 
 1. Be not thou envious against evil men, neither desire to be with them.
 
@@ -1474,7 +1474,7 @@
 
 34. So shall thy poverty come as one that travelleth; and thy want as an armed man.
 
-## Prov.25
+## Proverbs 25
 
 1. These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
 
@@ -1532,7 +1532,7 @@
 
 28. He that hath no rule over his own spirit is like a city that is broken down, and without walls.
 
-## Prov.26
+## Proverbs 26
 
 1. As snow in summer, and as rain in harvest, so honour is not seemly for a fool.
 
@@ -1590,7 +1590,7 @@
 
 28. A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin.
 
-## Prov.27
+## Proverbs 27
 
 1. Boast not thyself of to morrow; for thou knowest not what a day may bring forth.
 
@@ -1646,7 +1646,7 @@
 
 27. And thou shalt have goats' milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens.
 
-## Prov.28
+## Proverbs 28
 
 1. The wicked flee when no man pursueth: but the righteous are bold as a lion.
 
@@ -1704,7 +1704,7 @@
 
 28. When the wicked rise, men hide themselves: but when they perish, the righteous increase.
 
-## Prov.29
+## Proverbs 29
 
 1. He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy.
 
@@ -1760,7 +1760,7 @@
 
 27. An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.
 
-## Prov.30
+## Proverbs 30
 
 1. The words of Agur the son of Jakeh, even the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,
 
@@ -1828,7 +1828,7 @@
 
 33. Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.
 
-## Prov.31
+## Proverbs 31
 
 1. The words of king Lemuel, the prophecy that his mother taught him.
 

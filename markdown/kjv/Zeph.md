@@ -1,6 +1,6 @@
 # Zeph
 
-## Zeph.1
+## Zephaniah 1
 
 1. The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 
@@ -38,7 +38,7 @@
 
 18. Neither their silver nor their gold shall be able to deliver them in the day of the LORD'S wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.
 
-## Zeph.2
+## Zephaniah 2
 
 1. Gather yourselves together, yea, gather together, O nation not desired;
 
@@ -70,7 +70,7 @@
 
 15. This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.
 
-## Zeph.3
+## Zephaniah 3
 
 1. Woe to her that is filthy and polluted, to the oppressing city!
 

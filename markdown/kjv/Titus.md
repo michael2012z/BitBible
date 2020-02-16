@@ -1,6 +1,6 @@
 # Titus
 
-## Titus.1
+## Titus 1
 
 __It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia.__
 
@@ -36,7 +36,7 @@ __It was written to Titus, ordained the first bishop of the church of the Cretia
 
 16. They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.
 
-## Titus.2
+## Titus 2
 
 1. But speak thou the things which become sound doctrine:
 
@@ -68,7 +68,7 @@ __It was written to Titus, ordained the first bishop of the church of the Cretia
 
 15. These things speak, and exhort, and rebuke with all authority. Let no man despise thee.
 
-## Titus.3
+## Titus 3
 
 1. Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,
 

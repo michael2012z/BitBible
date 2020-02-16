@@ -1,6 +1,6 @@
 # John
 
-## John.1
+## John 1
 
 1. In the beginning was the Word, and the Word was with God, and the Word was God.
 
@@ -104,7 +104,7 @@
 
 51. And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.
 
-## John.2
+## John 2
 
 1. And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 
@@ -156,7 +156,7 @@
 
 25. And needed not that any should testify of man: for he knew what was in man.
 
-## John.3
+## John 3
 
 1. There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 
@@ -230,7 +230,7 @@
 
 36. He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.
 
-## John.4
+## John 4
 
 1. When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
 
@@ -340,7 +340,7 @@
 
 54. This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee.
 
-## John.5
+## John 5
 
 1. After this there was a feast of the Jews; and Jesus went up to Jerusalem.
 
@@ -436,7 +436,7 @@
 
 47. But if ye believe not his writings, how shall ye believe my words?
 
-## John.6
+## John 6
 
 1. After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
 
@@ -580,7 +580,7 @@
 
 71. He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve.
 
-## John.7
+## John 7
 
 1. After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.
 
@@ -688,7 +688,7 @@
 
 53. And every man went unto his own house.
 
-## John.8
+## John 8
 
 1. Jesus went unto the mount of Olives.
 
@@ -808,7 +808,7 @@
 
 59. Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.
 
-## John.9
+## John 9
 
 1. And as Jesus passed by, he saw a man which was blind from his birth.
 
@@ -892,7 +892,7 @@
 
 41. Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.
 
-## John.10
+## John 10
 
 1. Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
 
@@ -978,7 +978,7 @@
 
 42. And many believed on him there.
 
-## John.11
+## John 11
 
 1. Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.
 
@@ -1094,7 +1094,7 @@
 
 57. Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him.
 
-## John.12
+## John 12
 
 1. Then Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead.
 
@@ -1196,7 +1196,7 @@
 
 50. And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.
 
-## John.13
+## John 13
 
 1. Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.
 
@@ -1274,7 +1274,7 @@
 
 38. Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.
 
-## John.14
+## John 14
 
 1. Let not your heart be troubled: ye believe in God, believe also in me.
 
@@ -1338,7 +1338,7 @@
 
 31. But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.
 
-## John.15
+## John 15
 
 1. I am the true vine, and my Father is the husbandman.
 
@@ -1394,7 +1394,7 @@
 
 27. And ye also shall bear witness, because ye have been with me from the beginning.
 
-## John.16
+## John 16
 
 1. These things have I spoken unto you, that ye should not be offended.
 
@@ -1462,7 +1462,7 @@
 
 33. These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.
 
-## John.17
+## John 17
 
 1. These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
 
@@ -1516,7 +1516,7 @@
 
 26. And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them.
 
-## John.18
+## John 18
 
 1. When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
 
@@ -1598,7 +1598,7 @@
 
 40. Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.
 
-## John.19
+## John 19
 
 1. Then Pilate therefore took Jesus, and scourged him.
 
@@ -1684,7 +1684,7 @@
 
 42. There laid they Jesus therefore because of the Jews' preparation day; for the sepulchre was nigh at hand.
 
-## John.20
+## John 20
 
 1. The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
 
@@ -1748,7 +1748,7 @@
 
 31. But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.
 
-## John.21
+## John 21
 
 1. After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.
 

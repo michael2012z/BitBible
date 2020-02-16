@@ -1,6 +1,6 @@
 # Exod
 
-## Exod.1
+## Exodus 1
 
 1. Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 
@@ -46,7 +46,7 @@
 
 22. And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
 
-## Exod.2
+## Exodus 2
 
 1. And there went a man of the house of Levi, and took to wife a daughter of Levi.
 
@@ -98,7 +98,7 @@
 
 25. And God looked upon the children of Israel, and God had respect unto them.
 
-## Exod.3
+## Exodus 3
 
 1. Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.
 
@@ -144,7 +144,7 @@
 
 22. But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians.
 
-## Exod.4
+## Exodus 4
 
 1. And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.
 
@@ -208,7 +208,7 @@
 
 31. And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.
 
-## Exod.5
+## Exodus 5
 
 1. And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.
 
@@ -256,7 +256,7 @@
 
 23. For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all.
 
-## Exod.6
+## Exodus 6
 
 1. Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.
 
@@ -318,7 +318,7 @@
 
 30. And Moses said before the LORD, Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me?
 
-## Exod.7
+## Exodus 7
 
 1. And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet.
 
@@ -370,7 +370,7 @@
 
 25. And seven days were fulfilled, after that the LORD had smitten the river.
 
-## Exod.8
+## Exodus 8
 
 1. And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me.
 
@@ -436,7 +436,7 @@
 
 32. And Pharaoh hardened his heart at this time also, neither would he let the people go.
 
-## Exod.9
+## Exodus 9
 
 1. Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.
 
@@ -508,7 +508,7 @@
 
 35. And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.
 
-## Exod.10
+## Exodus 10
 
 1. And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:
 
@@ -568,7 +568,7 @@
 
 29. And Moses said, Thou hast spoken well, I will see thy face again no more.
 
-## Exod.11
+## Exodus 11
 
 1. And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.
 
@@ -590,7 +590,7 @@
 
 10. And Moses and Aaron did all these wonders before Pharaoh: and the LORD hardened Pharaoh's heart, so that he would not let the children of Israel go out of his land.
 
-## Exod.12
+## Exodus 12
 
 1. And the LORD spake unto Moses and Aaron in the land of Egypt, saying,
 
@@ -694,7 +694,7 @@
 
 51. And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their armies.
 
-## Exod.13
+## Exodus 13
 
 1. And the LORD spake unto Moses, saying,
 
@@ -740,7 +740,7 @@
 
 22. He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.
 
-## Exod.14
+## Exodus 14
 
 1. And the LORD spake unto Moses, saying,
 
@@ -804,7 +804,7 @@
 
 31. And Israel saw that great work which the LORD did upon the Egyptians: and the people feared the LORD, and believed the LORD, and his servant Moses.
 
-## Exod.15
+## Exodus 15
 
 1. Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.
 
@@ -860,7 +860,7 @@
 
 27. And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.
 
-## Exod.16
+## Exodus 16
 
 1. And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 
@@ -934,7 +934,7 @@
 
 36. Now an omer is the tenth part of an ephah.
 
-## Exod.17
+## Exodus 17
 
 1. And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink.
 
@@ -968,7 +968,7 @@
 
 16. For he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation.
 
-## Exod.18
+## Exodus 18
 
 1. When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the LORD had brought Israel out of Egypt;
 
@@ -1024,7 +1024,7 @@
 
 27. And Moses let his father in law depart; and he went his way into his own land.
 
-## Exod.19
+## Exodus 19
 
 1. In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.
 
@@ -1076,7 +1076,7 @@
 
 25. So Moses went down unto the people, and spake unto them.
 
-## Exod.20
+## Exodus 20
 
 1. And God spake all these words, saying,
 
@@ -1130,7 +1130,7 @@
 
 26. Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.
 
-## Exod.21
+## Exodus 21
 
 1. Now these are the judgments which thou shalt set before them.
 
@@ -1204,7 +1204,7 @@
 
 36. Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.
 
-## Exod.22
+## Exodus 22
 
 1. If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.
 
@@ -1268,7 +1268,7 @@
 
 31. And ye shall be holy men unto me: neither shall ye eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs.
 
-## Exod.23
+## Exodus 23
 
 1. Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.
 
@@ -1336,7 +1336,7 @@
 
 33. They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee.
 
-## Exod.24
+## Exodus 24
 
 1. And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.
 
@@ -1374,7 +1374,7 @@
 
 18. And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.
 
-## Exod.25
+## Exodus 25
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1456,7 +1456,7 @@
 
 40. And look that thou make them after their pattern, which was shewed thee in the mount.
 
-## Exod.26
+## Exodus 26
 
 1. Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
 
@@ -1532,7 +1532,7 @@
 
 37. And thou shalt make for the hanging five pillars of shittim wood, and overlay them with gold, and their hooks shall be of gold: and thou shalt cast five sockets of brass for them.
 
-## Exod.27
+## Exodus 27
 
 1. And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.
 
@@ -1576,7 +1576,7 @@
 
 21. In the tabernacle of the congregation without the vail, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever unto their generations on the behalf of the children of Israel.
 
-## Exod.28
+## Exodus 28
 
 1. And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons.
 
@@ -1664,7 +1664,7 @@
 
 43. And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy place; that they bear not iniquity, and die: it shall be a statute for ever unto him and his seed after him.
 
-## Exod.29
+## Exodus 29
 
 1. And this is the thing that thou shalt do unto them to hallow them, to minister unto me in the priest's office: Take one young bullock, and two rams without blemish,
 
@@ -1758,7 +1758,7 @@
 
 46. And they shall know that I am the LORD their God, that brought them forth out of the land of Egypt, that I may dwell among them: I am the LORD their God.
 
-## Exod.30
+## Exodus 30
 
 1. And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.
 
@@ -1836,7 +1836,7 @@
 
 38. Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people.
 
-## Exod.31
+## Exodus 31
 
 1. And the LORD spake unto Moses, saying,
 
@@ -1874,7 +1874,7 @@
 
 18. And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.
 
-## Exod.32
+## Exodus 32
 
 1. And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 
@@ -1946,7 +1946,7 @@
 
 35. And the LORD plagued the people, because they made the calf, which Aaron made.
 
-## Exod.33
+## Exodus 33
 
 1. And the LORD said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:
 
@@ -1994,7 +1994,7 @@
 
 23. And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.
 
-## Exod.34
+## Exodus 34
 
 1. And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest.
 
@@ -2066,7 +2066,7 @@
 
 35. And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.
 
-## Exod.35
+## Exodus 35
 
 1. And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.
 
@@ -2138,7 +2138,7 @@
 
 35. Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work.
 
-## Exod.36
+## Exodus 36
 
 1. Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded.
 
@@ -2216,7 +2216,7 @@
 
 38. And the five pillars of it with their hooks: and he overlaid their chapiters and their fillets with gold: but their five sockets were of brass.
 
-## Exod.37
+## Exodus 37
 
 1. And Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:
 
@@ -2276,7 +2276,7 @@
 
 29. And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary.
 
-## Exod.38
+## Exodus 38
 
 1. And he made the altar of burnt offering of shittim wood: five cubits was the length thereof, and five cubits the breadth thereof; it was foursquare; and three cubits the height thereof.
 
@@ -2340,7 +2340,7 @@
 
 31. And the sockets of the court round about, and the sockets of the court gate, and all the pins of the tabernacle, and all the pins of the court round about.
 
-## Exod.39
+## Exodus 39
 
 1. And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy place, and made the holy garments for Aaron; as the LORD commanded Moses.
 
@@ -2428,7 +2428,7 @@
 
 43. And Moses did look upon all the work, and, behold, they had done it as the LORD had commanded, even so had they done it: and Moses blessed them.
 
-## Exod.40
+## Exodus 40
 
 1. And the LORD spake unto Moses, saying,
 

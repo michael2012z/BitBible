@@ -1,6 +1,6 @@
 # Obad
 
-## Obad.1
+## Obadiah 1
 
 1. The vision of Obadiah. This is what the Sovereign LORD says about Edom - We have heard a message from the LORD: An envoy was sent to the nations to say, "Rise, and let us go against her for battle" -
 

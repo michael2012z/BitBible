@@ -1,6 +1,6 @@
 # 2Cor
 
-## 2Cor.1
+## 2 Corinthians 1
 
 1. Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia:
 
@@ -54,7 +54,7 @@ __Paul's Change of Plans__
 
 24. Not that we lord it over your faith, but we work with you for your joy, because it is by faith you stand firm.
 
-## 2Cor.2
+## 2 Corinthians 2
 
 1. So I made up my mind that I would not make another painful visit to you.
 
@@ -94,7 +94,7 @@ __Ministers of the New Covenant__
 
 17. Unlike so many, we do not peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, like men sent from God.
 
-## 2Cor.3
+## 2 Corinthians 3
 
 1. Are we beginning to commend ourselves again? Or do we need, like some people, letters of recommendation to you or from you?
 
@@ -134,7 +134,7 @@ __The Glory of the New Covenant__
 
 18. And we, who with unveiled faces all reflect the Lord's glory, are being transformed into his likeness with ever-increasing glory, which comes from the Lord, who is the Spirit.
 
-## 2Cor.4
+## 2 Corinthians 4
 
 __Treasures in Jars of Clay__
 
@@ -174,7 +174,7 @@ __Treasures in Jars of Clay__
 
 18. So we fix our eyes not on what is seen, but on what is unseen. For what is seen is temporary, but what is unseen is eternal.
 
-## 2Cor.5
+## 2 Corinthians 5
 
 __Our Heavenly Dwelling__
 
@@ -222,7 +222,7 @@ __The Ministry of Reconciliation__
 
 21. God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.
 
-## 2Cor.6
+## 2 Corinthians 6
 
 1. As God's fellow workers we urge you not to receive God's grace in vain.
 
@@ -264,7 +264,7 @@ __Do Not Be Yoked With Unbelievers__
 
 18. "I will be a Father to you, and you will be my sons and daughters, says the Lord Almighty." 
 
-## 2Cor.7
+## 2 Corinthians 7
 
 1. Since we have these promises, dear friends, let us purify ourselves from everything that contaminates body and spirit, perfecting holiness out of reverence for God.
 
@@ -300,7 +300,7 @@ __Paul's Joy__
 
 16. I am glad I can have complete confidence in you.
 
-## 2Cor.8
+## 2 Corinthians 8
 
 __Generosity Encouraged__
 
@@ -354,7 +354,7 @@ __Titus Sent to Corinth__
 
 24. Therefore show these men the proof of your love and the reason for our pride in you, so that the churches can see it.
 
-## 2Cor.9
+## 2 Corinthians 9
 
 1. There is no need for me to write to you about this service to the saints.
 
@@ -388,7 +388,7 @@ __Sowing Generosity__
 
 15. Thanks be to God for his indescribable gift!
 
-## 2Cor.10
+## 2 Corinthians 10
 
 __Paul's Defense of His Ministry__
 
@@ -428,7 +428,7 @@ __Paul's Defense of His Ministry__
 
 18. For it is not the one who commends himself who is approved, but the one whom the Lord commends.
 
-## 2Cor.11
+## 2 Corinthians 11
 
 __Paul and the False Apostles__
 
@@ -500,7 +500,7 @@ __Paul Boasts About His Sufferings__
 
 33. But I was lowered in a basket from a window in the wall and slipped through his hands.
 
-## 2Cor.12
+## 2 Corinthians 12
 
 __Paul's Vision and His Thorn__
 
@@ -548,7 +548,7 @@ __Paul's Concern for the Corinthians__
 
 21. I am afraid that when I come again my God will humble me before you, and I will be grieved over many who have sinned earlier and have not repented of the impurity, sexual sin and debauchery in which they have indulged.
 
-## 2Cor.13
+## 2 Corinthians 13
 
 __Final Warnings__
 

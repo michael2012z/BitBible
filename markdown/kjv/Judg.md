@@ -1,6 +1,6 @@
 # Judg
 
-## Judg.1
+## Judges 1
 
 1. Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?
 
@@ -74,7 +74,7 @@
 
 36. And the coast of the Amorites was from the going up to Akrabbim, from the rock, and upward.
 
-## Judg.2
+## Judges 2
 
 1. And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.
 
@@ -122,7 +122,7 @@
 
 23. Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.
 
-## Judg.3
+## Judges 3
 
 1. Now these are the nations which the LORD left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan;
 
@@ -186,7 +186,7 @@
 
 31. And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.
 
-## Judg.4
+## Judges 4
 
 1. And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.
 
@@ -236,7 +236,7 @@
 
 24. And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.
 
-## Judg.5
+## Judges 5
 
 1. Then sang Deborah and Barak the son of Abinoam on that day, saying,
 
@@ -300,7 +300,7 @@
 
 31. So let all thine enemies perish, O LORD: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years.
 
-## Judg.6
+## Judges 6
 
 1. And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years.
 
@@ -382,7 +382,7 @@
 
 40. And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground.
 
-## Judg.7
+## Judges 7
 
 1. Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley.
 
@@ -434,7 +434,7 @@
 
 25. And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to Gideon on the other side Jordan.
 
-## Judg.8
+## Judges 8
 
 1. And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply.
 
@@ -506,7 +506,7 @@
 
 35. Neither shewed they kindness to the house of Jerubbaal, namely, Gideon, according to all the goodness which he had shewed unto Israel.
 
-## Judg.9
+## Judges 9
 
 1. And Abimelech the son of Jerubbaal went to Shechem unto his mother's brethren, and communed with them, and with all the family of the house of his mother's father, saying,
 
@@ -622,7 +622,7 @@
 
 57. And all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal.
 
-## Judg.10
+## Judges 10
 
 1. And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.
 
@@ -660,7 +660,7 @@
 
 18. And the people and princes of Gilead said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.
 
-## Judg.11
+## Judges 11
 
 1. Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah.
 
@@ -742,7 +742,7 @@
 
 40. That the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.
 
-## Judg.12
+## Judges 12
 
 1. And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.
 
@@ -774,7 +774,7 @@
 
 15. And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.
 
-## Judg.13
+## Judges 13
 
 1. And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.
 
@@ -826,7 +826,7 @@
 
 25. And the Spirit of the LORD began to move him at times in the camp of Dan between Zorah and Eshtaol.
 
-## Judg.14
+## Judges 14
 
 1. And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.
 
@@ -868,7 +868,7 @@
 
 20. But Samson's wife was given to his companion, whom he had used as his friend.
 
-## Judg.15
+## Judges 15
 
 1. But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.
 
@@ -910,7 +910,7 @@
 
 20. And he judged Israel in the days of the Philistines twenty years.
 
-## Judg.16
+## Judges 16
 
 1. Then went Samson to Gaza, and saw there an harlot, and went in unto her.
 
@@ -974,7 +974,7 @@
 
 31. Then his brethren and all the house of his father came down, and took him, and brought him up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years.
 
-## Judg.17
+## Judges 17
 
 1. And there was a man of mount Ephraim, whose name was Micah.
 
@@ -1002,7 +1002,7 @@
 
 13. Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to my priest.
 
-## Judg.18
+## Judges 18
 
 1. In those days there was no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day all their inheritance had not fallen unto them among the tribes of Israel.
 
@@ -1066,7 +1066,7 @@
 
 31. And they set them up Micah's graven image, which he made, all the time that the house of God was in Shiloh.
 
-## Judg.19
+## Judges 19
 
 1. And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Bethlehemjudah.
 
@@ -1128,7 +1128,7 @@
 
 30. And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak your minds.
 
-## Judg.20
+## Judges 20
 
 1. Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh.
 
@@ -1226,7 +1226,7 @@
 
 48. And the men of Israel turned again upon the children of Benjamin, and smote them with the edge of the sword, as well the men of every city, as the beast, and all that came to hand: also they set on fire all the cities that they came to.
 
-## Judg.21
+## Judges 21
 
 1. Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife.
 

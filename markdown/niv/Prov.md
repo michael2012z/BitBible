@@ -1,6 +1,6 @@
 # Prov
 
-## Prov.1
+## Proverbs 1
 
 __Prologue: Purpose and Theme__
 
@@ -76,7 +76,7 @@ __Warning Against Rejecting Wisdom__
 
 33. but whoever listens to me will live in safety and be at ease, without fear of harm."
 
-## Prov.2
+## Proverbs 2
 
 __Moral Benefits of Wisdom__
 
@@ -124,7 +124,7 @@ __Moral Benefits of Wisdom__
 
 22. but the wicked will be cut off from the land, and the unfaithful will be torn from it.
 
-## Prov.3
+## Proverbs 3
 
 __Further Benefits of Wisdom__
 
@@ -198,7 +198,7 @@ __Further Benefits of Wisdom__
 
 35. The wise inherit honor, but fools he holds up to shame.
 
-## Prov.4
+## Proverbs 4
 
 __Wisdom Is Supreme__
 
@@ -256,7 +256,7 @@ __Wisdom Is Supreme__
 
 27. Do not swerve to the right or the left; keep your foot from evil.
 
-## Prov.5
+## Proverbs 5
 
 __Warning Against Adultery__
 
@@ -306,7 +306,7 @@ __Warning Against Adultery__
 
 23. He will die for lack of discipline, led astray by his own great folly.
 
-## Prov.6
+## Proverbs 6
 
 __Warnings Against Folly__
 
@@ -382,7 +382,7 @@ __Warning Against Adultery__
 
 35. He will not accept any compensation; he will refuse the bribe, however great it is.
 
-## Prov.7
+## Proverbs 7
 
 __Warning Against the Adultress__
 
@@ -440,7 +440,7 @@ __Warning Against the Adultress__
 
 27. Her house is a highway to the grave, leading down to the chambers of death.
 
-## Prov.8
+## Proverbs 8
 
 __Wisdom's Appeal__
 
@@ -516,7 +516,7 @@ __Wisdom's Appeal__
 
 36. But whoever fails to find me harms himself; all who hate me love death."
 
-## Prov.9
+## Proverbs 9
 
 __Invitations of Wisdom and of Folly__
 
@@ -556,7 +556,7 @@ __Invitations of Wisdom and of Folly__
 
 18. But little do they know that the dead are there, that her guests are in the depths of the grave. 
 
-## Prov.10
+## Proverbs 10
 
 __Proverbs of Solomon__
 
@@ -624,7 +624,7 @@ __Proverbs of Solomon__
 
 32. The lips of the righteous know what is fitting, but the mouth of the wicked only what is perverse.
 
-## Prov.11
+## Proverbs 11
 
 1. The LORD abhors dishonest scales, but accurate weights are his delight.
 
@@ -688,7 +688,7 @@ __Proverbs of Solomon__
 
 31. If the righteous receive their due on earth, how much more the ungodly and the sinner!
 
-## Prov.12
+## Proverbs 12
 
 1. Whoever loves discipline loves knowledge, but he who hates correction is stupid.
 
@@ -746,7 +746,7 @@ __Proverbs of Solomon__
 
 28. In the way of righteousness there is life; along that path is immortality.
 
-## Prov.13
+## Proverbs 13
 
 1. A wise son heeds his father's instruction, but a mocker does not listen to rebuke.
 
@@ -798,7 +798,7 @@ __Proverbs of Solomon__
 
 25. The righteous eat to their hearts' content, but the stomach of the wicked goes hungry.
 
-## Prov.14
+## Proverbs 14
 
 1. The wise woman builds her house, but with her own hands the foolish one tears hers down.
 
@@ -870,7 +870,7 @@ __Proverbs of Solomon__
 
 35. A king delights in a wise servant, but a shameful servant incurs his wrath.
 
-## Prov.15
+## Proverbs 15
 
 1. A gentle answer turns away wrath, but a harsh word stirs up anger.
 
@@ -938,7 +938,7 @@ __Proverbs of Solomon__
 
 33. The fear of the LORD teaches a man wisdom, and humility comes before honor.
 
-## Prov.16
+## Proverbs 16
 
 1. To man belong the plans of the heart, but from the LORD comes the reply of the tongue.
 
@@ -1006,7 +1006,7 @@ __Proverbs of Solomon__
 
 33. The lot is cast into the lap, but its every decision is from the LORD.
 
-## Prov.17
+## Proverbs 17
 
 1. Better a dry crust with peace and quiet than a house full of feasting, with strife.
 
@@ -1064,7 +1064,7 @@ __Proverbs of Solomon__
 
 28. Even a fool is thought wise if he keeps silent, and discerning if he holds his tongue.
 
-## Prov.18
+## Proverbs 18
 
 1. An unfriendly man pursues selfish ends; he defies all sound judgment.
 
@@ -1114,7 +1114,7 @@ __Proverbs of Solomon__
 
 24. A man of many companions may come to ruin, but there is a friend who sticks closer than a brother.
 
-## Prov.19
+## Proverbs 19
 
 1. Better a poor man whose walk is blameless than a fool whose lips are perverse.
 
@@ -1174,7 +1174,7 @@ __Proverbs of Solomon__
 
 29. Penalties are prepared for mockers, and beatings for the backs of fools.
 
-## Prov.20
+## Proverbs 20
 
 1. Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.
 
@@ -1236,7 +1236,7 @@ __Proverbs of Solomon__
 
 30. Blows and wounds cleanse away evil, and beatings purge the inmost being.
 
-## Prov.21
+## Proverbs 21
 
 1. The king's heart is in the hand of the LORD; he directs it like a watercourse wherever he pleases.
 
@@ -1300,7 +1300,7 @@ __Proverbs of Solomon__
 
 31. The horse is made ready for the day of battle, but victory rests with the LORD.
 
-## Prov.22
+## Proverbs 22
 
 1. A good name is more desirable than great riches; to be esteemed is better than silver or gold.
 
@@ -1362,7 +1362,7 @@ __Sayings of the Wise__
 
 29. Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure men.
 
-## Prov.23
+## Proverbs 23
 
 1. When you sit to dine with a ruler, note well what is before you,
 
@@ -1434,7 +1434,7 @@ __Sayings of the Wise__
 
 35. "They hit me," you will say, "but I'm not hurt! They beat me, but I don't feel it! When will I wake up so I can find another drink?"
 
-## Prov.24
+## Proverbs 24
 
 1. Do not envy wicked men, do not desire their company;
 
@@ -1506,7 +1506,7 @@ __Further Sayings of the Wise__
 
 34. and poverty will come on you like a bandit and scarcity like an armed man. 
 
-## Prov.25
+## Proverbs 25
 
 __More Proverbs of Solomon__
 
@@ -1566,7 +1566,7 @@ __More Proverbs of Solomon__
 
 28. Like a city whose walls are broken down is a man who lacks self-control.
 
-## Prov.26
+## Proverbs 26
 
 1. Like snow in summer or rain in harvest, honor is not fitting for a fool.
 
@@ -1624,7 +1624,7 @@ __More Proverbs of Solomon__
 
 28. A lying tongue hates those it hurts, and a flattering mouth works ruin.
 
-## Prov.27
+## Proverbs 27
 
 1. Do not boast about tomorrow, for you do not know what a day may bring forth.
 
@@ -1680,7 +1680,7 @@ __More Proverbs of Solomon__
 
 27. You will have plenty of goats' milk to feed you and your family and to nourish your servant girls.
 
-## Prov.28
+## Proverbs 28
 
 1. The wicked man flees though no one pursues, but the righteous are as bold as a lion.
 
@@ -1738,7 +1738,7 @@ __More Proverbs of Solomon__
 
 28. When the wicked rise to power, people go into hiding; but when the wicked perish, the righteous thrive.
 
-## Prov.29
+## Proverbs 29
 
 1. A man who remains stiff-necked after many rebukes will suddenly be destroyed - without remedy.
 
@@ -1794,7 +1794,7 @@ __More Proverbs of Solomon__
 
 27. The righteous detest the dishonest; the wicked detest the upright.
 
-## Prov.30
+## Proverbs 30
 
 __Sayings of Agur__
 
@@ -1864,7 +1864,7 @@ __Sayings of Agur__
 
 33. For as churning the milk produces butter, and as twisting the nose produces blood, so stirring up anger produces strife."
 
-## Prov.31
+## Proverbs 31
 
 __Sayings of King Lemuel__
 

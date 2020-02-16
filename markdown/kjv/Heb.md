@@ -1,6 +1,6 @@
 # Heb
 
-## Heb.1
+## Hebrews 1
 
 __Written to the Hebrews from Italy, by Timothy.__
 
@@ -32,7 +32,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 14. Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?
 
-## Heb.2
+## Hebrews 2
 
 1. Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.
 
@@ -70,7 +70,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 18. For in that he himself hath suffered being tempted, he is able to succour them that are tempted.
 
-## Heb.3
+## Hebrews 3
 
 1. Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;
 
@@ -110,7 +110,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 19. So we see that they could not enter in because of unbelief.
 
-## Heb.4
+## Hebrews 4
 
 1. Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.
 
@@ -144,7 +144,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 16. Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.
 
-## Heb.5
+## Hebrews 5
 
 1. For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:
 
@@ -174,7 +174,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 14. But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
-## Heb.6
+## Hebrews 6
 
 1. Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
 
@@ -216,7 +216,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 20. Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.
 
-## Heb.7
+## Hebrews 7
 
 1. For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
 
@@ -274,7 +274,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 28. For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore.
 
-## Heb.8
+## Hebrews 8
 
 1. Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
 
@@ -302,7 +302,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 13. In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.
 
-## Heb.9
+## Hebrews 9
 
 1. Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.
 
@@ -360,7 +360,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 28. So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.
 
-## Heb.10
+## Hebrews 10
 
 1. For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
 
@@ -440,7 +440,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 39. But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
 
-## Heb.11
+## Hebrews 11
 
 1. Now faith is the substance of things hoped for, the evidence of things not seen.
 
@@ -522,7 +522,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 40. God having provided some better thing for us, that they without us should not be made perfect.
 
-## Heb.12
+## Hebrews 12
 
 1. Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,
 
@@ -582,7 +582,7 @@ __Written to the Hebrews from Italy, by Timothy.__
 
 29. For our God is a consuming fire.
 
-## Heb.13
+## Hebrews 13
 
 1. Let brotherly love continue.
 

@@ -1,6 +1,6 @@
 # 1Tim
 
-## 1Tim.1
+## 1 Timothy 1
 
 __The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana.__
 
@@ -44,7 +44,7 @@ __The first to Timothy was written from Laodicea, which is the chiefest city of 
 
 20. Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.
 
-## 1Tim.2
+## 1 Timothy 2
 
 1. I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
 
@@ -76,7 +76,7 @@ __The first to Timothy was written from Laodicea, which is the chiefest city of 
 
 15. Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.
 
-## 1Tim.3
+## 1 Timothy 3
 
 1. This is a true saying, If a man desire the office of a bishop, he desireth a good work.
 
@@ -110,7 +110,7 @@ __The first to Timothy was written from Laodicea, which is the chiefest city of 
 
 16. And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.
 
-## 1Tim.4
+## 1 Timothy 4
 
 1. Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
 
@@ -144,7 +144,7 @@ __The first to Timothy was written from Laodicea, which is the chiefest city of 
 
 16. Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.
 
-## 1Tim.5
+## 1 Timothy 5
 
 1. Rebuke not an elder, but intreat him as a father; and the younger men as brethren;
 
@@ -196,7 +196,7 @@ __The first to Timothy was written from Laodicea, which is the chiefest city of 
 
 25. Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.
 
-## 1Tim.6
+## 1 Timothy 6
 
 1. Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.
 

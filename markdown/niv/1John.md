@@ -1,6 +1,6 @@
 # 1John
 
-## 1John.1
+## 1 John 1
 
 __The Word of Life__
 
@@ -26,7 +26,7 @@ __Walking in the Light__
 
 10. If we claim we have not sinned, we make him out to be a liar and his word has no place in our lives.
 
-## 1John.2
+## 1 John 2
 
 1. My dear children, I write this to you so that you will not sin. But if anybody does sin, we have one who speaks to the Father in our defense - Jesus Christ, the Righteous One.
 
@@ -92,7 +92,7 @@ __Children of God__
 
 29. If you know that he is righteous, you know that everyone who does what is right has been born of him.
 
-## 1John.3
+## 1 John 3
 
 1. How great is the love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him.
 
@@ -144,7 +144,7 @@ __Love One Another__
 
 24. Those who obey his commands live in him, and he in them. And this is how we know that he lives in us: We know it by the Spirit he gave us.
 
-## 1John.4
+## 1 John 4
 
 __Test the Spirits__
 
@@ -192,7 +192,7 @@ __God's Love and Ours__
 
 21. And he has given us this command: Whoever loves God must also love his brother.
 
-## 1John.5
+## 1 John 5
 
 __Faith in the Son of God__
 

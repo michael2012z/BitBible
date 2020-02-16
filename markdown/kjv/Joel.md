@@ -1,6 +1,6 @@
 # Joel
 
-## Joel.1
+## Joel 1
 
 1. The word of the LORD that came to Joel the son of Pethuel.
 
@@ -42,7 +42,7 @@
 
 20. The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.
 
-## Joel.2
+## Joel 2
 
 1. Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nigh at hand;
 
@@ -108,7 +108,7 @@
 
 32. And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.
 
-## Joel.3
+## Joel 3
 
 1. For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
 

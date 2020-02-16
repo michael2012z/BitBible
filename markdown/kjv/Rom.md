@@ -1,6 +1,6 @@
 # Rom
 
-## Rom.1
+## Romans 1
 
 1. Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,
 
@@ -66,7 +66,7 @@
 
 32. Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.
 
-## Rom.2
+## Romans 2
 
 1. Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
 
@@ -126,7 +126,7 @@
 
 29. But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.
 
-## Rom.3
+## Romans 3
 
 1. What advantage then hath the Jew? or what profit is there of circumcision?
 
@@ -190,7 +190,7 @@
 
 31. Do we then make void the law through faith? God forbid: yea, we establish the law.
 
-## Rom.4
+## Romans 4
 
 1. What shall we say then that Abraham our father, as pertaining to the flesh, hath found?
 
@@ -242,7 +242,7 @@
 
 25. Who was delivered for our offences, and was raised again for our justification.
 
-## Rom.5
+## Romans 5
 
 1. Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
 
@@ -286,7 +286,7 @@
 
 21. That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.
 
-## Rom.6
+## Romans 6
 
 1. What shall we say then? Shall we continue in sin, that grace may abound?
 
@@ -334,7 +334,7 @@
 
 23. For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
 
-## Rom.7
+## Romans 7
 
 1. Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
 
@@ -386,7 +386,7 @@
 
 25. I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
 
-## Rom.8
+## Romans 8
 
 1. There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 
@@ -466,7 +466,7 @@
 
 39. Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 
-## Rom.9
+## Romans 9
 
 1. I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,
 
@@ -534,7 +534,7 @@
 
 33. As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.
 
-## Rom.10
+## Romans 10
 
 1. Brethren, my heart's desire and prayer to God for Israel is, that they might be saved.
 
@@ -578,7 +578,7 @@
 
 21. But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.
 
-## Rom.11
+## Romans 11
 
 1. I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 
@@ -652,7 +652,7 @@
 
 36. For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.
 
-## Rom.12
+## Romans 12
 
 1. I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 
@@ -696,7 +696,7 @@
 
 21. Be not overcome of evil, but overcome evil with good.
 
-## Rom.13
+## Romans 13
 
 1. Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 
@@ -726,7 +726,7 @@
 
 14. But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
 
-## Rom.14
+## Romans 14
 
 1. Him that is weak in the faith receive ye, but not to doubtful disputations.
 
@@ -774,7 +774,7 @@
 
 23. And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin.
 
-## Rom.15
+## Romans 15
 
 1. We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.
 
@@ -842,7 +842,7 @@
 
 33. Now the God of peace be with you all. Amen.
 
-## Rom.16
+## Romans 16
 
 1. I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:
 

@@ -1,6 +1,6 @@
 # Rev
 
-## Rev.1
+## Revelation 1
 
 1. The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
 
@@ -42,7 +42,7 @@
 
 20. The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
 
-## Rev.2
+## Revelation 2
 
 1. Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
 
@@ -102,7 +102,7 @@
 
 29. He that hath an ear, let him hear what the Spirit saith unto the churches.
 
-## Rev.3
+## Revelation 3
 
 1. And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
 
@@ -148,7 +148,7 @@
 
 22. He that hath an ear, let him hear what the Spirit saith unto the churches.
 
-## Rev.4
+## Revelation 4
 
 1. After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
 
@@ -172,7 +172,7 @@
 
 11. Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.
 
-## Rev.5
+## Revelation 5
 
 1. And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
 
@@ -202,7 +202,7 @@
 
 14. And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.
 
-## Rev.6
+## Revelation 6
 
 1. And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
 
@@ -238,7 +238,7 @@
 
 17. For the great day of his wrath is come; and who shall be able to stand?
 
-## Rev.7
+## Revelation 7
 
 1. And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
 
@@ -274,7 +274,7 @@
 
 17. For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
 
-## Rev.8
+## Revelation 8
 
 1. And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
 
@@ -302,7 +302,7 @@
 
 13. And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!
 
-## Rev.9
+## Revelation 9
 
 1. And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.
 
@@ -346,7 +346,7 @@
 
 21. Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
 
-## Rev.10
+## Revelation 10
 
 1. And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:
 
@@ -370,7 +370,7 @@
 
 11. And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.
 
-## Rev.11
+## Revelation 11
 
 1. And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
 
@@ -410,7 +410,7 @@
 
 19. And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.
 
-## Rev.12
+## Revelation 12
 
 1. And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 
@@ -446,7 +446,7 @@
 
 17. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
 
-## Rev.13
+## Revelation 13
 
 1. And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 
@@ -484,7 +484,7 @@
 
 18. Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.
 
-## Rev.14
+## Revelation 14
 
 1. And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads.
 
@@ -526,7 +526,7 @@
 
 20. And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs.
 
-## Rev.15
+## Revelation 15
 
 1. And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.
 
@@ -544,7 +544,7 @@
 
 8. And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.
 
-## Rev.16
+## Revelation 16
 
 1. And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
 
@@ -588,7 +588,7 @@
 
 21. And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.
 
-## Rev.17
+## Revelation 17
 
 1. And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
 
@@ -626,7 +626,7 @@
 
 18. And the woman which thou sawest is that great city, which reigneth over the kings of the earth.
 
-## Rev.18
+## Revelation 18
 
 1. And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 
@@ -676,7 +676,7 @@
 
 24. And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth.
 
-## Rev.19
+## Revelation 19
 
 1. And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
 
@@ -720,7 +720,7 @@
 
 21. And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh.
 
-## Rev.20
+## Revelation 20
 
 1. And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
 
@@ -752,7 +752,7 @@
 
 15. And whosoever was not found written in the book of life was cast into the lake of fire.
 
-## Rev.21
+## Revelation 21
 
 1. And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
 
@@ -808,7 +808,7 @@
 
 27. And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb's book of life.
 
-## Rev.22
+## Revelation 22
 
 1. And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
 

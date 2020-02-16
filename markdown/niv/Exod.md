@@ -1,6 +1,6 @@
 # Exod
 
-## Exod.1
+## Exodus 1
 
 __The Israelites Oppressed__
 
@@ -48,7 +48,7 @@ __The Israelites Oppressed__
 
 22. Then Pharaoh gave this order to all his people: "Every boy that is born you must throw into the Nile, but let every girl live."
 
-## Exod.2
+## Exodus 2
 
 __The Birth of Moses__
 
@@ -104,7 +104,7 @@ __Moses Flees to Midian__
 
 25. So God looked on the Israelites and was concerned about them.
 
-## Exod.3
+## Exodus 3
 
 __Moses and the Burning Bush__
 
@@ -152,7 +152,7 @@ __Moses and the Burning Bush__
 
 22. Every woman is to ask her neighbor and any woman living in her house for articles of silver and gold and for clothing, which you will put on your sons and daughters. And so you will plunder the Egyptians."
 
-## Exod.4
+## Exodus 4
 
 __Signs for Moses__
 
@@ -220,7 +220,7 @@ __Moses Returns to Egypt__
 
 31. and they believed. And when they heard that the LORD was concerned about them and had seen their misery, they bowed down and worshiped.
 
-## Exod.5
+## Exodus 5
 
 __Bricks Without Straw__
 
@@ -272,7 +272,7 @@ __God Promises Deliverance__
 
 23. Ever since I went to Pharaoh to speak in your name, he has brought trouble upon this people, and you have not rescued your people at all."
 
-## Exod.6
+## Exodus 6
 
 1. Then the LORD said to Moses, "Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country."
 
@@ -338,7 +338,7 @@ __Aaron to Speak for Moses__
 
 30. But Moses said to the LORD, "Since I speak with faltering lips, why would Pharaoh listen to me?"
 
-## Exod.7
+## Exodus 7
 
 1. Then the LORD said to Moses, "See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.
 
@@ -394,7 +394,7 @@ __The Plague of Blood__
 
 25. Seven days passed after the LORD struck the Nile.
 
-## Exod.8
+## Exodus 8
 
 __The Plague of Frogs__
 
@@ -466,7 +466,7 @@ __The Plague of Flies__
 
 32. But this time also Pharaoh hardened his heart and would not let the people go.
 
-## Exod.9
+## Exodus 9
 
 __The Plague on Livestock__
 
@@ -544,7 +544,7 @@ __The Plague of Hail__
 
 35. So Pharaoh's heart was hard and he would not let the Israelites go, just as the LORD had said through Moses.
 
-## Exod.10
+## Exodus 10
 
 __The Plague of Locusts__
 
@@ -608,7 +608,7 @@ __The Plague of Darkness__
 
 29. "Just as you say," Moses replied, "I will never appear before you again."
 
-## Exod.11
+## Exodus 11
 
 __The Plague on the Firstborn__
 
@@ -632,7 +632,7 @@ __The Plague on the Firstborn__
 
 10. Moses and Aaron performed all these wonders before Pharaoh, but the LORD hardened Pharaoh's heart, and he would not let the Israelites go out of his country.
 
-## Exod.12
+## Exodus 12
 
 __The Passover__
 
@@ -742,7 +742,7 @@ __Passover Restrictions__
 
 51. And on that very day the LORD brought the Israelites out of Egypt by their divisions.
 
-## Exod.13
+## Exodus 13
 
 __Consecration of the Firstborn__
 
@@ -792,7 +792,7 @@ __Crossing the Sea__
 
 22. Neither the pillar of cloud by day nor the pillar of fire by night left its place in front of the people.
 
-## Exod.14
+## Exodus 14
 
 1. Then the LORD said to Moses,
 
@@ -856,7 +856,7 @@ __Crossing the Sea__
 
 31. And when the Israelites saw the great power the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant.
 
-## Exod.15
+## Exodus 15
 
 __The Song of Moses__
 
@@ -914,7 +914,7 @@ __The Song of Moses__
 
 27. Then they came to Elim, where there were twelve springs and seventy palm trees, and they camped there near the water.
 
-## Exod.16
+## Exodus 16
 
 __Manna and Quail__
 
@@ -990,7 +990,7 @@ __Manna and Quail__
 
 36. (An omer is one tenth of an ephah.)
 
-## Exod.17
+## Exodus 17
 
 __Water From the Rock__
 
@@ -1028,7 +1028,7 @@ __The Amalekites Defeated__
 
 16. He said, "For hands were lifted up to the throne of the LORD. The LORD will be at war against the Amalekites from generation to generation."
 
-## Exod.18
+## Exodus 18
 
 __Jethro Visits Moses__
 
@@ -1086,7 +1086,7 @@ __Jethro Visits Moses__
 
 27. Then Moses sent his father-in-law on his way, and Jethro returned to his own country.
 
-## Exod.19
+## Exodus 19
 
 __At Mount Sinai__
 
@@ -1140,7 +1140,7 @@ __At Mount Sinai__
 
 25. So Moses went down to the people and told them.
 
-## Exod.20
+## Exodus 20
 
 __The Ten Commandments__
 
@@ -1198,7 +1198,7 @@ __Idols and Altars__
 
 26. And do not go up to my altar on steps, lest your nakedness be exposed on it.'
 
-## Exod.21
+## Exodus 21
 
 1. "These are the laws you are to set before them:
 
@@ -1276,7 +1276,7 @@ __Personal Injuries__
 
 36. However, if it was known that the bull had the habit of goring, yet the owner did not keep it penned up, the owner must pay, animal for animal, and the dead animal will be his.
 
-## Exod.22
+## Exodus 22
 
 __Protection of Property__
 
@@ -1344,7 +1344,7 @@ __Social Responsibility__
 
 31. "You are to be my holy people. So do not eat the meat of an animal torn by wild beasts; throw it to the dogs.
 
-## Exod.23
+## Exodus 23
 
 __Laws of Justice and Mercy__
 
@@ -1420,7 +1420,7 @@ __God's Angel to Prepare the Way__
 
 33. Do not let them live in your land, or they will cause you to sin against me, because the worship of their gods will certainly be a snare to you."
 
-## Exod.24
+## Exodus 24
 
 __The Covenant Confirmed__
 
@@ -1460,7 +1460,7 @@ __The Covenant Confirmed__
 
 18. Then Moses entered the cloud as he went on up the mountain. And he stayed on the mountain forty days and forty nights.
 
-## Exod.25
+## Exodus 25
 
 __Offerings for the Tabernacle__
 
@@ -1544,7 +1544,7 @@ __The Lampstand__
 
 40. See that you make them according to the pattern shown you on the mountain.
 
-## Exod.26
+## Exodus 26
 
 __The Tabernacle__
 
@@ -1622,7 +1622,7 @@ __The Tabernacle__
 
 37. Make gold hooks for this curtain and five posts of acacia wood overlaid with gold. And cast five bronze bases for them.
 
-## Exod.27
+## Exodus 27
 
 __The Altar of Burnt Offering__
 
@@ -1672,7 +1672,7 @@ __Oil for the Lampstand__
 
 21. In the Tent of Meeting, outside the curtain that is in front of the Testimony, Aaron and his sons are to keep the lamps burning before the LORD from evening till morning. This is to be a lasting ordinance among the Israelites for the generations to come.
 
-## Exod.28
+## Exodus 28
 
 __The Priestly Garments__
 
@@ -1766,7 +1766,7 @@ __Other Priestly Garments__
 
 43. Aaron and his sons must wear them whenever they enter the Tent of Meeting or approach the altar to minister in the Holy Place, so that they will not incur guilt and die. "This is to be a lasting ordinance for Aaron and his descendants.
 
-## Exod.29
+## Exodus 29
 
 __Consecration of the Priests__
 
@@ -1862,7 +1862,7 @@ __Consecration of the Priests__
 
 46. They will know that I am the LORD their God, who brought them out of Egypt so that I might dwell among them. I am the LORD their God.
 
-## Exod.30
+## Exodus 30
 
 __The Altar of Incense__
 
@@ -1950,7 +1950,7 @@ __Incense__
 
 38. Whoever makes any like it to enjoy its fragrance must be cut off from his people."
 
-## Exod.31
+## Exodus 31
 
 __Bezalel and Oholiab__
 
@@ -1992,7 +1992,7 @@ __The Sabbath__
 
 18. When the LORD finished speaking to Moses on Mount Sinai, he gave him the two tablets of the Testimony, the tablets of stone inscribed by the finger of God.
 
-## Exod.32
+## Exodus 32
 
 __The Golden Calf__
 
@@ -2066,7 +2066,7 @@ __The Golden Calf__
 
 35. And the LORD struck the people with a plague because of what they did with the calf Aaron had made.
 
-## Exod.33
+## Exodus 33
 
 1. Then the LORD said to Moses, "Leave this place, you and the people you brought up out of Egypt, and go up to the land I promised on oath to Abraham, Isaac and Jacob, saying, `I will give it to your descendants.'
 
@@ -2118,7 +2118,7 @@ __Moses and the Glory of the LORD__
 
 23. Then I will remove my hand and you will see my back; but my face must not be seen."
 
-## Exod.34
+## Exodus 34
 
 __The New Stone Tablets__
 
@@ -2194,7 +2194,7 @@ __The Radiant Face of Moses__
 
 35. they saw that his face was radiant. Then Moses would put the veil back over his face until he went in to speak with the LORD.
 
-## Exod.35
+## Exodus 35
 
 __Sabbath Regulations__
 
@@ -2272,7 +2272,7 @@ __Bezalel and Oholiab__
 
 35. He has filled them with skill to do all kinds of work as craftsmen, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and weavers - all of them master craftsmen and designers.
 
-## Exod.36
+## Exodus 36
 
 1. So Bezalel, Oholiab and every skilled person to whom the LORD has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the LORD has commanded."
 
@@ -2352,7 +2352,7 @@ __The Tabernacle__
 
 38. and they made five posts with hooks for them. They overlaid the tops of the posts and their bands with gold and made their five bases of bronze.
 
-## Exod.37
+## Exodus 37
 
 __The Ark__
 
@@ -2420,7 +2420,7 @@ __The Altar of Incense__
 
 29. They also made the sacred anointing oil and the pure, fragrant incense - the work of a perfumer.
 
-## Exod.38
+## Exodus 38
 
 __The Altar of Burnt Offering__
 
@@ -2490,7 +2490,7 @@ __The Materials Used__
 
 31. the bases for the surrounding courtyard and those for its entrance and all the tent pegs for the tabernacle and those for the surrounding courtyard.
 
-## Exod.39
+## Exodus 39
 
 __The Priestly Garments__
 
@@ -2588,7 +2588,7 @@ __Moses Inspects the Tabernacle__
 
 43. Moses inspected the work and saw that they had done it just as the LORD had commanded. So Moses blessed them.
 
-## Exod.40
+## Exodus 40
 
 __Setting Up the Tabernacle__
 

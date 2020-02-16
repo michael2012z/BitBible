@@ -1,6 +1,6 @@
 # Neh
 
-## Neh.1
+## Nehemiah 1
 
 1. The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 
@@ -24,7 +24,7 @@
 
 11. O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.
 
-## Neh.2
+## Nehemiah 2
 
 1. And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence.
 
@@ -66,7 +66,7 @@
 
 20. Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.
 
-## Neh.3
+## Nehemiah 3
 
 1. Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.
 
@@ -132,7 +132,7 @@
 
 32. And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants.
 
-## Neh.4
+## Nehemiah 4
 
 1. But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.
 
@@ -180,7 +180,7 @@
 
 23. So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing.
 
-## Neh.5
+## Nehemiah 5
 
 1. And there was a great cry of the people and of their wives against their brethren the Jews.
 
@@ -220,7 +220,7 @@
 
 19. Think upon me, my God, for good, according to all that I have done for this people.
 
-## Neh.6
+## Nehemiah 6
 
 1. Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;)
 
@@ -260,7 +260,7 @@
 
 19. Also they reported his good deeds before me, and uttered my words to him. And Tobiah sent letters to put me in fear.
 
-## Neh.7
+## Nehemiah 7
 
 1. Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,
 
@@ -408,7 +408,7 @@
 
 73. So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.
 
-## Neh.8
+## Nehemiah 8
 
 1. And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.
 
@@ -446,7 +446,7 @@
 
 18. Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the manner.
 
-## Neh.9
+## Nehemiah 9
 
 1. Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.
 
@@ -524,7 +524,7 @@
 
 38. And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal unto it.
 
-## Neh.10
+## Nehemiah 10
 
 1. Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,
 
@@ -604,7 +604,7 @@
 
 39. For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.
 
-## Neh.11
+## Nehemiah 11
 
 1. And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.
 
@@ -678,7 +678,7 @@
 
 36. And of the Levites were divisions in Judah, and in Benjamin.
 
-## Neh.12
+## Nehemiah 12
 
 1. Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
 
@@ -774,7 +774,7 @@
 
 47. And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron.
 
-## Neh.13
+## Nehemiah 13
 
 1. On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;
 

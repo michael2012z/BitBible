@@ -1,6 +1,6 @@
 # 1Sam
 
-## 1Sam.1
+## 1 Samuel 1
 
 __The Birth of Samuel__
 
@@ -62,7 +62,7 @@ __Hannah Dedicates Samuel__
 
 28. So now I give him to the LORD. For his whole life he will be given over to the LORD." And he worshiped the LORD there.
 
-## 1Sam.2
+## 1 Samuel 2
 
 __Hannah's Prayer__
 
@@ -142,7 +142,7 @@ __Prophecy Against the House of Eli__
 
 36. Then everyone left in your family line will come and bow down before him for a piece of silver and a crust of bread and plead, "Appoint me to some priestly office so I can have food to eat."'"
 
-## 1Sam.3
+## 1 Samuel 3
 
 __The LORD Calls Samuel__
 
@@ -188,7 +188,7 @@ __The LORD Calls Samuel__
 
 21. The LORD continued to appear at Shiloh, and there he revealed himself to Samuel through his word.
 
-## 1Sam.4
+## 1 Samuel 4
 
 1. And Samuel's word came to all Israel.
 
@@ -240,7 +240,7 @@ __Death of Eli__
 
 22. She said, "The glory has departed from Israel, for the ark of God has been captured."
 
-## 1Sam.5
+## 1 Samuel 5
 
 __The Ark in Ashdod and Ekron__
 
@@ -268,7 +268,7 @@ __The Ark in Ashdod and Ekron__
 
 12. Those who did not die were afflicted with tumors, and the outcry of the city went up to heaven.
 
-## 1Sam.6
+## 1 Samuel 6
 
 __The Ark Returned to Israel__
 
@@ -314,7 +314,7 @@ __The Ark Returned to Israel__
 
 21. Then they sent messengers to the people of Kiriath Jearim, saying, "The Philistines have returned the ark of the LORD. Come down and take it up to your place."
 
-## 1Sam.7
+## 1 Samuel 7
 
 1. So the men of Kiriath Jearim came and took up the ark of the LORD. They took it to Abinadab's house on the hill and consecrated Eleazar his son to guard the ark of the LORD.
 
@@ -352,7 +352,7 @@ __The Philistines Subdued at Mizpah__
 
 17. But he always went back to Ramah, where his home was, and there he also judged Israel. And he built an altar there to the LORD.
 
-## 1Sam.8
+## 1 Samuel 8
 
 __Israel Asks for a King__
 
@@ -400,7 +400,7 @@ __Israel Asks for a King__
 
 22. The LORD answered, "Listen to them and give them a king." Then Samuel said to the men of Israel, "Everyone go back to his town."
 
-## 1Sam.9
+## 1 Samuel 9
 
 __Samuel Anoints Saul__
 
@@ -458,7 +458,7 @@ __Samuel Anoints Saul__
 
 27. As they were going down to the edge of the town, Samuel said to Saul, "Tell the servant to go on ahead of us" - and the servant did so - "but you stay here awhile, so that I may give you a message from God."
 
-## 1Sam.10
+## 1 Samuel 10
 
 1. Then Samuel took a flask of oil and poured it on Saul's head and kissed him, saying, "Has not the LORD anointed you leader over his inheritance? 
 
@@ -516,7 +516,7 @@ __Saul Made King__
 
 27. But some troublemakers said, "How can this fellow save us?" They despised him and brought him no gifts. But Saul kept silent.
 
-## 1Sam.11
+## 1 Samuel 11
 
 __Saul Rescues the City of Jabesh__
 
@@ -552,7 +552,7 @@ __Saul Confirmed as King__
 
 15. So all the people went to Gilgal and confirmed Saul as king in the presence of the LORD. There they sacrificed fellowship offerings before the LORD, and Saul and all the Israelites held a great celebration.
 
-## 1Sam.12
+## 1 Samuel 12
 
 __Samuel's Farewell Speech__
 
@@ -606,7 +606,7 @@ __Samuel's Farewell Speech__
 
 25. Yet if you persist in doing evil, both you and your king will be swept away."
 
-## 1Sam.13
+## 1 Samuel 13
 
 __Samuel Rebukes Saul__
 
@@ -658,7 +658,7 @@ __Israel Without Weapons__
 
 23. Now a detachment of Philistines had gone out to the pass at Micmash.
 
-## 1Sam.14
+## 1 Samuel 14
 
 __Jonathan Attacks the Philistines__
 
@@ -772,7 +772,7 @@ __Saul's Family__
 
 52. All the days of Saul there was bitter war with the Philistines, and whenever Saul saw a mighty or brave man, he took him into his service.
 
-## 1Sam.15
+## 1 Samuel 15
 
 __The LORD Rejects Saul as King__
 
@@ -846,7 +846,7 @@ __The LORD Rejects Saul as King__
 
 35. Until the day Samuel died, he did not go to see Saul again, though Samuel mourned for him. And the LORD was grieved that he had made Saul king over Israel.
 
-## 1Sam.16
+## 1 Samuel 16
 
 __Samuel Anoints David__
 
@@ -898,7 +898,7 @@ __David in Saul's Service__
 
 23. Whenever the spirit from God came upon Saul, David would take his harp and play. Then relief would come to Saul; he would feel better, and the evil spirit would leave him.
 
-## 1Sam.17
+## 1 Samuel 17
 
 __David and Goliath__
 
@@ -1018,7 +1018,7 @@ __David and Goliath__
 
 58. "Whose son are you, young man?" Saul asked him. David said, "I am the son of your servant Jesse of Bethlehem."
 
-## 1Sam.18
+## 1 Samuel 18
 
 __Saul's Jealousy of David__
 
@@ -1082,7 +1082,7 @@ __Saul's Jealousy of David__
 
 30. The Philistine commanders continued to go out to battle, and as often as they did, David met with more success than the rest of Saul's officers, and his name became well known.
 
-## 1Sam.19
+## 1 Samuel 19
 
 __Saul Tries to Kill David__
 
@@ -1134,7 +1134,7 @@ __Saul Tries to Kill David__
 
 24. He stripped off his robes and also prophesied in Samuel's presence. He lay that way all that day and night. This is why people say, "Is Saul also among the prophets?"
 
-## 1Sam.20
+## 1 Samuel 20
 
 __David and Jonathan__
 
@@ -1222,7 +1222,7 @@ __David and Jonathan__
 
 42. Jonathan said to David, "Go in peace, for we have sworn friendship with each other in the name of the LORD, saying, `The LORD is witness between you and me, and between your descendants and my descendants forever.'" Then David left, and Jonathan went back to the town.
 
-## 1Sam.21
+## 1 Samuel 21
 
 __David at Nob__
 
@@ -1258,7 +1258,7 @@ __David at Gath__
 
 15. Am I so short of madmen that you have to bring this fellow here to carry on like this in front of me? Must this man come into my house?"
 
-## 1Sam.22
+## 1 Samuel 22
 
 __David at Adullam and Mizpah__
 
@@ -1310,7 +1310,7 @@ __Saul Kills the Priests of Nob__
 
 23. Stay with me; don't be afraid; the man who is seeking your life is seeking mine also. You will be safe with me."
 
-## 1Sam.23
+## 1 Samuel 23
 
 __David Saves Keilah__
 
@@ -1374,7 +1374,7 @@ __Saul Pursues David__
 
 29. And David went up from there and lived in the strongholds of En Gedi.
 
-## 1Sam.24
+## 1 Samuel 24
 
 __David Spares Saul's Life__
 
@@ -1422,7 +1422,7 @@ __David Spares Saul's Life__
 
 22. So David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold.
 
-## 1Sam.25
+## 1 Samuel 25
 
 __David, Nabal and Abigail__
 
@@ -1514,7 +1514,7 @@ __David, Nabal and Abigail__
 
 44. But Saul had given his daughter Michal, David's wife, to Paltiel son of Laish, who was from Gallim.
 
-## 1Sam.26
+## 1 Samuel 26
 
 __David Again Spares Saul's Life__
 
@@ -1568,7 +1568,7 @@ __David Again Spares Saul's Life__
 
 25. Then Saul said to David, "May you be blessed, my son David; you will do great things and surely triumph." So David went on his way, and Saul returned home.
 
-## 1Sam.27
+## 1 Samuel 27
 
 __David Among the Philistines__
 
@@ -1596,7 +1596,7 @@ __David Among the Philistines__
 
 12. Achish trusted David and said to himself, "He has become so odious to his people, the Israelites, that he will be my servant forever."
 
-## 1Sam.28
+## 1 Samuel 28
 
 __Saul and the Witch of Endor__
 
@@ -1650,7 +1650,7 @@ __Saul and the Witch of Endor__
 
 25. Then she set it before Saul and his men, and they ate. That same night they got up and left.
 
-## 1Sam.29
+## 1 Samuel 29
 
 __Achish Sends David Back to Ziklag__
 
@@ -1676,7 +1676,7 @@ __Achish Sends David Back to Ziklag__
 
 11. So David and his men got up early in the morning to go back to the land of the Philistines, and the Philistines went up to Jezreel.
 
-## 1Sam.30
+## 1 Samuel 30
 
 __David Destroys the Amalekites__
 
@@ -1742,7 +1742,7 @@ __David Destroys the Amalekites__
 
 31. and Hebron; and to those in all the other places where David and his men had roamed.
 
-## 1Sam.31
+## 1 Samuel 31
 
 __Saul Takes His Life__
 

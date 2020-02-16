@@ -1,6 +1,6 @@
 # 1Thess
 
-## 1Thess.1
+## 1 Thessalonians 1
 
 __The first epistle to the Thessalonians was written from Athens.__
 
@@ -24,7 +24,7 @@ __The first epistle to the Thessalonians was written from Athens.__
 
 10. And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.
 
-## 1Thess.2
+## 1 Thessalonians 2
 
 1. For yourselves, brethren, know our entrance in unto you, that it was not in vain:
 
@@ -66,7 +66,7 @@ __The first epistle to the Thessalonians was written from Athens.__
 
 20. For ye are our glory and joy.
 
-## 1Thess.3
+## 1 Thessalonians 3
 
 1. Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;
 
@@ -94,7 +94,7 @@ __The first epistle to the Thessalonians was written from Athens.__
 
 13. To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.
 
-## 1Thess.4
+## 1 Thessalonians 4
 
 1. Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.
 
@@ -132,7 +132,7 @@ __The first epistle to the Thessalonians was written from Athens.__
 
 18. Wherefore comfort one another with these words.
 
-## 1Thess.5
+## 1 Thessalonians 5
 
 1. But of the times and the seasons, brethren, ye have no need that I write unto you.
 

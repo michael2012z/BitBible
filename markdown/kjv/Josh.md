@@ -1,6 +1,6 @@
 # Josh
 
-## Josh.1
+## Joshua 1
 
 1. Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister, saying,
 
@@ -38,7 +38,7 @@
 
 18. Whosoever he be that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage.
 
-## Josh.2
+## Joshua 2
 
 1. And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there.
 
@@ -88,7 +88,7 @@
 
 24. And they said unto Joshua, Truly the LORD hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.
 
-## Josh.3
+## Joshua 3
 
 1. And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.
 
@@ -124,7 +124,7 @@
 
 17. And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan.
 
-## Josh.4
+## Joshua 4
 
 1. And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying,
 
@@ -174,7 +174,7 @@
 
 24. That all the people of the earth might know the hand of the LORD, that it is mighty: that ye might fear the LORD your God for ever.
 
-## Josh.5
+## Joshua 5
 
 1. And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
 
@@ -206,7 +206,7 @@
 
 15. And the captain of the LORD'S host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so.
 
-## Josh.6
+## Joshua 6
 
 1. Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
 
@@ -262,7 +262,7 @@
 
 27. So the LORD was with Joshua; and his fame was noised throughout all the country.
 
-## Josh.7
+## Joshua 7
 
 1. But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel.
 
@@ -316,7 +316,7 @@
 
 26. And they raised over him a great heap of stones unto this day. So the LORD turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day.
 
-## Josh.8
+## Joshua 8
 
 1. And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:
 
@@ -388,7 +388,7 @@
 
 35. There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.
 
-## Josh.9
+## Joshua 9
 
 1. And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;
 
@@ -444,7 +444,7 @@
 
 27. And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD, even unto this day, in the place which he should choose.
 
-## Josh.10
+## Joshua 10
 
 1. Now it came to pass, when Adonizedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;
 
@@ -532,7 +532,7 @@
 
 43. And Joshua returned, and all Israel with him, unto the camp to Gilgal.
 
-## Josh.11
+## Joshua 11
 
 1. And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,
 
@@ -580,7 +580,7 @@
 
 23. So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war.
 
-## Josh.12
+## Joshua 12
 
 1. Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:
 
@@ -630,7 +630,7 @@
 
 24. The king of Tirzah, one: all the kings thirty and one.
 
-## Josh.13
+## Joshua 13
 
 1. Now Joshua was old and stricken in years; and the LORD said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.
 
@@ -698,7 +698,7 @@
 
 33. But unto the tribe of Levi Moses gave not any inheritance: the LORD God of Israel was their inheritance, as he said unto them.
 
-## Josh.14
+## Joshua 14
 
 1. And these are the countries which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them.
 
@@ -730,7 +730,7 @@
 
 15. And the name of Hebron before was Kirjatharba; which Arba was a great man among the Anakims. And the land had rest from war.
 
-## Josh.15
+## Joshua 15
 
 1. This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast.
 
@@ -858,7 +858,7 @@
 
 63. As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.
 
-## Josh.16
+## Joshua 16
 
 1. And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,
 
@@ -880,7 +880,7 @@
 
 10. And they drave not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute.
 
-## Josh.17
+## Joshua 17
 
 1. There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.
 
@@ -918,7 +918,7 @@
 
 18. But the mountain shall be thine; for it is a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, and though they be strong.
 
-## Josh.18
+## Joshua 18
 
 1. And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.
 
@@ -976,7 +976,7 @@
 
 28. And Zelah, Eleph, and Jebusi, which is Jerusalem, Gibeath, and Kirjath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.
 
-## Josh.19
+## Joshua 19
 
 1. And the second lot came forth to Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.
 
@@ -1080,7 +1080,7 @@
 
 51. These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country.
 
-## Josh.20
+## Joshua 20
 
 1. The LORD also spake unto Joshua, saying,
 
@@ -1100,7 +1100,7 @@
 
 9. These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.
 
-## Josh.21
+## Joshua 21
 
 1. Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;
 
@@ -1192,7 +1192,7 @@
 
 45. There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.
 
-## Josh.22
+## Joshua 22
 
 1. Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,
 
@@ -1262,7 +1262,7 @@
 
 34. And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the LORD is God.
 
-## Josh.23
+## Joshua 23
 
 1. And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age.
 
@@ -1296,7 +1296,7 @@
 
 16. When ye have transgressed the covenant of the LORD your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the LORD be kindled against you, and ye shall perish quickly from off the good land which he hath given unto you.
 
-## Josh.24
+## Joshua 24
 
 1. And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.
 

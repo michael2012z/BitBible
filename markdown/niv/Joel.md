@@ -1,6 +1,6 @@
 # Joel
 
-## Joel.1
+## Joel 1
 
 __An Invasion of Locusts__
 
@@ -46,7 +46,7 @@ __A Call to Repentance__
 
 20. Even the wild animals pant for you; the streams of water have dried up and fire has devoured the open pastures.
 
-## Joel.2
+## Joel 2
 
 __An Army of Locusts__
 
@@ -120,7 +120,7 @@ __The Day of the LORD__
 
 32. And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has said, among the survivors whom the LORD calls.
 
-## Joel.3
+## Joel 3
 
 __The Nations Judged__
 

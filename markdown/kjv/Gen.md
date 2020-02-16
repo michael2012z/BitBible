@@ -1,6 +1,6 @@
 # Gen
 
-## Gen.1
+## Genesis 1
 
 1. In the beginning God created the heaven and the earth.
 
@@ -64,7 +64,7 @@
 
 31. And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.
 
-## Gen.2
+## Genesis 2
 
 1. Thus the heavens and the earth were finished, and all the host of them.
 
@@ -116,7 +116,7 @@
 
 25. And they were both naked, the man and his wife, and were not ashamed.
 
-## Gen.3
+## Genesis 3
 
 1. Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 
@@ -166,7 +166,7 @@
 
 24. So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
 
-## Gen.4
+## Genesis 4
 
 1. And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.
 
@@ -220,7 +220,7 @@
 
 26. And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.
 
-## Gen.5
+## Genesis 5
 
 1. This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
 
@@ -286,7 +286,7 @@
 
 32. And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
 
-## Gen.6
+## Genesis 6
 
 1. And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 
@@ -332,7 +332,7 @@
 
 22. Thus did Noah; according to all that God commanded him, so did he.
 
-## Gen.7
+## Genesis 7
 
 1. And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
 
@@ -382,7 +382,7 @@
 
 24. And the waters prevailed upon the earth an hundred and fifty days.
 
-## Gen.8
+## Genesis 8
 
 1. And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;
 
@@ -428,7 +428,7 @@
 
 22. While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
 
-## Gen.9
+## Genesis 9
 
 1. And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
 
@@ -488,7 +488,7 @@
 
 29. And all the days of Noah were nine hundred and fifty years: and he died.
 
-## Gen.10
+## Genesis 10
 
 1. Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
 
@@ -554,7 +554,7 @@
 
 32. These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
 
-## Gen.11
+## Genesis 11
 
 1. And the whole earth was of one language, and of one speech.
 
@@ -620,7 +620,7 @@
 
 32. And the days of Terah were two hundred and five years: and Terah died in Haran.
 
-## Gen.12
+## Genesis 12
 
 1. Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:
 
@@ -662,7 +662,7 @@
 
 20. And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.
 
-## Gen.13
+## Genesis 13
 
 1. And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
 
@@ -700,7 +700,7 @@
 
 18. Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD.
 
-## Gen.14
+## Genesis 14
 
 1. And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;
 
@@ -750,7 +750,7 @@
 
 24. Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 
-## Gen.15
+## Genesis 15
 
 1. After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.
 
@@ -794,7 +794,7 @@
 
 21. And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.
 
-## Gen.16
+## Genesis 16
 
 1. Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.
 
@@ -828,7 +828,7 @@
 
 16. And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.
 
-## Gen.17
+## Genesis 17
 
 1. And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.
 
@@ -884,7 +884,7 @@
 
 27. And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him.
 
-## Gen.18
+## Genesis 18
 
 1. And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
 
@@ -952,7 +952,7 @@
 
 33. And the LORD went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
 
-## Gen.19
+## Genesis 19
 
 1. And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;
 
@@ -1030,7 +1030,7 @@
 
 38. And the younger, she also bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.
 
-## Gen.20
+## Genesis 20
 
 1. And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.
 
@@ -1068,7 +1068,7 @@
 
 18. For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife.
 
-## Gen.21
+## Genesis 21
 
 1. And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken.
 
@@ -1138,7 +1138,7 @@
 
 34. And Abraham sojourned in the Philistines' land many days.
 
-## Gen.22
+## Genesis 22
 
 1. And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
 
@@ -1188,7 +1188,7 @@
 
 24. And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.
 
-## Gen.23
+## Genesis 23
 
 1. And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah.
 
@@ -1230,7 +1230,7 @@
 
 20. And the field, and the cave that is therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth.
 
-## Gen.24
+## Genesis 24
 
 1. And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things.
 
@@ -1366,7 +1366,7 @@
 
 67. And Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother's death.
 
-## Gen.25
+## Genesis 25
 
 1. Then again Abraham took a wife, and her name was Keturah.
 
@@ -1436,7 +1436,7 @@
 
 34. Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
 
-## Gen.26
+## Genesis 26
 
 1. And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.
 
@@ -1508,7 +1508,7 @@
 
 35. Which were a grief of mind unto Isaac and to Rebekah.
 
-## Gen.27
+## Genesis 27
 
 1. And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.
 
@@ -1602,7 +1602,7 @@
 
 46. And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?
 
-## Gen.28
+## Genesis 28
 
 1. And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.
 
@@ -1648,7 +1648,7 @@
 
 22. And this stone, which I have set for a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee.
 
-## Gen.29
+## Genesis 29
 
 1. Then Jacob went on his journey, and came into the land of the people of the east.
 
@@ -1720,7 +1720,7 @@
 
 35. And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.
 
-## Gen.30
+## Genesis 30
 
 1. And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
 
@@ -1808,7 +1808,7 @@
 
 43. And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.
 
-## Gen.31
+## Genesis 31
 
 1. And he heard the words of Laban's sons, saying, Jacob hath taken away all that was our father's; and of that which was our father's hath he gotten all this glory.
 
@@ -1920,7 +1920,7 @@
 
 55. And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
 
-## Gen.32
+## Genesis 32
 
 1. And Jacob went on his way, and the angels of God met him.
 
@@ -1986,7 +1986,7 @@
 
 32. Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank.
 
-## Gen.33
+## Genesis 33
 
 1. And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.
 
@@ -2028,7 +2028,7 @@
 
 20. And he erected there an altar, and called it Elelohe-Israel.
 
-## Gen.34
+## Genesis 34
 
 1. And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
 
@@ -2092,7 +2092,7 @@
 
 31. And they said, Should he deal with our sister as with an harlot?
 
-## Gen.35
+## Genesis 35
 
 1. And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.
 
@@ -2152,7 +2152,7 @@
 
 29. And Isaac gave up the ghost, and died, and was gathered unto his people, being old and full of days: and his sons Esau and Jacob buried him.
 
-## Gen.36
+## Genesis 36
 
 1. Now these are the generations of Esau, who is Edom.
 
@@ -2240,7 +2240,7 @@
 
 43. Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites.
 
-## Gen.37
+## Genesis 37
 
 1. And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
 
@@ -2314,7 +2314,7 @@
 
 36. And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard.
 
-## Gen.38
+## Genesis 38
 
 1. And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.
 
@@ -2376,7 +2376,7 @@
 
 30. And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.
 
-## Gen.39
+## Genesis 39
 
 1. And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 
@@ -2424,7 +2424,7 @@
 
 23. The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper.
 
-## Gen.40
+## Genesis 40
 
 1. And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
 
@@ -2472,7 +2472,7 @@
 
 23. Yet did not the chief butler remember Joseph, but forgat him.
 
-## Gen.41
+## Genesis 41
 
 1. And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 
@@ -2588,7 +2588,7 @@
 
 57. And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
 
-## Gen.42
+## Genesis 42
 
 1. Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
 
@@ -2666,7 +2666,7 @@
 
 38. And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.
 
-## Gen.43
+## Genesis 43
 
 1. And the famine was sore in the land.
 
@@ -2736,7 +2736,7 @@
 
 34. And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him.
 
-## Gen.44
+## Genesis 44
 
 1. And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth.
 
@@ -2806,7 +2806,7 @@
 
 34. For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father.
 
-## Gen.45
+## Genesis 45
 
 1. Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.
 
@@ -2864,7 +2864,7 @@
 
 28. And Israel said, It is enough; Joseph my son is yet alive: I will go and see him before I die.
 
-## Gen.46
+## Genesis 46
 
 1. And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.
 
@@ -2934,7 +2934,7 @@
 
 34. That ye shall say, Thy servants' trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
 
-## Gen.47
+## Genesis 47
 
 1. Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.
 
@@ -2998,7 +2998,7 @@
 
 31. And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head.
 
-## Gen.48
+## Genesis 48
 
 1. And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.
 
@@ -3044,7 +3044,7 @@
 
 22. Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.
 
-## Gen.49
+## Genesis 49
 
 1. And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 
@@ -3112,7 +3112,7 @@
 
 33. And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
 
-## Gen.50
+## Genesis 50
 
 1. And Joseph fell upon his father's face, and wept upon him, and kissed him.
 

@@ -1,6 +1,6 @@
 # 2Pet
 
-## 2Pet.1
+## 2 Peter 1
 
 1. Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 
@@ -44,7 +44,7 @@
 
 21. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.
 
-## 2Pet.2
+## 2 Peter 2
 
 1. But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
@@ -90,7 +90,7 @@
 
 22. But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
 
-## 2Pet.3
+## 2 Peter 3
 
 1. This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:
 

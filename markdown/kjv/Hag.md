@@ -1,6 +1,6 @@
 # Hag
 
-## Hag.1
+## Haggai 1
 
 1. In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 
@@ -32,7 +32,7 @@
 
 15. In the four and twentieth day of the sixth month, in the second year of Darius the king.
 
-## Hag.2
+## Haggai 2
 
 1. In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying,
 

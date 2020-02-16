@@ -1,6 +1,6 @@
 # Job
 
-## Job.1
+## Job 1
 
 1. There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 
@@ -46,7 +46,7 @@
 
 22. In all this Job sinned not, nor charged God foolishly.
 
-## Job.2
+## Job 2
 
 1. Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.
 
@@ -74,7 +74,7 @@
 
 13. So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great.
 
-## Job.3
+## Job 3
 
 1. After this opened Job his mouth, and cursed his day.
 
@@ -128,7 +128,7 @@
 
 26. I was not in safety, neither had I rest, neither was I quiet; yet trouble came.
 
-## Job.4
+## Job 4
 
 1. Then Eliphaz the Temanite answered and said,
 
@@ -172,7 +172,7 @@
 
 21. Doth not their excellency which is in them go away? they die, even without wisdom.
 
-## Job.5
+## Job 5
 
 1. Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?
 
@@ -228,7 +228,7 @@
 
 27. Lo this, we have searched it, so it is; hear it, and know thou it for thy good.
 
-## Job.6
+## Job 6
 
 1. But Job answered and said,
 
@@ -290,7 +290,7 @@
 
 30. Is there iniquity in my tongue? cannot my taste discern perverse things?
 
-## Job.7
+## Job 7
 
 1. Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?
 
@@ -334,7 +334,7 @@
 
 21. And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be.
 
-## Job.8
+## Job 8
 
 1. Then answered Bildad the Shuhite, and said,
 
@@ -380,7 +380,7 @@
 
 22. They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.
 
-## Job.9
+## Job 9
 
 1. Then Job answered and said,
 
@@ -452,7 +452,7 @@
 
 35. Then would I speak, and not fear him; but it is not so with me.
 
-## Job.10
+## Job 10
 
 1. My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
 
@@ -498,7 +498,7 @@
 
 22. A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness.
 
-## Job.11
+## Job 11
 
 1. Then answered Zophar the Naamathite, and said,
 
@@ -540,7 +540,7 @@
 
 20. But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.
 
-## Job.12
+## Job 12
 
 1. And Job answered and said,
 
@@ -592,7 +592,7 @@
 
 25. They grope in the dark without light, and he maketh them to stagger like a drunken man.
 
-## Job.13
+## Job 13
 
 1. Lo, mine eye hath seen all this, mine ear hath heard and understood it.
 
@@ -650,7 +650,7 @@
 
 28. And he, as a rotten thing, consumeth, as a garment that is moth eaten.
 
-## Job.14
+## Job 14
 
 1. Man that is born of a woman is of few days, and full of trouble.
 
@@ -696,7 +696,7 @@
 
 22. But his flesh upon him shall have pain, and his soul within him shall mourn.
 
-## Job.15
+## Job 15
 
 1. Then answered Eliphaz the Temanite, and said,
 
@@ -768,7 +768,7 @@
 
 35. They conceive mischief, and bring forth vanity, and their belly prepareth deceit.
 
-## Job.16
+## Job 16
 
 1. Then Job answered and said,
 
@@ -814,7 +814,7 @@
 
 22. When a few years are come, then I shall go the way whence I shall not return.
 
-## Job.17
+## Job 17
 
 1. My breath is corrupt, my days are extinct, the graves are ready for me.
 
@@ -848,7 +848,7 @@
 
 16. They shall go down to the bars of the pit, when our rest together is in the dust.
 
-## Job.18
+## Job 18
 
 1. Then answered Bildad the Shuhite, and said,
 
@@ -892,7 +892,7 @@
 
 21. Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God.
 
-## Job.19
+## Job 19
 
 1. Then Job answered and said,
 
@@ -952,7 +952,7 @@
 
 29. Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment.
 
-## Job.20
+## Job 20
 
 1. Then answered Zophar the Naamathite, and said,
 
@@ -1012,7 +1012,7 @@
 
 29. This is the portion of a wicked man from God, and the heritage appointed unto him by God.
 
-## Job.21
+## Job 21
 
 1. But Job answered and said,
 
@@ -1082,7 +1082,7 @@
 
 34. How then comfort ye me in vain, seeing in your answers there remaineth falsehood?
 
-## Job.22
+## Job 22
 
 1. Then Eliphaz the Temanite answered and said,
 
@@ -1144,7 +1144,7 @@
 
 30. He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.
 
-## Job.23
+## Job 23
 
 1. Then Job answered and said,
 
@@ -1180,7 +1180,7 @@
 
 17. Because I was not cut off before the darkness, neither hath he covered the darkness from my face.
 
-## Job.24
+## Job 24
 
 1. Why, seeing times are not hidden from the Almighty, do they that know him not see his days?
 
@@ -1232,7 +1232,7 @@
 
 25. And if it be not so now, who will make me a liar, and make my speech nothing worth?
 
-## Job.25
+## Job 25
 
 1. Then answered Bildad the Shuhite, and said,
 
@@ -1246,7 +1246,7 @@
 
 6. How much less man, that is a worm? and the son of man, which is a worm?
 
-## Job.26
+## Job 26
 
 1. But Job answered and said,
 
@@ -1276,7 +1276,7 @@
 
 14. Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?
 
-## Job.27
+## Job 27
 
 1. Moreover Job continued his parable, and said,
 
@@ -1324,7 +1324,7 @@
 
 23. Men shall clap their hands at him, and shall hiss him out of his place.
 
-## Job.28
+## Job 28
 
 1. Surely there is a vein for the silver, and a place for gold where they fine it.
 
@@ -1382,7 +1382,7 @@
 
 28. And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding.
 
-## Job.29
+## Job 29
 
 1. Moreover Job continued his parable, and said,
 
@@ -1434,7 +1434,7 @@
 
 25. I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners.
 
-## Job.30
+## Job 30
 
 1. But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
 
@@ -1498,7 +1498,7 @@
 
 31. My harp also is turned to mourning, and my organ into the voice of them that weep.
 
-## Job.31
+## Job 31
 
 1. I made a covenant with mine eyes; why then should I think upon a maid?
 
@@ -1580,7 +1580,7 @@
 
 40. Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.
 
-## Job.32
+## Job 32
 
 1. So these three men ceased to answer Job, because he was righteous in his own eyes.
 
@@ -1626,7 +1626,7 @@
 
 22. For I know not to give flattering titles; in so doing my maker would soon take me away.
 
-## Job.33
+## Job 33
 
 1. Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.
 
@@ -1694,7 +1694,7 @@
 
 33. If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.
 
-## Job.34
+## Job 34
 
 1. Furthermore Elihu answered and said,
 
@@ -1770,7 +1770,7 @@
 
 37. For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God.
 
-## Job.35
+## Job 35
 
 1. Elihu spake moreover, and said,
 
@@ -1804,7 +1804,7 @@
 
 16. Therefore doth Job open his mouth in vain; he multiplieth words without knowledge.
 
-## Job.36
+## Job 36
 
 1. Elihu also proceeded, and said,
 
@@ -1872,7 +1872,7 @@
 
 33. The noise thereof sheweth concerning it, the cattle also concerning the vapour.
 
-## Job.37
+## Job 37
 
 1. At this also my heart trembleth, and is moved out of his place.
 
@@ -1922,7 +1922,7 @@
 
 24. Men do therefore fear him: he respecteth not any that are wise of heart.
 
-## Job.38
+## Job 38
 
 1. Then the LORD answered Job out of the whirlwind, and said,
 
@@ -2006,7 +2006,7 @@
 
 41. Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.
 
-## Job.39
+## Job 39
 
 1. Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?
 
@@ -2068,7 +2068,7 @@
 
 30. Her young ones also suck up blood: and where the slain are, there is she.
 
-## Job.40
+## Job 40
 
 1. Moreover the LORD answered Job, and said,
 
@@ -2118,7 +2118,7 @@
 
 24. He taketh it with his eyes: his nose pierceth through snares.
 
-## Job.41
+## Job 41
 
 1. Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?
 
@@ -2188,7 +2188,7 @@
 
 34. He beholdeth all high things: he is a king over all the children of pride.
 
-## Job.42
+## Job 42
 
 1. Then Job answered the LORD, and said,
 

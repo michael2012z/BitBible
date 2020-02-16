@@ -1,6 +1,6 @@
 # Matt
 
-## Matt.1
+## Matthew 1
 
 __The Genealogy of Jesus__
 
@@ -56,7 +56,7 @@ __The Birth of Jesus Christ__
 
 25. But he had no union with her until she gave birth to a son. And he gave him the name Jesus.
 
-## Matt.2
+## Matthew 2
 
 __The Visit of the Magi__
 
@@ -110,7 +110,7 @@ __The Return to Nazareth__
 
 23. and he went and lived in a town called Nazareth. So was fulfilled what was said through the prophets: "He will be called a Nazarene."
 
-## Matt.3
+## Matthew 3
 
 __John the Baptist Prepares the Way__
 
@@ -150,7 +150,7 @@ __The Baptism of Jesus__
 
 17. And a voice from heaven said, "This is my Son, whom I love; with him I am well pleased."
 
-## Matt.4
+## Matthew 4
 
 __The Temptation of Jesus__
 
@@ -210,7 +210,7 @@ __Jesus Heals the Sick__
 
 25. Large crowds from Galilee, the Decapolis, Jerusalem, Judea and the region across the Jordan followed him.
 
-## Matt.5
+## Matthew 5
 
 __The Beatitudes__
 
@@ -326,7 +326,7 @@ __Love for Enemies__
 
 48. Be perfect, therefore, as your heavenly Father is perfect.
 
-## Matt.6
+## Matthew 6
 
 __Giving to the Needy__
 
@@ -406,7 +406,7 @@ __Do Not Worry__
 
 34. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
 
-## Matt.7
+## Matthew 7
 
 __Judging Others__
 
@@ -476,7 +476,7 @@ __The Wise and Foolish Builders__
 
 29. because he taught as one who had authority, and not as their teachers of the law.
 
-## Matt.8
+## Matthew 8
 
 __The Man With Leprosy__
 
@@ -558,7 +558,7 @@ __The Healing of Two Demon-possessed Men__
 
 34. Then the whole town went out to meet Jesus. And when they saw him, they pleaded with him to leave their region.
 
-## Matt.9
+## Matthew 9
 
 __Jesus Heals a Paralytic__
 
@@ -648,7 +648,7 @@ __The Workers Are Few__
 
 38. Ask the Lord of the harvest, therefore, to send out workers into his harvest field."
 
-## Matt.10
+## Matthew 10
 
 __Jesus Sends Out the Twelve__
 
@@ -736,7 +736,7 @@ __Jesus Sends Out the Twelve__
 
 42. And if anyone gives even a cup of cold water to one of these little ones because he is my disciple, I tell you the truth, he will certainly not lose his reward."
 
-## Matt.11
+## Matthew 11
 
 __Jesus and John the Baptist__
 
@@ -804,7 +804,7 @@ __Rest for the Weary__
 
 30. For my yoke is easy and my burden is light."
 
-## Matt.12
+## Matthew 12
 
 __Lord of the Sabbath__
 
@@ -916,7 +916,7 @@ __Jesus' Mother and Brothers__
 
 50. For whoever does the will of my Father in heaven is my brother and sister and mother."
 
-## Matt.13
+## Matthew 13
 
 __The Parable of the Sower__
 
@@ -1048,7 +1048,7 @@ __A Prophet Without Honor__
 
 58. And he did not do many miracles there because of their lack of faith.
 
-## Matt.14
+## Matthew 14
 
 __John the Baptist Beheaded__
 
@@ -1128,7 +1128,7 @@ __Jesus Walks on the Water__
 
 36. and begged him to let the sick just touch the edge of his cloak, and all who touched him were healed.
 
-## Matt.15
+## Matthew 15
 
 __Clean and Unclean__
 
@@ -1214,7 +1214,7 @@ __Jesus Feeds the Four Thousand__
 
 39. After Jesus had sent the crowd away, he got into the boat and went to the vicinity of Magadan.
 
-## Matt.16
+## Matthew 16
 
 __The Demand for a Sign__
 
@@ -1280,7 +1280,7 @@ __Jesus Predicts His Death__
 
 28. I tell you the truth, some who are standing here will not taste death before they see the Son of Man coming in his kingdom."
 
-## Matt.17
+## Matthew 17
 
 __The Transfiguration__
 
@@ -1340,7 +1340,7 @@ __The Temple Tax__
 
 27. "But so that we may not offend them, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours."
 
-## Matt.18
+## Matthew 18
 
 __The Greatest in the Kingdom of Heaven__
 
@@ -1418,7 +1418,7 @@ __The Parable of the Unmerciful Servant__
 
 35. "This is how my heavenly Father will treat each of you unless you forgive your brother from your heart."
 
-## Matt.19
+## Matthew 19
 
 __Divorce__
 
@@ -1486,7 +1486,7 @@ __The Rich Young Man__
 
 30. But many who are first will be last, and many who are last will be first.
 
-## Matt.20
+## Matthew 20
 
 __The Parable of the Workers in the Vineyard__
 
@@ -1564,7 +1564,7 @@ __Two Blind Men Receive Sight__
 
 34. Jesus had compassion on them and touched their eyes. Immediately they received their sight and followed him.
 
-## Matt.21
+## Matthew 21
 
 __The Triumphal Entry__
 
@@ -1670,7 +1670,7 @@ __The Parable of the Tenants__
 
 46. They looked for a way to arrest him, but they were afraid of the crowd because the people held that he was a prophet.
 
-## Matt.22
+## Matthew 22
 
 __The Parable of the Wedding Banquet__
 
@@ -1774,7 +1774,7 @@ __Whose Son Is the Christ?__
 
 46. No one could say a word in reply, and from that day on no one dared to ask him any more questions.
 
-## Matt.23
+## Matthew 23
 
 __Seven Woes__
 
@@ -1854,7 +1854,7 @@ __Seven Woes__
 
 39. For I tell you, you will not see me again until you say, `Blessed is he who comes in the name of the Lord.' "
 
-## Matt.24
+## Matthew 24
 
 __Signs of the End of the Age__
 
@@ -1962,7 +1962,7 @@ __The Day and Hour Unknown__
 
 51. He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
 
-## Matt.25
+## Matthew 25
 
 __The Parable of the Ten Virgins__
 
@@ -2062,7 +2062,7 @@ __The Sheep and the Goats__
 
 46. "Then they will go away to eternal punishment, but the righteous to eternal life."
 
-## Matt.26
+## Matthew 26
 
 __The Plot Against Jesus__
 
@@ -2232,7 +2232,7 @@ __Peter Disowns Jesus__
 
 75. Then Peter remembered the word Jesus had spoken: "Before the rooster crows, you will disown me three times." And he went outside and wept bitterly.
 
-## Matt.27
+## Matthew 27
 
 __Judas Hangs Himself__
 
@@ -2380,7 +2380,7 @@ __The Guard at the Tomb__
 
 66. So they went and made the tomb secure by putting a seal on the stone and posting the guard.
 
-## Matt.28
+## Matthew 28
 
 __The Resurrection__
 

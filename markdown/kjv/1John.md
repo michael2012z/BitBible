@@ -1,6 +1,6 @@
 # 1John
 
-## 1John.1
+## 1 John 1
 
 1. That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
 
@@ -22,7 +22,7 @@
 
 10. If we say that we have not sinned, we make him a liar, and his word is not in us.
 
-## 1John.2
+## 1 John 2
 
 1. My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
 
@@ -82,7 +82,7 @@
 
 29. If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.
 
-## 1John.3
+## 1 John 3
 
 1. Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
 
@@ -132,7 +132,7 @@
 
 24. And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.
 
-## 1John.4
+## 1 John 4
 
 1. Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 
@@ -176,7 +176,7 @@
 
 21. And this commandment have we from him, That he who loveth God love his brother also.
 
-## 1John.5
+## 1 John 5
 
 1. Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.
 

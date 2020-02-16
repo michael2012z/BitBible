@@ -1,6 +1,6 @@
 # Lev
 
-## Lev.1
+## Leviticus 1
 
 __The Burnt Offering__
 
@@ -38,7 +38,7 @@ __The Burnt Offering__
 
 17. He shall tear it open by the wings, not severing it completely, and then the priest shall burn it on the wood that is on the fire on the altar. It is a burnt offering, an offering made by fire, an aroma pleasing to the LORD.
 
-## Lev.2
+## Leviticus 2
 
 __The Grain Offering__
 
@@ -74,7 +74,7 @@ __The Grain Offering__
 
 16. The priest shall burn the memorial portion of the crushed grain and the oil, together with all the incense, as an offering made to the LORD by fire.
 
-## Lev.3
+## Leviticus 3
 
 __The Fellowship Offering__
 
@@ -112,7 +112,7 @@ __The Fellowship Offering__
 
 17. "`This is a lasting ordinance for the generations to come, wherever you live: You must not eat any fat or any blood.'"
 
-## Lev.4
+## Leviticus 4
 
 __The Sin Offering__
 
@@ -186,7 +186,7 @@ __The Sin Offering__
 
 35. He shall remove all the fat, just as the fat is removed from the lamb of the fellowship offering, and the priest shall burn it on the altar on top of the offerings made to the LORD by fire. In this way the priest will make atonement for him for the sin he has committed, and he will be forgiven.
 
-## Lev.5
+## Leviticus 5
 
 1. "`If a person sins because he does not speak up when he hears a public charge to testify regarding something he has seen or learned about, he will be held responsible.
 
@@ -228,7 +228,7 @@ __The Guilt Offering__
 
 19. It is a guilt offering; he has been guilty of wrongdoing against the LORD."
 
-## Lev.6
+## Leviticus 6
 
 1. The LORD said to Moses:
 
@@ -296,7 +296,7 @@ __The Sin Offering__
 
 30. But any sin offering whose blood is brought into the Tent of Meeting to make atonement in the Holy Place must not be eaten; it must be burned.
 
-## Lev.7
+## Leviticus 7
 
 __The Guilt Offering__
 
@@ -382,7 +382,7 @@ __The Priests' Share__
 
 38. which the LORD gave Moses on Mount Sinai on the day he commanded the Israelites to bring their offerings to the LORD, in the Desert of Sinai.
 
-## Lev.8
+## Leviticus 8
 
 __The Ordination of Aaron and His Sons__
 
@@ -458,7 +458,7 @@ __The Ordination of Aaron and His Sons__
 
 36. So Aaron and his sons did everything the LORD commanded through Moses.
 
-## Lev.9
+## Leviticus 9
 
 __The Priests Begin Their Ministry__
 
@@ -510,7 +510,7 @@ __The Priests Begin Their Ministry__
 
 24. Fire came out from the presence of the LORD and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they shouted for joy and fell facedown.
 
-## Lev.10
+## Leviticus 10
 
 __The Death of Nadab and Abihu__
 
@@ -554,7 +554,7 @@ __The Death of Nadab and Abihu__
 
 20. When Moses heard this, he was satisfied.
 
-## Lev.11
+## Leviticus 11
 
 __Clean and Unclean Food__
 
@@ -652,7 +652,7 @@ __Clean and Unclean Food__
 
 47. You must distinguish between the unclean and the clean, between living creatures that may be eaten and those that may not be eaten.'"
 
-## Lev.12
+## Leviticus 12
 
 __Purification After Childbirth__
 
@@ -672,7 +672,7 @@ __Purification After Childbirth__
 
 8. If she cannot afford a lamb, she is to bring two doves or two young pigeons, one for a burnt offering and the other for a sin offering. In this way the priest will make atonement for her, and she will be clean.'"
 
-## Lev.13
+## Leviticus 13
 
 __Regulations About Infectious Skin Diseases__
 
@@ -796,7 +796,7 @@ __Regulations About Mildew__
 
 59. These are the regulations concerning contamination by mildew in woolen or linen clothing, woven or knitted material, or any leather article, for pronouncing them clean or unclean.
 
-## Lev.14
+## Leviticus 14
 
 __Cleansing From Infectious Skin Diseases__
 
@@ -916,7 +916,7 @@ __Cleansing From Mildew__
 
 57. to determine when something is clean or unclean. These are the regulations for infectious skin diseases and mildew.
 
-## Lev.15
+## Leviticus 15
 
 __Discharges Causing Uncleanness__
 
@@ -986,7 +986,7 @@ __Discharges Causing Uncleanness__
 
 33. for a woman in her monthly period, for a man or a woman with a discharge, and for a man who lies with a woman who is ceremonially unclean.
 
-## Lev.16
+## Leviticus 16
 
 __The Day of Atonement__
 
@@ -1058,7 +1058,7 @@ __The Day of Atonement__
 
 34. "This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites." And it was done, as the LORD commanded Moses.
 
-## Lev.17
+## Leviticus 17
 
 __Eating Blood Forbidden__
 
@@ -1094,7 +1094,7 @@ __Eating Blood Forbidden__
 
 16. But if he does not wash his clothes and bathe himself, he will be held responsible.'"
 
-## Lev.18
+## Leviticus 18
 
 __Unlawful Sexual Relations__
 
@@ -1158,7 +1158,7 @@ __Unlawful Sexual Relations__
 
 30. Keep my requirements and do not follow any of the detestable customs that were practiced before you came and do not defile yourselves with them. I am the LORD your God.'"
 
-## Lev.19
+## Leviticus 19
 
 __Various Laws__
 
@@ -1236,7 +1236,7 @@ __Various Laws__
 
 37. "`Keep all my decrees and all my laws and follow them. I am the LORD.'"
 
-## Lev.20
+## Leviticus 20
 
 __Punishments for Sin__
 
@@ -1294,7 +1294,7 @@ __Punishments for Sin__
 
 27. "`A man or woman who is a medium or spiritist among you must be put to death. You are to stone them; their blood will be on their own heads.'"
 
-## Lev.21
+## Leviticus 21
 
 __Rules for Priests__
 
@@ -1346,7 +1346,7 @@ __Rules for Priests__
 
 24. So Moses told this to Aaron and his sons and to all the Israelites.
 
-## Lev.22
+## Leviticus 22
 
 1. The LORD said to Moses,
 
@@ -1416,7 +1416,7 @@ __Unacceptable Sacrifices__
 
 33. and who brought you out of Egypt to be your God. I am the LORD."
 
-## Lev.23
+## Leviticus 23
 
 1. The LORD said to Moses,
 
@@ -1520,7 +1520,7 @@ __Feast of Tabernacles__
 
 44. So Moses announced to the Israelites the appointed feasts of the LORD.
 
-## Lev.24
+## Leviticus 24
 
 __Oil and Bread Set Before the LORD__
 
@@ -1572,7 +1572,7 @@ __A Blasphemer Stoned__
 
 23. Then Moses spoke to the Israelites, and they took the blasphemer outside the camp and stoned him. The Israelites did as the LORD commanded Moses.
 
-## Lev.25
+## Leviticus 25
 
 __The Sabbatical Year__
 
@@ -1688,7 +1688,7 @@ __The Year of Jubilee__
 
 55. for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am the LORD your God.
 
-## Lev.26
+## Leviticus 26
 
 __Reward for Obedience__
 
@@ -1786,7 +1786,7 @@ __Punishment for Disobedience__
 
 46. These are the decrees, the laws and the regulations that the LORD established on Mount Sinai between himself and the Israelites through Moses.
 
-## Lev.27
+## Leviticus 27
 
 __Redeeming What Is the LORD'S__
 

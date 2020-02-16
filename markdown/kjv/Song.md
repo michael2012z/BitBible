@@ -1,6 +1,6 @@
 # Song
 
-## Song.1
+## Song of Songs 1
 
 1. The song of songs, which is Solomon's.
 
@@ -36,7 +36,7 @@
 
 17. The beams of our house are cedar, and our rafters of fir.
 
-## Song.2
+## Song of Songs 2
 
 1. I am the rose of Sharon, and the lily of the valleys.
 
@@ -72,7 +72,7 @@
 
 17. Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.
 
-## Song.3
+## Song of Songs 3
 
 1. By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.
 
@@ -96,7 +96,7 @@
 
 11. Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
 
-## Song.4
+## Song of Songs 4
 
 1. Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.
 
@@ -130,7 +130,7 @@
 
 16. Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.
 
-## Song.5
+## Song of Songs 5
 
 1. I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.
 
@@ -164,7 +164,7 @@
 
 16. His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.
 
-## Song.6
+## Song of Songs 6
 
 1. Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.
 
@@ -192,7 +192,7 @@
 
 13. Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.
 
-## Song.7
+## Song of Songs 7
 
 1. How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.
 
@@ -220,7 +220,7 @@
 
 13. The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.
 
-## Song.8
+## Song of Songs 8
 
 1. O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised.
 

@@ -1,6 +1,6 @@
 # Isa
 
-## Isa.1
+## Isaiah 1
 
 1. The vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah.
 
@@ -66,7 +66,7 @@ __A Rebellious Nation__
 
 31. The mighty man will become tinder and his work a spark; both will burn together, with no one to quench the fire."
 
-## Isa.2
+## Isaiah 2
 
 __The Mountain of the LORD__
 
@@ -116,7 +116,7 @@ __The Day of the LORD__
 
 22. Stop trusting in man, who has but a breath in his nostrils. Of what account is he?
 
-## Isa.3
+## Isaiah 3
 
 __Judgment on Jerusalem and Judah__
 
@@ -172,7 +172,7 @@ __Judgment on Jerusalem and Judah__
 
 26. The gates of Zion will lament and mourn; destitute, she will sit on the ground.
 
-## Isa.4
+## Isaiah 4
 
 1. In that day seven women will take hold of one man and say, "We will eat our own food and provide our own clothes; only let us be called by your name. Take away our disgrace!"
 
@@ -188,7 +188,7 @@ __The Branch of the LORD__
 
 6. It will be a shelter and shade from the heat of the day, and a refuge and hiding place from the storm and rain.
 
-## Isa.5
+## Isaiah 5
 
 __The Song of the Vineyard__
 
@@ -254,7 +254,7 @@ __Woes and Judgments__
 
 30. In that day they will roar over it like the roaring of the sea. And if one looks at the land, he will see darkness and distress; even the light will be darkened by the clouds.
 
-## Isa.6
+## Isaiah 6
 
 __Isaiah's Commission__
 
@@ -284,7 +284,7 @@ __Isaiah's Commission__
 
 13. And though a tenth remains in the land, it will again be laid waste. But as the terebinth and oak leave stumps when they are cut down, so the holy seed will be the stump in the land."
 
-## Isa.7
+## Isaiah 7
 
 __The Sign of Immanuel__
 
@@ -338,7 +338,7 @@ __The Sign of Immanuel__
 
 25. As for all the hills once cultivated by the hoe, you will no longer go there for fear of the briers and thorns; they will become places where cattle are turned loose and where sheep run.
 
-## Isa.8
+## Isaiah 8
 
 __Assyria, the LORD'S Instrument__
 
@@ -388,7 +388,7 @@ __Fear God__
 
 22. Then they will look toward the earth and see only distress and darkness and fearful gloom, and they will be thrust into utter darkness.
 
-## Isa.9
+## Isaiah 9
 
 __To Us a Child Is Born__
 
@@ -436,7 +436,7 @@ __The LORD'S Anger Against Israel__
 
 21. Manasseh will feed on Ephraim, and Ephraim on Manasseh; together they will turn against Judah. Yet for all this, his anger is not turned away, his hand is still upraised.
 
-## Isa.10
+## Isaiah 10
 
 1. Woe to those who make unjust laws, to those who issue oppressive decrees,
 
@@ -510,7 +510,7 @@ __The Remnant of Israel__
 
 34. He will cut down the forest thickets with an ax; Lebanon will fall before the Mighty One.
 
-## Isa.11
+## Isaiah 11
 
 __The Branch From Jesse__
 
@@ -546,7 +546,7 @@ __The Branch From Jesse__
 
 16. There will be a highway for the remnant of his people that is left from Assyria, as there was for Israel when they came up from Egypt.
 
-## Isa.12
+## Isaiah 12
 
 __Songs of Praise__
 
@@ -562,7 +562,7 @@ __Songs of Praise__
 
 6. Shout aloud and sing for joy, people of Zion, for great is the Holy One of Israel among you."
 
-## Isa.13
+## Isaiah 13
 
 __A Prophecy Against Babylon__
 
@@ -610,7 +610,7 @@ __A Prophecy Against Babylon__
 
 22. Hyenas will howl in her strongholds, jackals in her luxurious palaces. Her time is at hand, and her days will not be prolonged.
 
-## Isa.14
+## Isaiah 14
 
 1. The LORD will have compassion on Jacob; once again he will choose Israel and will settle them in their own land. Aliens will join them and unite with the house of Jacob.
 
@@ -680,7 +680,7 @@ __A Prophecy Against the Philistines__
 
 32. What answer shall be given to the envoys of that nation? "The LORD has established Zion, and in her his afflicted people will find refuge."
 
-## Isa.15
+## Isaiah 15
 
 __A Prophecy Against Moab__
 
@@ -702,7 +702,7 @@ __A Prophecy Against Moab__
 
 9. Dimon's waters are full of blood, but I will bring still more upon Dimon - a lion upon the fugitives of Moab and upon those who remain in the land.
 
-## Isa.16
+## Isaiah 16
 
 1. Send lambs as tribute to the ruler of the land, from Sela, across the desert, to the mount of the Daughter of Zion.
 
@@ -732,7 +732,7 @@ __A Prophecy Against Moab__
 
 14. But now the LORD says: "Within three years, as a servant bound by contract would count them, Moab's splendor and all her many people will be despised, and her survivors will be very few and feeble."
 
-## Isa.17
+## Isaiah 17
 
 __An Oracle Against Damascus__
 
@@ -764,7 +764,7 @@ __An Oracle Against Damascus__
 
 14. In the evening, sudden terror! Before the morning, they are gone! This is the portion of those who loot us, the lot of those who plunder us.
 
-## Isa.18
+## Isaiah 18
 
 __A Prophecy Against Cush__
 
@@ -782,7 +782,7 @@ __A Prophecy Against Cush__
 
 7. At that time gifts will be brought to the LORD Almighty from a people tall and smooth-skinned, from a people feared far and wide, an aggressive nation of strange speech, whose land is divided by rivers - the gifts will be brought to Mount Zion, the place of the Name of the LORD Almighty.
 
-## Isa.19
+## Isaiah 19
 
 __A Prophecy About Egypt__
 
@@ -836,7 +836,7 @@ __A Prophecy About Egypt__
 
 25. The LORD Almighty will bless them, saying, "Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance."
 
-## Isa.20
+## Isaiah 20
 
 __A Prophecy Against Egypt and Cush__
 
@@ -852,7 +852,7 @@ __A Prophecy Against Egypt and Cush__
 
 6. In that day the people who live on this coast will say, `See what has happened to those we relied on, those we fled to for help and deliverance from the king of Assyria! How then can we escape?'"
 
-## Isa.21
+## Isaiah 21
 
 __A Prophecy Against Babylon__
 
@@ -894,7 +894,7 @@ __A Prophecy Against Arabia__
 
 17. The survivors of the bowmen, the warriors of Kedar, will be few." The LORD, the God of Israel, has spoken.
 
-## Isa.22
+## Isaiah 22
 
 __A Prophecy About Jerusalem__
 
@@ -948,7 +948,7 @@ __A Prophecy About Jerusalem__
 
 25. "In that day," declares the LORD Almighty, "the peg driven into the firm place will give way; it will be sheared off and will fall, and the load hanging on it will be cut down." The LORD has spoken.
 
-## Isa.23
+## Isaiah 23
 
 __A Prophecy About Tyre__
 
@@ -988,7 +988,7 @@ __A Prophecy About Tyre__
 
 18. Yet her profit and her earnings will be set apart for the LORD; they will not be stored up or hoarded. Her profits will go to those who live before the LORD, for abundant food and fine clothes.
 
-## Isa.24
+## Isaiah 24
 
 __The LORD'S Devastation of the Earth__
 
@@ -1038,7 +1038,7 @@ __The LORD'S Devastation of the Earth__
 
 23. The moon will be abashed, the sun ashamed; for the LORD Almighty will reign on Mount Zion and in Jerusalem, and before its elders, gloriously.
 
-## Isa.25
+## Isaiah 25
 
 __Praise to the LORD__
 
@@ -1066,7 +1066,7 @@ __Praise to the LORD__
 
 12. He will bring down your high fortified walls and lay them low; he will bring them down to the ground, to the very dust.
 
-## Isa.26
+## Isaiah 26
 
 __A Song of Praise__
 
@@ -1112,7 +1112,7 @@ __A Song of Praise__
 
 21. See, the LORD is coming out of his dwelling to punish the people of the earth for their sins. The earth will disclose the blood shed upon her; she will conceal her slain no longer.
 
-## Isa.27
+## Isaiah 27
 
 __Deliverance of Israel__
 
@@ -1142,7 +1142,7 @@ __Deliverance of Israel__
 
 13. And in that day a great trumpet will sound. Those who were perishing in Assyria and those who were exiled in Egypt will come and worship the LORD on the holy mountain in Jerusalem.
 
-## Isa.28
+## Isaiah 28
 
 __Woe to Ephraim__
 
@@ -1204,7 +1204,7 @@ __Woe to Ephraim__
 
 29. All this also comes from the LORD Almighty, wonderful in counsel and magnificent in wisdom.
 
-## Isa.29
+## Isaiah 29
 
 __Woe to David's City__
 
@@ -1256,7 +1256,7 @@ __Woe to David's City__
 
 24. Those who are wayward in spirit will gain understanding; those who complain will accept instruction."
 
-## Isa.30
+## Isaiah 30
 
 __Woe to the Obstinate Nation__
 
@@ -1326,7 +1326,7 @@ __Woe to the Obstinate Nation__
 
 33. Topheth has long been prepared; it has been made ready for the king. Its fire pit has been made deep and wide, with an abundance of fire and wood; the breath of the LORD, like a stream of burning sulfur, sets it ablaze.
 
-## Isa.31
+## Isaiah 31
 
 __Woe to Those Who Rely on Egypt__
 
@@ -1348,7 +1348,7 @@ __Woe to Those Who Rely on Egypt__
 
 9. Their stronghold will fall because of terror; at sight of the battle standard their commanders will panic," declares the LORD, whose fire is in Zion, whose furnace is in Jerusalem.
 
-## Isa.32
+## Isaiah 32
 
 __The Kingdom of Righteousness__
 
@@ -1394,7 +1394,7 @@ __The Women of Jerusalem__
 
 20. how blessed you will be, sowing your seed by every stream, and letting your cattle and donkeys range free.
 
-## Isa.33
+## Isaiah 33
 
 __Distress and Help__
 
@@ -1446,7 +1446,7 @@ __Distress and Help__
 
 24. No one living in Zion will say, "I am ill"; and the sins of those who dwell there will be forgiven.
 
-## Isa.34
+## Isaiah 34
 
 __Judgment Against the Nations__
 
@@ -1484,7 +1484,7 @@ __Judgment Against the Nations__
 
 17. He allots their portions; his hand distributes them by measure. They will possess it forever and dwell there from generation to generation.
 
-## Isa.35
+## Isaiah 35
 
 __Joy of the Redeemed__
 
@@ -1508,7 +1508,7 @@ __Joy of the Redeemed__
 
 10. and the ransomed of the LORD will return. They will enter Zion with singing; everlasting joy will crown their heads. Gladness and joy will overtake them, and sorrow and sighing will flee away.
 
-## Isa.36
+## Isaiah 36
 
 __Sennacherib Threatens Jerusalem__
 
@@ -1556,7 +1556,7 @@ __Sennacherib Threatens Jerusalem__
 
 22. Then Eliakim son of Hilkiah the palace administrator, Shebna the secretary, and Joah son of Asaph the recorder went to Hezekiah, with their clothes torn, and told him what the field commander had said.
 
-## Isa.37
+## Isaiah 37
 
 __Jerusalem's Deliverance Foretold__
 
@@ -1640,7 +1640,7 @@ __Sennacherib's Fall__
 
 38. One day, while he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer cut him down with the sword, and they escaped to the land of Ararat. And Esarhaddon his son succeeded him as king.
 
-## Isa.38
+## Isaiah 38
 
 __Hezekiah's Illness__
 
@@ -1688,7 +1688,7 @@ __Hezekiah's Illness__
 
 22. Hezekiah had asked, "What will be the sign that I will go up to the temple of the LORD?"
 
-## Isa.39
+## Isaiah 39
 
 __Envoys From Babylon__
 
@@ -1708,7 +1708,7 @@ __Envoys From Babylon__
 
 8. "The word of the LORD you have spoken is good," Hezekiah replied. For he thought, "There will be peace and security in my lifetime."
 
-## Isa.40
+## Isaiah 40
 
 __Comfort for God's People__
 
@@ -1774,7 +1774,7 @@ __Comfort for God's People__
 
 31. but those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.
 
-## Isa.41
+## Isaiah 41
 
 __The Helper of Israel__
 
@@ -1836,7 +1836,7 @@ __The Helper of Israel__
 
 29. See, they are all false! Their deeds amount to nothing; their images are but wind and confusion.
 
-## Isa.42
+## Isaiah 42
 
 __The Servant of the LORD__
 
@@ -1894,7 +1894,7 @@ __Israel Blind and Deaf__
 
 25. So he poured out on them his burning anger, the violence of war. It enveloped them in flames, yet they did not understand; it consumed them, but they did not take it to heart.
 
-## Isa.43
+## Isaiah 43
 
 __Israel's Only Savior__
 
@@ -1956,7 +1956,7 @@ __God's Mercy and Israel's Unfaithfulness__
 
 28. So I will disgrace the dignitaries of your temple, and I will consign Jacob to destruction and Israel to scorn.
 
-## Isa.44
+## Isaiah 44
 
 __Israel the Chosen__
 
@@ -2020,7 +2020,7 @@ __Jerusalem to Be Inhabited__
 
 28. who says of Cyrus, `He is my shepherd and will accomplish all that I please; he will say of Jerusalem, "Let it be rebuilt," and of the temple, "Let its foundations be laid."'
 
-## Isa.45
+## Isaiah 45
 
 1. "This is what the LORD says to his anointed, to Cyrus, whose right hand I take hold of to subdue nations before him and to strip kings of their armor, to open doors before him so that gates will not be shut:
 
@@ -2072,7 +2072,7 @@ __Jerusalem to Be Inhabited__
 
 25. But in the LORD all the descendants of Israel will be found righteous and will exult.
 
-## Isa.46
+## Isaiah 46
 
 __Gods of Babylon__
 
@@ -2102,7 +2102,7 @@ __Gods of Babylon__
 
 13. I am bringing my righteousness near, it is not far away; and my salvation will not be delayed. I will grant salvation to Zion, my splendor to Israel.
 
-## Isa.47
+## Isaiah 47
 
 __The Fall of Babylon__
 
@@ -2136,7 +2136,7 @@ __The Fall of Babylon__
 
 15. That is all they can do for you - these you have labored with and trafficked with since childhood. Each of them goes on in his error; there is not one that can save you.
 
-## Isa.48
+## Isaiah 48
 
 __Stubborn Israel__
 
@@ -2186,7 +2186,7 @@ __Israel Freed__
 
 22. "There is no peace," says the LORD, "for the wicked."
 
-## Isa.49
+## Isaiah 49
 
 __The Servant of the LORD__
 
@@ -2244,7 +2244,7 @@ __Restoration of Israel__
 
 26. I will make your oppressors eat their own flesh; they will be drunk on their own blood, as with wine. Then all mankind will know that I, the LORD, am your Savior, your Redeemer, the Mighty One of Jacob."
 
-## Isa.50
+## Isaiah 50
 
 __Israel's Sin and the Servant's Obedience__
 
@@ -2270,7 +2270,7 @@ __Israel's Sin and the Servant's Obedience__
 
 11. But now, all you who light fires and provide yourselves with flaming torches, go, walk in the light of your fires and of the torches you have set ablaze. This is what you shall receive from my hand: You will lie down in torment.
 
-## Isa.51
+## Isaiah 51
 
 __Everlasting Salvation for Zion__
 
@@ -2322,7 +2322,7 @@ __The Cup of the LORD'S Wrath__
 
 23. I will put it into the hands of your tormentors, who said to you, `Fall prostrate that we may walk over you.' And you made your back like the ground, like a street to be walked over."
 
-## Isa.52
+## Isaiah 52
 
 1. Awake, awake, O Zion, clothe yourself with strength. Put on your garments of splendor, O Jerusalem, the holy city. The uncircumcised and defiled will not enter you again.
 
@@ -2356,7 +2356,7 @@ __The Suffering and Glory of the Servant__
 
 15. so will he sprinkle many nations, and kings will shut their mouths because of him. For what they were not told, they will see, and what they have not heard, they will understand.
 
-## Isa.53
+## Isaiah 53
 
 1. Who has believed our message and to whom has the arm of the LORD been revealed?
 
@@ -2382,7 +2382,7 @@ __The Suffering and Glory of the Servant__
 
 12. Therefore I will give him a portion among the great, and he will divide the spoils with the strong, because he poured out his life unto death, and was numbered with the transgressors. For he bore the sin of many, and made intercession for the transgressors.
 
-## Isa.54
+## Isaiah 54
 
 __The Future Glory of Zion__
 
@@ -2420,7 +2420,7 @@ __The Future Glory of Zion__
 
 17. no weapon forged against you will prevail, and you will refute every tongue that accuses you. This is the heritage of the servants of the LORD, and this is their vindication from me," declares the LORD.
 
-## Isa.55
+## Isaiah 55
 
 __Invitation to the Thirsty__
 
@@ -2450,7 +2450,7 @@ __Invitation to the Thirsty__
 
 13. Instead of the thornbush will grow the pine tree, and instead of briers the myrtle will grow. This will be for the LORD's renown, for an everlasting sign, which will not be destroyed."
 
-## Isa.56
+## Isaiah 56
 
 __Salvation for Others__
 
@@ -2480,7 +2480,7 @@ __God's Accusation Against the Wicked__
 
 12. "Come," each one cries, "let me get wine! Let us drink our fill of beer! And tomorrow will be like today, or even far better."
 
-## Isa.57
+## Isaiah 57
 
 1. The righteous perish, and no one ponders it in his heart; devout men are taken away, and no one understands that the righteous are taken away to be spared from evil.
 
@@ -2526,7 +2526,7 @@ __Comfort for the Contrite__
 
 21. "There is no peace," says my God, "for the wicked."
 
-## Isa.58
+## Isaiah 58
 
 __True Fasting__
 
@@ -2558,7 +2558,7 @@ __True Fasting__
 
 14. then you will find your joy in the LORD, and I will cause you to ride on the heights of the land and to feast on the inheritance of your father Jacob." The mouth of the LORD has spoken.
 
-## Isa.59
+## Isaiah 59
 
 __Sin, Confession and Redemption__
 
@@ -2604,7 +2604,7 @@ __Sin, Confession and Redemption__
 
 21. "As for me, this is my covenant with them," says the LORD. "My Spirit, who is on you, and my words that I have put in your mouth will not depart from your mouth, or from the mouths of your children, or from the mouths of their descendants from this time on and forever," says the LORD.
 
-## Isa.60
+## Isaiah 60
 
 __The Glory of Zion__
 
@@ -2652,7 +2652,7 @@ __The Glory of Zion__
 
 22. The least of you will become a thousand, the smallest a mighty nation. I am the LORD; in its time I will do this swiftly."
 
-## Isa.61
+## Isaiah 61
 
 __The Year of the LORD'S Favor__
 
@@ -2678,7 +2678,7 @@ __The Year of the LORD'S Favor__
 
 11. For as the soil makes the sprout come up and a garden causes seeds to grow, so the Sovereign LORD will make righteousness and praise spring up before all nations.
 
-## Isa.62
+## Isaiah 62
 
 __Zion's New Name__
 
@@ -2706,7 +2706,7 @@ __Zion's New Name__
 
 12. They will be called the Holy People, the Redeemed of the LORD; and you will be called Sought After, the City No Longer Deserted.
 
-## Isa.63
+## Isaiah 63
 
 __God's Day of Vengeance and Redemption__
 
@@ -2750,7 +2750,7 @@ __Praise and Prayer__
 
 19. We are yours from of old; but you have not ruled over them, they have not been called by your name. 
 
-## Isa.64
+## Isaiah 64
 
 1. Oh, that you would rend the heavens and come down, that the mountains would tremble before you!
 
@@ -2776,7 +2776,7 @@ __Praise and Prayer__
 
 12. After all this, O LORD, will you hold yourself back? Will you keep silent and punish us beyond measure?
 
-## Isa.65
+## Isaiah 65
 
 __Judgment and Salvation__
 
@@ -2832,7 +2832,7 @@ __New Heavens and a New Earth__
 
 25. The wolf and the lamb will feed together, and the lion will eat straw like the ox, but dust will be the serpent's food. They will neither harm nor destroy on all my holy mountain," says the LORD.
 
-## Isa.66
+## Isaiah 66
 
 __Judgment and Hope__
 

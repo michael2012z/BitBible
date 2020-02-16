@@ -1,6 +1,6 @@
 # Hos
 
-## Hos.1
+## Hosea 1
 
 1. The word of the LORD that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Jehoash king of Israel:
 
@@ -26,7 +26,7 @@ __Hosea's Wife and Children__
 
 11. The people of Judah and the people of Israel will be reunited, and they will appoint one leader and will come up out of the land, for great will be the day of Jezreel.
 
-## Hos.2
+## Hosea 2
 
 1. "Say of your brothers, `My people,' and of your sisters, `My loved one.'
 
@@ -76,7 +76,7 @@ __Israel Punished and Restored__
 
 23. I will plant her for myself in the land; I will show my love to the one I called `Not my loved one. ' I will say to those called `Not my people, ' `You are my people'; and they will say, `You are my God.'"
 
-## Hos.3
+## Hosea 3
 
 __Hosea's Reconciliation With his Wife__
 
@@ -90,7 +90,7 @@ __Hosea's Reconciliation With his Wife__
 
 5. Afterward the Israelites will return and seek the LORD their God and David their king. They will come trembling to the LORD and to his blessings in the last days.
 
-## Hos.4
+## Hosea 4
 
 __The Charge Against Israel__
 
@@ -132,7 +132,7 @@ __The Charge Against Israel__
 
 19. A whirlwind will sweep them away, and their sacrifices will bring them shame.
 
-## Hos.5
+## Hosea 5
 
 __Judgment Against Israel__
 
@@ -166,7 +166,7 @@ __Judgment Against Israel__
 
 15. Then I will go back to my place until they admit their guilt. And they will seek my face; in their misery they will earnestly seek me."
 
-## Hos.6
+## Hosea 6
 
 __Israel Unrepentant__
 
@@ -192,7 +192,7 @@ __Israel Unrepentant__
 
 11. "Also for you, Judah, a harvest is appointed.
 
-## Hos.7
+## Hosea 7
 
 1. "Whenever I would restore the fortunes of my people, whenever I would heal Israel, the sins of Ephraim are exposed and the crimes of Samaria revealed. They practice deceit, thieves break into houses, bandits rob in the streets;
 
@@ -226,7 +226,7 @@ __Israel Unrepentant__
 
 16. They do not turn to the Most High; they are like a faulty bow. Their leaders will fall by the sword because of their insolent words. For this they will be ridiculed in the land of Egypt.
 
-## Hos.8
+## Hosea 8
 
 __Israel to Reap the Whirlwind__
 
@@ -258,7 +258,7 @@ __Israel to Reap the Whirlwind__
 
 14. Israel has forgotten his Maker and built palaces; Judah has fortified many towns. But I will send fire upon their cities that will consume their fortresses."
 
-## Hos.9
+## Hosea 9
 
 __Punishment for Israel__
 
@@ -296,7 +296,7 @@ __Punishment for Israel__
 
 17. My God will reject them because they have not obeyed him; they will be wanderers among the nations.
 
-## Hos.10
+## Hosea 10
 
 1. Israel was a spreading vine; he brought forth fruit for himself. As his fruit increased, he built more altars; as his land prospered, he adorned his sacred stones.
 
@@ -328,7 +328,7 @@ __Punishment for Israel__
 
 15. Thus will it happen to you, O Bethel, because your wickedness is great. When that day dawns, the king of Israel will be completely destroyed.
 
-## Hos.11
+## Hosea 11
 
 __God's Love for Israel__
 
@@ -358,7 +358,7 @@ __Israel's Sin__
 
 12. Ephraim has surrounded me with lies, the house of Israel with deceit. And Judah is unruly against God, even against the faithful Holy One.
 
-## Hos.12
+## Hosea 12
 
 1. Ephraim feeds on the wind; he pursues the east wind all day and multiplies lies and violence. He makes a treaty with Assyria and sends olive oil to Egypt.
 
@@ -388,7 +388,7 @@ __Israel's Sin__
 
 14. But Ephraim has bitterly provoked him to anger; his Lord will leave upon him the guilt of his bloodshed and will repay him for his contempt.
 
-## Hos.13
+## Hosea 13
 
 __The LORD'S Anger Against Israel__
 
@@ -424,7 +424,7 @@ __The LORD'S Anger Against Israel__
 
 16. The people of Samaria must bear their guilt, because they have rebelled against their God. They will fall by the sword; their little ones will be dashed to the ground, their pregnant women ripped open."
 
-## Hos.14
+## Hosea 14
 
 __Repentance to Bring Blessing__
 

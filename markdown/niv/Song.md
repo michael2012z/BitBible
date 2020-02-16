@@ -1,6 +1,6 @@
 # Song
 
-## Song.1
+## Song of Songs 1
 
 1. Solomon's Song of Songs.
 
@@ -56,7 +56,7 @@ __Lover__
 
 17. The beams of our house are cedars; our rafters are firs.
 
-## Song.2
+## Song of Songs 2
 
 __Beloved__
 
@@ -102,7 +102,7 @@ __Beloved__
 
 17. Until the day breaks and the shadows flee, turn, my lover, and be like a gazelle or like a young stag on the rugged hills. 
 
-## Song.3
+## Song of Songs 3
 
 1. All night long on my bed I looked for the one my heart loves; I looked for him but did not find him.
 
@@ -126,7 +126,7 @@ __Beloved__
 
 11. Come out, you daughters of Zion, and look at King Solomon wearing the crown, the crown with which his mother crowned him on the day of his wedding, the day his heart rejoiced.
 
-## Song.4
+## Song of Songs 4
 
 __Lover__
 
@@ -164,7 +164,7 @@ __Beloved__
 
 16. Awake, north wind, and come, south wind! Blow on my garden, that its fragrance may spread abroad. Let my lover come into his garden and taste its choice fruits.
 
-## Song.5
+## Song of Songs 5
 
 __Lover__
 
@@ -210,7 +210,7 @@ __Beloved__
 
 16. His mouth is sweetness itself; he is altogether lovely. This is my lover, this my friend, O daughters of Jerusalem.
 
-## Song.6
+## Song of Songs 6
 
 __Friends__
 
@@ -250,7 +250,7 @@ __Lover__
 
 13. Why would you gaze on the Shulammite as on the dance of Mahanaim?
 
-## Song.7
+## Song of Songs 7
 
 1. How beautiful your sandaled feet, O prince's daughter! Your graceful legs are like jewels, the work of a craftsman's hands.
 
@@ -282,7 +282,7 @@ __Beloved__
 
 13. The mandrakes send out their fragrance, and at our door is every delicacy, both new and old, that I have stored up for you, my lover.
 
-## Song.8
+## Song of Songs 8
 
 1. If only you were to me like a brother, who was nursed at my mother's breasts! Then, if I found you outside, I would kiss you, and no one would despise me.
 

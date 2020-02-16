@@ -1,6 +1,6 @@
 # Luke
 
-## Luke.1
+## Luke 1
 
 1. Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,
 
@@ -162,7 +162,7 @@
 
 80. And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.
 
-## Luke.2
+## Luke 2
 
 1. And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.
 
@@ -268,7 +268,7 @@
 
 52. And Jesus increased in wisdom and stature, and in favour with God and man.
 
-## Luke.3
+## Luke 3
 
 1. Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 
@@ -346,7 +346,7 @@
 
 38. Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.
 
-## Luke.4
+## Luke 4
 
 1. And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,
 
@@ -436,7 +436,7 @@
 
 44. And he preached in the synagogues of Galilee.
 
-## Luke.5
+## Luke 5
 
 1. And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,
 
@@ -516,7 +516,7 @@
 
 39. No man also having drunk old wine straightway desireth new: for he saith, The old is better.
 
-## Luke.6
+## Luke 6
 
 1. And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.
 
@@ -616,7 +616,7 @@
 
 49. But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
 
-## Luke.7
+## Luke 7
 
 1. Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.
 
@@ -718,7 +718,7 @@
 
 50. And he said to the woman, Thy faith hath saved thee; go in peace.
 
-## Luke.8
+## Luke 8
 
 1. And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,
 
@@ -832,7 +832,7 @@
 
 56. And her parents were astonished: but he charged them that they should tell no man what was done.
 
-## Luke.9
+## Luke 9
 
 1. Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
 
@@ -958,7 +958,7 @@
 
 62. And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
 
-## Luke.10
+## Luke 10
 
 1. After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.
 
@@ -1044,7 +1044,7 @@
 
 42. But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.
 
-## Luke.11
+## Luke 11
 
 1. And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
 
@@ -1154,7 +1154,7 @@
 
 54. Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.
 
-## Luke.12
+## Luke 12
 
 1. In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.
 
@@ -1274,7 +1274,7 @@
 
 59. I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.
 
-## Luke.13
+## Luke 13
 
 1. There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
 
@@ -1346,7 +1346,7 @@
 
 35. Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord.
 
-## Luke.14
+## Luke 14
 
 1. And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.
 
@@ -1418,7 +1418,7 @@
 
 35. It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear.
 
-## Luke.15
+## Luke 15
 
 1. Then drew near unto him all the publicans and sinners for to hear him.
 
@@ -1484,7 +1484,7 @@
 
 32. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
 
-## Luke.16
+## Luke 16
 
 1. And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.
 
@@ -1548,7 +1548,7 @@
 
 31. And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.
 
-## Luke.17
+## Luke 17
 
 1. Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!
 
@@ -1624,7 +1624,7 @@
 
 37. And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together.
 
-## Luke.18
+## Luke 18
 
 1. And he spake a parable unto them to this end, that men ought always to pray, and not to faint;
 
@@ -1712,7 +1712,7 @@
 
 43. And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.
 
-## Luke.19
+## Luke 19
 
 1. And Jesus entered and passed through Jericho.
 
@@ -1810,7 +1810,7 @@
 
 48. And could not find what they might do: for all the people were very attentive to hear him.
 
-## Luke.20
+## Luke 20
 
 1. And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,
 
@@ -1906,7 +1906,7 @@
 
 47. Which devour widows' houses, and for a shew make long prayers: the same shall receive greater damnation.
 
-## Luke.21
+## Luke 21
 
 1. And he looked up, and saw the rich men casting their gifts into the treasury.
 
@@ -1984,7 +1984,7 @@
 
 38. And all the people came early in the morning to him in the temple, for to hear him.
 
-## Luke.22
+## Luke 22
 
 1. Now the feast of unleavened bread drew nigh, which is called the Passover.
 
@@ -2128,7 +2128,7 @@
 
 71. And they said, What need we any further witness? for we ourselves have heard of his own mouth.
 
-## Luke.23
+## Luke 23
 
 1. And the whole multitude of them arose, and led him unto Pilate.
 
@@ -2242,7 +2242,7 @@
 
 56. And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.
 
-## Luke.24
+## Luke 24
 
 1. Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them.
 

@@ -1,6 +1,6 @@
 # Dan
 
-## Dan.1
+## Daniel 1
 
 __Daniel's Training in Babylon__
 
@@ -46,7 +46,7 @@ __Daniel's Training in Babylon__
 
 21. And Daniel remained there until the first year of King Cyrus.
 
-## Dan.2
+## Daniel 2
 
 __Nebuchadnezzar's Dream__
 
@@ -150,7 +150,7 @@ __Daniel Interprets the Dream__
 
 49. Moreover, at Daniel's request the king appointed Shadrach, Meshach and Abednego administrators over the province of Babylon, while Daniel himself remained at the royal court.
 
-## Dan.3
+## Daniel 3
 
 __The Image of Gold and the Fiery Furnace__
 
@@ -214,7 +214,7 @@ __The Image of Gold and the Fiery Furnace__
 
 30. Then the king promoted Shadrach, Meshach and Abednego in the province of Babylon.
 
-## Dan.4
+## Daniel 4
 
 __Nebuchadnezzar's Dream of a Tree__
 
@@ -296,7 +296,7 @@ __The Dream Is Fulfilled__
 
 37. Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, because everything he does is right and all his ways are just. And those who walk in pride he is able to humble.
 
-## Dan.5
+## Daniel 5
 
 __The Writing on the Wall__
 
@@ -356,7 +356,7 @@ __The Writing on the Wall__
 
 31. and Darius the Mede took over the kingdom, at the age of sixty-two.
 
-## Dan.6
+## Daniel 6
 
 __Daniel in the Den of Lions__
 
@@ -416,7 +416,7 @@ __Daniel in the Den of Lions__
 
 28. So Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.
 
-## Dan.7
+## Daniel 7
 
 __Daniel's Dream of Four Beasts__
 
@@ -478,7 +478,7 @@ __The Interpretation of the Dream__
 
 28. "This is the end of the matter. I, Daniel, was deeply troubled by my thoughts, and my face turned pale, but I kept the matter to myself."
 
-## Dan.8
+## Daniel 8
 
 __Daniel's Vision of a Ram and a Goat__
 
@@ -538,7 +538,7 @@ __The Interpretation of the Vision__
 
 27. I, Daniel, was exhausted and lay ill for several days. Then I got up and went about the king's business. I was appalled by the vision; it was beyond understanding.
 
-## Dan.9
+## Daniel 9
 
 __Daniel's Prayer__
 
@@ -598,7 +598,7 @@ __The Seventy "Sevens"__
 
 27. He will confirm a covenant with many for one `seven.' In the middle of the `seven' he will put an end to sacrifice and offering. And on a wing [of the temple] he will set up an abomination that causes desolation, until the end that is decreed is poured out on him. " 
 
-## Dan.10
+## Daniel 10
 
 __Daniel's Vision of a Man__
 
@@ -644,7 +644,7 @@ __Daniel's Vision of a Man__
 
 21. but first I will tell you what is written in the Book of Truth. (No one supports me against them except Michael, your prince.
 
-## Dan.11
+## Daniel 11
 
 1. And in the first year of Darius the Mede, I took my stand to support and protect him.)
 
@@ -740,7 +740,7 @@ __The King Who Exalts Himself__
 
 45. He will pitch his royal tents between the seas at the beautiful holy mountain. Yet he will come to his end, and no one will help him.
 
-## Dan.12
+## Daniel 12
 
 __The End Times__
 

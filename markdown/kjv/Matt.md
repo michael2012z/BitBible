@@ -1,6 +1,6 @@
 # Matt
 
-## Matt.1
+## Matthew 1
 
 1. The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 
@@ -52,7 +52,7 @@
 
 25. And knew her not till she had brought forth her firstborn son: and he called his name JESUS.
 
-## Matt.2
+## Matthew 2
 
 1. Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
 
@@ -100,7 +100,7 @@
 
 23. And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
 
-## Matt.3
+## Matthew 3
 
 1. In those days came John the Baptist, preaching in the wilderness of Judaea,
 
@@ -136,7 +136,7 @@
 
 17. And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
 
-## Matt.4
+## Matthew 4
 
 1. Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.
 
@@ -188,7 +188,7 @@
 
 25. And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
 
-## Matt.5
+## Matthew 5
 
 1. And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
 
@@ -286,7 +286,7 @@
 
 48. Be ye therefore perfect, even as your Father which is in heaven is perfect.
 
-## Matt.6
+## Matthew 6
 
 1. Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.
 
@@ -356,7 +356,7 @@
 
 34. Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
 
-## Matt.7
+## Matthew 7
 
 1. Judge not, that ye be not judged.
 
@@ -416,7 +416,7 @@
 
 29. For he taught them as one having authority, and not as the scribes.
 
-## Matt.8
+## Matthew 8
 
 1. When he was come down from the mountain, great multitudes followed him.
 
@@ -486,7 +486,7 @@
 
 34. And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.
 
-## Matt.9
+## Matthew 9
 
 1. And he entered into a ship, and passed over, and came into his own city.
 
@@ -564,7 +564,7 @@
 
 38. Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.
 
-## Matt.10
+## Matthew 10
 
 1. And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.
 
@@ -650,7 +650,7 @@
 
 42. And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
 
-## Matt.11
+## Matthew 11
 
 1. And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.
 
@@ -712,7 +712,7 @@
 
 30. For my yoke is easy, and my burden is light.
 
-## Matt.12
+## Matthew 12
 
 1. At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.
 
@@ -814,7 +814,7 @@
 
 50. For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
 
-## Matt.13
+## Matthew 13
 
 1. The same day went Jesus out of the house, and sat by the sea side.
 
@@ -932,7 +932,7 @@
 
 58. And he did not many mighty works there because of their unbelief.
 
-## Matt.14
+## Matthew 14
 
 1. At that time Herod the tetrarch heard of the fame of Jesus,
 
@@ -1006,7 +1006,7 @@
 
 36. And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.
 
-## Matt.15
+## Matthew 15
 
 1. Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,
 
@@ -1086,7 +1086,7 @@
 
 39. And he sent away the multitude, and took ship, and came into the coasts of Magdala.
 
-## Matt.16
+## Matthew 16
 
 1. The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
 
@@ -1144,7 +1144,7 @@
 
 28. Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.
 
-## Matt.17
+## Matthew 17
 
 1. And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,
 
@@ -1200,7 +1200,7 @@
 
 27. Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
 
-## Matt.18
+## Matthew 18
 
 1. At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
 
@@ -1272,7 +1272,7 @@
 
 35. So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.
 
-## Matt.19
+## Matthew 19
 
 1. And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;
 
@@ -1334,7 +1334,7 @@
 
 30. But many that are first shall be last; and the last shall be first.
 
-## Matt.20
+## Matthew 20
 
 1. For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard.
 
@@ -1404,7 +1404,7 @@
 
 34. So Jesus had compassion on them, and touched their eyes: and immediately their eyes received sight, and they followed him.
 
-## Matt.21
+## Matthew 21
 
 1. And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,
 
@@ -1498,7 +1498,7 @@
 
 46. But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.
 
-## Matt.22
+## Matthew 22
 
 1. And Jesus answered and spake unto them again by parables, and said,
 
@@ -1592,7 +1592,7 @@
 
 46. And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions.
 
-## Matt.23
+## Matthew 23
 
 1. Then spake Jesus to the multitude, and to his disciples,
 
@@ -1672,7 +1672,7 @@
 
 39. For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
 
-## Matt.24
+## Matthew 24
 
 1. And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
 
@@ -1776,7 +1776,7 @@
 
 51. And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.
 
-## Matt.25
+## Matthew 25
 
 1. Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.
 
@@ -1870,7 +1870,7 @@
 
 46. And these shall go away into everlasting punishment: but the righteous into life eternal.
 
-## Matt.26
+## Matthew 26
 
 1. And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,
 
@@ -2022,7 +2022,7 @@
 
 75. And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly.
 
-## Matt.27
+## Matthew 27
 
 1. When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:
 
@@ -2156,7 +2156,7 @@
 
 66. So they went, and made the sepulchre sure, sealing the stone, and setting a watch.
 
-## Matt.28
+## Matthew 28
 
 1. In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.
 

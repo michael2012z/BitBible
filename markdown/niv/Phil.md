@@ -1,6 +1,6 @@
 # Phil
 
-## Phil.1
+## Philippians 1
 
 1. Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus at Philippi, together with the overseers and deacons:
 
@@ -66,7 +66,7 @@ __Paul's Chains Advance the Gospel__
 
 30. since you are going through the same struggle you saw I had, and now hear that I still have.
 
-## Phil.2
+## Philippians 2
 
 __Imitating Christ's Humility__
 
@@ -134,7 +134,7 @@ __Timothy and Epaphroditus__
 
 30. because he almost died for the work of Christ, risking his life to make up for the help you could not give me.
 
-## Phil.3
+## Philippians 3
 
 __No Confidence in the Flesh__
 
@@ -182,7 +182,7 @@ __Pressing on Toward the Goal__
 
 21. who, by the power that enables him to bring everything under his control, will transform our lowly bodies so that they will be like his glorious body.
 
-## Phil.4
+## Philippians 4
 
 1. Therefore, my brothers, you whom I love and long for, my joy and crown, that is how you should stand firm in the Lord, dear friends!
 

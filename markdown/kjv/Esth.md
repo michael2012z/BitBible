@@ -1,6 +1,6 @@
 # Esth
 
-## Esth.1
+## Esther 1
 
 1. Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:)
 
@@ -46,7 +46,7 @@
 
 22. For he sent letters into all the king's provinces, into every province according to the writing thereof, and to every people after their language, that every man should bear rule in his own house, and that it should be published according to the language of every people.
 
-## Esth.2
+## Esther 2
 
 1. After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her.
 
@@ -94,7 +94,7 @@
 
 23. And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king.
 
-## Esth.3
+## Esther 3
 
 1. After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.
 
@@ -126,7 +126,7 @@
 
 15. The posts went out, being hastened by the king's commandment, and the decree was given in Shushan the palace. And the king and Haman sat down to drink; but the city Shushan was perplexed.
 
-## Esth.4
+## Esther 4
 
 1. When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry;
 
@@ -162,7 +162,7 @@
 
 17. So Mordecai went his way, and did according to all that Esther had commanded him.
 
-## Esth.5
+## Esther 5
 
 1. Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king's house, over against the king's house: and the king sat upon his royal throne in the royal house, over against the gate of the house.
 
@@ -192,7 +192,7 @@
 
 14. Then said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made.
 
-## Esth.6
+## Esther 6
 
 1. On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.
 
@@ -222,7 +222,7 @@
 
 14. And while they were yet talking with him, came the king's chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.
 
-## Esth.7
+## Esther 7
 
 1. So the king and Haman came to banquet with Esther the queen.
 
@@ -244,7 +244,7 @@
 
 10. So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified.
 
-## Esth.8
+## Esther 8
 
 1. On that day did the king Ahasuerus give the house of Haman the Jews' enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he was unto her.
 
@@ -280,7 +280,7 @@
 
 17. And in every province, and in every city, whithersoever the king's commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them.
 
-## Esth.9
+## Esther 9
 
 1. Now in the twelfth month, that is, the month Adar, on the thirteenth day of the same, when the king's commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;)
 
@@ -346,7 +346,7 @@
 
 32. And the decree of Esther confirmed these matters of Purim; and it was written in the book.
 
-## Esth.10
+## Esther 10
 
 1. And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.
 

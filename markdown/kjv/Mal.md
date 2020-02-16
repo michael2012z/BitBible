@@ -1,6 +1,6 @@
 # Mal
 
-## Mal.1
+## Malachi 1
 
 1. The burden of the word of the LORD to Israel by Malachi.
 
@@ -30,7 +30,7 @@
 
 14. But cursed be the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I am a great King, saith the LORD of hosts, and my name is dreadful among the heathen.
 
-## Mal.2
+## Malachi 2
 
 1. And now, O ye priests, this commandment is for you.
 
@@ -66,7 +66,7 @@
 
 17. Ye have wearied the LORD with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the LORD, and he delighteth in them; or, Where is the God of judgment?
 
-## Mal.3
+## Malachi 3
 
 1. Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
 
@@ -104,7 +104,7 @@
 
 18. Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.
 
-## Mal.4
+## Malachi 4
 
 1. For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.
 

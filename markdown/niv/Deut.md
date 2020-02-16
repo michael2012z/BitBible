@@ -1,6 +1,6 @@
 # Deut
 
-## Deut.1
+## Deuteronomy 1
 
 __The Command to Leave Horeb__
 
@@ -102,7 +102,7 @@ __Rebellion Against the LORD__
 
 46. And so you stayed in Kadesh many days - all the time you spent there.
 
-## Deut.2
+## Deuteronomy 2
 
 __Wanderings in the Desert__
 
@@ -182,7 +182,7 @@ __Defeat of Sihon King of Heshbon__
 
 37. But in accordance with the command of the LORD our God, you did not encroach on any of the land of the Ammonites, neither the land along the course of the Jabbok nor that around the towns in the hills.
 
-## Deut.3
+## Deuteronomy 3
 
 __Defeat of Og King of Bashan__
 
@@ -248,7 +248,7 @@ __Moses Forbidden to Cross the Jordan__
 
 29. So we stayed in the valley near Beth Peor.
 
-## Deut.4
+## Deuteronomy 4
 
 __Obedience Commanded__
 
@@ -358,7 +358,7 @@ __Introduction to the Law__
 
 49. and included all the Arabah east of the Jordan, as far as the Sea of the Arabah, below the slopes of Pisgah.
 
-## Deut.5
+## Deuteronomy 5
 
 __The Ten Commandments__
 
@@ -428,7 +428,7 @@ __The Ten Commandments__
 
 33. Walk in all the way that the LORD your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.
 
-## Deut.6
+## Deuteronomy 6
 
 __Love the LORD Your God__
 
@@ -482,7 +482,7 @@ __Love the LORD Your God__
 
 25. And if we are careful to obey all this law before the LORD our God, as he has commanded us, that will be our righteousness."
 
-## Deut.7
+## Deuteronomy 7
 
 __Driving Out the Nations__
 
@@ -538,7 +538,7 @@ __Driving Out the Nations__
 
 26. Do not bring a detestable thing into your house or you, like it, will be set apart for destruction. Utterly abhor and detest it, for it is set apart for destruction.
 
-## Deut.8
+## Deuteronomy 8
 
 __Do Not Forget the LORD__
 
@@ -582,7 +582,7 @@ __Do Not Forget the LORD__
 
 20. Like the nations the LORD destroyed before you, so you will be destroyed for not obeying the LORD your God.
 
-## Deut.9
+## Deuteronomy 9
 
 __Not Because of Israel's Righteousness__
 
@@ -646,7 +646,7 @@ __The Golden Calf__
 
 29. But they are your people, your inheritance that you brought out by your great power and your outstretched arm."
 
-## Deut.10
+## Deuteronomy 10
 
 __Tablets Like the First Ones__
 
@@ -696,7 +696,7 @@ __Fear the LORD__
 
 22. Your forefathers who went down into Egypt were seventy in all, and now the LORD your God has made you as numerous as the stars in the sky.
 
-## Deut.11
+## Deuteronomy 11
 
 __Love and Obey the LORD__
 
@@ -764,7 +764,7 @@ __Love and Obey the LORD__
 
 32. be sure that you obey all the decrees and laws I am setting before you today.
 
-## Deut.12
+## Deuteronomy 12
 
 __The One Place of Worship__
 
@@ -832,7 +832,7 @@ __The One Place of Worship__
 
 32. See that you do all I command you; do not add to it or take away from it.
 
-## Deut.13
+## Deuteronomy 13
 
 __Worshiping Other Gods__
 
@@ -872,7 +872,7 @@ __Worshiping Other Gods__
 
 18. because you obey the LORD your God, keeping all his commands that I am giving you today and doing what is right in his eyes.
 
-## Deut.14
+## Deuteronomy 14
 
 __Clean and Unclean Food__
 
@@ -936,7 +936,7 @@ __Tithes__
 
 29. so that the Levites (who have no allotment or inheritance of their own) and the aliens, the fatherless and the widows who live in your towns may come and eat and be satisfied, and so that the LORD your God may bless you in all the work of your hands.
 
-## Deut.15
+## Deuteronomy 15
 
 __The Year for Canceling Debts__
 
@@ -990,7 +990,7 @@ __The Firstborn Animals__
 
 23. But you must not eat the blood; pour it out on the ground like water.
 
-## Deut.16
+## Deuteronomy 16
 
 __Passover__
 
@@ -1046,7 +1046,7 @@ __Worshiping Other Gods__
 
 22. and do not erect a sacred stone, for these the LORD your God hates.
 
-## Deut.17
+## Deuteronomy 17
 
 1. Do not sacrifice to the LORD your God an ox or a sheep that has any defect or flaw in it, for that would be detestable to him.
 
@@ -1092,7 +1092,7 @@ __The King__
 
 20. and not consider himself better than his brothers and turn from the law to the right or to the left. Then he and his descendants will reign a long time over his kingdom in Israel.
 
-## Deut.18
+## Deuteronomy 18
 
 __Offerings for Priests and Levites__
 
@@ -1144,7 +1144,7 @@ __The Prophet__
 
 22. If what a prophet proclaims in the name of the LORD does not take place or come true, that is a message the LORD has not spoken. That prophet has spoken presumptuously. Do not be afraid of him.
 
-## Deut.19
+## Deuteronomy 19
 
 __Cities of Refuge__
 
@@ -1192,7 +1192,7 @@ __Witnesses__
 
 21. Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
 
-## Deut.20
+## Deuteronomy 20
 
 __Going to War__
 
@@ -1236,7 +1236,7 @@ __Going to War__
 
 20. However, you may cut down trees that you know are not fruit trees and use them to build siege works until the city at war with you falls.
 
-## Deut.21
+## Deuteronomy 21
 
 __Atonement for an Unsolved Murder__
 
@@ -1294,7 +1294,7 @@ __Various Laws__
 
 23. you must not leave his body on the tree overnight. Be sure to bury him that same day, because anyone who is hung on a tree is under God's curse. You must not desecrate the land the LORD your God is giving you as an inheritance.
 
-## Deut.22
+## Deuteronomy 22
 
 1. If you see your brother's ox or sheep straying, do not ignore it but be sure to take it back to him.
 
@@ -1358,7 +1358,7 @@ __Marriage Violations__
 
 30. A man is not to marry his father's wife; he must not dishonor his father's bed.
 
-## Deut.23
+## Deuteronomy 23
 
 __Exclusions From the Assembly__
 
@@ -1416,7 +1416,7 @@ __Miscellaneous Laws__
 
 25. If you enter your neighbor's grainfield, you may pick kernels with your hands, but you must not put a sickle to his standing grain.
 
-## Deut.24
+## Deuteronomy 24
 
 1. If a man marries a woman who becomes displeasing to him because he finds something indecent about her, and he writes her a certificate of divorce, gives it to her and sends her from his house,
 
@@ -1462,7 +1462,7 @@ __Miscellaneous Laws__
 
 22. Remember that you were slaves in Egypt. That is why I command you to do this.
 
-## Deut.25
+## Deuteronomy 25
 
 1. When men have a dispute, they are to take it to court and the judges will decide the case, acquitting the innocent and condemning the guilty.
 
@@ -1502,7 +1502,7 @@ __Miscellaneous Laws__
 
 19. When the LORD your God gives you rest from all the enemies around you in the land he is giving you to possess as an inheritance, you shall blot out the memory of Amalek from under heaven. Do not forget!
 
-## Deut.26
+## Deuteronomy 26
 
 __Firstfruits and Tithes__
 
@@ -1546,7 +1546,7 @@ __Follow the LORD'S Commands__
 
 19. He has declared that he will set you in praise, fame and honor high above all the nations he has made and that you will be a people holy to the LORD your God, as he promised.
 
-## Deut.27
+## Deuteronomy 27
 
 __The Altar on Mount Ebal__
 
@@ -1604,7 +1604,7 @@ __Curses From Mount Ebal__
 
 26. "Cursed is the man who does not uphold the words of this law by carrying them out." Then all the people shall say, "Amen!"
 
-## Deut.28
+## Deuteronomy 28
 
 __Blessings for Obedience__
 
@@ -1746,7 +1746,7 @@ __Curses for Disobedience__
 
 68. The LORD will send you back in ships to Egypt on a journey I said you should never make again. There you will offer yourselves for sale to your enemies as male and female slaves, but no one will buy you.
 
-## Deut.29
+## Deuteronomy 29
 
 __Renewal of the Covenant__
 
@@ -1808,7 +1808,7 @@ __Renewal of the Covenant__
 
 29. The secret things belong to the LORD our God, but the things revealed belong to us and to our children forever, that we may follow all the words of this law.
 
-## Deut.30
+## Deuteronomy 30
 
 __Prosperity After Turning to the LORD__
 
@@ -1854,7 +1854,7 @@ __The Offer of Life or Death__
 
 20. and that you may love the LORD your God, listen to his voice, and hold fast to him. For the LORD is your life, and he will give you many years in the land he swore to give to your fathers, Abraham, Isaac and Jacob.
 
-## Deut.31
+## Deuteronomy 31
 
 __Joshua to Succeed Moses__
 
@@ -1924,7 +1924,7 @@ __The Song of Moses__
 
 30. And Moses recited the words of this song from beginning to end in the hearing of the whole assembly of Israel:
 
-## Deut.32
+## Deuteronomy 32
 
 1. Listen, O heavens, and I will speak; hear, O earth, the words of my mouth.
 
@@ -2032,7 +2032,7 @@ __Moses to Die on Mount Nebo__
 
 52. Therefore, you will see the land only from a distance; you will not enter the land I am giving to the people of Israel."
 
-## Deut.33
+## Deuteronomy 33
 
 __Moses Blesses the Tribes__
 
@@ -2094,7 +2094,7 @@ __Moses Blesses the Tribes__
 
 29. Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is your shield and helper and your glorious sword. Your enemies will cower before you, and you will trample down their high places. "
 
-## Deut.34
+## Deuteronomy 34
 
 __The Death of Moses__
 

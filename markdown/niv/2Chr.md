@@ -1,6 +1,6 @@
 # 2Chr
 
-## 2Chr.1
+## 2 Chronicles 1
 
 __Solomon Asks for Wisdom__
 
@@ -38,7 +38,7 @@ __Solomon Asks for Wisdom__
 
 17. They imported a chariot from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. They also exported them to all the kings of the Hittites and of the Arameans.
 
-## 2Chr.2
+## 2 Chronicles 2
 
 __Preparations for Building the Temple__
 
@@ -78,7 +78,7 @@ __Preparations for Building the Temple__
 
 18. He assigned 70,000 of them to be carriers and 80,000 to be stonecutters in the hills, with 3,600 foremen over them to keep the people working.
 
-## 2Chr.3
+## 2 Chronicles 3
 
 __Solomon Builds the Temple__
 
@@ -116,7 +116,7 @@ __Solomon Builds the Temple__
 
 17. He erected the pillars in the front of the temple, one to the south and one to the north. The one to the south he named Jakin and the one to the north Boaz. 
 
-## 2Chr.4
+## 2 Chronicles 4
 
 __The Temple's Furnishings__
 
@@ -164,7 +164,7 @@ __The Temple's Furnishings__
 
 22. the pure gold wick trimmers, sprinkling bowls, dishes and censers; and the gold doors of the temple: the inner doors to the Most Holy Place and the doors of the main hall.
 
-## 2Chr.5
+## 2 Chronicles 5
 
 1. When all the work Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated - the silver and gold and all the furnishings - and he placed them in the treasuries of God's temple.
 
@@ -196,7 +196,7 @@ __The Ark Brought to the Temple__
 
 14. and the priests could not perform their service because of the cloud, for the glory of the LORD filled the temple of God.
 
-## 2Chr.6
+## 2 Chronicles 6
 
 1. Then Solomon said, "The LORD has said that he would dwell in a dark cloud;
 
@@ -284,7 +284,7 @@ __Solomon's Prayer of Dedication__
 
 42. O LORD God, do not reject your anointed one. Remember the great love promised to David your servant."
 
-## 2Chr.7
+## 2 Chronicles 7
 
 __The Dedication of the Temple__
 
@@ -334,7 +334,7 @@ __The Lord Appears to Solomon__
 
 22. People will answer, `Because they have forsaken the LORD, the God of their fathers, who brought them out of Egypt, and have embraced other gods, worshiping and serving them - that is why he brought all this disaster on them.'"
 
-## 2Chr.8
+## 2 Chronicles 8
 
 __Solomon's Other Activities__
 
@@ -374,7 +374,7 @@ __Solomon's Other Activities__
 
 18. And Hiram sent him ships commanded by his own officers, men who knew the sea. These, with Solomon's men, sailed to Ophir and brought back four hundred and fifty talents of gold, which they delivered to King Solomon.
 
-## 2Chr.9
+## 2 Chronicles 9
 
 __The Queen of Sheba Visits Solomon__
 
@@ -444,7 +444,7 @@ __Solomon's Death__
 
 31. Then he rested with his fathers and was buried in the city of David his father. And Rehoboam his son succeeded him as king.
 
-## 2Chr.10
+## 2 Chronicles 10
 
 __Israel Rebels Against Rehoboam__
 
@@ -486,7 +486,7 @@ __Israel Rebels Against Rehoboam__
 
 19. So Israel has been in rebellion against the house of David to this day.
 
-## 2Chr.11
+## 2 Chronicles 11
 
 1. When Rehoboam arrived in Jerusalem, he mustered the house of Judah and Benjamin - a hundred and eighty thousand fighting men - to make war against Israel and to regain the kingdom for Rehoboam.
 
@@ -538,7 +538,7 @@ __Rehoboam's Family__
 
 23. He acted wisely, dispersing some of his sons throughout the districts of Judah and Benjamin, and to all the fortified cities. He gave them abundant provisions and took many wives for them.
 
-## 2Chr.12
+## 2 Chronicles 12
 
 __Shishak Attacks Jerusalem__
 
@@ -574,7 +574,7 @@ __Shishak Attacks Jerusalem__
 
 16. Rehoboam rested with his fathers and was buried in the City of David. And Abijah his son succeeded him as king.
 
-## 2Chr.13
+## 2 Chronicles 13
 
 __Abijah King of Judah__
 
@@ -622,7 +622,7 @@ __Abijah King of Judah__
 
 22. The other events of Abijah's reign, what he did and what he said, are written in the annotations of the prophet Iddo.
 
-## 2Chr.14
+## 2 Chronicles 14
 
 1. And Abijah rested with his fathers and was buried in the City of David. Asa his son succeeded him as king, and in his days the country was at peace for ten years.
 
@@ -656,7 +656,7 @@ __Asa King of Judah__
 
 15. They also attacked the camps of the herdsmen and carried off droves of sheep and goats and camels. Then they returned to Jerusalem.
 
-## 2Chr.15
+## 2 Chronicles 15
 
 __Asa's Reform__
 
@@ -698,7 +698,7 @@ __Asa's Reform__
 
 19. There was no more war until the thirty-fifth year of Asa's reign.
 
-## 2Chr.16
+## 2 Chronicles 16
 
 __Asa's Last Years__
 
@@ -730,7 +730,7 @@ __Asa's Last Years__
 
 14. They buried him in the tomb that he had cut out for himself in the City of David. They laid him on a bier covered with spices and various blended perfumes, and they made a huge fire in his honor.
 
-## 2Chr.17
+## 2 Chronicles 17
 
 __Jehoshaphat King of Judah__
 
@@ -772,7 +772,7 @@ __Jehoshaphat King of Judah__
 
 19. These were the men who served the king, besides those he stationed in the fortified cities throughout Judah.
 
-## 2Chr.18
+## 2 Chronicles 18
 
 __Micaiah Prophesies Against Ahab__
 
@@ -846,7 +846,7 @@ __Ahab Killed at Ramoth Gilead__
 
 34. All day long the battle raged, and the king of Israel propped himself up in his chariot facing the Arameans until evening. Then at sunset he died.
 
-## 2Chr.19
+## 2 Chronicles 19
 
 1. When Jehoshaphat king of Judah returned safely to his palace in Jerusalem,
 
@@ -872,7 +872,7 @@ __Jehoshaphat Appoints Judges__
 
 11. "Amariah the chief priest will be over you in any matter concerning the LORD, and Zebadiah son of Ishmael, the leader of the tribe of Judah, will be over you in any matter concerning the king, and the Levites will serve as officials before you. Act with courage, and may the LORD be with those who do well."
 
-## 2Chr.20
+## 2 Chronicles 20
 
 __Jehoshaphat Defeats Moab and Ammon__
 
@@ -952,7 +952,7 @@ __The End of Jehoshaphat's Reign__
 
 37. Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, "Because you have made an alliance with Ahaziah, the LORD will destroy what you have made." The ships were wrecked and were not able to set sail to trade. 
 
-## 2Chr.21
+## 2 Chronicles 21
 
 1. Then Jehoshaphat rested with his fathers and was buried with them in the City of David. And Jehoram his son succeeded him as king.
 
@@ -996,7 +996,7 @@ __Jehoram King of Judah__
 
 20. Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He passed away, to no one's regret, and was buried in the City of David, but not in the tombs of the kings.
 
-## 2Chr.22
+## 2 Chronicles 22
 
 __Ahaziah King of Judah__
 
@@ -1026,7 +1026,7 @@ __Athaliah and Joash__
 
 12. He remained hidden with them at the temple of God for six years while Athaliah ruled the land.
 
-## 2Chr.23
+## 2 Chronicles 23
 
 1. In the seventh year Jehoiada showed his strength. He made a covenant with the commanders of units of a hundred: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zicri.
 
@@ -1070,7 +1070,7 @@ __Athaliah and Joash__
 
 21. and all the people of the land rejoiced. And the city was quiet, because Athaliah had been slain with the sword.
 
-## 2Chr.24
+## 2 Chronicles 24
 
 __Joash Repairs the Temple__
 
@@ -1128,7 +1128,7 @@ __Joash Repairs the Temple__
 
 27. The account of his sons, the many prophecies about him, and the record of the restoration of the temple of God are written in the annotations on the book of the kings. And Amaziah his son succeeded him as king.
 
-## 2Chr.25
+## 2 Chronicles 25
 
 __Amaziah King of Judah__
 
@@ -1188,7 +1188,7 @@ __Amaziah King of Judah__
 
 28. He was brought back by horse and was buried with his fathers in the City of Judah.
 
-## 2Chr.26
+## 2 Chronicles 26
 
 __Uzziah King of Judah__
 
@@ -1238,7 +1238,7 @@ __Uzziah King of Judah__
 
 23. Uzziah rested with his fathers and was buried near them in a field for burial that belonged to the kings, for people said, "He had leprosy." And Jotham his son succeeded him as king.
 
-## 2Chr.27
+## 2 Chronicles 27
 
 __Jotham King of Judah__
 
@@ -1260,7 +1260,7 @@ __Jotham King of Judah__
 
 9. Jotham rested with his fathers and was buried in the City of David. And Ahaz his son succeeded him as king.
 
-## 2Chr.28
+## 2 Chronicles 28
 
 __Ahaz King of Judah__
 
@@ -1318,7 +1318,7 @@ __Ahaz King of Judah__
 
 27. Ahaz rested with his fathers and was buried in the city of Jerusalem, but he was not placed in the tombs of the kings of Israel. And Hezekiah his son succeeded him as king.
 
-## 2Chr.29
+## 2 Chronicles 29
 
 __Hezekiah Purifies the Temple__
 
@@ -1394,7 +1394,7 @@ __Hezekiah Purifies the Temple__
 
 36. Hezekiah and all the people rejoiced at what God had brought about for his people, because it was done so quickly.
 
-## 2Chr.30
+## 2 Chronicles 30
 
 __Hezekiah Celebrates the Passover__
 
@@ -1452,7 +1452,7 @@ __Hezekiah Celebrates the Passover__
 
 27. The priests and the Levites stood to bless the people, and God heard them, for their prayer reached heaven, his holy dwelling place.
 
-## 2Chr.31
+## 2 Chronicles 31
 
 1. When all this had ended, the Israelites who were there went out to the towns of Judah, smashed the sacred stones and cut down the Asherah poles. They destroyed the high places and the altars throughout Judah and Benjamin and in Ephraim and Manasseh. After they had destroyed all of them, the Israelites returned to their own towns and to their own property.
 
@@ -1498,7 +1498,7 @@ __Contributions for Worship__
 
 21. In everything that he undertook in the service of God's temple and in obedience to the law and the commands, he sought his God and worked wholeheartedly. And so he prospered.
 
-## 2Chr.32
+## 2 Chronicles 32
 
 __Sennacherib Threatens Jerusalem__
 
@@ -1570,7 +1570,7 @@ __Hezekiah's Pride, Success and Death__
 
 33. Hezekiah rested with his fathers and was buried on the hill where the tombs of David's descendants are. All Judah and the people of Jerusalem honored him when he died. And Manasseh his son succeeded him as king.
 
-## 2Chr.33
+## 2 Chronicles 33
 
 __Manasseh King of Judah__
 
@@ -1626,7 +1626,7 @@ __Amon King of Judah__
 
 25. Then the people of the land killed all who had plotted against King Amon, and they made Josiah his son king in his place.
 
-## 2Chr.34
+## 2 Chronicles 34
 
 __Josiah's Reforms__
 
@@ -1698,7 +1698,7 @@ __The Book of the Law Found__
 
 33. Josiah removed all the detestable idols from all the territory belonging to the Israelites, and he had all who were present in Israel serve the LORD their God. As long as he lived, they did not fail to follow the LORD, the God of their fathers.
 
-## 2Chr.35
+## 2 Chronicles 35
 
 __Josiah Celebrates the Passover__
 
@@ -1758,7 +1758,7 @@ __The Death of Josiah__
 
 27. all the events, from beginning to end, are written in the book of the kings of Israel and Judah.
 
-## 2Chr.36
+## 2 Chronicles 36
 
 1. And the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.
 

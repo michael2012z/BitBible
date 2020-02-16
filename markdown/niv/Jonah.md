@@ -1,6 +1,6 @@
 # Jonah
 
-## Jonah.1
+## Jonah 1
 
 __Jonah Flees From the LORD__
 
@@ -38,7 +38,7 @@ __Jonah Flees From the LORD__
 
 17. But the LORD provided a great fish to swallow Jonah, and Jonah was inside the fish three days and three nights.
 
-## Jonah.2
+## Jonah 2
 
 __Jonah's Prayer__
 
@@ -62,7 +62,7 @@ __Jonah's Prayer__
 
 10. And the LORD commanded the fish, and it vomited Jonah onto dry land.
 
-## Jonah.3
+## Jonah 3
 
 __Jonah Goes to Nineveh__
 
@@ -86,7 +86,7 @@ __Jonah Goes to Nineveh__
 
 10. When God saw what they did and how they turned from their evil ways, he had compassion and did not bring upon them the destruction he had threatened.
 
-## Jonah.4
+## Jonah 4
 
 __Jonah's Anger at the LORD'S Compassion__
 

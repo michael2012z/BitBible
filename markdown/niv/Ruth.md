@@ -1,6 +1,6 @@
 # Ruth
 
-## Ruth.1
+## Ruth 1
 
 __Naomi and Ruth__
 
@@ -48,7 +48,7 @@ __Naomi and Ruth__
 
 22. So Naomi returned from Moab accompanied by Ruth the Moabitess, her daughter-in-law, arriving in Bethlehem as the barley harvest was beginning.
 
-## Ruth.2
+## Ruth 2
 
 __Ruth Meets Boaz__
 
@@ -98,7 +98,7 @@ __Ruth Meets Boaz__
 
 23. So Ruth stayed close to the servant girls of Boaz to glean until the barley and wheat harvests were finished. And she lived with her mother-in-law.
 
-## Ruth.3
+## Ruth 3
 
 __Ruth and Boaz at the Threshing Floor__
 
@@ -138,7 +138,7 @@ __Ruth and Boaz at the Threshing Floor__
 
 18. Then Naomi said, "Wait, my daughter, until you find out what happens. For the man will not rest until the matter is settled today."
 
-## Ruth.4
+## Ruth 4
 
 __Boaz Marries Ruth__
 

@@ -1,6 +1,6 @@
 # Job
 
-## Job.1
+## Job 1
 
 __Prologue__
 
@@ -50,7 +50,7 @@ __Job's First Test__
 
 22. In all this, Job did not sin by charging God with wrongdoing.
 
-## Job.2
+## Job 2
 
 __Job's Second Test__
 
@@ -82,7 +82,7 @@ __Job's Three Friends__
 
 13. Then they sat on the ground with him for seven days and seven nights. No one said a word to him, because they saw how great his suffering was.
 
-## Job.3
+## Job 3
 
 __Job Speaks__
 
@@ -138,7 +138,7 @@ __Job Speaks__
 
 26. I have no peace, no quietness; I have no rest, but only turmoil."
 
-## Job.4
+## Job 4
 
 __Eliphaz__
 
@@ -184,7 +184,7 @@ __Eliphaz__
 
 21. Are not the cords of their tent pulled up, so that they die without wisdom?' 
 
-## Job.5
+## Job 5
 
 1. "Call if you will, but who will answer you? To which of the holy ones will you turn?
 
@@ -240,7 +240,7 @@ __Eliphaz__
 
 27. "We have examined this, and it is true. So hear it and apply it to yourself."
 
-## Job.6
+## Job 6
 
 __Job__
 
@@ -304,7 +304,7 @@ __Job__
 
 30. Is there any wickedness on my lips? Can my mouth not discern malice?
 
-## Job.7
+## Job 7
 
 1. "Does not man have hard service on earth? Are not his days like those of a hired man?
 
@@ -348,7 +348,7 @@ __Job__
 
 21. Why do you not pardon my offenses and forgive my sins? For I will soon lie down in the dust; you will search for me, but I will be no more."
 
-## Job.8
+## Job 8
 
 __Bildad__
 
@@ -396,7 +396,7 @@ __Bildad__
 
 22. Your enemies will be clothed in shame, and the tents of the wicked will be no more."
 
-## Job.9
+## Job 9
 
 __Job__
 
@@ -470,7 +470,7 @@ __Job__
 
 35. Then I would speak up without fear of him, but as it now stands with me, I cannot.
 
-## Job.10
+## Job 10
 
 1. "I loathe my very life; therefore I will give free rein to my complaint and speak out in the bitterness of my soul.
 
@@ -516,7 +516,7 @@ __Job__
 
 22. to the land of deepest night, of deep shadow and disorder, where even the light is like darkness."
 
-## Job.11
+## Job 11
 
 __Zophar__
 
@@ -560,7 +560,7 @@ __Zophar__
 
 20. But the eyes of the wicked will fail, and escape will elude them; their hope will become a dying gasp."
 
-## Job.12
+## Job 12
 
 __Job__
 
@@ -614,7 +614,7 @@ __Job__
 
 25. They grope in darkness with no light; he makes them stagger like drunkards.
 
-## Job.13
+## Job 13
 
 1. "My eyes have seen all this, my ears have heard and understood it.
 
@@ -672,7 +672,7 @@ __Job__
 
 28. "So man wastes away like something rotten, like a garment eaten by moths.
 
-## Job.14
+## Job 14
 
 1. "Man born of woman is of few days and full of trouble.
 
@@ -718,7 +718,7 @@ __Job__
 
 22. He feels but the pain of his own body and mourns only for himself."
 
-## Job.15
+## Job 15
 
 __Eliphaz__
 
@@ -792,7 +792,7 @@ __Eliphaz__
 
 35. They conceive trouble and give birth to evil; their womb fashions deceit."
 
-## Job.16
+## Job 16
 
 __Job__
 
@@ -840,7 +840,7 @@ __Job__
 
 22. "Only a few years will pass before I go on the journey of no return.
 
-## Job.17
+## Job 17
 
 1. My spirit is broken, my days are cut short, the grave awaits me.
 
@@ -874,7 +874,7 @@ __Job__
 
 16. Will it go down to the gates of death ? Will we descend together into the dust?"
 
-## Job.18
+## Job 18
 
 __Bildad__
 
@@ -920,7 +920,7 @@ __Bildad__
 
 21. Surely such is the dwelling of an evil man; such is the place of one who knows not God."
 
-## Job.19
+## Job 19
 
 __Job__
 
@@ -982,7 +982,7 @@ __Job__
 
 29. you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment. "
 
-## Job.20
+## Job 20
 
 __Zophar__
 
@@ -1044,7 +1044,7 @@ __Zophar__
 
 29. Such is the fate God allots the wicked, the heritage appointed for them by God."
 
-## Job.21
+## Job 21
 
 __Job__
 
@@ -1116,7 +1116,7 @@ __Job__
 
 34. "So how can you console me with your nonsense? Nothing is left of your answers but falsehood!"
 
-## Job.22
+## Job 22
 
 __Eliphaz__
 
@@ -1180,7 +1180,7 @@ __Eliphaz__
 
 30. He will deliver even one who is not innocent, who will be delivered through the cleanness of your hands."
 
-## Job.23
+## Job 23
 
 __Job__
 
@@ -1218,7 +1218,7 @@ __Job__
 
 17. Yet I am not silenced by the darkness, by the thick darkness that covers my face.
 
-## Job.24
+## Job 24
 
 1. "Why does the Almighty not set times for judgment? Why must those who know him look in vain for such days?
 
@@ -1270,7 +1270,7 @@ __Job__
 
 25. "If this is not so, who can prove me false and reduce my words to nothing?"
 
-## Job.25
+## Job 25
 
 __Bildad__
 
@@ -1286,7 +1286,7 @@ __Bildad__
 
 6. how much less man, who is but a maggot - a son of man, who is only a worm!"
 
-## Job.26
+## Job 26
 
 __Job__
 
@@ -1318,7 +1318,7 @@ __Job__
 
 14. And these are but the outer fringe of his works; how faint the whisper we hear of him! Who then can understand the thunder of his power?"
 
-## Job.27
+## Job 27
 
 1. And Job continued his discourse:
 
@@ -1366,7 +1366,7 @@ __Job__
 
 23. It claps its hands in derision and hisses him out of his place.
 
-## Job.28
+## Job 28
 
 1. "There is a mine for silver and a place where gold is refined.
 
@@ -1424,7 +1424,7 @@ __Job__
 
 28. And he said to man, `The fear of the Lord - that is wisdom, and to shun evil is understanding.'"
 
-## Job.29
+## Job 29
 
 1. Job continued his discourse:
 
@@ -1476,7 +1476,7 @@ __Job__
 
 25. I chose the way for them and sat as their chief; I dwelt as a king among his troops; I was like one who comforts mourners.
 
-## Job.30
+## Job 30
 
 1. "But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs.
 
@@ -1540,7 +1540,7 @@ __Job__
 
 31. My harp is tuned to mourning, and my flute to the sound of wailing.
 
-## Job.31
+## Job 31
 
 1. "I made a covenant with my eyes not to look lustfully at a girl.
 
@@ -1622,7 +1622,7 @@ __Job__
 
 40. then let briers come up instead of wheat and weeds instead of barley." The words of Job are ended.
 
-## Job.32
+## Job 32
 
 __Elihu__
 
@@ -1670,7 +1670,7 @@ __Elihu__
 
 22. for if I were skilled in flattery, my Maker would soon take me away.
 
-## Job.33
+## Job 33
 
 1. "But now, Job, listen to my words; pay attention to everything I say.
 
@@ -1738,7 +1738,7 @@ __Elihu__
 
 33. But if not, then listen to me; be silent, and I will teach you wisdom."
 
-## Job.34
+## Job 34
 
 1. Then Elihu said:
 
@@ -1814,7 +1814,7 @@ __Elihu__
 
 37. To his sin he adds rebellion; scornfully he claps his hands among us and multiplies his words against God."
 
-## Job.35
+## Job 35
 
 1. Then Elihu said:
 
@@ -1848,7 +1848,7 @@ __Elihu__
 
 16. So Job opens his mouth with empty talk; without knowledge he multiplies words."
 
-## Job.36
+## Job 36
 
 1. Elihu continued:
 
@@ -1916,7 +1916,7 @@ __Elihu__
 
 33. His thunder announces the coming storm; even the cattle make known its approach. 
 
-## Job.37
+## Job 37
 
 1. "At this my heart pounds and leaps from its place.
 
@@ -1966,7 +1966,7 @@ __Elihu__
 
 24. Therefore, men revere him, for does he not have regard for all the wise in heart? "
 
-## Job.38
+## Job 38
 
 __The Lord Speaks__
 
@@ -2052,7 +2052,7 @@ __The Lord Speaks__
 
 41. Who provides food for the raven when its young cry out to God and wander about for lack of food?
 
-## Job.39
+## Job 39
 
 1. "Do you know when the mountain goats give birth? Do you watch when the doe bears her fawn?
 
@@ -2114,7 +2114,7 @@ __The Lord Speaks__
 
 30. His young ones feast on blood, and where the slain are, there is he."
 
-## Job.40
+## Job 40
 
 1. The LORD said to Job:
 
@@ -2164,7 +2164,7 @@ __The Lord Speaks__
 
 24. Can anyone capture him by the eyes, or trap him and pierce his nose?
 
-## Job.41
+## Job 41
 
 1. "Can you pull in the leviathan with a fishhook or tie down his tongue with a rope?
 
@@ -2234,7 +2234,7 @@ __The Lord Speaks__
 
 34. He looks down on all that are haughty; he is king over all that are proud."
 
-## Job.42
+## Job 42
 
 __Job__
 

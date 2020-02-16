@@ -1,6 +1,6 @@
 # Ezek
 
-## Ezek.1
+## Ezekiel 1
 
 1. Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
 
@@ -58,7 +58,7 @@
 
 28. As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake.
 
-## Ezek.2
+## Ezekiel 2
 
 1. And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
 
@@ -80,7 +80,7 @@
 
 10. And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.
 
-## Ezek.3
+## Ezekiel 3
 
 1. Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.
 
@@ -136,7 +136,7 @@
 
 27. But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house.
 
-## Ezek.4
+## Ezekiel 4
 
 1. Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:
 
@@ -172,7 +172,7 @@
 
 17. That they may want bread and water, and be astonied one with another, and consume away for their iniquity.
 
-## Ezek.5
+## Ezekiel 5
 
 1. And thou, son of man, take thee a sharp knife, take thee a barber's razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair.
 
@@ -208,7 +208,7 @@
 
 17. So will I send upon you famine and evil beasts, and they shall bereave thee; and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the LORD have spoken it.
 
-## Ezek.6
+## Ezekiel 6
 
 1. And the word of the LORD came unto me, saying,
 
@@ -238,7 +238,7 @@
 
 14. So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I am the LORD.
 
-## Ezek.7
+## Ezekiel 7
 
 1. Moreover the word of the LORD came unto me, saying,
 
@@ -294,7 +294,7 @@
 
 27. The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the LORD.
 
-## Ezek.8
+## Ezekiel 8
 
 1. And it came to pass in the sixth year, in the sixth month, in the fifth day of the month, as I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me.
 
@@ -332,7 +332,7 @@
 
 18. Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, yet will I not hear them.
 
-## Ezek.9
+## Ezekiel 9
 
 1. He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.
 
@@ -356,7 +356,7 @@
 
 11. And, behold, the man clothed with linen, which had the inkhorn by his side, reported the matter, saying, I have done as thou hast commanded me.
 
-## Ezek.10
+## Ezekiel 10
 
 1. Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
 
@@ -402,7 +402,7 @@
 
 22. And the likeness of their faces was the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward.
 
-## Ezek.11
+## Ezekiel 11
 
 1. Moreover the spirit lifted me up, and brought me unto the east gate of the LORD'S house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people.
 
@@ -454,7 +454,7 @@
 
 25. Then I spake unto them of the captivity all the things that the LORD had shewed me.
 
-## Ezek.12
+## Ezekiel 12
 
 1. The word of the LORD also came unto me, saying,
 
@@ -512,7 +512,7 @@
 
 28. Therefore say unto them, Thus saith the Lord GOD; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord GOD.
 
-## Ezek.13
+## Ezekiel 13
 
 1. And the word of the LORD came unto me, saying,
 
@@ -560,7 +560,7 @@
 
 23. Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I am the LORD.
 
-## Ezek.14
+## Ezekiel 14
 
 1. Then came certain of the elders of Israel unto me, and sat before me.
 
@@ -608,7 +608,7 @@
 
 23. And they shall comfort you, when ye see their ways and their doings: and ye shall know that I have not done without cause all that I have done in it, saith the Lord GOD.
 
-## Ezek.15
+## Ezekiel 15
 
 1. And the word of the LORD came unto me, saying,
 
@@ -626,7 +626,7 @@
 
 8. And I will make the land desolate, because they have committed a trespass, saith the Lord GOD.
 
-## Ezek.16
+## Ezekiel 16
 
 1. Again the word of the LORD came unto me, saying,
 
@@ -754,7 +754,7 @@
 
 63. That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord GOD.
 
-## Ezek.17
+## Ezekiel 17
 
 1. And the word of the LORD came unto me, saying,
 
@@ -804,7 +804,7 @@
 
 24. And all the trees of the field shall know that I the LORD have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the LORD have spoken and have done it.
 
-## Ezek.18
+## Ezekiel 18
 
 1. The word of the LORD came unto me again, saying,
 
@@ -870,7 +870,7 @@
 
 32. For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn yourselves, and live ye.
 
-## Ezek.19
+## Ezekiel 19
 
 1. Moreover take thou up a lamentation for the princes of Israel,
 
@@ -900,7 +900,7 @@
 
 14. And fire is gone out of a rod of her branches, which hath devoured her fruit, so that she hath no strong rod to be a sceptre to rule. This is a lamentation, and shall be for a lamentation.
 
-## Ezek.20
+## Ezekiel 20
 
 1. And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the LORD, and sat before me.
 
@@ -1000,7 +1000,7 @@
 
 49. Then said I, Ah Lord GOD! they say of me, Doth he not speak parables?
 
-## Ezek.21
+## Ezekiel 21
 
 1. And the word of the LORD came unto me, saying,
 
@@ -1066,7 +1066,7 @@
 
 32. Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no more remembered: for I the LORD have spoken it.
 
-## Ezek.22
+## Ezekiel 22
 
 1. Moreover the word of the LORD came unto me, saying,
 
@@ -1130,7 +1130,7 @@
 
 31. Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord GOD.
 
-## Ezek.23
+## Ezekiel 23
 
 1. The word of the LORD came again unto me, saying,
 
@@ -1230,7 +1230,7 @@
 
 49. And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols: and ye shall know that I am the Lord GOD.
 
-## Ezek.24
+## Ezekiel 24
 
 1. Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying,
 
@@ -1286,7 +1286,7 @@
 
 27. In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD.
 
-## Ezek.25
+## Ezekiel 25
 
 1. The word of the LORD came again unto me, saying,
 
@@ -1322,7 +1322,7 @@
 
 17. And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them.
 
-## Ezek.26
+## Ezekiel 26
 
 1. And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying,
 
@@ -1366,7 +1366,7 @@
 
 21. I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD.
 
-## Ezek.27
+## Ezekiel 27
 
 1. The word of the LORD came again unto me, saying,
 
@@ -1440,7 +1440,7 @@
 
 36. The merchants among the people shall hiss at thee; thou shalt be a terror, and never shalt be any more.
 
-## Ezek.28
+## Ezekiel 28
 
 1. The word of the LORD came again unto me, saying,
 
@@ -1494,7 +1494,7 @@
 
 26. And they shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I am the LORD their God.
 
-## Ezek.29
+## Ezekiel 29
 
 1. In the tenth year, in the tenth month, in the twelfth day of the month, the word of the LORD came unto me, saying,
 
@@ -1538,7 +1538,7 @@
 
 21. In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I am the LORD.
 
-## Ezek.30
+## Ezekiel 30
 
 1. The word of the LORD came again unto me, saying,
 
@@ -1592,7 +1592,7 @@
 
 26. And I will scatter the Egyptians among the nations, and disperse them among the countries; and they shall know that I am the LORD.
 
-## Ezek.31
+## Ezekiel 31
 
 1. And it came to pass in the eleventh year, in the third month, in the first day of the month, that the word of the LORD came unto me, saying,
 
@@ -1630,7 +1630,7 @@
 
 18. To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with them that be slain by the sword. This is Pharaoh and all his multitude, saith the Lord GOD.
 
-## Ezek.32
+## Ezekiel 32
 
 1. And it came to pass in the twelfth year, in the twelfth month, in the first day of the month, that the word of the LORD came unto me, saying,
 
@@ -1696,7 +1696,7 @@
 
 32. For I have caused my terror in the land of the living: and he shall be laid in the midst of the uncircumcised with them that are slain with the sword, even Pharaoh and all his multitude, saith the Lord GOD.
 
-## Ezek.33
+## Ezekiel 33
 
 1. Again the word of the LORD came unto me, saying,
 
@@ -1764,7 +1764,7 @@
 
 33. And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
 
-## Ezek.34
+## Ezekiel 34
 
 1. And the word of the LORD came unto me, saying,
 
@@ -1828,7 +1828,7 @@
 
 31. And ye my flock, the flock of my pasture, are men, and I am your God, saith the Lord GOD.
 
-## Ezek.35
+## Ezekiel 35
 
 1. Moreover the word of the LORD came unto me, saying,
 
@@ -1860,7 +1860,7 @@
 
 15. As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the LORD.
 
-## Ezek.36
+## Ezekiel 36
 
 1. Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD:
 
@@ -1938,7 +1938,7 @@
 
 38. As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I am the LORD.
 
-## Ezek.37
+## Ezekiel 37
 
 1. The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,
 
@@ -1996,7 +1996,7 @@
 
 28. And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.
 
-## Ezek.38
+## Ezekiel 38
 
 1. And the word of the LORD came unto me, saying,
 
@@ -2044,7 +2044,7 @@
 
 23. Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the LORD.
 
-## Ezek.39
+## Ezekiel 39
 
 1. Therefore, thou son of man, prophesy against Gog, and say, Thus saith the Lord GOD; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:
 
@@ -2104,7 +2104,7 @@
 
 29. Neither will I hide my face any more from them: for I have poured out my spirit upon the house of Israel, saith the Lord GOD.
 
-## Ezek.40
+## Ezekiel 40
 
 1. In the five and twentieth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.
 
@@ -2204,7 +2204,7 @@
 
 49. The length of the porch was twenty cubits, and the breadth eleven cubits; and he brought me by the steps whereby they went up to it: and there were pillars by the posts, one on this side, and another on that side.
 
-## Ezek.41
+## Ezekiel 41
 
 1. Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, which was the breadth of the tabernacle.
 
@@ -2258,7 +2258,7 @@
 
 26. And there were narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and upon the side chambers of the house, and thick planks.
 
-## Ezek.42
+## Ezekiel 42
 
 1. Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which was before the building toward the north.
 
@@ -2300,7 +2300,7 @@
 
 20. He measured it by the four sides: it had a wall round about, five hundred reeds long, and five hundred broad, to make a separation between the sanctuary and the profane place.
 
-## Ezek.43
+## Ezekiel 43
 
 1. Afterward he brought me to the gate, even the gate that looketh toward the east:
 
@@ -2356,7 +2356,7 @@
 
 27. And when these days are expired, it shall be, that upon the eighth day, and so forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD.
 
-## Ezek.44
+## Ezekiel 44
 
 1. Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it was shut.
 
@@ -2420,7 +2420,7 @@
 
 31. The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast.
 
-## Ezek.45
+## Ezekiel 45
 
 1. Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length shall be the length of five and twenty thousand reeds, and the breadth shall be ten thousand. This shall be holy in all the borders thereof round about.
 
@@ -2472,7 +2472,7 @@
 
 25. In the seventh month, in the fifteenth day of the month, shall he do the like in the feast of the seven days, according to the sin offering, according to the burnt offering, and according to the meat offering, and according to the oil.
 
-## Ezek.46
+## Ezekiel 46
 
 1. Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened.
 
@@ -2522,7 +2522,7 @@
 
 24. Then said he unto me, These are the places of them that boil, where the ministers of the house shall boil the sacrifice of the people.
 
-## Ezek.47
+## Ezekiel 47
 
 1. Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.
 
@@ -2570,7 +2570,7 @@
 
 23. And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord GOD.
 
-## Ezek.48
+## Ezekiel 48
 
 1. Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan.
 
