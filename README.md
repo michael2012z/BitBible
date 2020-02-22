@@ -25,6 +25,3 @@ Text source in OSIS format. [link](source/osis)
 
 Python scripts used to convert text between formats. [link](util)
 
-<p align="center">
-  <img src="docs/img/BitCross_240x320.png">
-</p>
