@@ -1,4 +1,4 @@
-# BitBible
+# <img src="https://raw.githubusercontent.com/michael2012z/BitBible/master/docs/img/BitCross_title.png"/>BitBible
 
 BitBible is a bit I contribute to God the Father almighty.
 
