@@ -1,9 +1,9 @@
 # Documentation
 
 ## Plan
-- Convert Sword modules into OSIS XML files
-- Convert OSIS XML files into Markdown files and upload to github.
-- Add NIV Markdown.
+- ~~Convert Sword modules into OSIS XML files~~
+- ~~Convert OSIS XML files into Markdown files and upload to github.~~
+- ~~Add NIV Markdown.~~
 - Improve the presentation of verses in poem style.
 - Develop curses based application to display text.
 - Display commentary in application.
