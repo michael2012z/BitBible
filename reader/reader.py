@@ -2,15 +2,19 @@
 
 import curses
 from curses.textpad import Textbox, rectangle
+import loader
 
 class Window(object):
-    def __init__ (self, main_window, y, x, h, w, title):
+    def __init__ (self, main_window, y, x, h, w, title="Text"):
         self.win = curses.newwin(h, w, y, x)
         # self.win.border()
         self.win.hline(0, 0, '-', w)
-        self.win.addstr(0, 2, '> ' + title + ' <', curses.color_pair(1))
         self.columns = w
         self.lines = h - 1
+        self.set_title(title)
+        
+    def set_title(self, title):
+        self.win.addstr(0, 2, '> ' + title + ' <', curses.color_pair(1))
         
     def refresh(self):
         self.win.refresh()
@@ -29,25 +33,28 @@ class Window(object):
         return text_list
 
 
-    def display(self, text_lines):
+    def display(self, title, text_lines):
         '''
         This function breaks the text lines into display lines according to display columns and show the text.
         text_lines: List of a tuple, each tuple contains a tag (usually index) and a line of text.
         '''
+        self.set_title(title)
+
         # display_lines is a list of tuple, each tuple contains a tag and a list
         display_blocks = []
-        for text_tuple in text_lines:
-            tag, text_line = text_tuple
-            display_blocks.append((tag, self.break_text(text_line, self.columns-4)))
+        tag = 0
+        for text_line in text_lines:
+            tag += 1
+            display_blocks.append((tag, self.break_text(text_line, self.columns-5)))
 
         # build display buffer,
         display_buffer = []
         for block in display_blocks:
-            head = "{:0>2d}. ".format(block[0])
+            head = "{:0>3d}. ".format(block[0])
             for line in block[1]:
                 display_line = "{}{}".format(head, line)
                 display_buffer.append(display_line)
-                head = "    "
+                head = "     "
 
         # render the display area
         start_index = 0
@@ -89,41 +96,17 @@ def setup_frames(main_window):
     tl.refresh()
     tr = Window(main_window, da[0], da[1] + tl_width, tl_height, da[3] - tl_width, "Text")
     tr.refresh()
-    bl = Window(main_window, da[0] + tl_height, da[1], da[2] - tl_height, bl_width, "Translate")
+    bl = Window(main_window, da[0] + tl_height, da[1], da[2] - tl_height, bl_width, "Dictionary")
     bl.refresh()
     br = Window(main_window, da[0] + tl_height, da[1] + bl_width, da[2] - tl_height, da[3] - bl_width, "Comments")
     br.refresh()
     return tl, tr, bl, br
-    
-demo_text_blocks = [
-    (1,
-     "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-    ),
-    (2,
-     "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
-    ),
-    (3,
-     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-    ),
-    (4,
-     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-    ),
-    (5,
-     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-    ),
-    (6,
-     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-    ),
-    (7,
-     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-    ),
-    (8,
-     "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-    ),
 
-]
 
 def main(main_window):
+    # Load text
+    bible = loader.load_bible("KJV")
+    
     # Clear screen
     main_window.clear()
     curses.init_pair(1, curses.COLOR_BLUE, curses.COLOR_WHITE)
@@ -131,7 +114,7 @@ def main(main_window):
     create_title(main_window, "BitBible")
     _, tr, _, _ = setup_frames(main_window)
 
-    tr.display(demo_text_blocks)
+    tr.display("Genesis 1", bible["Gen"][0])
     tr.refresh()
     
     main_window.refresh()
