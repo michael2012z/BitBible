@@ -15,7 +15,9 @@ My favorite: [NIV - New International Version](markdown/NIV/README.md)
 
 ## A command-line Bible reader
 
-Not ready yet. [link](reader)
+The reader(reader) is not ready yet. Here is a snapshot of the latest progress.
+![](docs/img/bitbible_01.png)
+
 
 ## Bibles in OSIS
 
