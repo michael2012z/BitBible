@@ -4,18 +4,71 @@ import curses
 from curses.textpad import Textbox, rectangle
 import loader
 
+log_file = None
+def log(message):
+    log_file.write(str(message))
+    log_file.write('\n')
+
+class WindowsManager(object):
+    def __init__ (self, windows_list=[]):
+        self.current_window = -1
+        self.windows_list = []
+        for window in windows_list:
+            self.append_window()
+
+    def append_window(self, window, default=False):
+        self.windows_list.append(window)
+        if len(self.windows_list) == 1:
+            self.current_window = 0
+            self.windows_list[self.current_window].set_focus()
+
+        if default:
+            self.windows_list[self.current_window].set_nonfocus()
+            self.current_window = len(self.windows_list) - 1
+            self.windows_list[self.current_window].set_focus()
+
+    def current_window(self):
+        return self.windows_list[self.current_window]
+
+    def switch_window(self):
+        log("current window = {}".format(self.current_window))
+        self.windows_list[self.current_window].set_nonfocus()
+        self.current_window += 1
+        if self.current_window == len(self.windows_list):
+            self.current_window = 0
+        log("next window = {}".format(self.current_window))
+        self.windows_list[self.current_window].set_focus()
+
+    
 class Window(object):
-    def __init__ (self, main_window, y, x, h, w, title="Text"):
+    def __init__ (self, main_window, y, x, h, w, title="UNTITLED"):
         self.win = curses.newwin(h, w, y, x)
         # self.win.border()
         self.win.hline(0, 0, '-', w)
         self.columns = w
         self.lines = h - 1
+        self.title = title
+        self.focused = False
         self.set_title(title)
         
     def set_title(self, title):
-        self.win.addstr(0, 2, '> ' + title + ' <', curses.color_pair(1))
+        self.title = title
+        if self.focused:
+            self.set_focus()
+        else:
+            self.set_nonfocus()
+        self.refresh()
+
+    def set_focus(self):
+        self.focused = True
+        self.win.addstr(0, 2, '> ' + self.title + ' <', curses.color_pair(2))
+        self.refresh()
         
+    def set_nonfocus(self):
+        self.focused = False
+        self.win.addstr(0, 2, '> ' + self.title + ' <', curses.color_pair(1))
+        self.refresh()
+
     def refresh(self):
         self.win.refresh()
 
@@ -104,21 +157,52 @@ def setup_frames(main_window):
 
 
 def main(main_window):
+    curses.curs_set(0)
     # Load text
-    bible = loader.load_bible("KJV")
+    bible = loader.load_bible("NIV")
     
     # Clear screen
     main_window.clear()
     curses.init_pair(1, curses.COLOR_BLUE, curses.COLOR_WHITE)
+    curses.init_pair(2, curses.COLOR_YELLOW, curses.COLOR_BLUE)
 
     create_title(main_window, "BitBible")
-    _, tr, _, _ = setup_frames(main_window)
+    tl, tr, bl, br = setup_frames(main_window)
+
+    wm = WindowsManager()
+    wm.append_window(tl)
+    wm.append_window(tr, True)
+    wm.append_window(bl)
+    wm.append_window(br)
 
     tr.display("Genesis 1", bible["Gen"][0])
+    
     tr.refresh()
-    
-    main_window.refresh()
-    main_window.getkey()
 
-    
+    main_window.refresh()
+
+    while True:
+        ch = main_window.getch()
+        if ch in range(1, 27):
+            char = chr(ch+96)
+            log("control + {}".format(char))
+            if char == "x": # exit
+                return
+            elif char == "o": # switch window
+                wm.switch_window()
+            else:
+                continue
+        else:
+            char = chr(ch)
+            if char  == "q": # q also works to exit
+                return
+            else:
+                continue
+            
+
+
+log_file = open("debug.log", "wt")
+
 curses.wrapper(main)
+
+log_file.close()

@@ -6,6 +6,10 @@
 - ~~Add NIV Markdown.~~
 - Improve the presentation of verses in poem style.
 - Develop curses based application to display text.
+- ~~Handle key input.~~
+- ~~Switch focus between windows.~~
+- Scroll text.
+- Display bible and book list.
 - Display commentary in application.
 - Display dictionary in application.
 
