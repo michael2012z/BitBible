@@ -4,6 +4,7 @@ import curses
 from curses.textpad import Textbox, rectangle
 import loader
 from window import Window
+from text_window import TextWindow
 from windows_manager import WindowsManager
 from log import *
 
@@ -38,7 +39,7 @@ class Reader():
         
         tl = Window(main_window, da[0], da[1], tl_height, tl_width, "Books")
         tl.refresh()
-        tr = Window(main_window, da[0], da[1] + tl_width, tl_height, da[3] - tl_width, "Text")
+        tr = TextWindow(main_window, da[0], da[1] + tl_width, tl_height, da[3] - tl_width, "Text")
         tr.refresh()
         bl = Window(main_window, da[0] + tl_height, da[1], da[2] - tl_height, bl_width, "Dictionary")
         bl.refresh()
@@ -66,7 +67,7 @@ class Reader():
         wm.append_window(bl)
         wm.append_window(br)
         
-        tr.display("Genesis 1", bible["Gen"][0])
+        tr.load("Genesis 1", bible["Gen"][0])
         
         tr.refresh()
 
@@ -92,6 +93,7 @@ class Reader():
             
 
 if __name__ == '__main__':
+    log("============= BitBible reader started ==============")
     reader = Reader()
     curses.wrapper(reader.main)
 
