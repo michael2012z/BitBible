@@ -1484,7 +1484,7 @@ __Offerings for the Tabernacle__
 
 __The Ark__
 
-10.  
+10. "Have them make a chest of acacia wood—two and a half cubits long, a cubit and a half wide, and a cubit and a half high.
 
 11. Overlay it with pure gold, both inside and out, and make a gold molding around it.
 
@@ -1503,6 +1503,8 @@ __The Ark__
 18. And make two cherubim out of hammered gold at the ends of the cover.
 
 19. Make one cherub on one end and the second cherub on the other; make the cherubim of one piece with the cover, at the two ends.
+
+20. The cherubim are to have their wings spread upward, overshadowing the cover with them. The cherubim are to face each other, looking toward the cover.
 
 21. Place the cover on top of the ark and put in the ark the Testimony, which I will give you.
 
@@ -1527,6 +1529,8 @@ __The Ark__
 __The Lampstand__
 
 31. "Make a lampstand of pure gold and hammer it out, base and shaft; its flowerlike cups, buds and blossoms shall be of one piece with it.
+
+32. Six branches are to extend from the sides of the lampstand—three on one side and three on the other.
 
 33. Three cups shaped like almond flowers with buds and blossoms are to be on one branch, three on the next branch, and the same for all six branches extending from the lampstand.
 
@@ -1675,6 +1679,8 @@ __Oil for the Lampstand__
 ## Exodus 28
 
 __The Priestly Garments__
+
+1. "Have Aaron your brother brought to you from among the Israelites, along with his sons Nadab and Abihu, Eleazar and Ithamar, so they may serve me as priests.
 
 2. Make sacred garments for your brother Aaron, to give him dignity and honor.
 
