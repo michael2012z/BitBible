@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import curses
 from curses.textpad import Textbox, rectangle
 
