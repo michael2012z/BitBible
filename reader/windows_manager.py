@@ -1,5 +1,9 @@
 from log import *
 
+'''
+Windows Manager controls the order in loop when the user switch between
+windows by typing ctl + o.
+'''
 class WindowsManager(object):
     def __init__ (self, windows_list=[]):
         self.current_window = -1
@@ -18,7 +22,7 @@ class WindowsManager(object):
             self.current_window = len(self.windows_list) - 1
             self.windows_list[self.current_window].set_focus()
 
-    def current_window(self):
+    def get_current_window(self):
         return self.windows_list[self.current_window]
 
     def switch_window(self):
@@ -30,4 +34,8 @@ class WindowsManager(object):
         log("next window = {}".format(self.current_window))
         self.windows_list[self.current_window].set_focus()
 
-    
+    def handle_key(self, char):
+        if char == "o": # switch window
+            self.switch_window()
+        else:
+            self.get_current_window().handle_key(char)

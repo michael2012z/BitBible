@@ -7,7 +7,7 @@ class Window(object):
         # self.win.border()
         self.win.hline(0, 0, '-', w)
         self.columns = w
-        self.lines = h - 1
+        self.height = h - 1
         self.title = title
         self.focused = False
         self.set_title(title)
@@ -18,7 +18,6 @@ class Window(object):
             self.set_focus()
         else:
             self.set_nonfocus()
-        self.refresh()
 
     def set_focus(self):
         self.focused = True
@@ -53,5 +52,5 @@ class Window(object):
     def load(self, title, text_lines):
         pass
 
-    def handle_key(char):
+    def handle_key(self, char):
         pass

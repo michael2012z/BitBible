@@ -57,6 +57,7 @@ class Reader():
         main_window.clear()
         curses.init_pair(1, curses.COLOR_BLUE, curses.COLOR_WHITE)
         curses.init_pair(2, curses.COLOR_YELLOW, curses.COLOR_BLUE)
+        curses.init_pair(3, curses.COLOR_BLACK, curses.COLOR_WHITE)
         
         self.create_title(main_window, "BitBible")
         tl, tr, bl, br = self.setup_frames(main_window)
@@ -80,10 +81,8 @@ class Reader():
                 log("control + {}".format(char))
                 if char == "x": # exit
                     return
-                elif char == "o": # switch window
-                    wm.switch_window()
                 else:
-                    continue
+                    wm.handle_key(char)
             else:
                 char = chr(ch)
                 if char  == "q": # q also works to exit
