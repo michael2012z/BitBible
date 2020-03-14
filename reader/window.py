@@ -1,16 +1,25 @@
 import curses
 from log import *
+from messenger import Messenger
 
 class Window(object):
     def __init__ (self, main_window, y, x, h, w, title="UNTITLED"):
         self.win = curses.newwin(h, w, y, x)
         # self.win.border()
         self.win.hline(0, 0, '-', w)
-        self.columns = w
+        self.columns = w - 1
         self.height = h - 1
         self.title = title
         self.focused = False
+        self.msgr = None
         self.set_title(title)
+        
+
+    def set_messenger(self, msgr):
+        self.msgr = msgr
+
+    def notify(self, msg, data):
+        self.msgr.notify(msg, data)
         
     def set_title(self, title):
         self.title = title

@@ -214,8 +214,9 @@ class TextWindow(Window):
         elif char == "b": # move to previsous word
             self.move_to_prev_word()
         elif char == "[": # page up
-            return
+            pass
         elif char == "]": # page down
-            return
-
+            pass
+        
+        self.notify("translate", self.selected_word)
     

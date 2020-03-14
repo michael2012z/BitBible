@@ -6,7 +6,9 @@ import loader
 from window import Window
 from text_window import TextWindow
 from windows_manager import WindowsManager
+from dictionary_window import DictionaryWindow
 from log import *
+from messenger import Messenger
 
 class Reader():
 
@@ -36,15 +38,16 @@ class Reader():
         main_window.hline(da[0] + tl_height - 1, da[1], 0, da[3])
         main_window.vline(da[0], tl_width - 1, 0, tl_height-1)
         main_window.vline(tl_height+1, bl_width - 1, 0, da[2] - tl_height)
-        
+
         tl = Window(main_window, da[0], da[1], tl_height, tl_width, "Books")
         tl.refresh()
         tr = TextWindow(main_window, da[0], da[1] + tl_width, tl_height, da[3] - tl_width, "Text")
         tr.refresh()
-        bl = Window(main_window, da[0] + tl_height, da[1], da[2] - tl_height, bl_width, "Dictionary")
+        bl = DictionaryWindow(main_window, da[0] + tl_height, da[1], da[2] - tl_height, bl_width, "Dictionary")
         bl.refresh()
         br = Window(main_window, da[0] + tl_height, da[1] + bl_width, da[2] - tl_height, da[3] - bl_width, "Comments")
         br.refresh()
+
         return tl, tr, bl, br
     
     
@@ -61,14 +64,22 @@ class Reader():
         curses.init_pair(4, curses.COLOR_RED, curses.COLOR_GREEN)
         
         self.create_title(main_window, "BitBible")
+
         tl, tr, bl, br = self.setup_frames(main_window)
+
+        msgr = Messenger()
+        tl.set_messenger(msgr)
+        tr.set_messenger(msgr)
+        bl.set_messenger(msgr)
+        br.set_messenger(msgr)
+        msgr.register_windows(tl, tr, bl, br)
         
         wm = WindowsManager()
         wm.append_window(tl)
         wm.append_window(tr, True)
         wm.append_window(bl)
         wm.append_window(br)
-        
+
         tr.load("Genesis 1", bible["Gen"][0])
         
         tr.refresh()
