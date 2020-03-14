@@ -8,10 +8,14 @@
 - Develop curses based application to display text.
 - ~~Handle key input.~~
 - ~~Switch focus between windows.~~
-- Scroll text.
+- ~~Show a line in highlight, and move up and down.~~
+- ~~Show a selected word in highlighted line, and move left and right.~~
+- ~~Display the selected word of text window in dictionary window.~~
+- Find and parse dictionary meta data file.
+- Display the explanation of the selected word in dictionary window.
 - Display bible and book list.
 - Display commentary in application.
-- Display dictionary in application.
+
 
 
 ## History
