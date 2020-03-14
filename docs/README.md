@@ -36,3 +36,6 @@
 - Debugged the failures in converting some OSIS files, like version AB. It turned out a broken module. Both mod2osis and pysword tools returned wrong texts while parsing the module.
 - Different errors are among those problematic modules.
 - Will not do more conversion works recently. Will containue to curses program.
+
+### Mar 14, 2020
+- Implement the highlight effect in text window.
