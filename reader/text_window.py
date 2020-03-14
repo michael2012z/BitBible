@@ -78,7 +78,7 @@ class TextWindow(Window):
             
     def refresh(self):
         self.selected_word = ""
-        for i in range(self.height-1):
+        for i in range(self.height):
             if (i + self.buffer_upper_line) < self.buffer_lower_line:
                 self.print_line(i+1, self.display_buffer[self.buffer_upper_line + i], i == self.current_line)
 
@@ -129,7 +129,7 @@ class TextWindow(Window):
 
         # set the display boundaries
         self.buffer_upper_line = 0
-        self.buffer_lower_line = self.height - 1
+        self.buffer_lower_line = self.height
         if self.buffer_lower_line > len(self.display_buffer):
            self.buffer_lower_line = len(self.display_buffer)
            
@@ -159,10 +159,10 @@ class TextWindow(Window):
 
     def move_to_next_line(self):
         if self.current_line + self.buffer_upper_line < self.buffer_lower_line - 1:
-            # normal case
+            # highlighted line in middle 
             self.current_line += 1
-        else:
-            if self.buffer_lower_line - self.buffer_upper_line < self.height:
+        else: # lighlighted line on lower boundary
+            if self.buffer_lower_line == len(self.display_buffer):
                 # lower boundary is in the middle of screen, no move
                 return
             else:
