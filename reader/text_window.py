@@ -41,19 +41,47 @@ class TextWindow(Window):
         # highlighted line of the window
         # note: this is not a line in display buffer
         self.current_line = 0
+        # cursor location in current line, it's always the postion of
+        # some word's first letter.
+        # Valid value should be >= 5
+        self.current_cursor = 0
+        self.selected_word = ""
         self.display_buffer = []
         super(TextWindow, self).__init__(main_window, y, x, h, w, title)
         log("text window height = {}".format(self.height))
+
+    def print_line(self, line_num, text, highlighted = False):
+        if highlighted == False:
+            self.win.addstr(line_num, 0, text)
+            if self.columns > len(text):
+                self.win.addstr(line_num, len(text), ' ' * (self.columns - len(text)))
+            return
         
+        pure_text = text[4:].strip()
+        self.win.addstr(line_num, 0, text[:4], curses.color_pair(3))
+        words = pure_text.split(" ")
+        pos = 4
+        for word in words:
+            if self.current_cursor in range(pos, pos + 1 + len(word)):
+                self.current_cursor = pos
+                self.selected_word = word
+                color_index = 4
+            else:
+                color_index = 3
+            self.win.addstr(line_num, pos, ' ', curses.color_pair(3))
+            self.win.addstr(line_num, pos+1, word, curses.color_pair(color_index))
+            pos += 1 + len(word)
+
+        if self.columns > len(text):
+            padding = self.columns - len(text)
+            self.win.addstr(line_num, pos, ' ' * padding, curses.color_pair(3))
+            
     def refresh(self):
+        self.selected_word = ""
         for i in range(self.height-1):
             if (i + self.buffer_upper_line) < self.buffer_lower_line:
-                log("text window refresh: height = {}, i = {}, current_line = {}, buffer_upper_line = {}, buffer_lower_line = {}, display_buffer = {}".format(self.height, i, self.current_line, self.buffer_upper_line, self.buffer_lower_line, len(self.display_buffer)))
-                if i == self.current_line:
-                    self.win.addstr(i+1, 0, self.display_buffer[self.buffer_upper_line + i], curses.color_pair(3))
-                else:
-                    self.win.addstr(i+1, 0, self.display_buffer[self.buffer_upper_line + i])
-        
+                self.print_line(i+1, self.display_buffer[self.buffer_upper_line + i], i == self.current_line)
+
         super(TextWindow, self).refresh()
         
     def make_verse_meta_data(self, raw_text):
@@ -155,10 +183,26 @@ class TextWindow(Window):
         self.refresh()
 
     def move_to_next_word(self):
-        pass
+        log("1 current_cursor = {}, selected = ".format(self.current_cursor, self.selected_word))
+        if self.current_cursor == 0:
+            self.current_cursor = 4
+        else:
+            self.current_cursor += 1 + len(self.selected_word)
+            if self.current_cursor >= self.columns:
+                self.current_cursor = self.columns - 1
+                return
+        log("2 current_cursor = {}".format(self.current_cursor))
+        self.refresh()
 
     def move_to_prev_word(self):
-        pass
+        if self.current_cursor == 0:
+            return
+        else:
+            self.current_cursor -= 1
+            if self.current_cursor < 0:
+                self.current_cursor = 0
+            self.refresh()
+
 
     def handle_key(self, char):
         if char == "n": # move one line down
