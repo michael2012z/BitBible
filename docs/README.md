@@ -11,7 +11,11 @@
 - ~~Show a line in highlight, and move up and down.~~
 - ~~Show a selected word in highlighted line, and move left and right.~~
 - ~~Display the selected word of text window in dictionary window.~~
-- Find and parse dictionary meta data file.
+- Dictionary
+- - Find and parse dictionary meta data file.
+- - Build word frequency list
+- - Seprate Vocabulary dictionary xml file into folders and files
+- - Display dictionary 
 - Display the explanation of the selected word in dictionary window.
 - Display bible and book list.
 - Display commentary in application.
