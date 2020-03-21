@@ -53,11 +53,11 @@ def extract_word_frequency(html_text):
             break
 
     #print("{} : {} : {} : {}".format(freq, pron, definition, example))
-    return freq
+    return (freq, pron)
 
 def build_word_list(dict_file):
     alpha = ''
-    words = [
+    words_frequency = [
              [],# 0 - no frequency
              [],# 1
              [],# 2
@@ -65,6 +65,7 @@ def build_word_list(dict_file):
              [],# 4
              [] # 5
              ]
+    words_frequency_pron = dict()
     buf = []
     l = 0
     with open(dict_file, "rt") as collins:
@@ -75,15 +76,16 @@ def build_word_list(dict_file):
                 if word.find(" ") > 0: # skip words combination
                     buf = []
                     continue
-                frequency = extract_word_frequency("".join(buf))
+                frequency_pron = extract_word_frequency("".join(buf))
+                words_frequency_pron[word] = frequency_pron
                 buf = []
-                words[frequency].append(word)
+                words_frequency[frequency_pron[0]].append(word)
                 if word[0].isalpha() and word[0].upper() != alpha:
                     alpha = word[0].upper()
                     print("handling {} words".format(alpha))
             else:
                 buf.append(line)
-    return words
+    return words_frequency, words_frequency_pron
 
 
 def write_frequency_files(word_list):
@@ -96,6 +98,7 @@ def write_frequency_files(word_list):
             
 
 if __name__ == '__main__':
-    word_list = build_word_list("Collins.xml")
+    words_frequency, words_frequency_pron = build_word_list("Collins.xml")
+    print(words_frequency_pron)
     #word_list = build_word_list("example.xml")
     #write_frequency_files(word_list)
