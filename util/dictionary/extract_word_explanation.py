@@ -40,9 +40,7 @@ def extract_word_explanation(html_text):
     for tag in tags:
         if tag.has_attr("class") and tag.attrs['class'] == ['b', 'c'] and tag.get_text() == "WORD FAMILY":
             family_list = tag.find_next("div").get_text()
-            family_list = family_list.split("/")
-            for i in family_list:
-                family.append(i.split(":")[0])
+            family = family_list.split("/")
 
     # examples
     tags = soup.find_all("span")

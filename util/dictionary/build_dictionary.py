@@ -29,7 +29,7 @@ def make_xml_text(meta_data):
     ety.text = meta_data[2][1]
 
     family = SubElement(word_data, 'family')
-    family.text = ",".join(meta_data[2][2])
+    family.text = ";".join(meta_data[2][2])
 
     examples = SubElement(word_data, 'examples')
     for example in meta_data[2][3]:
@@ -79,6 +79,52 @@ def convert_vocabulary_into_xmls(dict_file, collins, support_combination = False
         if output != None:
             output.write(xml_tail)
 
+            
+def convert_vocabulary_into_separate_xmls(dict_file, collins):
+    letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    for letter in letters:
+        if not os.path.exists("dictionary/" + letter):
+            os.makedirs("dictionary/" + letter)
+    alpha = ''
+    words = []
+    buf = []
+    output = None
+    with open(dict_file, "rt") as dict_file:
+        for line in dict_file:
+            if line == '</>\n':
+                word = buf[0][:-1]
+                if word.find(" ") > 0:
+                    buf = []
+                    continue
+                explanation = extract_word_explanation("".join(buf))
+                buf = []
+                collins_data = (0, "")
+                if word in collins:
+                    collins_data = collins[word]
+                xml_text = make_xml_text((word, collins_data, explanation))
+
+                # write to a seperate xml
+                if word[0].isalpha():
+                    if alpha != word[0].upper():
+                        alpha = word[0].upper()
+                        print("generating dictionary files for {} words".format(alpha))
+                else:
+                    continue
+
+                try:
+                    output_fn = "dictionary/" + alpha  + "/" + word.lower() + ".xml"
+                    if os.path.exists(output_fn):
+                        print("multiple items exist for {}, overwriting".format(word))
+                    output = open(output_fn, "wt")
+                    output.write(xml_head)
+                    output.write(xml_text)
+                    output.write(xml_tail)
+                    output.close()
+                except:
+                    print("error happens when creating dictionary for {}".format(word))
+            else:
+                buf.append(line)
+
 
 
 if __name__ == '__main__':
@@ -90,5 +136,5 @@ if __name__ == '__main__':
     print("building dictionary files")
     # dict_file = "example.xml"
     dict_file = "Vocabulary.xml"
-    convert_vocabulary_into_xmls(dict_file, collins, False)
+    convert_vocabulary_into_separate_xmls(dict_file, collins)
 
