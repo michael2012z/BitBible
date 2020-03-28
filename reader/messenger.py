@@ -19,6 +19,9 @@ class Messenger(object):
             self.d_win.translate(data)
         elif msg == "show_comment":
             self.c_win.comment(data)
+        elif msg == "load_text":
+            self.t_win.load(data)
+            self.t_win.refresh()
         else:
             log("unkown message type: {}".format(msg))
             

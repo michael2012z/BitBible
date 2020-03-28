@@ -106,11 +106,13 @@ class TextWindow(Window):
             head = "     "
         return display_buffer
         
-    def load(self, title, verses):
+    def load(self, data):
         '''
         This function breaks the text lines into display lines according to display columns and show the text.
         text_lines: List of a tuple, each tuple contains a tag (usually index) and a line of text.
         '''
+        title = data[0]
+        verses = data[1]
         self.set_title(title)
 
         # make meta data for all verses
