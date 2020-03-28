@@ -17,7 +17,23 @@ My favorite: [NIV - New International Version](markdown/NIV/README.md)
 
 The reader(reader) is not ready yet. Here is a snapshot of the latest progress.
 ![](docs/img/bitbible_05.png)
-
+The screen shot of some early versions:
+<table>
+<tr>
+  <td width=200>
+    <img src=docs/img/bitbible_04.png />
+  </td>
+  <td width=200>
+    <img src=docs/img/bitbible_03.png />
+  </td>
+  <td width=200>
+    <img src=docs/img/bitbible_02.png />
+  </td>
+  <td width=200>
+    <img src=docs/img/bitbible_01.png />
+  </td>
+</tr>
+</table>
 
 ## Bibles in OSIS
 
