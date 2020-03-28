@@ -82,6 +82,8 @@ def convert_vocabulary_into_xmls(dict_file, collins, support_combination = False
             
 def convert_vocabulary_into_separate_xmls(dict_file, collins):
     letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    if not os.path.exists("dictionary"):
+        os.makedirs("dictionary")
     for letter in letters:
         if not os.path.exists("dictionary/" + letter):
             os.makedirs("dictionary/" + letter)
@@ -130,11 +132,11 @@ def convert_vocabulary_into_separate_xmls(dict_file, collins):
 if __name__ == '__main__':
     # collins contains pron and freq
     print("building word frequency list")
-    _, collins = build_word_list("Collins.xml")
+    _, collins = build_word_list("raw_data/Collins.xml")
     # collins = dict()
     # convert Vocabulary dictionary into XML files, adding pron and freq
     print("building dictionary files")
     # dict_file = "example.xml"
-    dict_file = "Vocabulary.xml"
+    dict_file = "raw_data/Vocabulary.xml"
     convert_vocabulary_into_separate_xmls(dict_file, collins)
 

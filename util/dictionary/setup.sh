@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd raw_data
+
 cat Vocab*.zip > whole.zip
 zip -FF whole.zip --out Vocabulary.zip
 unzip Vocabulary.zip
@@ -15,3 +17,8 @@ cat Collins/x* > Collins.xml
 rm -f whole.zip
 rm -f Collins.zip
 rm -rf Collins
+
+cd ..
+
+rm -rf dictionary
+python3 build_dictionary.py
