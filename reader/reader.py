@@ -7,6 +7,7 @@ from text_window import TextWindow
 from books_window import BooksWindow
 from windows_manager import WindowsManager
 from dictionary_window import DictionaryWindow
+from commentary_window import CommentaryWindow
 from log import *
 from messenger import Messenger
 
@@ -45,7 +46,7 @@ class Reader():
         tr.refresh()
         bl = DictionaryWindow(main_window, da[0] + tl_height, da[1], da[2] - tl_height, bl_width, "Dictionary")
         bl.refresh()
-        br = Window(main_window, da[0] + tl_height, da[1] + bl_width, da[2] - tl_height, da[3] - bl_width, "Comments")
+        br = CommentaryWindow(main_window, da[0] + tl_height, da[1] + bl_width, da[2] - tl_height, da[3] - bl_width, "Commentary")
         br.refresh()
 
         return tl, tr, bl, br
