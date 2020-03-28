@@ -88,9 +88,9 @@ def build_word_list(dict_file):
     return words_frequency, words_frequency_pron
 
 
-def write_frequency_files(word_list):
+def write_frequency_files(words_frequency):
     freq = 0
-    for freq_words in words:
+    for freq_words in words_frequency:
         with open("words-" + str(freq) + ".txt", "wt") as f:
             for word in freq_words:
                 f.write(word+"\n")
@@ -99,6 +99,6 @@ def write_frequency_files(word_list):
 
 if __name__ == '__main__':
     words_frequency, words_frequency_pron = build_word_list("Collins.xml")
-    print(words_frequency_pron)
+    #print(words_frequency)
     #word_list = build_word_list("example.xml")
-    #write_frequency_files(word_list)
+    write_frequency_files(words_frequency)
