@@ -77,6 +77,7 @@ class Reader():
         wm.append_window(tr, True)
         wm.append_window(bl)
         wm.append_window(br)
+        tr.notify("text_window_ready", 0)
 
         main_window.refresh()
 

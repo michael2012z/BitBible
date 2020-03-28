@@ -22,6 +22,8 @@ class Messenger(object):
         elif msg == "load_text":
             self.t_win.load(data)
             self.t_win.refresh()
+        elif msg == "text_window_ready":
+            self.b_win.text_window_ready()
         else:
             log("unkown message type: {}".format(msg))
             
