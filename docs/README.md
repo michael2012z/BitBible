@@ -11,13 +11,13 @@
 - ~~Show a line in highlight, and move up and down.~~
 - ~~Show a selected word in highlighted line, and move left and right.~~
 - ~~Display the selected word of text window in dictionary window.~~
-- Dictionary
-- - Find and parse dictionary meta data file.
-- - Build word frequency list
-- - Seprate Vocabulary dictionary xml file into folders and files
-- - Display dictionary 
-- Display the explanation of the selected word in dictionary window.
-- Display bible and book list.
+- ~~Dictionary~~
+- - ~~Find and parse dictionary meta data file.~~
+- - ~~Build word frequency list~~
+- - ~~Seprate Vocabulary dictionary xml file into folders and files~~
+- - ~~Display dictionary.~~
+- ~~Display the explanation of the selected word in dictionary window.~~
+- ~~Display bible and book list.~~
 - Display commentary in application.
 
 
@@ -43,3 +43,13 @@
 
 ### Mar 14, 2020
 - Implement the highlight effect in text window.
+
+### Mar 21, 2020
+- Parsed Collins dictionary data, raw file was obtained from MDict community.
+- Parsed Vocabulary dictionary data, raw file was obtained from MDict community.
+- Build a new dictionary XML in own format. Will use it in BitBible.
+
+### Mar 28, 2020
+- Implemented book sellection. Now you can choose version, book and chapters.
+- Integrated dictionary into BitBible. But the display effect is not good. Further improved is required.
+
