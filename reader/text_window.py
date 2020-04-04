@@ -108,7 +108,7 @@ class TextWindow(Window):
         self.displaying_book_short_name = data[1]
         self.displaying_chapter = data[2]
         verses = data[3]
-        self.set_title(title)
+        self.set_title(title + " " + self.displaying_chapter)
 
         # make meta data for all verses
         self.chapter_meta_data = []
