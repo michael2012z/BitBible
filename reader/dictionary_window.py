@@ -5,15 +5,14 @@ from log import *
 import xml.etree.ElementTree as ET
 import nltk
 from nltk.stem import WordNetLemmatizer
-
+import threading
 
 class DictionaryWindow(Window):
     def __init__ (self, main_window, y, x, h, w, title="UNTITLED"):
         self.word = ""
         self.wordnet_lemmatizer = WordNetLemmatizer()
-        # just for early load
-        nltk.pos_tag(["early"])
-        self.wordnet_lemmatizer.lemmatize("early", 'v')
+        # nltk.pos_tag(["early"])
+        # self.wordnet_lemmatizer.lemmatize("early", 'v')
         super(DictionaryWindow, self).__init__(main_window, y, x, h, w, title)
 
 
