@@ -5,7 +5,7 @@
 - ~~Convert OSIS XML files into Markdown files and upload to github.~~
 - ~~Add NIV Markdown.~~
 - Improve the presentation of verses in poem style.
-- Develop curses based application to display text.
+- ~~Develop curses based application to display text.~~
 - ~~Handle key input.~~
 - ~~Switch focus between windows.~~
 - ~~Show a line in highlight, and move up and down.~~
@@ -18,7 +18,7 @@
 - - ~~Display dictionary.~~
 - ~~Display the explanation of the selected word in dictionary window.~~
 - ~~Display bible and book list.~~
-- Display commentary in application.
+- ~~Display commentary in application.~~
 
 
 
@@ -52,4 +52,9 @@
 ### Mar 28, 2020
 - Implemented book sellection. Now you can choose version, book and chapters.
 - Integrated dictionary into BitBible. But the display effect is not good. Further improved is required.
+
+### Apr 4, 2020
+- Implemented Commentary window. 
+- - Only MHCC version of commentary is supported.
+- - I tried to obtain commentary modules from Sword and convert them into OSIS XML's. But other commentary XML's failed to be parsed, there were error in them. MHCC is simply, so it was converted successfully, although I had to fix some mistakes in XML manually.
 
