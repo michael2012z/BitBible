@@ -17,12 +17,8 @@ class DictionaryWindow(Window):
         super(DictionaryWindow, self).__init__(main_window, y, x, h, w, title)
 
 
-    def load(self, title, text_lines):
-        for i in range(len(text_lines)):
-            self.win.addstr(i+1, 0, text_lines[i])
-            self.win.addstr(i+1, len(text_lines[i]), " " * (self.columns-1 - len(text_lines[i])))
-        for i in range(len(text_lines), self.height - 1):
-            self.win.addstr(i+1, 0, " " * (self.columns-1))
+    def load(self, text_lines):
+        super(DictionaryWindow, self).load(text_lines)
             
     def get_alpha(self, word):
         s = -1
@@ -42,7 +38,7 @@ class DictionaryWindow(Window):
         if len(word) == 0:
             if len(self.word) != 0:
                 self.word = ""
-                self.load("Dictionary", text_lines)
+                self.load(text_lines)
                 self.refresh()
             return
             
@@ -70,7 +66,7 @@ class DictionaryWindow(Window):
         paddings = (self.columns - 1 - len(first_line_head) - len(first_line_tail))
         first_line = first_line_head + " " * paddings + first_line_tail
         text_lines = [first_line] + defi_block
-        self.load("Dictionary", text_lines)
+        self.load(text_lines)
         self.refresh()
 
 
@@ -118,7 +114,7 @@ class DictionaryWindow(Window):
 
         
     def handle_key(self, char):
-        pass
+        super(DictionaryWindow, self).handle_key(char)
     
 
     def is_name(self, word):

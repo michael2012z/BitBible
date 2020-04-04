@@ -6,19 +6,9 @@ import os
 class CommentaryWindow(Window):
     def __init__ (self, main_window, y, x, h, w, title="UNTITLED"):
         super(CommentaryWindow, self).__init__(main_window, y, x, h, w, title)
-        text = [
-                "...... " * 24, 
-                "Commentary display is not yet ready.",
-                "Commentary in OSIS format will be loaded, and update when the focus of the Text window changes.",
-                "...... " * 24, 
-                ]
-        text_lines = []
-        for t in text:
-            text_lines += self.break_text(t, self.columns-1)
-        self.load("Commentary", text_lines)
 
 
-    def load(self, title, text_lines):
+    def Xload(self, text_lines):
         for i in range(len(text_lines)):
             if i == self.height-2:
                 return
@@ -38,9 +28,11 @@ class CommentaryWindow(Window):
                 if line.startswith(chapter + "." + verse + " "):
                     text = line[line.find(" ")+1:]
                     text = self.break_text(text, self.columns-1)
-        self.load("xxxxxxxx", text)
+        self.load(text)
         self.refresh()
 
     def handle_key(self, char):
-        pass
+        super(CommentaryWindow, self).handle_key(char)
+
+
     

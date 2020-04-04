@@ -47,15 +47,14 @@ class BooksWindow(Window):
             s += ' ' * (self.grid_cell_width - len(s))
             display_row = (i // self.grid_columns) + 1
             display_col = (i % self.grid_columns) * self.grid_cell_width
-            log("row = {}, height = {}, col = {}, width = {}, s = {}".format(display_row, self.height, display_col, self.grid_cell_width, s))
             if display_row > self.height:
                 break
             if i == data["selected"]:
                 self.win.addstr( display_row, display_col, s, curses.color_pair(3))
             else:
                 self.win.addstr( display_row, display_col, s)
-            
-        super(BooksWindow, self).refresh()
+
+        self.win.refresh()
 
         
     def handle_key(self, char):
