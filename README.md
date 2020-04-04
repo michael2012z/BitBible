@@ -6,7 +6,7 @@ It contains a collection of utilities to read Holy Bible, in the way a hacker/pr
 
 ## A command-line Bible reader
 
-The reader(reader) is not ready yet. Here is a snapshot of the latest progress.
+Here is a snapshot of the latest progress.
 ![](docs/img/bitbible_07.png)
 The screen shot of some early versions:
 <table>
