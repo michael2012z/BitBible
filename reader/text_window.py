@@ -47,6 +47,8 @@ class TextWindow(Window):
         self.current_cursor = 0
         self.selected_word = ""
         self.display_buffer = []
+        self.displaying_book_short_name = ""
+        self.displaying_chapter = ""
         super(TextWindow, self).__init__(main_window, y, x, h, w, title)
         log("text window height = {}".format(self.height))
 
@@ -110,9 +112,12 @@ class TextWindow(Window):
         '''
         This function breaks the text lines into display lines according to display columns and show the text.
         text_lines: List of a tuple, each tuple contains a tag (usually index) and a line of text.
+        data:             # long name, short name, chapter, text.
         '''
         title = data[0]
-        verses = data[1]
+        self.displaying_book_short_name = data[1]
+        self.displaying_chapter = data[2]
+        verses = data[3]
         self.set_title(title)
 
         # make meta data for all verses
@@ -134,7 +139,11 @@ class TextWindow(Window):
         self.buffer_lower_line = self.height
         if self.buffer_lower_line > len(self.display_buffer):
            self.buffer_lower_line = len(self.display_buffer)
-           
+
+        highlighted_verse = self.get_current_verse()
+        self.notify("show_comment", (self.displaying_book_short_name, self.displaying_chapter, str(highlighted_verse)))
+        log("highlighted_verse = {}".format(highlighted_verse))
+        log("to notify comment: {}".format((self.displaying_book_short_name, self.displaying_chapter, str(highlighted_verse))))
 
 
     # ------------------------- code below not finished -------------------
@@ -159,6 +168,16 @@ class TextWindow(Window):
             word_text, row_in_block, column_in_block = self.meta_data[verse_index][2]
             self.print_selected(word_text, screen_line + row_in_block + 5 + column_in_block)
 
+    def get_current_verse(self):
+        lines = 0
+        verse_index = 0
+        for verse_meta_data in self.chapter_meta_data:
+            verse_index += 1
+            lines += len(verse_meta_data[1])
+            if self.current_line + self.buffer_upper_line < lines:
+                return verse_index
+        return 0
+            
     def move_to_next_line(self):
         if self.current_line + self.buffer_upper_line < self.buffer_lower_line - 1:
             # highlighted line in middle 
@@ -207,6 +226,7 @@ class TextWindow(Window):
 
 
     def handle_key(self, char):
+        old_verse = self.get_current_verse()
         if char == "n": # move one line down
             self.move_to_next_line()
         elif char == "p": # move one line up
@@ -219,6 +239,8 @@ class TextWindow(Window):
             pass
         elif char == "]": # page down
             pass
-        
+        new_verse = self.get_current_verse()
+        if new_verse != old_verse:
+            self.notify("show_comment", (self.displaying_book_short_name, self.displaying_chapter, str(new_verse)))
         self.notify("translate", self.selected_word)
     

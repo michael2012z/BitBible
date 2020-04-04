@@ -144,6 +144,7 @@ class BooksWindow(Window):
         chapter_list = list(range(len(list(filter(lambda x: x.startswith("## "), book_content)))))
         chapter_list = ['-return-'] + list(map(lambda x: str(x+1), chapter_list))
         return {"name": book_name,
+                "shortname": book,
                 "list": chapter_list,
                 "callback": self.chapters_callback,
                 "selected": selected}
@@ -160,8 +161,9 @@ class BooksWindow(Window):
             self.set_title("Books: " + version)
             #self.refresh()
         else:
-            bible = loader.load_bible(version)          
-            self.notify("load_text", (chapter_data["name"], bible[book][int(chapter)-1]))
+            bible = loader.load_bible(version)
+            # long name, short name, chapter, text.
+            self.notify("load_text", (chapter_data["name"], chapter_data["shortname"], chapter, bible[book][int(chapter)-1]))
             self.set_title("Books: " + version + "/" + book)
             self.write_last_location(version, book, chapter)
 
