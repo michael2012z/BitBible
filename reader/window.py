@@ -8,6 +8,7 @@ class Window(object):
         # self.win.border()
         self.win.hline(0, 0, '-', w)
         self.columns = w - 1
+        log("Window __init__, height = {}".format(h))
         self.height = h - 2
         self.title = title
         self.focused = False

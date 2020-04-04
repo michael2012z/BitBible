@@ -30,7 +30,8 @@ class Reader():
         bl | br
         '''
         screen_height, screen_width = main_window.getmaxyx()
-        display_area = (1, 0, screen_height-1, screen_width)
+        log("set_frames, screen_height = {}, screen_width = {}".format(screen_height, screen_width))
+        display_area = (1, 0, screen_height, screen_width)
         da = display_area
         tl_width = da[3] // 4
         tl_height = da[2] * 2 // 3

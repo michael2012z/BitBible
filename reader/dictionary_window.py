@@ -31,7 +31,36 @@ class DictionaryWindow(Window):
                 e = i
                 break
         return word[s:e]
-                
+
+
+    def format_explanation(self, explanation):
+        # explanation format: (word, pron, freq, defi, ety, family, examples, hints)
+        text = []
+        if explanation == None:
+            return text
+        # definition
+        if explanation[3] != None and len(explanation[3]) > 0:
+            text.append(explanation[3])
+        # hints
+        if explanation[7] != None and len(explanation[7]) > 0:
+            text.append("[Definition]")
+            for hint in explanation[7]:
+                text.append(" - " + hint[0] + ": " + hint[1])
+        # family
+        if explanation[5] != None and len(explanation[5]) > 0:
+            text.append("[Family]")
+            text.append(explanation[5])
+        # examples
+        if explanation[6] != None and len(explanation[6]) > 0:
+            text.append("[Examples]")
+            for example in explanation[6]:
+                text.append(" - " + example)
+        # etymology
+        if explanation[4] != None and len(explanation[4]) > 0:
+            text.append("[Etymology]")
+            text.append(explanation[4])
+        return text
+        
     def translate(self, word):
         text_lines = []
         word = word.strip()
@@ -55,10 +84,11 @@ class DictionaryWindow(Window):
         defi_block = []
         freq = 0
         if explanation != None:
-            defi = explanation[3]
+            expla_text = self.format_explanation(explanation)
             freq = int(explanation[2])
-            if defi != None and len(defi) > 0:
-                defi_block = self.break_text(defi, self.columns-1)
+            if len(expla_text) > 0:
+                for line in expla_text:
+                    defi_block += self.break_text(line, self.columns-1)
 
         # first line: #######wrod####...###***###### (# stands for space, * is frequency)
         first_line_head = " " * 6 + self.word
