@@ -14,7 +14,15 @@ class DictionaryWindow(Window):
         # nltk.pos_tag(["early"])
         # self.wordnet_lemmatizer.lemmatize("early", 'v')
         super(DictionaryWindow, self).__init__(main_window, y, x, h, w, title)
-
+        self.help_text = [
+                          "Ctl + o: switch window",
+                          "Ctl + n: to next line",
+                          "Ctl + p: to preview line",
+                          "Ctl + f: to next word",
+                          "Ctl + b: to preview word",
+                          "Ctl + e: enter",
+                          ]
+        self.translate(self.word)
 
     def load(self, text_lines):
         super(DictionaryWindow, self).load(text_lines)
@@ -64,10 +72,10 @@ class DictionaryWindow(Window):
         text_lines = []
         word = word.strip()
         if len(word) == 0:
-            if len(self.word) != 0:
-                self.word = ""
-                self.load(text_lines)
-                self.refresh()
+            self.word = ""
+            self.load(self.help_text)
+            self.set_title("Help")
+            #self.refresh()
             return
             
         self.word = self.get_alpha(word)
@@ -96,7 +104,8 @@ class DictionaryWindow(Window):
         first_line = first_line_head + " " * paddings + first_line_tail
         text_lines = [first_line] + defi_block
         self.load(text_lines)
-        self.refresh()
+        self.set_title("Dictionary")
+        #self.refresh()
 
 
     def load_word(self, word):

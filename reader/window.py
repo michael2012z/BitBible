@@ -43,12 +43,16 @@ class Window(object):
 
     def set_focus(self):
         self.focused = True
-        self.win.addstr(0, 2, '> ' + self.title + ' <', curses.color_pair(2))
+        xtitle = '> ' + self.title + ' <'
+        self.win.addstr(0, 2, xtitle, curses.color_pair(2))
+        self.win.addstr(0, 2 + len(xtitle), "-" * (self.columns - len(xtitle) - 2))
         self.refresh()
         
     def set_nonfocus(self):
         self.focused = False
-        self.win.addstr(0, 2, '> ' + self.title + ' <', curses.color_pair(1))
+        xtitle = '> ' + self.title + ' <'
+        self.win.addstr(0, 2, xtitle, curses.color_pair(1))
+        self.win.addstr(0, 2 + len(xtitle), "-" * (self.columns - len(xtitle) - 2))
         self.refresh()
 
         
