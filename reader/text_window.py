@@ -40,7 +40,6 @@ class TextWindow(Window):
         # Valid value should be >= 5
         self.current_cursor = 0
         super(TextWindow, self).__init__(main_window, y, x, h, w, title, show_highlight=True)
-        log("text window height = {}".format(self.height))
 
         
     def print_line(self, line_num, text, highlighted = False):
@@ -48,7 +47,6 @@ class TextWindow(Window):
             self.win.addstr(line_num, 0, text)
             if self.columns > len(text):
                 self.win.addstr(line_num, len(text), ' ' * (self.columns - len(text)))
-                log("Text Widow print_line()")
             return
         
         pure_text = text[4:].strip()
@@ -77,8 +75,6 @@ class TextWindow(Window):
             if (i + self.buffer_upper_line) < self.buffer_lower_line:
                 self.print_line(i+1, self.display_buffer[self.buffer_upper_line + i], i == self.current_line)
         self.win.refresh()
-        log("Text Widow self.display_buffer size: {}".format(len(self.display_buffer)))
-        log("Text window refreshed()")
     
     def make_verse_meta_data(self, raw_text):
         verse_block = self.break_text(raw_text, self.columns-5)
@@ -108,7 +104,6 @@ class TextWindow(Window):
         text_lines: List of a tuple, each tuple contains a tag (usually index) and a line of text.
         data:             # long name, short name, chapter, text.
         '''
-        log("Text window load() called")
         title = data[0]
         self.displaying_book_short_name = data[1]
         self.displaying_chapter = data[2]
@@ -129,13 +124,10 @@ class TextWindow(Window):
             for buffer_line in verse_buffer:
                 display_buffer.append(buffer_line)
 
-        log("Text Widow display_buffer size: {}".format(len(display_buffer)))
         super(TextWindow, self).load(display_buffer)
 
         highlighted_verse = self.get_current_verse()
         self.notify("show_comment", (self.displaying_book_short_name, self.displaying_chapter, str(highlighted_verse)))
-        log("highlighted_verse = {}".format(highlighted_verse))
-        log("to notify comment: {}".format((self.displaying_book_short_name, self.displaying_chapter, str(highlighted_verse))))
 
             
     def get_current_verse(self):
@@ -149,7 +141,6 @@ class TextWindow(Window):
         return 0
             
     def move_to_next_word(self):
-        log("1 current_cursor = {}, selected = ".format(self.current_cursor, self.selected_word))
         if self.current_cursor == 0:
             self.current_cursor = 4
         else:
@@ -157,7 +148,6 @@ class TextWindow(Window):
             if self.current_cursor >= self.columns:
                 self.current_cursor = self.columns - 1
                 return
-        log("2 current_cursor = {}".format(self.current_cursor))
         self.refresh()
 
     def move_to_prev_word(self):

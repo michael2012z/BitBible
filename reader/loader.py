@@ -24,7 +24,7 @@ def load_book(bible_name, book_name_short):
                     continue
                 else: #verse
                     split_line = line.split(". ")
-                    chapter.append(split_line[1])
+                    chapter.append(". ".join(split_line[1:]))
         if len(chapter) > 0:
             book.append(chapter)
         return book
