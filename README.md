@@ -16,10 +16,13 @@ My favorite: [NIV - New International Version](markdown/NIV/README.md)
 ## A command-line Bible reader
 
 The reader(reader) is not ready yet. Here is a snapshot of the latest progress.
-![](docs/img/bitbible_05.png)
+![](docs/img/bitbible_06.png)
 The screen shot of some early versions:
 <table>
 <tr>
+  <td width=200>
+    <img src=docs/img/bitbible_05.png />
+  </td>  
   <td width=200>
     <img src=docs/img/bitbible_04.png />
   </td>
