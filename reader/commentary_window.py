@@ -19,7 +19,7 @@ class CommentaryWindow(Window):
 
     def comment(self, verse_id):
         # verse_id in format (book_short_name, chapter, verse)
-        text = "Commentary not found."
+        text = ["Commentary not found."]
         book_short_name, chapter, verse = verse_id
         filename = "../commentary/MHCC/markdown/" + book_short_name + ".md"
         if os.path.exists(filename):

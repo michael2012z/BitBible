@@ -1,8 +1,12 @@
+import sys
 import os
 import curses
 from window import Window
 from log import *
 import loader
+sys.path.append('../util/')
+import book_names
+
 
 class BooksWindow(Window):
 
@@ -106,7 +110,7 @@ class BooksWindow(Window):
         
 
     def load_versions(self, selected="NIV"):
-        versions = os.listdir("../markdown/")
+        versions = sorted(os.listdir("../markdown/"))
         return {"name": "Versions",
                 "list": versions,
                 "callback": self.versions_callback,
@@ -123,8 +127,15 @@ class BooksWindow(Window):
         #self.refresh()
 
     def load_books(self, version, selected="Gen"):
-        books = os.listdir("../markdown/" + version + "/files/")
-        books = list(map(lambda x: x[:-3] , books))
+        books_fn = os.listdir("../markdown/" + version + "/files/")
+        books_unsorted = list(map(lambda x: x[:-3] , books_fn))
+        books = []
+        # sort
+        for testament in book_names.book_names:
+            for book_name in testament:
+                _, book_name_short = book_name
+                if book_name_short in books_unsorted:
+                    books.append(book_name_short)
         xbooks = ["-return-"]
         for book in books:
             xbooks.append(book)
