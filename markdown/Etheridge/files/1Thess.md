@@ -50,13 +50,13 @@
 
 13. WHEREFORE we also give thanks constantly unto Aloha, that the word of Aloha which you received from us, was not as the word of man (that) you received (it), but, as it is truly, the word of Aloha, which in operation worketh (alike) in you and in all them who believe.
 
-14. But you, my brethren, have become like the churches of Aloha which are in Jihud, who are in Jeshu Meshiha, because you likewise sufferBear, sustain. from your fellow-country-men,Sons of your tribe. as they also from the Jihudoyee;
+14. But you, my brethren, have become like the churches of Aloha which are in Jihud, who are in Jeshu Meshiha, because you likewise suffer
 
 15. who killed our Lord Jeshu Meshiha, and the prophets who were of them, and ourselves have persecuted, and Aloha have not pleased,
 
 16. and have acted adversely to all men; who forbid us to speak with the Gentiles that they might be saved; to fill up their sins for all time: but upon them cometh the wrath unto the end!
 
-17. BUT we, my brethren, having been bereaved-ones of you the time of an hour, as to our presence,In our faces. but not in our heart, have been the more solicitous to see your faces with great love,
+17. BUT we, my brethren, having been bereaved-ones of you the time of an hour, as to our presence,
 
 18. and have wished to come to you (even) I, Paulos, one time and two; but Satana hindered me.
 
@@ -108,11 +108,11 @@
 
 7. For Aloha hath not called us to uncleanness, but unto sanctification.
 
-8. Therefore, whoever despiseth, not man he despiseth, but Aloha, who hath ingiven you his Holy Spirit.Da-yahab becun.
+8. Therefore, whoever despiseth, not man he despiseth, but Aloha, who hath ingiven you his Holy Spirit.
 
 9. But concerning the love of the brethren, you need not (that I) write to you; for you yourselves are taught of Aloha to love one another.
 
-10. And so do you to all the brethren who are in all Makedunia; but I beseech of you, my brethren, to exceltherein .
+10. And so do you to all the brethren who are in all Makedunia; but I beseech of you, my brethren, to excel
 
 11. And study to be quiet and be occupied with your own employments, and work with your hands, as we have admonished you;
 
@@ -122,11 +122,11 @@
 
 14. For if we believe that Jeshu died and arose, so also Aloha those who have slept in Jeshu will bring with him.
 
-15. But this we say to you by the word of our Lord, that we whomay be remaining at the coming of our Lord,we whothen may live, will not precede those who have slept.
+15. But this we say to you by the word of our Lord, that we who
 
 16. For our Lord himself with the mandate, and with the voice of the chief of angels, and with the trumpet of Aloha, will come down from heaven, and the dead who are in the Meshiha will arise first;
 
-17. and then we who remainingmay be alive, shall be rapt with them together in clouds, to the meeting of our Lord in the expanse;Or, in heaven, as aar, may be understood. Compare SCHLEUSNER, sub voce, No. 2. and so always with our Lord shall we be.
+17. and then we who remaining
 
 18. Wherefore comfort one another with these words.
 
@@ -146,7 +146,7 @@
 
 7. For they who sleep, in the night sleep; and they who are drunken, in the night are drunken.
 
-8. But we who are sons of the day must be wakeful in our minds, and wear the mail-coatSheryono. Heb. Shiryon. of faith and of love, and put on the helmet of the hope of salvation.
+8. But we who are sons of the day must be wakeful in our minds, and wear the mail-coat
 
 9. For Aloha hath not appointed us to wrath, but to the possession of salvation in our Lord Jeshu Meshiha,
 
@@ -174,7 +174,7 @@
 
 21. Prove every thing, and what is good retain.
 
-22. And from every evil thingOr, affair, business. flee.
+22. And from every evil thing
 
 23. But the God of peace himself will sanctify perfectly all of you; and your whole spirit, and your soul, and your body will he keep without fault, to the coming of our Lord Jeshu Meshiha.
 

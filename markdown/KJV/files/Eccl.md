@@ -10,11 +10,11 @@
 
 4. One generation passeth away, and another generation cometh: but the earth abideth for ever.
 
-5. The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.hasteth: Heb. panteth
+5. The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.
 
 6. The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.
 
-7. All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.return…: Heb. return to go
+7. All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.
 
 8. All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
 
@@ -26,13 +26,13 @@
 
 12. I the Preacher was king over Israel in Jerusalem.
 
-13. And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.to be…: or, to afflict them
+13. And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.
 
 14. I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.
 
-15. That which is crooked cannot be made straight: and that which is wanting cannot be numbered.that which is wanting: Heb. defect
+15. That which is crooked cannot be made straight: and that which is wanting cannot be numbered.
 
-16. I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.had…: Heb. had seen much
+16. I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
 
 17. And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.
 
@@ -44,7 +44,7 @@
 
 2. I said of laughter, It is mad: and of mirth, What doeth it?
 
-3. I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.to give…: Heb. to draw my flesh with wineall…: Heb. the number of the days of their life
+3. I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.
 
 4. I made me great works; I builded me houses; I planted me vineyards:
 
@@ -52,9 +52,9 @@
 
 6. I made me pools of water, to water therewith the wood that bringeth forth trees:
 
-7. I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:servants born…: Heb. sons of my house
+7. I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:
 
-8. I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.musical…: Heb. musical instrument and instruments
+8. I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.
 
 9. So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.
 
@@ -62,49 +62,49 @@
 
 11. Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.
 
-12. And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done.even…: or, in those things which have been already done
+12. And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done.
 
-13. Then I saw that wisdom excelleth folly, as far as light excelleth darkness.that…: Heb. that there is an excellency in wisdom more than in folly, etc
+13. Then I saw that wisdom excelleth folly, as far as light excelleth darkness.
 
 14. The wise man’s eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.
 
-15. Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.happeneth even…: Heb. happeneth to me, even to me
+15. Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.
 
 16. For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool.
 
 17. Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.
 
-18. Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.taken: Heb. laboured
+18. Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.
 
 19. And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity.
 
 20. Therefore I went about to cause my heart to despair of all the labour which I took under the sun.
 
-21. For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.leave: Heb. give
+21. For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.
 
 22. For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?
 
 23. For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.
 
-24. There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.should make…: or, delight his senses
+24. There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
 
 25. For who can eat, or who else can hasten hereunto, more than I?
 
-26. For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.in his…: Heb. before him 
+26. For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.
 
 ## Ecclesiastes 3
 
 1. To every thing there is a season, and a time to every purpose under the heaven:
 
-2. A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;to be…: Heb. to bear
+2. A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;
 
 3. A time to kill, and a time to heal; a time to break down, and a time to build up;
 
 4. A time to weep, and a time to laugh; a time to mourn, and a time to dance;
 
-5. A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;to refrain from: Heb. to be far from
+5. A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;
 
-6. A time to get, and a time to lose; a time to keep, and a time to cast away;get: or, seek
+6. A time to get, and a time to lose; a time to keep, and a time to cast away;
 
 7. A time to rend, and a time to sew; a time to keep silence, and a time to speak;
 
@@ -122,31 +122,31 @@
 
 14. I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him.
 
-15. That which hath been is now; and that which is to be hath already been; and God requireth that which is past.that which is past: Heb. that which is driven away
+15. That which hath been is now; and that which is to be hath already been; and God requireth that which is past.
 
 16. And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.
 
 17. I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.
 
-18. I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.that God…: or, that they might clear God, and see, etc
+18. I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
 
 19. For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.
 
 20. All go unto one place; all are of the dust, and all turn to dust again.
 
-21. Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?of man: Heb. of the sons of mangoeth upward: Heb. is ascending, etc
+21. Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?
 
 22. Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him? 
 
 ## Ecclesiastes 4
 
-1. So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.side: Heb. hand
+1. So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 
 2. Wherefore I praised the dead which are already dead more than the living which are yet alive.
 
 3. Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.
 
-4. Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.every…: Heb. all the rightness of workfor this…: Heb. this is the envy of a man from his neighbour
+4. Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.
 
 5. The fool foldeth his hands together, and eateth his own flesh.
 
@@ -164,7 +164,7 @@
 
 12. And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
 
-13. Better is a poor and a wise child than an old and foolish king, who will no more be admonished.who…: Heb. who knoweth not to be admonished
+13. Better is a poor and a wise child than an old and foolish king, who will no more be admonished.
 
 14. For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor.
 
@@ -176,7 +176,7 @@
 
 1. Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
 
-2. Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.thing: or, word
+2. Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.
 
 3. For a dream cometh through the multitude of business; and a fool’s voice is known by multitude of words.
 
@@ -188,7 +188,7 @@
 
 7. For in the multitude of dreams and many words there are also divers vanities: but fear thou God.
 
-8. If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.at the…: Heb. at the will, or, purpose
+8. If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.
 
 9. Moreover the profit of the earth is for all: the king himself is served by the field.
 
@@ -208,11 +208,11 @@
 
 17. All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.
 
-18. Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.it is good…: Heb. there is a good which is comely, etcall the days: Heb. the number of the days
+18. Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.
 
 19. Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God.
 
-20. For he shall not much remember the days of his life; because God answereth him in the joy of his heart.For…: or, Though he give not much, yet he remembereth, etc 
+20. For he shall not much remember the days of his life; because God answereth him in the joy of his heart.
 
 ## Ecclesiastes 6
 
@@ -228,17 +228,17 @@
 
 6. Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?
 
-7. All the labour of man is for his mouth, and yet the appetite is not filled.appetite: Heb. soul
+7. All the labour of man is for his mouth, and yet the appetite is not filled.
 
 8. For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?
 
-9. Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.than…: Heb. than the walking of the soul
+9. Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
 
 10. That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.
 
 11. Seeing there be many things that increase vanity, what is man the better?
 
-12. For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?all…: Heb. the number of the days of the life of his vanity 
+12. For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
 
 ## Ecclesiastes 7
 
@@ -246,13 +246,13 @@
 
 2. It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.
 
-3. Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.Sorrow: or, Anger
+3. Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.
 
 4. The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
 
 5. It is better to hear the rebuke of the wise, than for a man to hear the song of fools.
 
-6. For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.crackling: Heb. sound
+6. For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.
 
 7. Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
 
@@ -260,21 +260,21 @@
 
 9. Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
 
-10. Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.wisely: Heb. out of wisdom
+10. Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.
 
-11. Wisdom is good with an inheritance: and by it there is profit to them that see the sun.good…: or, as good as an inheritance, yea, better too
+11. Wisdom is good with an inheritance: and by it there is profit to them that see the sun.
 
-12. For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.defence: Heb. shadow
+12. For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.
 
 13. Consider the work of God: for who can make that straight, which he hath made crooked?
 
-14. In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.set: Heb. made
+14. In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
 
 15. All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.
 
-16. Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?destroy…: Heb. be desolate?
+16. Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?
 
-17. Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?before…: Heb. not in thy time?
+17. Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?
 
 18. It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.
 
@@ -282,7 +282,7 @@
 
 20. For there is not a just man upon earth, that doeth good, and sinneth not.
 
-21. Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:take…: Heb. give not thine heart
+21. Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:
 
 22. For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.
 
@@ -290,11 +290,11 @@
 
 24. That which is far off, and exceeding deep, who can find it out?
 
-25. I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:I applied…: Heb. I and mine heart compassed
+25. I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:
 
-26. And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.whoso…: Heb. he that is good before God
+26. And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
 
-27. Behold, this have I found, saith the preacher, counting one by one, to find out the account:counting…: or, weighing one thing after another, to find out the reason
+27. Behold, this have I found, saith the preacher, counting one by one, to find out the account:
 
 28. Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
 
@@ -302,7 +302,7 @@
 
 ## Ecclesiastes 8
 
-1. Who is as the wise man? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.the boldness: Heb. the strength
+1. Who is as the wise man? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.
 
 2. I counsel thee to keep the king’s commandment, and that in regard of the oath of God.
 
@@ -310,13 +310,13 @@
 
 4. Where the word of a king is, there is power: and who may say unto him, What doest thou?
 
-5. Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment.shall…: Heb. shall know
+5. Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment.
 
 6. Because to every purpose there is time and judgment, therefore the misery of man is great upon him.
 
-7. For he knoweth not that which shall be: for who can tell him when it shall be?when…: or, how it shall be?
+7. For he knoweth not that which shall be: for who can tell him when it shall be?
 
-8. There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.discharge: or, casting off weapons
+8. There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.
 
 9. All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt.
 
@@ -338,7 +338,7 @@
 
 ## Ecclesiastes 9
 
-1. For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.I considered…: Heb. I gave, or, set to my heart
+1. For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.
 
 2. All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath.
 
@@ -354,7 +354,7 @@
 
 8. Let thy garments be always white; and let thy head lack no ointment.
 
-9. Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun.Live…: Heb. See, or, Enjoy life
+9. Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun.
 
 10. Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
 
@@ -376,17 +376,17 @@
 
 ## Ecclesiastes 10
 
-1. Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.Dead…: Heb. Flies of death
+1. Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.
 
 2. A wise man’s heart is at his right hand; but a fool’s heart at his left.
 
-3. Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.his…: Heb. his heart
+3. Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.
 
 4. If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.
 
-5. There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:from: Heb. from before
+5. There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:
 
-6. Folly is set in great dignity, and the rich sit in low place.in great…: Heb. in great heights
+6. Folly is set in great dignity, and the rich sit in low place.
 
 7. I have seen servants upon horses, and princes walking as servants upon the earth.
 
@@ -396,13 +396,13 @@
 
 10. If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.
 
-11. Surely the serpent will bite without enchantment; and a babbler is no better.a babbler: Heb. the master of the tongue
+11. Surely the serpent will bite without enchantment; and a babbler is no better.
 
-12. The words of a wise man’s mouth are gracious; but the lips of a fool will swallow up himself.gracious: Heb. grace
+12. The words of a wise man’s mouth are gracious; but the lips of a fool will swallow up himself.
 
-13. The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.his talk: Heb. his mouth
+13. The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.
 
-14. A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?is full…: Heb. multiplieth words
+14. A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?
 
 15. The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.
 
@@ -412,13 +412,13 @@
 
 18. By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.
 
-19. A feast is made for laughter, and wine maketh merry: but money answereth all things.maketh…: Heb. maketh glad the life
+19. A feast is made for laughter, and wine maketh merry: but money answereth all things.
 
-20. Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.thought: or, conscience 
+20. Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.
 
 ## Ecclesiastes 11
 
-1. Cast thy bread upon the waters: for thou shalt find it after many days.upon…: Heb. upon the face of the waters
+1. Cast thy bread upon the waters: for thou shalt find it after many days.
 
 2. Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.
 
@@ -428,7 +428,7 @@
 
 5. As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.
 
-6. In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.shall prosper: Heb. shall be right
+6. In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.
 
 7. Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:
 
@@ -436,7 +436,7 @@
 
 9. Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.
 
-10. Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.sorrow: or, anger 
+10. Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.
 
 ## Ecclesiastes 12
 
@@ -444,7 +444,7 @@
 
 2. While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:
 
-3. In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,the grinders…: or, the grinders fail, because they grind little
+3. In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
 
 4. And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;
 
@@ -456,14 +456,14 @@
 
 8. Vanity of vanities, saith the preacher; all is vanity.
 
-9. And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.moreover…: or, the more wise the preacher was, etc
+9. And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.
 
-10. The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.acceptable…: Heb. words of delight
+10. The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.
 
 11. The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.
 
-12. And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.study: or, reading
+12. And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
 
-13. Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.Let…: or, The end of the matter, even all that hath been heard, is
+13. Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
 
 14. For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  

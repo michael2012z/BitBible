@@ -418,9 +418,9 @@
 
 4. Praised, I cry, is HaShem, and I am saved from mine enemies.
 
-5. The cords of Death compassed me, and the floods of BelialThat is, the nether-world. assailed me.
+5. The cords of Death compassed me, and the floods of Belial
 
-6. The cords of SheolThat is, the nether-world. surrounded me; the snares of Death confronted me.
+6. The cords of Sheol
 
 7. In my distress I called upon HaShem, and cried unto my G-d; out of His temple He heard my voice, and my cry came before Him unto His ears.
 
@@ -1030,7 +1030,7 @@
 
 17. The face of HaShem is against them that do evil, to cut off the remembrance of them from the earth.
 
-18. TheyThat is, the righteous cried, and HaShem heard, and delivered them out of all their troubles.
+18. They
 
 19. HaShem is nigh unto them that are of a broken heart, and saveth such as are of a contrite spirit.
 
@@ -3358,7 +3358,7 @@
 
 10. For forty years was I wearied with that generation, and said: It is a people that do err in their heart, and they have not known My ways;
 
-11. Wherefore I swore in My wrath, that they should not enter into My rest.'See Deut. 12.9.
+11. Wherefore I swore in My wrath, that they should not enter into My rest.'
 
 ## Psalms 96
 
@@ -3660,7 +3660,7 @@
 
 34. Let my musing be sweet unto Him; as for me, I will rejoice in HaShem.
 
-35. Let sinners cease out of the earth, and let the wicked be no more. Bless HaShem, O my soul. Hallelujah.That is, Praise ye the LORD.
+35. Let sinners cease out of the earth, and let the wicked be no more. Bless HaShem, O my soul. Hallelujah.
 
 ## Psalms 105
 
@@ -4820,7 +4820,7 @@
 
 5. Until I find out a place for HaShem, a dwelling-place for the Mighty One of Jacob.'
 
-6. Lo, we heard of it as being in Ephrath; we found it in the field of the wood.Heb. Jaar. See 1 Chr. 13.5.
+6. Lo, we heard of it as being in Ephrath; we found it in the field of the wood.
 
 7. Let us go into His dwelling-place; let us worship at His footstool.
 

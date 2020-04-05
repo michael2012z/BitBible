@@ -88,7 +88,7 @@
 
 15. Then they arose and passed over by number: twelve for Benjamin, and for Ish-bosheth the son of Saul, and twelve of the servants of David.
 
-16. And they caught every one his fellow by the head, and thrust his sword in his fellow's side; so they fell down together; wherefore that place was called Helkath-hazzurim,That is, The field of the sharp knives. which is in Gibeon.
+16. And they caught every one his fellow by the head, and thrust his sword in his fellow's side; so they fell down together; wherefore that place was called Helkath-hazzurim,
 
 17. And the battle was very sore that day; and Abner was beaten, and the men of Israel, before the servants of David.
 
@@ -268,7 +268,7 @@
 
 19. And David inquired of HaShem, saying: 'Shall I go up against the Philistines? wilt Thou deliver them into my hand?' And HaShem said unto David: 'Go up; for I will certainly deliver the Philistines into thy hand.'
 
-20. And David came to Baal-perazim, and David smote them there; and he said: 'The HaShem hath broken mine enemies before me, like the breach of waters.' Therefore the name of that place was called Baal-perazim.That is, The possessor of breaches.
+20. And David came to Baal-perazim, and David smote them there; and he said: 'The HaShem hath broken mine enemies before me, like the breach of waters.' Therefore the name of that place was called Baal-perazim.
 
 21. And they left their images there, and David and his men took them away.
 
@@ -296,7 +296,7 @@
 
 7. And the anger of HaShem was kindled against Uzzah; and G-d smote him there for his error; and there he died by the ark of G-d.
 
-8. And David was displeased, because HaShem had broken forth upon Uzzah; and that place was called Perez-uzzah,That is, The breach of Uzzah. unto this day.
+8. And David was displeased, because HaShem had broken forth upon Uzzah; and that place was called Perez-uzzah,
 
 9. And David was afraid of HaShem that day; and he said: 'How shall the ark of HaShem come unto me?'
 
@@ -474,7 +474,7 @@
 
 9. Now when Joab saw that the battle was set against him before and behind, he chose of all the choice men of Israel, and put them in array against the Arameans;
 
-10. and the rest of the people he committed into the hand of AbishaiHeb. Abshai his brother, and he put them in array against the children of Ammon.
+10. and the rest of the people he committed into the hand of Abishai
 
 11. And he said: 'If the Arameans be too strong for me, then thou shalt help me, but if the children of Ammon be too strong for thee, then I will come and help thee.
 
@@ -600,7 +600,7 @@
 
 24. And David comforted Bath-sheba his wife, and went in unto her, and lay with her; and she bore a son, and called his name Solomon. And HaShem loved him;
 
-25. and He sent by the hand of Nathan the prophet, and he called his name Jedidiah,That is, Beloved of the LORD. for HaShem'S sake.
+25. and He sent by the hand of Nathan the prophet, and he called his name Jedidiah,
 
 26. Now Joab fought against Rabbah of the children of Ammon, and took the royal city.
 
@@ -654,7 +654,7 @@
 
 19. And Tamar put ashes on her head, and rent her garment of many colours that was on her; and she laid her hand on her head, and went her way, crying aloud as she went.
 
-20. And Absalom her brother said unto her: 'Hath AmnonHeb. Aminon. thy brother been with thee? but now hold thy peace, my sister: he is thy brother; take not this thing to heart.' So Tamar remained desolate in her brother, Absalom's house.
+20. And Absalom her brother said unto her: 'Hath Amnon
 
 21. But when king David heard of all these things, he was very wroth.
 
@@ -790,7 +790,7 @@
 
 13. And there came a messenger to David, saying: 'The hearts of the men of Israel are after Absalom.'
 
-14. And David said unto all his servants that were with him at Jerusalem: 'Arise, and let us flee; orOriginal word was 'for'. It was replaced by 'or'. LN else none of us shall escape from Absalom; make speed to depart, lest he overtake us quickly, and bring down evil upon us, and smite the city with the edge of the sword.'
+14. And David said unto all his servants that were with him at Jerusalem: 'Arise, and let us flee; or
 
 15. And the king's servants said unto the king: 'Behold, thy servants are ready to do whatsoever my lord the king shall choose.'
 
@@ -1094,7 +1094,7 @@
 
 40. And all the people went over the Jordan, and the king went over; and the king kissed Barzillai, and blessed him; and he returned unto his own place.
 
-41. So the king went over to Gilgal, and ChimhamHeb. Chimhan. went over with him; and all the people of Judah brought the king over, and also half the people of Israel.
+41. So the king went over to Gilgal, and Chimham
 
 42. And, behold, all the men of Israel came to the king, and said unto the king: 'Why have our brethren the men of Judah stolen thee away, and brought the king, and his household, over the Jordan, and all David's men with him?'
 
@@ -1212,9 +1212,9 @@
 
 4. Praised, I cry, is HaShem, and I am saved from mine enemies.
 
-5. For the waves of Death compassed me. The floods of BelialThat is, the nether-world. assailed me.
+5. For the waves of Death compassed me. The floods of Belial
 
-6. The cords of SheolThat is, the nether-world. surrounded me; the snares of Death confronted me.
+6. The cords of Sheol
 
 7. In my distress I called upon HaShem, yea, I called unto my G-d; and out of His temple He heard my voice, and my cry did enter into His ears.
 

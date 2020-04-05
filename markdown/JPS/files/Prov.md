@@ -1836,7 +1836,7 @@
 
 3. Give not thy strength unto women, nor thy ways to that which destroyeth kings.
 
-4. It is not for kings, O Lemuel,Heb. Lemoel. it is not for kings to drink wine: nor for princes to say: 'Where is strong drink?'
+4. It is not for kings, O Lemuel,
 
 5. Lest they drink, and forget that which is decreed, and pervert the justice due to any that is afflicted.
 

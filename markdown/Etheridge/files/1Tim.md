@@ -8,15 +8,15 @@
 
 3. I requested of thee, when I would go into Makedunia, to remain at Ephesos, and instruct certain men that they teach not various doctrines,
 
-4. nor throw themselves (away) upon stories and tales of generations which have no end,Soko, " design or scope." (but) which rather subserve contentions, and not edification in the faith of Aloha.
+4. nor throw themselves (away) upon stories and tales of generations which have no end,
 
-5. But the endSoko, " design or scope." of the commandment is love, from a pure heart, and from a good conscience, and from genuine faith.
+5. But the end
 
 6. And from them that have erred, and have declined to vain words,
 
 7. seeking to become teachers of the law, while they understand not what they speak, nor that concerning which they contend.
 
-8. But we know that the law is good, if a man according to the lawOr, as of the law. converse in it;
+8. But we know that the law is good, if a man according to the law
 
 9. knowing that against the righteous the law is not set, but against the evil, and rebels, and the wicked, and sinners, and the dishonest, and those who are not pure, and those who strike their fathers, and those who strike their mothers, and murderers,
 
@@ -32,11 +32,11 @@
 
 15. Faithful is the word, and worthy of reception that Jeshu the Meshiha came into the world to save sinners, of whom I am first.
 
-16. But for this he had compassion upon me, that in me first Jeshu Meshiha might show all long-suffering, as an exhibitionOr, spectacle. for them who should believe in him unto everlasting life.
+16. But for this he had compassion upon me, that in me first Jeshu Meshiha might show all long-suffering, as an exhibition
 
 17. But to the King who is eternal, incorruptible, and unseen, who is one Aloha, be honour and glory for ever and ever. Amen.
 
-18. This commandment I commit to thee, my son Timotheos, according to the earlyOr, first. prophecies which were concerning thee, that thou mayest war through them this good warfare with faith and with a good conscience.
+18. This commandment I commit to thee, my son Timotheos, according to the early
 
 19. For those who this have put away from them of faith have been emptied;
 
@@ -44,9 +44,9 @@
 
 ## 1 Timothy 2
 
-1. I REQUIREBoeno, " I request, entreat." then from thee, that, before every thing supplication be offered to Aloha, and prayer and intercession and thanksgiving for all men;
+1. I REQUIRE
 
-2. for kings and princes,Or, great ones, rurbonee. that an habitation quiet and tranquil we may inhabit in all the fear of Aloha and purity.
+2. for kings and princes,
 
 3. For this is good and acceptable before Aloha our Saviour;
 
@@ -66,7 +66,7 @@
 
 11. Let the wife in quietude learn with all submission:
 
-12. for unto the wife to teachLamlophu, to dogmatize. I permit not, neither to be authoritativeOr, daring. over the husband, but to be in quietude.
+12. for unto the wife to teach
 
 13. For Adam was formed first, then Hava;
 
@@ -76,7 +76,7 @@
 
 ## 1 Timothy 3
 
-1. This saying is faithful, that if a man desire the presbyterate,Kashishutho. a good work he desireth.
+1. This saying is faithful, that if a man desire the presbyterate,
 
 2. But it behoveth that a presbyter be as that blame be not found in him; and that he be the husband of one wife; (a man) who is of a vigilant mind, chaste, and orderly, and a lover of guests, and instructful;
 
@@ -90,7 +90,7 @@
 
 7. But it is needful that he have also a good testimony from those without, that he may not fall into reproach, and into the net of Satana.
 
-8. And also the ministersM'shamshonee. must be pure, not speaking doubly, not inclined to much wine, nor shall they love unclean gains.
+8. And also the ministers
 
 9. But they shall hold the mystery of the faith with a pure conscience.
 
@@ -98,7 +98,7 @@
 
 11. Thus also must the woman be chaste, and they shall be vigilant (in their) minds, and faithful in every thing; and they shall not be accusers.
 
-12. The ministersM'shamshonee. shall be (of them) severally who have one wife, and shall rule each his children and his household well.
+12. The ministers
 
 13. For they who minister well, a good degree acquire for themselves, and much openness of face in the faith of Jeshu Meshiha.
 
@@ -106,7 +106,7 @@
 
 15. but if I should delay, that thou mayest know how to converse in the house of Aloha, which is the church of Aloha the Living, the column and foundation of the truth.
 
-16. And truly great is this mystery of righteousness,Kinutho. which was revealed in the flesh, and justified by the Spirit, and seen of angels, and preached among the peoples, and believed in the world, and taken up into glory.
+16. And truly great is this mystery of righteousness,
 
 ## 1 Timothy 4
 
@@ -136,7 +136,7 @@
 
 13. Till I come be diligent in reading, and in prayer, and in teaching.
 
-14. Neglect not the gift that is in thee, which was given thee with prophecy, and the hand-layingSim-yado. of the presbytery.
+14. Neglect not the gift that is in thee, which was given thee with prophecy, and the hand-laying
 
 15. In these meditate, and in them be, that it may be known to every man that thou goest onward.
 
@@ -164,7 +164,7 @@
 
 10. and who hath the testimony of good works: if she have brought up children, if she have received guests, if she have washed the feet of the saints, if she have cheered the afflicted, if she have walked in every gracious work.
 
-11. But from the widows who are young, withhold (the election); for these become schismaticalMetstarin, partic. Ethpa. of Tsero, Scidit, dilaceravit. against the Meshiha, and seek to marry,
+11. But from the widows who are young, withhold (the election); for these become schismatical
 
 12. and their condemnation is confirmed, because they have rejected their first fidelity.
 
@@ -176,7 +176,7 @@
 
 16. If any believing man or believing woman have widows, let them support them, that they may not be burden-some on the church, that they who are widows indeed may have sufficient.
 
-17. Those presbyters who well conduct themselvesD'shaphir methdabrin. shall be worthy of double honour, especially they who labour in the word and in doctrine.
+17. Those presbyters who well conduct themselves
 
 18. For the scripture saith, Thou shalt not muzzle the ox in the treading out; and, Worthy is the labourer of his hire.
 
@@ -202,15 +202,15 @@
 
 3. But if there be a man who teacheth other doctrine, and who accedeth not to the healthful words of our Lord Jeshu Meshiha, and to the doctrine of the fear of Aloha,
 
-4. this (is one) who extolleth himself while knowing nothing, but is infirm with disputation and questioning of words, from which are envy, and contention, and evil speaking, and supposition in the evil mind,Masom b'reyono bisho.
+4. this (is one) who extolleth himself while knowing nothing, but is infirm with disputation and questioning of words, from which are envy, and contention, and evil speaking, and supposition in the evil mind,
 
 5. and conflicts of men whose minds are corrupt and deprived of the truth, and who consider that gain is the fear of Aloha.
 
-6. But thou, remove thyself from them. For our gain is great which is the fear of Aloha, with the use of our sufficiency.Bachshachtho demesthan.
+6. But thou, remove thyself from them. For our gain is great which is the fear of Aloha, with the use of our sufficiency.
 
 7. For nothing brought we into the world, and we know that nothing we are able to take from it.
 
-8. Therefore sufficient to us are food and raiment.Or, covering.
+8. Therefore sufficient to us are food and raiment.
 
 9. But they who will be rich fall into temptations and snares, and many lusts which befool and injure, and which plunge men into destruction and perdition.
 
@@ -234,6 +234,6 @@
 
 19. and lay for themselves a good foundation for that which is to be, that they may lay hold on the true life.
 
-20. O Timothy, watch over that which is confided to thee, and fly from vain words,B'noth kolee serïktho, vain voices. and the turnings of false knowledge.
+20. O Timothy, watch over that which is confided to thee, and fly from vain words,
 
 21. For they who pursue it err from the faith. Grace be with thee. Amen.

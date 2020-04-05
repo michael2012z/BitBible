@@ -2,7 +2,7 @@
 
 ## John 1
 
-1. IN the beginning was the Word,Meltho. and the Word himself was with Aloha, and Aloha was the Word himself.
+1. IN the beginning was the Word,
 
 2. This was in the beginning with Aloha.
 
@@ -12,9 +12,9 @@
 
 5. and the Light himself in the darkness shineth, and the darkness perceived him not.
 
-6. There was a man who was sent from Aloha, his name (was) Juchanon.Pronounced Yu'hanon.
+6. There was a man who was sent from Aloha, his name (was) Juchanon.
 
-7. He came for the testimony, to testify concerning the Light, that all men might believe through his ministry.By his hand.
+7. He came for the testimony, to testify concerning the Light, that all men might believe through his ministry.
 
 8. He was not the Light himself, but came to testify concerning the Light.
 
@@ -30,7 +30,7 @@
 
 14. And the Word flesh was made, and tabernacled with us; and we saw his glory, the glory as of the one-begotten who (was) from the Father, full of grace and truth.
 
-15. Juchanon testified concerning him, and cried, and said, This is he of whom I said, that he cometh after me, and was beforeKedom, coram, ante. me, because he is anteriorKadomi, antiquus, vetus, prior, anterior. to me.
+15. Juchanon testified concerning him, and cried, and said, This is he of whom I said, that he cometh after me, and was before
 
 16. And from his fulness we all have received, and grace for grace.
 
@@ -76,15 +76,15 @@
 
 37. And his two disciples heard him as he spake, and they went after Jeshu.
 
-38. And Jeshu turned (himself), and saw them coming after him, and said to them, Whom seek you? They say to him, Raban, where dwellest thou?Or, where art thou
+38. And Jeshu turned (himself), and saw them coming after him, and said to them, Whom seek you? They say to him, Raban, where dwellest thou?
 
-39. He saith to them, Come and see. And they went and saw where he dwelt;Where he was. and they were with him that day: and it was about the tenth hour.Or, and it was as hours ten.
+39. He saith to them, Come and see. And they went and saw where he dwelt;
 
 40. Now one of those who heard Juchanon and went after Jeshu, was Andreas, the brother of Shemun.
 
 41. This saw first Shemun his brother, and said to him, We have found the Meshicha;
 
-42. and he brought him to Jeshu. And Jeshu saw him, and said, Thou art Shemun bar Jona; thou shalt be called Kipha.Pronounced Kepha.
+42. and he brought him to Jeshu. And Jeshu saw him, and said, Thou art Shemun bar Jona; thou shalt be called Kipha.
 
 43. AND the day following Jeshu willed to go forth into Galila. And he found Philipos, and said to him, Come after me.
 
@@ -116,7 +116,7 @@
 
 5. His mother saith to the servitors, Whatever he telleth you, do.
 
-6. Now there were six waterpots of stone set there, unto the purification of the Jihudoyee, which contained each two quarantalsRebeen. or three.
+6. Now there were six waterpots of stone set there, unto the purification of the Jihudoyee, which contained each two quarantals
 
 7. Jeshu saith to them, Fill these water-pots with waters; and they filled them to the top.
 
@@ -124,7 +124,7 @@
 
 9. And when that chief of the guests had tasted those waters which were made wine, and knew not whence it was, (but the servitors knew, who had filled them with waters,) the chief of the guests called the bridegroom,
 
-10. and said to him, Every man at first the good wine produceth, and when they are satisfied, then that which is inferior;Smaller. but thou hast kept the good wine until now.
+10. and said to him, Every man at first the good wine produceth, and when they are satisfied, then that which is inferior;
 
 11. This is the first sign that Jeshu wrought in Kotna of Galila, and manifested his glory; and his disciples believed in him.
 
@@ -172,7 +172,7 @@
 
 7. Wonder not that I have said to thee, that it behoves you to be born anew.
 
-8. The wind bloweth where she willeth,Rucho signifies either the Spirit, or the wind; as, in like manner, does the corresponding Greek word wneuma and hence most of the versions of the latter have, " The Spirit bloweth where he willeth; " but in the Syriac text the verbs and the pronominal affix to the noun " voice" being in the feminine, the application of Rucho to the Holy Spirit seems not to have been contemplated. OLSHAUSEN on the Greek text has well said, "The comparison itself, and the expression, fwnhn autou, show, beyond doubt, that wneuma does not here mean the breath of the Divine Spirit, but the wind properly so called." and her voice thou hearest; but thou knowest not whence she cometh, nor whither she goeth: so is every man who is born of the Spirit.
+8. The wind bloweth where she willeth,
 
 9. Nikodimos answered and said to him, How can these things be?
 
@@ -212,7 +212,7 @@
 
 27. Juchanon answered and said to them, A man cannot receive of his own will any thing, unless it be given to him from heaven.
 
-28. You bear me witness that I said, I am not the Meshicha, but I am an apostleShelicho. before him.
+28. You bear me witness that I said, I am not the Meshicha, but I am an apostle
 
 29. He that hath the bride is the bridegroom; but the friend of the bridegroom, who standeth and attendeth him, with great joy rejoiceth on account of the voice of the bridegroom: this my joy therefore, behold, is complete.
 
@@ -222,7 +222,7 @@
 
 32. And what he hath seen and heard he testifieth, and his testimony no man receiveth.
 
-33. But he who hath received his testimony, hath sealed that the true Aloha is he.D'Aloha sharira-u: compare the same words, 1Jo 1:20.
+33. But he who hath received his testimony, hath sealed that the true Aloha is he.
 
 34. For he whom Aloha hath sent, the very words of Aloha speaketh; for it was not in measure that Aloha gave the Spirit.
 
@@ -248,7 +248,7 @@
 
 8. Now his disciples had gone into the city to buy for them meat.
 
-9. The woman, the Shomroytha, saith to him, How (canst) thou who art a Jihudoya ask drink of me who am a woman, a Shomroytha? For the Jihudoyee have no accommodationVide MASII Pec. Syr., in voce Chashach. with the Shomroyee.
+9. The woman, the Shomroytha, saith to him, How (canst) thou who art a Jihudoya ask drink of me who am a woman, a Shomroytha? For the Jihudoyee have no accommodation
 
 10. Jeshu answered and said to her, If thou hadst known the gift of Aloha, and who He is who hath said to thee, Give me to drink, thou wouldst have asked of him, and he had given thee living waters.
 
@@ -274,7 +274,7 @@
 
 21. Jeshu saith to her, Woman, believe me that the hour cometh when neither in this mountain, nor at Urishlem, you shall worship the Father:
 
-22. you worship something you know not; but we worship whom we know; for salvationOr, life. is from the Jihudoyee.
+22. you worship something you know not; but we worship whom we know; for salvation
 
 23. But the hour cometh, and now is, when the true worshippers will worship the Father in spirit and in truth; for the Father also requireth worshippers such as these.
 
@@ -282,7 +282,7 @@
 
 25. That woman saith to him, I know that the Meshicha cometh; and when he hath come, he will teach us all things.
 
-26. Jeshu saith to her, I am (he), I who speak with thee.Ano-no dammalel-no amek.
+26. Jeshu saith to her, I am (he), I who speak with thee.
 
 27. And as he spoke, his disciples came, and they wondered that with the woman he spoke; but no man said, What inquirest thou? or, Why speakest thou with her?
 
@@ -304,7 +304,7 @@
 
 36. And he who reapeth receiveth wages, and gathereth fruit unto life eternal; and the sower and the reaper shall rejoice together.
 
-37. For in this is the proverb true, One soweth, and another reapeth.Or, Another soweth, and another reapeth.
+37. For in this is the proverb true, One soweth, and another reapeth.
 
 38. I sent you to reap that (for) which you did not toil; for others toiled, and you have entered upon their labour.
 
@@ -332,7 +332,7 @@
 
 50. Jeshu saith to him, Go, thy son liveth. And the man believed in the word which Jeshu had spoken to him, and went.
 
-51. But as he was going down, his servants met him, and gave him good news,Sabaruhi. saying to him, Thy son liveth.
+51. But as he was going down, his servants met him, and gave him good news,
 
 52. And he asked at what time he was healed. They say to him, Yesterday, at seven hours, the fever left him.
 
@@ -344,11 +344,11 @@
 
 1. AFTER these there was a feast of the Jihudoyee, and Jeshu went up to Urishlem.
 
-2. Now there was there in Urishlem a certain place of ablution,Or, of baptism. which was called in Hebrew Bethchesda, and having in it five porticoes.
+2. Now there was there in Urishlem a certain place of ablution,
 
-3. And in these were many infirm people,People of infirmities. blind and lame and withered, awaiting the moving of the waters.
+3. And in these were many infirm people,
 
-4. For an angel at times descended to the poolMamuditha, bath, baptistery. and moved the waters; and he who first descended after the movement of the waters was healed of whatever disease he had.
+4. For an angel at times descended to the pool
 
 5. But a certain man was there who for thirtyand-eight years had been in a disease.
 
@@ -392,7 +392,7 @@
 
 25. Amen, amen, I say to you, That the hour cometh and also now is, when the dead shall hear the voice of the Son of Aloha; and they who hear shall live
 
-26. For as the Father hath life in his person,Ba-knumeh, in his person or substance. so hath he given also to the Son to have life in his person,
+26. For as the Father hath life in his person,
 
 27. and hath empowered him also to execute judgment. Because he is the Son of man,
 
@@ -478,7 +478,7 @@
 
 20. But Jeshu himself said to them, I am, fear not.
 
-21. And they willed to receive him into the vessel, and soonBoh bashoto, in the hour. that vessel was at that land to which they were going.
+21. And they willed to receive him into the vessel, and soon
 
 22. The day after the people that stood on the opposite shore of the sea saw that there was not another vessel there except that into which the disciples had ascended, and that Jeshu had not entered with his disciples into the vessel;
 
@@ -504,7 +504,7 @@
 
 33. for the bread of Aloha is He who hath descended from heaven, and giveth life to the world.
 
-34. They say to him, Our Lord,Maran. at all time give us this bread.
+34. They say to him, Our Lord,
 
 35. Jeshu saith to them, I am the bread of life: he who cometh to me shall not hunger, and he who believeth in me shall not thirst, for ever.
 
@@ -542,7 +542,7 @@
 
 52. The Jihudoyee contended one with another, saying, How can this his body give to us to eat?
 
-53. And Jeshu said to them, Amen, amen, I tell you, That unless you eat the bodyPhagreh. of the Son of man, and drink his blood, you have no life in yourselves.
+53. And Jeshu said to them, Amen, amen, I tell you, That unless you eat the body
 
 54. He who eateth of my body, and drinketh of my blood, hath the life which is eternal, and I will raise him at the last day.
 
@@ -628,7 +628,7 @@
 
 23. But if a man is circumcised on the day of shabath because the law of Musha may not be broken, why against me do you murmur, because I have altogether healed a man on the day of shabath?
 
-24. Judge not with acceptance of persons,With acceptance of faces. but righteous judgment judge you.
+24. Judge not with acceptance of persons,
 
 25. And some of Urishlem said, Is not this he whom they seek to kill?
 
@@ -688,9 +688,9 @@
 
 ## John 8
 
-1. BUT againThis lesson begins at chapter viii. verse 12 of the Western Recensions. The section from the last verse of chap. vii. to the 12th of the eighth chapter is omitted in the Peschito. See Hor - Aramaic, p. 81. spake Jeshu with them, and said, I am the Light of the world: he who followeth me shall not walk in darkness, but shall find the light of life.
+1. BUT again
 
-2. The Pharishee say to him, Thou ofOr, concerning. thyself testifiest: thy testimony is not the truth.
+2. The Pharishee say to him, Thou of
 
 3. Jeshu answered and said to them, Though I testify of myself, my testimony is the truth: because I know from whence I am, and whither I go.
 
@@ -714,7 +714,7 @@
 
 13. but I am not of this world. I said to you, that you will die in your sins: for if you believe not that I AM, you will die in your sins.
 
-14. The Jihudoyee say, Who art thou? Jeshu saith to them, The same that I began to tell you.Or, to speak with you.
+14. The Jihudoyee say, Who art thou? Jeshu saith to them, The same that I began to tell you.
 
 15. Much have I against you to say and to judge: but he who hath sent me is true; and those (things) which I have heard from him these speak I in the world.
 
@@ -726,7 +726,7 @@
 
 19. And as these (words) he spake, many believed on him.
 
-20. And Jeshu said to those Jihudoyee who believed on him, If you persevere in my doctrine,My word. you shall be truly my disciples;
+20. And Jeshu said to those Jihudoyee who believed on him, If you persevere in my doctrine,
 
 21. and you shall know the truth, and the truth shall liberate you.
 
@@ -738,7 +738,7 @@
 
 25. If He therefore, the Son, shall liberate you, truly shall you be sons of freedom.
 
-26. I know that you are the seed of Abraham; but you seek to kill me, because in my word you do not concur.Or, acquiesce.
+26. I know that you are the seed of Abraham; but you seek to kill me, because in my word you do not concur.
 
 27. That which I have seen with my Father I speak, and that which you have seen with your father you do.
 
@@ -908,7 +908,7 @@
 
 19. And there was again a division among the Jihudoyee because of his words:
 
-20. and many of them said, He has a devil, and is altogether insane,Meshno sheno: Conf. SCHAFF. in voc. et BUXTORF. Thes. ii. 16. why do you hear him?
+20. and many of them said, He has a devil, and is altogether insane,
 
 21. But others said, These words are not of a demoniac: how can a devil open the eyes of the blind?
 
@@ -976,13 +976,13 @@
 
 10. but if a man walk in the night, he stumbleth, because no light is in him.
 
-11. These spake Jeshu; and afterwards he said to them, Loozar our friend reposeth;Shokeb, lieth down, reclineth. but I go to awake him.
+11. These spake Jeshu; and afterwards he said to them, Loozar our friend reposeth;
 
-12. His disciples say to him, Our Lord, if he sleepDomek, sleepeth. he is healed.
+12. His disciples say to him, Our Lord, if he sleep
 
 13. But Jeshu spake concerning his death; and they thought that concerning the repose of sleep he spake.
 
-14. Then said Jeshu to them explicatively,Phashikith. Loozar is dead.
+14. Then said Jeshu to them explicatively,
 
 15. And I am glad I was not there for your sakes, that you may believe. But let us walk thither.
 
@@ -992,7 +992,7 @@
 
 18. Now Bethania was nigh to Urishlem, being a distance from it of about fifteen stadia.
 
-19. And many of the Jihudoyee had come to Martha and Mariam, that they might speak to their heartsDa-nemlun belebheen. concerning their brother.
+19. And many of the Jihudoyee had come to Martha and Mariam, that they might speak to their hearts
 
 20. Then Martha, when she heard that Jeshu had come, went forth to meet him; but Mariam sat in the house.
 
@@ -1004,7 +1004,7 @@
 
 24. Martha saith to him, I know that he ariseth in the resurrection at the last day.
 
-25. Jeshu saith to her, I am the Resurrection and the Life;Eno-no Nuchoma Va-chayee. The appellative Nuchoma is commonly rendered, "the consolation." The Syriac verb nachem is either consolatus est, or resurrexit. The rising of the dead was well called "the consolation!" and (he) who believeth in me, although he will die, shall live.
+25. Jeshu saith to her, I am the Resurrection and the Life;
 
 26. And every one who liveth and believeth in me, for ever shall not die. Believest thou this?
 
@@ -1072,7 +1072,7 @@
 
 ## John 12
 
-1. But Jeshu six days before the petscha came to Bethania, where Loozar was, he whom Jeshu had raised from among the dead.Or, (men beth mithee,) from the house of the dead.
+1. But Jeshu six days before the petscha came to Bethania, where Loozar was, he whom Jeshu had raised from among the dead.
 
 2. And they made him there a supper and Martha served, and Loozar was one of those who reclined with him.
 
@@ -1126,7 +1126,7 @@
 
 27. Now my soul, behold it is commoved; and what shall I say? My Father, deliver me from this hour:
 
-28. but on account of this have I come unto this hour. Father, glorify thy name. And the voice was heard from heaven, I have glorified, and again I glorify.Schabechth, vatoob maschbach-no.
+28. but on account of this have I come unto this hour. Father, glorify thy name. And the voice was heard from heaven, I have glorified, and again I glorify.
 
 29. And the company who stood, heard, and they said there was thunder. But others said, An angel spake with him.
 
@@ -1146,7 +1146,7 @@
 
 37. Yet though all these signs he had done before them, they believed not in him:
 
-38. that the word of the prophet Eshaia might be fulfilled, who said, My Lord, who hath believed our report,Or, our hearing. And the arm of the Lord, to whom hath it been revealed?
+38. that the word of the prophet Eshaia might be fulfilled, who said, My Lord, who hath believed our report,
 
 39. Because of this they were not able to believe: Wherefore again Eshaia had said,
 
@@ -1282,7 +1282,7 @@
 
 15. IF you love me, keep my commandments;
 
-16. and I will pray of my Father, and another ParacleteParaklito. will he give you, who will be with you for ever,
+16. and I will pray of my Father, and another Paraclete
 
 17. the Spirit of truth, he whom the world cannot receive, because it doth not see him, nor know him. But you know him; for with you he dwelleth, and in you is.
 
@@ -1296,7 +1296,7 @@
 
 22. Jihuda saith to him, (it was not Scarjuta,) My Lord, how to us wilt thou manifest thyself, and not to the world?
 
-23. Jeshu replied, and said to him, He who loveth me, my word keepeth, and my Father will love him, and unto him we come, and a dwelling-placeA mansion. with him we make.
+23. Jeshu replied, and said to him, He who loveth me, my word keepeth, and my Father will love him, and unto him we come, and a dwelling-place
 
 24. But he who loveth me not, keepeth not my word. And the word that you hear is not mine, but of the Father who sent me.
 
@@ -1316,7 +1316,7 @@
 
 ## John 15
 
-1. I am the true vine,The vine of truth. and my Father is the husbandman.
+1. I am the true vine,
 
 2. Every branch which in me giveth not fruits he taketh away; and that which giveth fruits he cleanseth, that more fruits it may give.
 
@@ -1358,11 +1358,11 @@
 
 21. But these all will they do to you on account of my name, because they know not Him who sent me.
 
-22. If I had not come and spoken with them, they had not had sin; but now have they no pretext for their sins.Or, no cause on the faces of their sins.
+22. If I had not come and spoken with them, they had not had sin; but now have they no pretext for their sins.
 
 23. He who hateth me, my Father also hateth.
 
-24. And if the works I had not done before their eyes which no other man hath done, they had not had sin; but now they have seen and hated both me and my Father;Also me, and also my Father.
+24. And if the works I had not done before their eyes which no other man hath done, they had not had sin; but now they have seen and hated both me and my Father;
 
 25. that the word may be fulfilled which is written in their law, They hated me undeservedly.
 
@@ -1396,7 +1396,7 @@
 
 12. I have yet much to tell you, but you cannot now apprehend;
 
-13. but when the Spirit of Truth hath come, he will lead you into all the truth; for he will not speak of himself;From his own mind. but all that he shall hear he will speak, and the things to comeThe futurities. will he make known to you.
+13. but when the Spirit of Truth hath come, he will lead you into all the truth; for he will not speak of himself;
 
 14. He will glorify me, because of mine he will take and will show you.
 
@@ -1418,7 +1418,7 @@
 
 23. And in that day you will ask me nothing. Amen, amen, I tell you, That whatsoever you shall ask my Father in my name, he will give you.
 
-24. Hitherto you have not asked any thing in my name:Some copies add here, Velo medem, and not any thing. ask, and receive, that your joy may be full.
+24. Hitherto you have not asked any thing in my name:
 
 25. These in parables I have spoken with you; but the hour cometh when I will not speak with you in parables, but manifestly; and I will announce to you concerning the Father.
 
@@ -1444,7 +1444,7 @@
 
 2. As thou hast given him power over all flesh, that to all whom thou hast given him he should give the life which is eternal.
 
-3. But this is the life which is eternal, that they know thee, who art the true Aloha,The Aloha of truth. and Him whom thou hast sent, Jeshu Meshicha.
+3. But this is the life which is eternal, that they know thee, who art the true Aloha,
 
 4. I have glorified thee on the earth; the work which thou didst give me to do, I have finished it.
 
@@ -1586,7 +1586,7 @@
 
 5. AND Jeshu came forth, having on him the crown of thorns and the robes of purple. And Pilatos said to them, Behold the man!
 
-6. But when the chief priests and officials saw him, they cried out, saying, Crucify him, crucify him!Or, suspend him. Pilatos saith to them, Take you him and crucify him;elevate him on the cross. for I find in him no cause.
+6. But when the chief priests and officials saw him, they cried out, saying, Crucify him, crucify him!
 
 7. The Jihudoyee say to him, We have a law, and, according to our law, he is guilty of death, because he made himself the son of Aloha.
 
@@ -1604,13 +1604,13 @@
 
 14. And it was the preparation for the petscha. AND it was about the sixth hour. And he said to the Jihudoyee, Behold your king!
 
-15. But they cried out, Take him away, take him away! crucify him,Or, suspend him. crucify him! Pilatos saith to them, Your king shall I crucify? The chief priests say to him, We have no king but Cesar.
+15. But they cried out, Take him away, take him away! crucify him,
 
 16. Then delivered he him to them, that they might crucify him.
 
 17. And they took Jeshu, and led him forth, bearing his cross to a place which is called A Skull, but in Hebrew is Gogultha:
 
-18. there they crucified him, and with him two others, one on either side,Or, one here, and one here. and Jeshu in the midst.
+18. there they crucified him, and with him two others, one on either side,
 
 19. And a tablet also wrote Pilatos, and set it on the cross; and it was thus written, This is Jeshu Natsroya, King of the Jihudoyee.
 
@@ -1622,19 +1622,19 @@
 
 23. BUT the soldiers, when they had crucified Jeshu, took his vestments and made four parts, a part unto each one of the soldiers: but his tunic was without seam, from the top woven all of it.
 
-24. And they said one to another, Let us not rend it, but play for it by playing,Naphes eleh mephas. (to decide) whose it shall be: and fulfilled was the scripture which had said,
+24. And they said one to another, Let us not rend it, but play for it by playing,
 
 25. They divided my garments among them, And upon my raiment did they cast the lot. These things did the soldiers. But there stood by the cross of Jeshu his mother, and the sister of his mother, and Mariam, she who was (the wife) of Cleopha, and Mariam Magdalitha.
 
-26. Jeshu seeth his mother, and that disciple whom he loved, standing; and he said to his mother, Woman, behold thy son!Athto, ho barek.
+26. Jeshu seeth his mother, and that disciple whom he loved, standing; and he said to his mother, Woman, behold thy son!
 
-27. and he said to that disciple, Behold thy mother!Ho emok. And from that hour that disciple received her to be with him.
+27. and he said to that disciple, Behold thy mother!
 
-28. After these Jeshu knew that every thing would be accomplished, and, that the scripture might be fulfilled, said, I thirst.Tshe-no.
+28. After these Jeshu knew that every thing would be accomplished, and, that the scripture might be fulfilled, said, I thirst.
 
 29. And a vessel was set (there) filled with vinegar: then they filled a sponge from the vinegar, and put it upon hyssop, and offered it to his mouth.
 
-30. And when Jeshu had taken the vinegar, he said, Behold, it is finished!Ho Mashálam. And he bowed his head, and delivered up his spirit.
+30. And when Jeshu had taken the vinegar, he said, Behold, it is finished!
 
 31. THE Jihudoyee, because it was the preparation, said, Let not these bodies remain-all-night upon the cross, because the shabath has lighted: for a great day was the day of that shabath. And they besought of Pilatos that they should break the legs of those (who had been) crucified, and take them down.
 
@@ -1694,17 +1694,17 @@
 
 16. Jeshu saith to her, Mariam. She turned and saith to him in Hebrew, Rabuni, which is saying, Malphona.
 
-17. Jeshu saith to her, TouchOr, approach. me not; for not yet have I ascended to my Father: but go to my brethren, and say to them, I ascend to my Father, and to your Father, to my God, and to your God.
+17. Jeshu saith to her, Touch
 
 18. Then went Mariam Magdalitha, and announced to the disciples that she had seen our Lord, and (that) these (words) he had spoken to her.
 
-19. WHEN it was the evening of that day which (was) the first in the week, and the doors were shut where the disciples were, for fear of the Jihudoyee, came Jeshu, stood among them, and said to them, Peace (be) with you.Shalomo amkun.
+19. WHEN it was the evening of that day which (was) the first in the week, and the doors were shut where the disciples were, for fear of the Jihudoyee, came Jeshu, stood among them, and said to them, Peace (be) with you.
 
 20. This he said, and showed them his hands and his side. And the disciples rejoiced when they saw our Lord.
 
 21. Then said Jeshu unto them, Peace (be) with you: as my Father sent me, I also send you.
 
-22. And when he had said these, he breathed on them, and said to them, Receive the Spirit of Holiness:Kabélu Rucho da-Kudsho.
+22. And when he had said these, he breathed on them, and said to them, Receive the Spirit of Holiness:
 
 23. if you forgive sins to a man, they shall be forgiven to him; and if you retain (the sins) of a man, they are retained.
 
@@ -1716,7 +1716,7 @@
 
 27. And he said to Thoma, Bring thy finger hither and see my hands, and bring thy hand and thrust it into my side, and be not unbelieving but believing.
 
-28. And Thoma answered and said to him, My Lord, and my God!Mari Valohi.
+28. And Thoma answered and said to him, My Lord, and my God!
 
 29. Jeshu saith to him, Now that thou hast seen, thou hast believed: blessed are they who have not seen me, and have believed.
 

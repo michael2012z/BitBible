@@ -2,7 +2,7 @@
 
 ## 1 John 1
 
-1. WE announceMesabrinan. to you that which was from the beginning, that which we have heard, and seen with our eyes, have seen, and touched with our hands, that which is the Word of life.
+1. WE announce
 
 2. And the life was manifested, and we have seen, and testify, and preach to you the eternal life which was with the Father, and was manifested to us.
 
@@ -46,9 +46,9 @@
 
 11. He who hateth his brother is in darkness, and in the darkness walketh, and knoweth not whither he goeth, because the darkness itself hath blinded his eyes.
 
-12. I write to you, sons,Bnai. because forgiven to you are your sins for the sake of his name.
+12. I write to you, sons,
 
-13. I write to you, fathers, because you have known him who hath been from the beginning. I write to you, young men, because you have overcome the wicked. I have written to you, children,Teloyee. because you have known the Father.
+13. I write to you, fathers, because you have known him who hath been from the beginning. I write to you, young men, because you have overcome the wicked. I have written to you, children,
 
 14. I have written to you, fathers, because you have known Him who (hath been) from the beginning. I have written to you, young men, because you are strong, and the word of Aloha remaineth in you, and you have overcome the wicked.
 
@@ -126,11 +126,11 @@
 
 21. My beloved, if our heart condemn us not, we have openness of face before Aloha.
 
-22. And whatever we ask, we shall receive from him, because we keep his commandments, and do the things which are beautifulShaphirthö. before him.
+22. And whatever we ask, we shall receive from him, because we keep his commandments, and do the things which are beautiful
 
 23. And this is his commandment, That we believe in the name of his Son Jeshu Meshiha, and love one another, as he hath commanded us.
 
-24. And he who keepeth his commandments, is kept by him, and he dwelleth in him: and by this we perceive that he dwelleth in us, by his Spirit whomHau d'yahab. he hath given to us.
+24. And he who keepeth his commandments, is kept by him, and he dwelleth in him: and by this we perceive that he dwelleth in us, by his Spirit whom
 
 ## 1 John 4
 
@@ -168,7 +168,7 @@
 
 17. And in this is his love perfected with us, that openness of face we might have in the day of judgment; because that as He was, so also we are in this world.
 
-18. Fear in love is not: but perfect love hath cast out fear, because fear is in terror.Bequento, In periculo.- SCHAFF. Root, Quenat, vitavit, extimuit vehementer. Fabricius has in perturbatione. He who feareth is not perfect in love.
+18. Fear in love is not: but perfect love hath cast out fear, because fear is in terror.
 
 19. We then will love Aloha, because he hath first loved us.
 
@@ -200,7 +200,7 @@
 
 11. And this is the testimony, That the life which is eternal, Aloha hath given to us, and this life is in his Son.
 
-12. Every one who apprehendethCul d'achid labro. the Son, apprehendeth also life; and every one who apprehendeth not the Son of Aloha, hath not life.
+12. Every one who apprehendeth
 
 13. These I have written to you, that you may know that you have the life which is eternal, who believe in the name of the Son of Aloha.
 

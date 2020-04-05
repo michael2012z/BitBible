@@ -376,7 +376,7 @@
 
 9. And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem.
 
-10. And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplication; and they shall look unto Me because theyThat is, the nations. See verse 9. have thrust him through; and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his first-born.
+10. And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplication; and they shall look unto Me because they
 
 11. In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
 

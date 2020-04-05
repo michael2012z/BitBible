@@ -232,7 +232,7 @@
 
 5. Then sent Sanballat his servant unto me in like manner the fifth time with an open letter in his hand;
 
-6. wherein was written: 'It is reported among the nations, and GeshemHeb. Gashmu. saith it, that thou and the Jews think to rebel; for which cause thou buildest the wall; and thou wouldest be their king, even according to these words.
+6. wherein was written: 'It is reported among the nations, and Geshem
 
 7. And thou hast also appointed prophets to proclaim of thee at Jerusalem, saying: There is a king in Judah; and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together.'
 
@@ -396,7 +396,7 @@
 
 67. beside their men-servants and their maid-servants, of whom there were seven thousand three hundred thirty and seven; and they had two hundred forty and five singing men and singing women.
 
-68. Their horses were seven hundred thirty and six; their mules, two hundred forty and five;This verse is placed in authoritative codices in the margin.This verse is placed in authoritative codices in the margin.
+68. Their horses were seven hundred thirty and six; their mules, two hundred forty and five;
 
 69. their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty.
 
@@ -440,7 +440,7 @@
 
 16. So the people went forth, and brought them, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of G-d, and in the broad place of the water gate, and in the broad place of the gate of Ephraim.
 
-17. And all the congregation of them that were come back out of the captivity made booths, and dwelt in the booths; for since the days of Joshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.Heb. Jeshua.
+17. And all the congregation of them that were come back out of the captivity made booths, and dwelt in the booths; for since the days of Joshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.
 
 18. Also day by day, from the first day unto the last day, he read in the book of the Law of G-d. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the ordinance. 
 

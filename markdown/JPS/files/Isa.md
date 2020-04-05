@@ -274,7 +274,7 @@
 
 2. And it was told the house of David, saying: 'Aram is confederate with Ephraim.' And his heart was moved, and the heart of his people, as the trees of the forest are moved with the wind.
 
-3. Then said HaShem unto Isaiah: 'Go forth now to meet Ahaz, thou, and Shear-jashubThat is, A remnant shall return. thy son, at the end of the conduit of the upper pool, in the highway of the fullers' field;
+3. Then said HaShem unto Isaiah: 'Go forth now to meet Ahaz, thou, and Shear-jashub
 
 4. and say unto him: Keep calm, and be quiet; fear not, neither let thy heart be faint, because of these two tails of smoking firebrands, for the fierce anger of Rezin and Aram, and of the son of Remaliah.
 
@@ -296,7 +296,7 @@
 
 13. And he said: 'Hear ye now, O house of David: Is it a small thing for you to weary men, that ye will weary my G-d also?
 
-14. Therefore the L-rd Himself shall give you a sign: behold, the young woman shall conceive, and bear a son, and shall call his name Immanuel.That is, God is with us.
+14. Therefore the L-rd Himself shall give you a sign: behold, the young woman shall conceive, and bear a son, and shall call his name Immanuel.
 
 15. Curd and honey shall he eat, when he knoweth to refuse the evil, and choose the good.
 
@@ -326,7 +326,7 @@
 
 2. and I will take unto Me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.'
 
-3. And I went unto the prophetess; and she conceived, and bore a son. Then said HaShem unto me: 'Call his name Maher-shalal-hashbaz.That is, The spoil speedeth, the prey hasteth.
+3. And I went unto the prophetess; and she conceived, and bore a son. Then said HaShem unto me: 'Call his name Maher-shalal-hashbaz.
 
 4. For before the child shall have knowledge to cry: My father, and: My mother, the riches of Damascus and the spoil of Samaria shall be carried away before the king of Assyria.'
 
@@ -378,7 +378,7 @@
 
 4. For every boot stamped with fierceness, and every cloak rolled in blood, shall even be for burning, for fuel of fire.
 
-5. For a child is born unto us, a son is given unto us; and the government is upon his shoulder; and his name is called Pele-joez-el-gibbor-Abi-ad-sar-shalom;That is, Wonderful in counsel is God the Mighty, the everlasting Father, the Ruler of peace.
+5. For a child is born unto us, a son is given unto us; and the government is upon his shoulder; and his name is called Pele-joez-el-gibbor-Abi-ad-sar-shalom;
 
 6. That the government may be increased, and of peace there be no end, upon the throne of David, and upon his kingdom, to establish it, and to uphold it through justice and through righteousness from henceforth even for ever. The zeal of HaShem of hosts doth perform this.
 
@@ -452,7 +452,7 @@
 
 20. And it shall come to pass in that day, that the remnant of Israel, and they that are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon HaShem, the Holy One of Israel, in truth.
 
-21. A remnantHeb. shear jashub. shall return, even the remnant of Jacob, unto G-d the Mighty.
+21. A remnant
 
 22. For though thy people, O Israel, be as the sand of the sea, only a remnant of them shall return; an extermination is determined, overflowing with righteousness.
 
@@ -1136,7 +1136,7 @@
 
 ## Isaiah 29
 
-1. Ah, Ariel,That is, The hearth of God. Ariel, the city where David encamped! Add ye year to year, let the feasts come round!
+1. Ah, Ariel,
 
 2. Then will I distress Ariel, and there shall be mourning and moaning; and she shall be unto Me as a hearth of G-d.
 

@@ -492,7 +492,7 @@
 
 14. So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. --Now Joram had been guarding Ramoth-gilead, he and all Israel, because of Hazael king of Aram;
 
-15. but king JoramHeb. Jehoram, and in verses 17, 21, 22, 23, 24. was returned to be healed in Jezreel of the wounds which the Arameans had given him, when he fought with Hazael king of Aram. --And Jehu said: 'If this be your mind, then let none escape and go forth out of the city, to go to tell it in Jezreel.'
+15. but king Joram
 
 16. So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram.
 
@@ -814,7 +814,7 @@
 
 ## 2 Kings 15
 
-1. In the twenty and seventh year of Jeroboam king of Israel began AzariahIn verses 13, 30, &amp;c., Uzziah. son of Amaziah king of Judah to reign.
+1. In the twenty and seventh year of Jeroboam king of Israel began Azariah
 
 2. Sixteen years old was he when he began to reign; and he reigned two and fifty years in Jerusalem; and his mother's name was Jecoliah of Jerusalem.
 
@@ -902,7 +902,7 @@
 
 5. Then Rezin king of Aram and Pekah son of Remaliah king of Israel came up to Jerusalem to war; and they besieged Ahaz, but could not overcome him.
 
-6. At that time Rezin king of Aram recovered ElathHeb. Eloth. to Aram, and drove the Jews from Elath; and the Edomites came to Elath, and dwelt there, unto this day.
+6. At that time Rezin king of Aram recovered Elath
 
 7. So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying: 'I am thy servant and thy son; come up, and save me out of the hand of the king of Aram, and out of the hand of the king of Israel, who rise up against me.'
 
@@ -1024,7 +1024,7 @@
 
 3. And he did that which was right in the eyes of HaShem, according to all that David his father had done.
 
-4. He removed the high places, and broke the pillars, and cut down the Asherah; and he broke in pieces the brazen serpent that Moses had made; for unto those days the children of Israel did offer to it; and it was called Nehushtan.That is, A thing of brass.
+4. He removed the high places, and broke the pillars, and cut down the Asherah; and he broke in pieces the brazen serpent that Moses had made; for unto those days the children of Israel did offer to it; and it was called Nehushtan.
 
 5. He trusted in HaShem, the G-d of Israel; so that after him was none like him among all the kings of Judah, nor among them that were before him.
 
@@ -1050,7 +1050,7 @@
 
 16. At that time did Hezekiah cut off the gold from the doors of the temple of HaShem, and from the door-posts which Hezekiah king of Judah had overlaid, and gave it to the king of Assyria.
 
-17. And the king of Assyria sent TartanThat is, commander-in-chief. and Rab-sarisThat is, chief of the eunuchs. and Rab-shakehThat is, chief butler. from Lachish to king Hezekiah with a great army unto Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which is in the highway of the fullers' field.
+17. And the king of Assyria sent Tartan
 
 18. And when they had called to the king, there came out to them Eliakim the son of Hilkiah, who was over the household, and Shebnah the scribe, and Joah the son of Asaph the recorder.
 

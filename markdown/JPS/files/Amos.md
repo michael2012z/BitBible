@@ -252,7 +252,7 @@
 
 1. Thus the L-rd GOD showed me; and behold a basket of summer fruit.
 
-2. And He said: 'Amos, what seest thou?' And I said: 'A basket of summerHeb. kaiz. fruit.' Then said HaShem unto me: The endHeb. kez. is come upon My people Israel; I will not again pardon them any more.
+2. And He said: 'Amos, what seest thou?' And I said: 'A basket of summer
 
 3. And the songs of the palace shall be wailings in that day, saith the L-rd GOD; the dead bodies shall be many; in every place silence shall be cast.
 

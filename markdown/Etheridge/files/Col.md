@@ -24,13 +24,13 @@
 
 11. and in all power be empowered according to the greatness of his glory in all patience and prolongedness of spirit:
 
-12. and with joy may give thanks to Aloha the Father, who hath fitted us for a portionOr, made us adequate to a portion. of the inheritance of the saints in light,
+12. and with joy may give thanks to Aloha the Father, who hath fitted us for a portion
 
 13. and hath delivered us from the power of darkness, and brought us into the kingdom of his beloved Son,
 
 14. in whom we have redemption and the forgiveness of sins:
 
-15. who is the image of Aloha the unseen,Or, Aloha who is not seen. and the first-born of all the creatures.
+15. who is the image of Aloha the unseen,
 
 16. And by him was every thing created that is in heaven and in earth; all that is seen, and all that is unseen, whether thrones or dominions, or princes or powers; all things by his hand and through him were created;
 
@@ -74,7 +74,7 @@
 
 6. As, then, you have received Jeshu Meshiha our Lord, (so) in him walk,
 
-7. your roots strengthened,Or, confirmed. and you builded in him, and established in that faith which you have learned, that you may abound therein with thanksgiving.
+7. your roots strengthened,
 
 8. Beware lest any man strip you by philosophy and by vain deceit, according to the teaching of men, and according to the principles of the world, and not according to the Meshiha,
 
@@ -92,15 +92,15 @@
 
 15. and by the yielding up of his body he hath prostrated principalities and powers, and hath shamed them openly by himself.
 
-16. LET no man therefore judge you in meat and in drink, or in the distinctions of festivals, and of new moons, and of shabeths,Or, weeks.
+16. LET no man therefore judge you in meat and in drink, or in the distinctions of festivals, and of new moons, and of shabeths,
 
 17. which are shadows of those to come, but the body is the Meshiha.
 
-18. And lest any man wish by abasement of mind to fetter you to be subject to the worship of angels, intrudingOr, adventuring; perhaps better, presuming. upon that which he hath not seen, and vainly inflated in his fleshly mind;
+18. And lest any man wish by abasement of mind to fetter you to be subject to the worship of angels, intruding
 
 19. and not holding the Head, from whom all the body is composed and constituted in joints and limbs, and increaseth (with) the increase of Aloha.
 
-20. For if you are dead with the Meshiha from the principles of the world, why as if you lived in the world are you judged? as thatLam. scilicet.
+20. For if you are dead with the Meshiha from the principles of the world, why as if you lived in the world are you judged? as that
 
 21. you are not to touch, nor to taste, nor to handle?
 
@@ -120,7 +120,7 @@
 
 5. Put to death, then, your members that are upon the earth: fornication, uncleanness, and passions, and evil desires, and covetousness, which itself is idolatry.
 
-6. For on account of these cometh the anger of Aloha upon the sons of disobedience.Or, perverseness.
+6. For on account of these cometh the anger of Aloha upon the sons of disobedience.
 
 7. In these also you walked aforetime, when you were conversant in them.
 
@@ -158,7 +158,7 @@
 
 24. And know that from our Lord you receive the reward in the inheritance; for the Lord the Meshiha you serve.
 
-25. But he who injureth is recompensed as he had injured, and there is no acceptance of persons.Faces.
+25. But he who injureth is recompensed as he had injured, and there is no acceptance of persons.
 
 ## Colossians 4
 
@@ -172,7 +172,7 @@
 
 5. In wisdom walk towards the outward ones, and redeem your opportunity.
 
-6. And let your speech at all time be with grace as sprinkledR. MADAK, aspersit. with salt, each one knowing how it becometh him to return the answer.
+6. And let your speech at all time be with grace as sprinkled
 
 7. What concerneth me will Tykikos, a beloved brother and faithful minister, and our companion in the Lord, make known to you:
 
@@ -180,7 +180,7 @@
 
 9. with Onesimos, the faithful and beloved brother who is of you. These will make you know what concerneth us.
 
-10. Aristarchos, a captive with me, asketh for your peace, and Markos, the nephewBar-dodeh, "uncle's son." of Bar Naba, regarding whom you are directed, that if he come to you, receive him,
+10. Aristarchos, a captive with me, asketh for your peace, and Markos, the nephew
 
 11. and Jeshu who is called Justos: these are of the circumcision, and these only have helped me in the kingdom of Aloha, and these have been a consolation to me.
 
@@ -196,4 +196,4 @@
 
 17. And say to Arkipos, Be vigilant in the ministry which thou hast received in our Lord, that thou fulfil it.
 
-18. This salutationShaloma. with the hand of me, PAULOS. Remember my bonds. Grace be with you. Amen.
+18. This salutation

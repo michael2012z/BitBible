@@ -218,7 +218,7 @@
 
 20. And about the time of her death the women that stood by her said unto her: 'Fear not; for thou hast brought forth a son.' But she answered not, neither did she regard it.
 
-21. And she named the child Ichabod,That is, There is no glory. saying: 'The glory is departed from Israel'; because the ark of G-d was taken, and because of her father-in-law and her husband.
+21. And she named the child Ichabod,
 
 22. And she said: 'The glory is departed from Israel; for the ark of G-d is taken.'  
 
@@ -286,7 +286,7 @@
 
 18. and the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fortified cities and of country villages, even unto Abel by the great stone, whereon they set down the ark of HaShem, which stone remaineth unto this day in the field of Joshua the Beth-shemite.
 
-19. And He smote of the men of Beth-shemesh, because they had gazed upon the ark of HaShem, even He smote of the people seventy men, and fifty thousand men; and the people mourned,From the Hebrew root abel. because HaShem had smitten the people with a great slaughter.
+19. And He smote of the men of Beth-shemesh, because they had gazed upon the ark of HaShem, even He smote of the people seventy men, and fifty thousand men; and the people mourned,
 
 20. And the men of Beth-shemesh said: 'Who is able to stand before HaShem, this holy G-d? and to whom shall it go up from us?'
 
@@ -316,7 +316,7 @@
 
 11. And the men of Israel went out of Mizpah, and pursued the Philistines, and smote them, until they came under Beth-car.
 
-12. Then Samuel took a stone, and set it between Mizpah and Shen, and called the name of it Eben-ezer,That is, The stone of help. saying: 'Hitherto hath HaShem helped us.'
+12. Then Samuel took a stone, and set it between Mizpah and Shen, and called the name of it Eben-ezer,
 
 13. So the Philistines were subdued, and they came no more within the border of Israel; and the hand of HaShem was against the Philistines all the days of Samuel.
 
@@ -572,7 +572,7 @@
 
 ## 1 Samuel 13
 
-1. Saul was----The number is wanting in the Hebrew. years old when he began to reign; and two years he reigned over Israel.
+1. Saul was----
 
 2. And Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmas and in the mount of Beth-el, and a thousand were with Jonathan in Gibeath-benjamin; and the rest of the people he sent every man to his tent.
 
@@ -602,7 +602,7 @@
 
 15. And Samuel arose, and got him up from Gilgal unto Gibeath-benjamin. And Saul numbered the people that were present with him, about six hundred men.
 
-16. And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeath-benjamin;Heb. Geba. but the Philistines encamped in Michmas.
+16. And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeath-benjamin;
 
 17. And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way that leadeth to Ophrah, unto the land of Shual;
 
@@ -612,7 +612,7 @@
 
 20. but all the Israelites went down to the Philistines, to sharpen every man his plowshare, and his coulter, and his axe, and his mattock.
 
-21. And the price of the filing was a pimThat is, two-thirds of a shekel. for the mattocks, and for the coulters, and for the forks with three teeth, and for the axes; and to set the goads.
+21. And the price of the filing was a pim
 
 22. So it came to pass in the day of battle, that there was neither sword nor spear found in the hand of any of the people that were with Saul and Jonathan; but with Saul and with Jonathan his son was there found.
 
@@ -718,7 +718,7 @@
 
 49. Now the sons of Saul were Jonathan, and Ishvi, and Malchi-shua; and the names of his two daughters were these: the name of the first-born Merab, and the name of the younger Michal;
 
-50. and the name of Saul's wife was Ahinoam the daughter of Ahimaaz; and the name of the captain of his host was Abner,Heb. Abiner. the son of Ner, Saul's uncle.
+50. and the name of Saul's wife was Ahinoam the daughter of Ahimaaz; and the name of the captain of his host was Abner,
 
 51. And Kish was the father of Saul, and Ner the father of Abner was the son of Abiel.
 
@@ -1296,7 +1296,7 @@
 
 27. But there came a messenger unto Saul, saying: 'Haste thee, and come; for the Philistines have made a raid upon the land.'
 
-28. So Saul returned from pursuing after David, and went against the Philistines; therefore they called that place Sela-hammahlekoth.That is, The rock of divisions.
+28. So Saul returned from pursuing after David, and went against the Philistines; therefore they called that place Sela-hammahlekoth.
 
 ## 1 Samuel 24
 
@@ -1396,7 +1396,7 @@
 
 24. And she fell at his feet, and said: 'Upon me, my lord, upon me be the iniquity; and let thy handmaid, I pray thee, speak in thine ears, and hear thou the words of thy handmaid.
 
-25. Let not my lord, I pray thee, regard this base fellow, even Nabal;That is, Churl. for as his name is, so is he: Nabal is his name, and churlishness is with him; but I thy handmaid saw not the young men of my lord, whom thou didst send.
+25. Let not my lord, I pray thee, regard this base fellow, even Nabal;
 
 26. Now therefore, my lord, as HaShem liveth, and as thy soul liveth, seeing HaShem hath withholden thee from bloodguiltiness, and from finding redress for thyself with thine own hand, now therefore let thine enemies, and them that seek evil to my lord, be as Nabal.
 
@@ -1410,7 +1410,7 @@
 
 31. that this shall be no stumbling-block unto thee, nor offence of heart unto my lord, either that thou hast shed blood without cause, or that my lord hath found redress for himself. And when HaShem shall have dealt well with my lord, then remember thy handmaid.'
 
-32. And David said to Abigail:Heb. Abigal. 'Blessed be HaShem, the G-d of Israel, who sent thee this day to meet me;
+32. And David said to Abigail:
 
 33. and blessed be thy discretion, and blessed be thou, that hast kept me this day from bloodguiltiness, and from finding redress for myself with mine own hand.
 

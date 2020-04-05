@@ -12,7 +12,7 @@
 
 5. For this I left thee in Kreta, that those things which were wanting thou mayest rectify, and constitute presbyters in every city as I commanded thee.
 
-6. Him who is without blame, and isOr, Vavo, and hath been. the husband of one wife, and who hath believing children, who are not vicious nor addicted to intemperance.
+6. Him who is without blame, and is
 
 7. For a presbyter is bound to be without blame, as the steward of Aloha; he shall not be led by the will of self, nor be irascible, nor a transgressor over wine, neither shall his hand be hasty to strike, nor shall he be a lover of sordid gains.
 
@@ -54,17 +54,17 @@
 
 9. Let servants to their masters be submissive in every thing, and please them, not contradicting,
 
-10. nor pilfering; but let them show their good-trustinessShararhun tobo. in every thing, that they may adorn in every thing the doctrine of Aloha our Saviour.
+10. nor pilfering; but let them show their good-trustiness
 
-11. FOR the all-saving grace of AlohaOr, the grace of Aloha saving all. hath appeared to all men,
+11. FOR the all-saving grace of Aloha
 
 12. and teacheth us to deny wickedness and the lusts of the world, and to live in this world in purity, and in rectitude, and in the fear of Aloha,
 
 13. while expecting the blessed hope and the manifestation of the glory of the great God and our Saviour Jeshu Meshiha;
 
-14. who gave himself for us, to redeem us from all iniquity, and to cleanse unto himself a new people,Amo chadtho. who are zealous of good works.
+14. who gave himself for us, to redeem us from all iniquity, and to cleanse unto himself a new people,
 
-15. These speak, and require,Or, exhort. and maintain with all authority, and no man shall despise thee.
+15. These speak, and require,
 
 ## Titus 3
 
@@ -84,7 +84,7 @@
 
 8. Faithful is the word; and in this I will that thou also establish them, that they should be careful to perform good works, they who have believed in Aloha. These are good and profitable unto men.
 
-9. But from foolish disputations, and from tales of genealogies, and from contentions, and strifes of the sophree,Scribes. withdraw; for profit is not in them, and they are vain.
+9. But from foolish disputations, and from tales of genealogies, and from contentions, and strifes of the sophree,
 
 10. From an heretical man, after one time and twice thou hast admonished him, withdraw;
 

@@ -92,7 +92,7 @@
 
 13. And the name of the second river is Gihon; the same is it that compasseth the whole land of Cush.
 
-14. And the name of the third river is Tigris;Heb. Hiddekel. that is it which goeth toward the east of Asshur. And the fourth river is the Euphrates.
+14. And the name of the third river is Tigris;
 
 15. And HaShem G-d took the man, and put him into the garden of Eden to dress it and to keep it.
 
@@ -110,7 +110,7 @@
 
 22. And the rib, which HaShem G-d had taken from the man, made He a woman, and brought her unto the man.
 
-23. And the man said: 'This is now bone of my bones, and flesh of my flesh; she shall be called Woman,Heb. Isshah. because she was taken out of Man.'Heb. Ish.
+23. And the man said: 'This is now bone of my bones, and flesh of my flesh; she shall be called Woman,
 
 24. Therefore shall a man leave his father and his mother, and shall cleave unto his wife, and they shall be one flesh.
 
@@ -156,7 +156,7 @@
 
 19. In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken; for dust thou art, and unto dust shalt thou return.'
 
-20. And the man called his wife's name Eve;Heb. Havvah, that is, Life. because she was the mother of all living.
+20. And the man called his wife's name Eve;
 
 21. And HaShem G-d made for Adam and for his wife garments of skins, and clothed them.
 
@@ -168,7 +168,7 @@
 
 ## Genesis 4
 
-1. And the man knew Eve his wife; and she conceived and bore Cain, and said: 'I have gottenHeb. kanah, to get. a man with the help of HaShem.'
+1. And the man knew Eve his wife; and she conceived and bore Cain, and said: 'I have gotten
 
 2. And again she bore his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
 
@@ -198,11 +198,11 @@
 
 15. And HaShem said unto him: 'Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold.' And HaShem set a sign for Cain, lest any finding him should smite him.
 
-16. And Cain went out from the presence of HaShem, and dwelt in the land of Nod,That is, Wandering. on the east of Eden.
+16. And Cain went out from the presence of HaShem, and dwelt in the land of Nod,
 
 17. And Cain knew his wife; and she conceived, and bore Enoch; and he builded a city, and called the name of the city after the name of his son Enoch.
 
-18. And unto Enoch was born Irad; and Irad begot Mehujael; and MehujaelHeb. Mehijael. begot Methushael; and Methushael begot Lamech.
+18. And unto Enoch was born Irad; and Irad begot Mehujael; and Mehujael
 
 19. And Lamech took unto him two wives; the name of one was Adah, and the name of the other Zillah.
 
@@ -216,7 +216,7 @@
 
 24. If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.
 
-25. And Adam knew his wife again; and she bore a son, and called his name Seth:Heb. Sheth. 'for G-d hathHeb. shath. appointed me another seed instead of Abel; for Cain slew him.'
+25. And Adam knew his wife again; and she bore a son, and called his name Seth:
 
 26. And to Seth, to him also there was born a son; and he called his name Enosh; then began men to call upon the name of HaShem.  
 
@@ -278,7 +278,7 @@
 
 28. And Lamech lived a hundred eighty and two years, and begot a son.
 
-29. And he called his name Noah, saying: 'This same shall comfortHeb. nahem, to comfort. us in our work and in the toil of our hands, which cometh from the ground which HaShem hath cursed.'
+29. And he called his name Noah, saying: 'This same shall comfort
 
 30. And Lamech lived after he begot Noah five hundred ninety and five years, and begot sons and daughters.
 
@@ -482,7 +482,7 @@
 
 26. And he said: Blessed be HaShem, the G-d of Shem; and let Canaan be their servant.
 
-27. G-d enlargeHeb. japhth. Japheth, and he shall dwell in the tents of Shem; and let Canaan be their servant.
+27. G-d enlarge
 
 28. And Noah lived after the flood three hundred and fifty years.
 
@@ -538,7 +538,7 @@
 
 24. And Arpachshad begot Shelah; and Shelah begot Eber.
 
-25. And unto Eber were born two sons; the name of the one was Peleg;That is, Division. for in his days was the earth divided; and his brother's name was Joktan.
+25. And unto Eber were born two sons; the name of the one was Peleg;
 
 26. And Joktan begot Almodad, and Sheleph, and Hazarmaveth, and Jerah;
 
@@ -572,7 +572,7 @@
 
 8. So HaShem scattered them abroad from thence upon the face of all the earth; and they left off to build the city.
 
-9. Therefore was the name of it called Babel; because HaShem did there confoundHeb. balal, to confound. the language of all the earth; and from thence did HaShem scatter them abroad upon the face of all the earth.
+9. Therefore was the name of it called Babel; because HaShem did there confound
 
 10. These are the generations of Shem. Shem was a hundred years old, and begot Arpachshad two years after the flood.
 
@@ -816,13 +816,13 @@
 
 10. And the angel of HaShem said unto her: 'I will greatly multiply thy seed, that it shall not be numbered for multitude.
 
-11. And the angel of HaShem said unto her: 'Behold, thou art with child, and shalt bear a son; and thou shalt call his name Ishmael,That is, God heareth. because HaShem hath heard thy affliction.
+11. And the angel of HaShem said unto her: 'Behold, thou art with child, and shalt bear a son; and thou shalt call his name Ishmael,
 
 12. And he shall be a wild ass of a man: his hand shall be against every man, and every man's hand against him; and he shall dwell in the face of all his brethren.'
 
-13. And she called the name of HaShem that spoke unto her, Thou art aHeb. Elroi. G-d of seeing; for she said: 'Have I even here seen Him that seeth Me?'
+13. And she called the name of HaShem that spoke unto her, Thou art a
 
-14. Wherefore the well was called 'Beer-lahai-roi;That is, The well of the Living One who seeth me. behold, it is between Kadesh and Bered.
+14. Wherefore the well was called 'Beer-lahai-roi;
 
 15. And Hagar bore Abram a son; and Abram called the name of his son, whom Hagar bore, Ishmael.
 
@@ -836,7 +836,7 @@
 
 3. And Abram fell on his face; and G-d talked with him, saying:
 
-4. 'As for Me, behold, My covenant is with thee, and thou shalt be theHeb. Ab hamon. father of a multitude of nations.
+4. 'As for Me, behold, My covenant is with thee, and thou shalt be the
 
 5. Neither shall thy name any more be called Abram, but thy name shall be Abraham; for the father of a multitude of nations have I made thee.
 
@@ -858,7 +858,7 @@
 
 14. And the uncircumcised male who is not circumcised in the flesh of his foreskin, that soul shall be cut off from his people; he hath broken My covenant.'
 
-15. And G-d said unto Abraham: 'As for Sarai thy wife, thou shalt not call her name Sarai, but SarahThat is, Princess. shall her name be.
+15. And G-d said unto Abraham: 'As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah
 
 16. And I will bless her, and moreover I will give thee a son of her; yea, I will bless her, and she shall be a mother of nations; kings of peoples shall be of her.'
 
@@ -866,7 +866,7 @@
 
 18. And Abraham said unto G-d: 'Oh that Ishmael might live before Thee!'
 
-19. And G-d said: ''Nay, but Sarah thy wife shall bear thee a son; and thou shalt call his name Isaac;From the Heb. root meaning to laugh. and I will establish My covenant with him for an everlasting covenant for his seed after him.
+19. And G-d said: ''Nay, but Sarah thy wife shall bear thee a son; and thou shalt call his name Isaac;
 
 20. And as for Ishmael, I have heard thee; behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
 
@@ -996,7 +996,7 @@
 
 21. And he said unto him: 'See, I have accepted thee concerning this thing also, that I will not overthrow the city of which thou hast spoken.
 
-22. Hasten thou, escape thither; for I cannot do any thing till thou be come thither.' --Therefore the name of the city was called Zoar.--That is, Little, see verse 20.
+22. Hasten thou, escape thither; for I cannot do any thing till thou be come thither.' --Therefore the name of the city was called Zoar.--
 
 23. The sun was risen upon the earth when Lot came unto Zoar.
 
@@ -1154,7 +1154,7 @@
 
 7. And Isaac spoke unto Abraham his father, and said: 'My father.' And he said: 'Here am I, my son.' And he said: 'Behold the fire and the wood; but where is the lamb for a burnt-offering?'
 
-8. And Abraham said: 'G-d will provideHeb. jireh; that is, see for Himself. Himself the lamb for a burnt-offering, my son.' So they went both of them together.
+8. And Abraham said: 'G-d will provide
 
 9. And they came to the place which G-d had told him of; and Abraham built the altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar, upon the wood.
 
@@ -1166,7 +1166,7 @@
 
 13. And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in the thicket by his horns. And Abraham went and took the ram, and offered him up for a burnt-offering in the stead of his son.
 
-14. And Abraham called the name of that place Adonai-jireh;That is, The LORD seeth. as it is said to this day: 'In the mount where HaShem is seen.'
+14. And Abraham called the name of that place Adonai-jireh;
 
 15. And the angel of HaShem called unto Abraham a second time out of heaven,
 
@@ -1250,7 +1250,7 @@
 
 9. And the servant put his hand under the thigh of Abraham his master, and swore to him concerning this matter.
 
-10. And the servant took ten camels, of the camels of his master, and departed; having all goodly things of his master's in his hand; and he arose, and went to Aram-naharaim,That is, Mesopotamia. unto the city of Nahor.
+10. And the servant took ten camels, of the camels of his master, and departed; having all goodly things of his master's in his hand; and he arose, and went to Aram-naharaim,
 
 11. And he made the camels to kneel down without the city by the well of water at the time of evening, the time that women go out to draw water.
 
@@ -1418,7 +1418,7 @@
 
 25. And the first came forth ruddy, all over like a hairy mantle; and they called his name Esau.
 
-26. And after that came forth his brother, and his hand had hold on Esau's heel; and his name was called Jacob.That is, One who takes by the heel, or, supplants. And Isaac was threescore years old when she bore them.
+26. And after that came forth his brother, and his hand had hold on Esau's heel; and his name was called Jacob.
 
 27. And the boys grew; and Esau was a cunning hunter, a man of the field; and Jacob was a quiet man, dwelling in tents.
 
@@ -1426,7 +1426,7 @@
 
 29. And Jacob sod pottage; and Esau came in from the field, and he was faint.
 
-30. And Esau said to Jacob: 'Let me swallow, I pray thee, some of this red, red pottage; for I am faint.' Therefore was his name called Edom.That is, Red.
+30. And Esau said to Jacob: 'Let me swallow, I pray thee, some of this red, red pottage; for I am faint.' Therefore was his name called Edom.
 
 31. And Jacob said: 'Sell me first thy birth right.'
 
@@ -1476,11 +1476,11 @@
 
 19. And Isaac's servants digged in the valley, and found there a well of living water.
 
-20. And the herdmen of Gerar strove with Isaac's herdmen, saying: 'The water is ours.' And he called the name of the well Esek;That is, Contention. because they contended with him.
+20. And the herdmen of Gerar strove with Isaac's herdmen, saying: 'The water is ours.' And he called the name of the well Esek;
 
-21. And they digged another well, and they strove for that also. And he called the name of it Sitnah.That is, Enmity.
+21. And they digged another well, and they strove for that also. And he called the name of it Sitnah.
 
-22. And he removed from thence, and digged another well; and for that they strove not. And he called the name of it Rehoboth;That is, Room. and he said: 'For now HaShem hath made room for us, and we shall be fruitful in the land.'
+22. And he removed from thence, and digged another well; and for that they strove not. And he called the name of it Rehoboth;
 
 23. And he went up from thence to Beer-sheba.
 
@@ -1640,7 +1640,7 @@
 
 18. And Jacob rose up early in the morning, and took the stone that he had put under his head, and set it up for a pillar, and poured oil upon the top of it.
 
-19. And he called the name of that place Beth-el,That is, The house of God. but the name of the city was Luz at the first.
+19. And he called the name of that place Beth-el,
 
 20. And Jacob vowed a vow, saying: 'If G-d will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,
 
@@ -1712,13 +1712,13 @@
 
 31. And HaShem saw that Leah was hated, and he opened her womb; but Rachel was barren.
 
-32. And Leah conceived, and bore a son, and she called his name Reuben; for she said: 'Because HaShem hathHeb. raah beonji. looked upon my affliction; for now my husband will love me.'
+32. And Leah conceived, and bore a son, and she called his name Reuben; for she said: 'Because HaShem hath
 
-33. And she conceived again, and bore a son; and said: 'Because HaShem hathHeb. shama. heard that I am hated, He hath therefore given me this son also.' And she called his name Simeon.Heb. Shimeon.
+33. And she conceived again, and bore a son; and said: 'Because HaShem hath
 
-34. And she conceived again, and bore a son; and said: 'Now this time will my husband be joinedFrom the Heb. root lavah. unto me, because I have borne him three sons.' Therefore was his name called Levi.
+34. And she conceived again, and bore a son; and said: 'Now this time will my husband be joined
 
-35. And she conceived again, and bore a son; and she said: 'This time will I praiseFrom the Heb. hodah. HaShem.' Therefore she called his name Judah;Heb.Jehudah. and she left off bearing.  
+35. And she conceived again, and bore a son; and she said: 'This time will I praise
 
 ## Genesis 30
 
@@ -1732,21 +1732,21 @@
 
 5. And Bilhah conceived, and bore Jacob a son.
 
-6. And Rachel said: 'G-d hath judged me,Heb. dan, he judged. and hath also heard my voice, and hath given me a son.' Therefore called she his name Dan.
+6. And Rachel said: 'G-d hath judged me,
 
 7. And Bilhah Rachel's handmaid conceived again, and bore Jacob a second son.
 
-8. And Rachel said: 'With mighty wrestlings have I wrestledHeb. niphtal, he wrestled. with my sister, and have prevailed.' And she called his name Naphtali.
+8. And Rachel said: 'With mighty wrestlings have I wrestled
 
 9. When Leah saw that she had left off bearing, she took Zilpah her handmaid, and gave her to Jacob to wife.
 
 10. And Zilpah Leah's handmaid bore Jacob a son.
 
-11. And Leah said: 'Fortune is come!' And she called his name Gad.That is, Fortune.
+11. And Leah said: 'Fortune is come!' And she called his name Gad.
 
 12. And Zilpah Leah's handmaid bore Jacob a second son.
 
-13. And Leah said: 'Happy am I! for the daughters will call me happy.' And she called his name Asher.That is, Happy.
+13. And Leah said: 'Happy am I! for the daughters will call me happy.' And she called his name Asher.
 
 14. And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah: 'Give me, I pray thee, of thy son's mandrakes.'
 
@@ -1756,19 +1756,19 @@
 
 17. And G-d hearkened unto Leah, and she conceived, and bore Jacob a fifth son.
 
-18. And Leah said: 'G-d hath given me my hire,Heb. sachar. because I gave my handmaid to my husband. And she called his name Issachar.
+18. And Leah said: 'G-d hath given me my hire,
 
 19. And Leah conceived again, and bore a sixth son to Jacob.
 
-20. And Leah said: 'G-d hath endowed me with a good dowry; now will my husband dwellHeb. zabal, he dwelt. with me, because I have borne him six sons.' And she called his name Zebulun.
+20. And Leah said: 'G-d hath endowed me with a good dowry; now will my husband dwell
 
 21. And afterwards she bore a daughter, and called her name Dinah.
 
 22. And G-d remembered Rachel, and G-d hearkened to her, and opened her womb.
 
-23. And she conceived, and bore a son, and said: 'G-d hathHeb. asaph. taken away my reproach.'
+23. And she conceived, and bore a son, and said: 'G-d hath
 
-24. And she called his name Joseph, saying: 'The HaShem addHeb. joseph. to me another son.'
+24. And she called his name Joseph, saying: 'The HaShem add
 
 25. And it came to pass, when Rachel had borne Joseph, that Jacob said unto Laban: 'Send me away, that I may go unto mine own place, and to my country.
 
@@ -1850,7 +1850,7 @@
 
 20. And Jacob outwitted Laban the Aramean, in that he told him not that he fled.
 
-21. So he fled with all that he had; and he rose up, and passed over the River,That is, the Euphrates. and set his face toward the mountain of Gilead.
+21. So he fled with all that he had; and he rose up, and passed over the River,
 
 22. And it was told Laban on the third day that Jacob was fled.
 
@@ -1902,11 +1902,11 @@
 
 46. And Jacob said unto his brethren: 'Gather stones'; and they took stones, and made a heap. And they did eat there by the heap.
 
-47. And Laban called it Jegar-sahadutha;That is, The heap of witness, in Aramaic. but Jacob called it Galeed.That is, The heap of witness, in Hebrew.
+47. And Laban called it Jegar-sahadutha;
 
 48. And Laban said: 'This heap is witness between me and thee this day.' Therefore was the name of it called Galeed;
 
-49. and Mizpah, for he said: 'The HaShem watch between me and thee, when we are absent one from another.That is, The watch-post.
+49. and Mizpah, for he said: 'The HaShem watch between me and thee, when we are absent one from another.
 
 50. If thou shalt afflict my daughters, and if thou shalt take wives beside my daughters, no man being with us; see, G-d is witness betwixt me and thee.'
 
@@ -1924,7 +1924,7 @@
 
 2. And Jacob went on his way, and the angels of G-d met him.
 
-3. And Jacob said when he saw them: 'This is G-d's camp.' And he called the name of that place Mahanaim.That is, Two camps.
+3. And Jacob said when he saw them: 'This is G-d's camp.' And he called the name of that place Mahanaim.
 
 4. And Jacob sent messengers before him to Esau his brother unto the land of Seir, the field of Edom.
 
@@ -1976,13 +1976,13 @@
 
 28. And he said unto him: 'What is thy name?' And be said: 'Jacob.'
 
-29. And he said: 'Thy name shall be called no more Jacob, but Israel;That is, He who striveth with God. for thou hast striven with G-d and with men, and hast prevailed.'
+29. And he said: 'Thy name shall be called no more Jacob, but Israel;
 
 30. And Jacob asked him, and said: 'Tell me, I pray thee, thy name.' And he said: 'Wherefore is it that thou dost ask after my name?' And he blessed him there.
 
-31. And Jacob called the name of the place Peniel:That is, The face of God. 'for I have seen G-d face to face, and my life is preserved.'
+31. And Jacob called the name of the place Peniel:
 
-32. And the sun rose upon him as he passed over Peniel,Heb. Penuel. and he limped upon his thigh.
+32. And the sun rose upon him as he passed over Peniel,
 
 33. Therefore the children of Israel eat not the sinew of the thigh-vein which is upon the hollow of the thigh, unto this day; because he touched the hollow of Jacob's thigh, even in the sinew of the thigh-vein.  
 
@@ -2020,13 +2020,13 @@
 
 16. So Esau returned that day on his way unto Seir.
 
-17. And Jacob journeyed to Succoth, and built him a house, and made booths for his cattle. Therefore the name of the place is called Succoth.That is, Booths.
+17. And Jacob journeyed to Succoth, and built him a house, and made booths for his cattle. Therefore the name of the place is called Succoth.
 
 18. And Jacob came in peace to the city of Shechem, which is in the land of Canaan, when he came from Paddan-aram; and encamped before the city.
 
 19. And he bought the parcel of ground, where he had spread his tent, at the hand of the children of Hamor, Shechem's father, for a hundred pieces of money.
 
-20. And he erected there an altar, and called it El-elohe-Israel.That is, God, the God of Israel.
+20. And he erected there an altar, and called it El-elohe-Israel.
 
 ## Genesis 34
 
@@ -2106,9 +2106,9 @@
 
 6. So Jacob came to Luz, which is in the land of Canaan--the same is Beth-el--he and all the people that were with him.
 
-7. And he built there an altar, and called the place El-beth-el,That is, The God of Beth-el. because there G-d was revealed unto him, when he fled from the face of his brother.
+7. And he built there an altar, and called the place El-beth-el,
 
-8. And Deborah Rebekah's nurse died, and she was buried below Beth-elThat is, The oak of weeping. under the oak; and the name of it was called Allon-bacuth.
+8. And Deborah Rebekah's nurse died, and she was buried below Beth-el
 
 9. And G-d appeared unto Jacob again, when he came from Paddan-aram, and blessed him.
 
@@ -2128,7 +2128,7 @@
 
 17. And it came to pass, when she was in hard labour, that the mid-wife said unto her: 'Fear not; for this also is a son for thee.'
 
-18. And it came to pass, as her soul was in departing--for she died--that she called his name Ben-oni;That is, The son of my sorrows.</note> but his father called him Benjamin. but his father called him Benjamin.That is, The son of the right hand.
+18. And it came to pass, as her soul was in departing--for she died--that she called his name Ben-oni;
 
 19. And Rachel died, and was buried in the way to Ephrath--the same is Beth-lehem.
 
@@ -2170,7 +2170,7 @@
 
 8. And Esau dwelt in the mountain-land of Seir--Esau is Edom.
 
-9. And these are the generations of Esau the father of a the EdomitesHeb. Edom. in the mountain-land of Seir.
+9. And these are the generations of Esau the father of a the Edomites
 
 10. These are the names of Esau's sons: Eliphaz the son of Adah the wife of Esau, Reuel the son of Basemath the wife of Esau.
 
@@ -2204,7 +2204,7 @@
 
 25. And these are the children of Anah: Dishon and Oholibamah the daughter of Anah.
 
-26. And these are the children of Dishon:Heb. Dishan. Hemdan and Eshban and Ithran and Cheran.
+26. And these are the children of Dishon:
 
 27. These are the children of Ezer: Bilhan and Zaavan and Akan.
 
@@ -2312,7 +2312,7 @@
 
 35. And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said: 'Nay, but I will go down to the grave to my son mourning.' And his father wept for him.
 
-36. And the MidianitesHeb. Medanites. sold him into Egypt unto Potiphar, an officer of Pharaoh's, the captain of the guard.  
+36. And the Midianites
 
 ## Genesis 38
 
@@ -2372,7 +2372,7 @@
 
 28. And it came to pass, when she travailed, that one put out a hand; and the midwife took and bound upon his hand a scarlet thread, saying: 'This came out first.'
 
-29. And it came to pass, as he drew back his hand, that, behold his brother came out; and she said: 'Wherefore hast thou made a breach for thyself?' Therefore his name was called Perez.That is, A breach.
+29. And it came to pass, as he drew back his hand, that, behold his brother came out; and she said: 'Wherefore hast thou made a breach for thyself?' Therefore his name was called Perez.
 
 30. And afterward came out his brother, that had the scarlet thread upon his hand; and his name was called Zerah. 
 
@@ -2474,7 +2474,7 @@
 
 ## Genesis 41
 
-1. And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.That is, the Nile.
+1. And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 
 2. And, behold, there came up out of the river seven kine, well-favoured and fat-fleshed; and they fed in the reed-grass.
 
@@ -2574,9 +2574,9 @@
 
 50. And unto Joseph were born two sons before the year of famine came, whom Asenath the daughter of Poti-phera priest of On bore unto him.
 
-51. And Joseph called the name of the first-born Manasseh:That is, Making to forget. 'for G-d hath made me forget all my toil, and all my father's house.'
+51. And Joseph called the name of the first-born Manasseh:
 
-52. And the name of the second called he Ephraim:From a Hebrew word signifying to be fruitful. 'for G-d hath made me fruitful in the land of my affliction.'
+52. And the name of the second called he Ephraim:
 
 53. And the seven years of plenty, that was in the land of Egypt, came to an end.
 
@@ -3042,7 +3042,7 @@
 
 21. And Israel said unto Joseph: 'Behold, I die; but G-d will be with you, and bring you back unto the land of your fathers.
 
-22. Moreover I have given to thee one portionHeb. schechem, shoulder. above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.'  
+22. Moreover I have given to thee one portion
 
 ## Genesis 49
 
@@ -3082,7 +3082,7 @@
 
 18. I wait for Thy salvation, O L-rd.
 
-19. Gad, a troopHeb. gedud. shall troop upon him; but he shall troopFrom the Heb. root gadad. upon their heel.
+19. Gad, a troop
 
 20. As for Asher, his bread shall be fat, and he shall yield royal dainties.
 
@@ -3134,7 +3134,7 @@
 
 10. And they came to the threshing-floor of Atad, which is beyond the Jordan, and there they wailed with a very great and sore wailing; and he made a mourning for his father seven days.
 
-11. And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said: 'This is a grievous mourningHeb. ebel. to the Egyptians.' Wherefore the name of it was called Abel-mizraim, which is beyond the Jordan.
+11. And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said: 'This is a grievous mourning
 
 12. And his sons did unto him according as he commanded them.
 

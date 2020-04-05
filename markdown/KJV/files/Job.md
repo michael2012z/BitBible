@@ -6,25 +6,25 @@
 
 2. And there were born unto him seven sons and three daughters.
 
-3. His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east.substance: or, cattlehousehold: or, husbandrymen: Heb. sons
+3. His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east.
 
 4. And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
 
-5. And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.continually: Heb. all the days
+5. And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
 
-6. Now there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them.Satan: Heb. the adversaryamong: Heb. in the midst of
+6. Now there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them.
 
 7. And the Lord said unto Satan, Whence comest thou? Then Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
 
-8. And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?considered: Heb. set thy heart on
+8. And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
 
 9. Then Satan answered the Lord, and said, Doth Job fear God for nought?
 
-10. Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.substance: or, cattle
+10. Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.
 
-11. But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.and he…: Heb. if he curse thee not to thy face
+11. But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
 
-12. And the Lord said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the Lord.power: Heb. hand
+12. And the Lord said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the Lord.
 
 13. And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house:
 
@@ -32,19 +32,19 @@
 
 15. And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
 
-16. While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.The fire…: or, A great fire
+16. While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.
 
-17. While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.fell: Heb. rushed
+17. While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
 
 18. While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother’s house:
 
-19. And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.from…: Heb. from aside, etc
+19. And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.
 
-20. Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,mantle: or, robe
+20. Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,
 
 21. And said, Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord.
 
-22. In all this Job sinned not, nor charged God foolishly.charged…: or, attributed folly to God 
+22. In all this Job sinned not, nor charged God foolishly.
 
 ## Job 2
 
@@ -52,13 +52,13 @@
 
 2. And the Lord said unto Satan, From whence comest thou? And Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
 
-3. And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.to destroy…: Heb. to swallow him up
+3. And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
 
 4. And Satan answered the Lord, and said, Skin for skin, yea, all that a man hath will he give for his life.
 
 5. But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
 
-6. And the Lord said unto Satan, Behold, he is in thine hand; but save his life.but: or, only
+6. And the Lord said unto Satan, Behold, he is in thine hand; but save his life.
 
 7. So went Satan forth from the presence of the Lord, and smote Job with sore boils from the sole of his foot unto his crown.
 
@@ -78,21 +78,21 @@
 
 1. After this opened Job his mouth, and cursed his day.
 
-2. And Job spake, and said,spake: Heb. answered
+2. And Job spake, and said,
 
 3. Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived.
 
 4. Let that day be darkness; let not God regard it from above, neither let the light shine upon it.
 
-5. Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it.stain: or, challengelet the…: or, let them terrify it, as those who have a bitter day
+5. Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it.
 
-6. As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.let it not be…: or, let it not rejoice among the days
+6. As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.
 
 7. Lo, let that night be solitary, let no joyful voice come therein.
 
-8. Let them curse it that curse the day, who are ready to raise up their mourning.their…: or, leviathan
+8. Let them curse it that curse the day, who are ready to raise up their mourning.
 
-9. Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:the dawning…: Heb. the eyelids of the morning
+9. Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:
 
 10. Because it shut not up the doors of my mother’s womb, nor hid sorrow from mine eyes.
 
@@ -108,7 +108,7 @@
 
 16. Or as an hidden untimely birth I had not been; as infants which never saw light.
 
-17. There the wicked cease from troubling; and there the weary be at rest.weary: Heb. wearied in strength
+17. There the wicked cease from troubling; and there the weary be at rest.
 
 18. There the prisoners rest together; they hear not the voice of the oppressor.
 
@@ -116,15 +116,15 @@
 
 20. Wherefore is light given to him that is in misery, and life unto the bitter in soul;
 
-21. Which long for death, but it cometh not; and dig for it more than for hid treasures;long: Heb. wait
+21. Which long for death, but it cometh not; and dig for it more than for hid treasures;
 
 22. Which rejoice exceedingly, and are glad, when they can find the grave?
 
 23. Why is light given to a man whose way is hid, and whom God hath hedged in?
 
-24. For my sighing cometh before I eat, and my roarings are poured out like the waters.I eat: Heb. my meat
+24. For my sighing cometh before I eat, and my roarings are poured out like the waters.
 
-25. For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.the thing…: Heb. I feared a fear, and it came upon me
+25. For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.
 
 26. I was not in safety, neither had I rest, neither was I quiet; yet trouble came. 
 
@@ -132,7 +132,7 @@
 
 1. Then Eliphaz the Temanite answered and said,
 
-2. If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?to…: Heb. a wordwithhold…: Heb. refrain from words?
+2. If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?
 
 3. Behold, thou hast instructed many, and thou hast strengthened the weak hands.
 
@@ -146,37 +146,37 @@
 
 8. Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.
 
-9. By the blast of God they perish, and by the breath of his nostrils are they consumed.by the breath…: that is, by his anger
+9. By the blast of God they perish, and by the breath of his nostrils are they consumed.
 
 10. The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.
 
 11. The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.
 
-12. Now a thing was secretly brought to me, and mine ear received a little thereof.secretly: Heb. by stealth
+12. Now a thing was secretly brought to me, and mine ear received a little thereof.
 
 13. In thoughts from the visions of the night, when deep sleep falleth on men,
 
-14. Fear came upon me, and trembling, which made all my bones to shake.came…: Heb. metall: Heb. the multitude of
+14. Fear came upon me, and trembling, which made all my bones to shake.
 
 15. Then a spirit passed before my face; the hair of my flesh stood up:
 
-16. It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,there…: or, I heard a still voice
+16. It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,
 
 17. Shall mortal man be more just than God? shall a man be more pure than his maker?
 
-18. Behold, he put no trust in his servants; and his angels he charged with folly:and his…: or, nor in his angels, in whom he put light
+18. Behold, he put no trust in his servants; and his angels he charged with folly:
 
 19. How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?
 
-20. They are destroyed from morning to evening: they perish for ever without any regarding it.destroyed: Heb. beaten in pieces
+20. They are destroyed from morning to evening: they perish for ever without any regarding it.
 
 21. Doth not their excellency which is in them go away? they die, even without wisdom. 
 
 ## Job 5
 
-1. Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?turn: or, look?
+1. Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?
 
-2. For wrath killeth the foolish man, and envy slayeth the silly one.envy: or, indignation
+2. For wrath killeth the foolish man, and envy slayeth the silly one.
 
 3. I have seen the foolish taking root: but suddenly I cursed his habitation.
 
@@ -184,23 +184,23 @@
 
 5. Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.
 
-6. Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;affliction: or, iniquity
+6. Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;
 
-7. Yet man is born unto trouble, as the sparks fly upward.trouble: or, laboursparks…: Heb. the sons of the burning coal lift up to fly
+7. Yet man is born unto trouble, as the sparks fly upward.
 
 8. I would seek unto God, and unto God would I commit my cause:
 
-9. Which doeth great things and unsearchable; marvellous things without number:unsearchable: Heb. there is no searchwithout…: Heb. till there be no number
+9. Which doeth great things and unsearchable; marvellous things without number:
 
-10. Who giveth rain upon the earth, and sendeth waters upon the fields:fields: Heb. outplaces
+10. Who giveth rain upon the earth, and sendeth waters upon the fields:
 
 11. To set up on high those that be low; that those which mourn may be exalted to safety.
 
-12. He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.their enterprise: or, any thing
+12. He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
 
 13. He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
 
-14. They meet with darkness in the daytime, and grope in the noonday as in the night.meet…: or, run into
+14. They meet with darkness in the daytime, and grope in the noonday as in the night.
 
 15. But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.
 
@@ -212,39 +212,39 @@
 
 19. He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.
 
-20. In famine he shall redeem thee from death: and in war from the power of the sword.power: Heb. hands
+20. In famine he shall redeem thee from death: and in war from the power of the sword.
 
-21. Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.from…: or, when the tongue scourgeth
+21. Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.
 
 22. At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.
 
 23. For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.
 
-24. And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.thy tabernacle…: or, peace is thy tabernaclesin: or, err
+24. And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.
 
-25. Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.great: or, much
+25. Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.
 
-26. Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.cometh in: Heb. ascendeth
+26. Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
 
-27. Lo this, we have searched it, so it is; hear it, and know thou it for thy good.for…: Heb. for thyself 
+27. Lo this, we have searched it, so it is; hear it, and know thou it for thy good.
 
 ## Job 6
 
 1. But Job answered and said,
 
-2. Oh that my grief were throughly weighed, and my calamity laid in the balances together!laid: Heb. lifted up
+2. Oh that my grief were throughly weighed, and my calamity laid in the balances together!
 
-3. For now it would be heavier than the sand of the sea: therefore my words are swallowed up.my words…: that is, I want words to express my grief
+3. For now it would be heavier than the sand of the sea: therefore my words are swallowed up.
 
 4. For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.
 
-5. Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?when he…: Heb. at grass?
+5. Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?
 
 6. Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?
 
 7. The things that my soul refused to touch are as my sorrowful meat.
 
-8. Oh that I might have my request; and that God would grant me the thing that I long for!the thing…: Heb. my expectation
+8. Oh that I might have my request; and that God would grant me the thing that I long for!
 
 9. Even that it would please God to destroy me; that he would let loose his hand, and cut me off!
 
@@ -252,17 +252,17 @@
 
 11. What is my strength, that I should hope? and what is mine end, that I should prolong my life?
 
-12. Is my strength the strength of stones? or is my flesh of brass?of brass: Heb. brasen?
+12. Is my strength the strength of stones? or is my flesh of brass?
 
 13. Is not my help in me? and is wisdom driven quite from me?
 
-14. To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.is afflicted: Heb. melteth
+14. To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.
 
 15. My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;
 
 16. Which are blackish by reason of the ice, and wherein the snow is hid:
 
-17. What time they wax warm, they vanish: when it is hot, they are consumed out of their place.vanish: Heb. are cut offwhen…: Heb. in the heat thereofconsumed: Heb. extinguished
+17. What time they wax warm, they vanish: when it is hot, they are consumed out of their place.
 
 18. The paths of their way are turned aside; they go to nothing, and perish.
 
@@ -270,7 +270,7 @@
 
 20. They were confounded because they had hoped; they came thither, and were ashamed.
 
-21. For now ye are nothing; ye see my casting down, and are afraid.ye are…: or, ye are like to them: Heb. to itnothing: Heb. not
+21. For now ye are nothing; ye see my casting down, and are afraid.
 
 22. Did I say, Bring unto me? or, Give a reward for me of your substance?
 
@@ -282,31 +282,31 @@
 
 26. Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?
 
-27. Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.ye overwhelm: Heb. ye cause to fall upon
+27. Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.
 
-28. Now therefore be content, look upon me; for it is evident unto you if I lie.evident…: Heb. before your face
+28. Now therefore be content, look upon me; for it is evident unto you if I lie.
 
-29. Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.in it: that is, in this matter
+29. Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.
 
-30. Is there iniquity in my tongue? cannot my taste discern perverse things?my taste: Heb. my palate 
+30. Is there iniquity in my tongue? cannot my taste discern perverse things?
 
 ## Job 7
 
-1. Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?an appointed…: or, a warfare
+1. Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?
 
-2. As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:earnestly…: Heb. gapeth after
+2. As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:
 
 3. So am I made to possess months of vanity, and wearisome nights are appointed to me.
 
-4. When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.the night…: Heb. the evening be measured?
+4. When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.
 
 5. My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.
 
 6. My days are swifter than a weaver’s shuttle, and are spent without hope.
 
-7. O remember that my life is wind: mine eye shall no more see good.shall…: Heb. shall not returnsee: to see, that is, to enjoy
+7. O remember that my life is wind: mine eye shall no more see good.
 
-8. The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.I am…: that is, I can live no longer
+8. The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.
 
 9. As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.
 
@@ -320,7 +320,7 @@
 
 14. Then thou scarest me with dreams, and terrifiest me through visions:
 
-15. So that my soul chooseth strangling, and death rather than my life.life: Heb. bones
+15. So that my soul chooseth strangling, and death rather than my life.
 
 16. I loathe it; I would not live alway: let me alone; for my days are vanity.
 
@@ -342,7 +342,7 @@
 
 3. Doth God pervert judgment? or doth the Almighty pervert justice?
 
-4. If thy children have sinned against him, and he have cast them away for their transgression;for…: Heb. in the hand of their transgression
+4. If thy children have sinned against him, and he have cast them away for their transgression;
 
 5. If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;
 
@@ -352,7 +352,7 @@
 
 8. For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
 
-9. (For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)nothing: Heb. not
+9. (For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)
 
 10. Shall not they teach thee, and tell thee, and utter words out of their heart?
 
@@ -362,7 +362,7 @@
 
 13. So are the paths of all that forget God; and the hypocrite’s hope shall perish:
 
-14. Whose hope shall be cut off, and whose trust shall be a spider’s web.web: Heb. house
+14. Whose hope shall be cut off, and whose trust shall be a spider’s web.
 
 15. He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.
 
@@ -374,17 +374,17 @@
 
 19. Behold, this is the joy of his way, and out of the earth shall others grow.
 
-20. Behold, God will not cast away a perfect man, neither will he help the evil doers:help…: Heb. take the ungodly by the handcome: Heb. shall not be
+20. Behold, God will not cast away a perfect man, neither will he help the evil doers:
 
-21. Till he fill thy mouth with laughing, and thy lips with rejoicing.rejoicing: Heb. shouting for joy
+21. Till he fill thy mouth with laughing, and thy lips with rejoicing.
 
-22. They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.shall come…: Heb. shall not be 
+22. They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.
 
 ## Job 9
 
 1. Then Job answered and said,
 
-2. I know it is so of a truth: but how should man be just with God?with God: or, before God?
+2. I know it is so of a truth: but how should man be just with God?
 
 3. If he will contend with him, he cannot answer him one of a thousand.
 
@@ -396,17 +396,17 @@
 
 7. Which commandeth the sun, and it riseth not; and sealeth up the stars.
 
-8. Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.waves: Heb. heights
+8. Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.
 
-9. Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.Arcturus…: Heb. Ash, Cesil, and Cimah
+9. Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.
 
 10. Which doeth great things past finding out; yea, and wonders without number.
 
 11. Lo, he goeth by me, and I see him not: he passeth on also, but I perceive him not.
 
-12. Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?hinder…: Heb. turn him away?
+12. Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?
 
-13. If God will not withdraw his anger, the proud helpers do stoop under him.proud…: Heb. helpers of pride, or, strength
+13. If God will not withdraw his anger, the proud helpers do stoop under him.
 
 14. How much less shall I answer him, and choose out my words to reason with him?
 
@@ -432,7 +432,7 @@
 
 25. Now my days are swifter than a post: they flee away, they see no good.
 
-26. They are passed away as the swift ships: as the eagle that hasteth to the prey.swift…: or, ships of Ebeh: Heb. ships of desire
+26. They are passed away as the swift ships: as the eagle that hasteth to the prey.
 
 27. If I say, I will forget my complaint, I will leave off my heaviness, and comfort myself:
 
@@ -442,23 +442,23 @@
 
 30. If I wash myself with snow water, and make my hands never so clean;
 
-31. Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.abhor…: or, make me to be abhorred
+31. Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.
 
 32. For he is not a man, as I am, that I should answer him, and we should come together in judgment.
 
-33. Neither is there any daysman betwixt us, that might lay his hand upon us both.any…: Heb. one that should arguedaysman: or, umpire
+33. Neither is there any daysman betwixt us, that might lay his hand upon us both.
 
 34. Let him take his rod away from me, and let not his fear terrify me:
 
-35. Then would I speak, and not fear him; but it is not so with me.it is…: Heb. I am not so with myself 
+35. Then would I speak, and not fear him; but it is not so with me.
 
 ## Job 10
 
-1. My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.weary…: or, cut off while I live
+1. My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
 
 2. I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.
 
-3. Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?work: Heb. labour
+3. Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?
 
 4. Hast thou eyes of flesh? or seest thou as man seeth?
 
@@ -466,15 +466,15 @@
 
 6. That thou enquirest after mine iniquity, and searchest after my sin?
 
-7. Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.Thou…: Heb. It is upon thy knowledge
+7. Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.
 
-8. Thine hands have made me and fashioned me together round about; yet thou dost destroy me.have…: Heb. took pains about me
+8. Thine hands have made me and fashioned me together round about; yet thou dost destroy me.
 
 9. Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?
 
 10. Hast thou not poured me out as milk, and curdled me like cheese?
 
-11. Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.fenced: Heb. hedged
+11. Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.
 
 12. Thou hast granted me life and favour, and thy visitation hath preserved my spirit.
 
@@ -486,7 +486,7 @@
 
 16. For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.
 
-17. Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.witnesses: that is, plagues
+17. Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.
 
 18. Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!
 
@@ -502,9 +502,9 @@
 
 1. Then answered Zophar the Naamathite, and said,
 
-2. Should not the multitude of words be answered? and should a man full of talk be justified?full…: Heb. of lips
+2. Should not the multitude of words be answered? and should a man full of talk be justified?
 
-3. Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?lies: or, devices
+3. Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?
 
 4. For thou hast said, My doctrine is pure, and I am clean in thine eyes.
 
@@ -514,15 +514,15 @@
 
 7. Canst thou by searching find out God? canst thou find out the Almighty unto perfection?
 
-8. It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?as high…: Heb. the heights of heaven
+8. It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?
 
 9. The measure thereof is longer than the earth, and broader than the sea.
 
-10. If he cut off, and shut up, or gather together, then who can hinder him?cut…: or, make a changehinder…: Heb. turn him away?
+10. If he cut off, and shut up, or gather together, then who can hinder him?
 
 11. For he knoweth vain men: he seeth wickedness also; will he not then consider it?
 
-12. For vain man would be wise, though man be born like a wild ass’s colt.vain: Heb. empty
+12. For vain man would be wise, though man be born like a wild ass’s colt.
 
 13. If thou prepare thine heart, and stretch out thine hands toward him;
 
@@ -532,13 +532,13 @@
 
 16. Because thou shalt forget thy misery, and remember it as waters that pass away:
 
-17. And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning.be clearer…: Heb. arise above
+17. And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning.
 
 18. And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety.
 
-19. Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.make suit…: Heb. intreat thy face
+19. Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.
 
-20. But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.they shall…: Heb. flight shall perish from themthe giving…: or, a puff of breath 
+20. But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.
 
 ## Job 12
 
@@ -546,7 +546,7 @@
 
 2. No doubt but ye are the people, and wisdom shall die with you.
 
-3. But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?understanding: Heb. an heartI am…: Heb. I fall not lower than youwho…: Heb. with whom are not such as these?
+3. But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?
 
 4. I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn.
 
@@ -560,15 +560,15 @@
 
 9. Who knoweth not in all these that the hand of the Lord hath wrought this?
 
-10. In whose hand is the soul of every living thing, and the breath of all mankind.soul: or, lifeall…: Heb. all flesh of man
+10. In whose hand is the soul of every living thing, and the breath of all mankind.
 
-11. Doth not the ear try words? and the mouth taste his meat?mouth: Heb. palate
+11. Doth not the ear try words? and the mouth taste his meat?
 
 12. With the ancient is wisdom; and in length of days understanding.
 
-13. With him is wisdom and strength, he hath counsel and understanding.With…: that is, With God
+13. With him is wisdom and strength, he hath counsel and understanding.
 
-14. Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.up: Heb. upon
+14. Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.
 
 15. Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.
 
@@ -580,17 +580,17 @@
 
 19. He leadeth princes away spoiled, and overthroweth the mighty.
 
-20. He removeth away the speech of the trusty, and taketh away the understanding of the aged.speech…: Heb. lip of the faithful
+20. He removeth away the speech of the trusty, and taketh away the understanding of the aged.
 
-21. He poureth contempt upon princes, and weakeneth the strength of the mighty.weakeneth…: or, looseth the girdle of the strong
+21. He poureth contempt upon princes, and weakeneth the strength of the mighty.
 
 22. He discovereth deep things out of darkness, and bringeth out to light the shadow of death.
 
-23. He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again.straiteneth: Heb. leadeth in
+23. He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again.
 
 24. He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness where there is no way.
 
-25. They grope in the dark without light, and he maketh them to stagger like a drunken man.stagger: Heb. wander 
+25. They grope in the dark without light, and he maketh them to stagger like a drunken man.
 
 ## Job 13
 
@@ -618,11 +618,11 @@
 
 12. Your remembrances are like unto ashes, your bodies to bodies of clay.
 
-13. Hold your peace, let me alone, that I may speak, and let come on me what will.Hold…: Heb. Be silent from me
+13. Hold your peace, let me alone, that I may speak, and let come on me what will.
 
 14. Wherefore do I take my flesh in my teeth, and put my life in mine hand?
 
-15. Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.maintain: Heb. prove, or, argue
+15. Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.
 
 16. He also shall be my salvation: for an hypocrite shall not come before him.
 
@@ -646,23 +646,23 @@
 
 26. For thou writest bitter things against me, and makest me to possess the iniquities of my youth.
 
-27. Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.lookest…: Heb. observestheels: Heb. roots
+27. Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.
 
 28. And he, as a rotten thing, consumeth, as a garment that is moth eaten. 
 
 ## Job 14
 
-1. Man that is born of a woman is of few days, and full of trouble.few…: Heb. short of days
+1. Man that is born of a woman is of few days, and full of trouble.
 
 2. He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.
 
 3. And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?
 
-4. Who can bring a clean thing out of an unclean? not one.can…: Heb. will give
+4. Who can bring a clean thing out of an unclean? not one.
 
 5. Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;
 
-6. Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.rest: Heb. cease
+6. Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.
 
 7. For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.
 
@@ -670,7 +670,7 @@
 
 9. Yet through the scent of water it will bud, and bring forth boughs like a plant.
 
-10. But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?wasteth…: Heb. is weakened, or, cut off
+10. But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?
 
 11. As the waters fail from the sea, and the flood decayeth and drieth up:
 
@@ -686,9 +686,9 @@
 
 17. My transgression is sealed up in a bag, and thou sewest up mine iniquity.
 
-18. And surely the mountain falling cometh to nought, and the rock is removed out of his place.cometh…: Heb. fadeth
+18. And surely the mountain falling cometh to nought, and the rock is removed out of his place.
 
-19. The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man.washest…: Heb. overflowest
+19. The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man.
 
 20. Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.
 
@@ -700,13 +700,13 @@
 
 1. Then answered Eliphaz the Temanite, and said,
 
-2. Should a wise man utter vain knowledge, and fill his belly with the east wind?vain…: Heb. knowledge of wind
+2. Should a wise man utter vain knowledge, and fill his belly with the east wind?
 
 3. Should he reason with unprofitable talk? or with speeches wherewith he can do no good?
 
-4. Yea, thou castest off fear, and restrainest prayer before God.castest…: Heb. makest voidprayer: or, speech
+4. Yea, thou castest off fear, and restrainest prayer before God.
 
-5. For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.uttereth: Heb. teacheth
+5. For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.
 
 6. Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.
 
@@ -738,7 +738,7 @@
 
 20. The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor.
 
-21. A dreadful sound is in his ears: in prosperity the destroyer shall come upon him.A dreadful…: Heb. A sound of fears
+21. A dreadful sound is in his ears: in prosperity the destroyer shall come upon him.
 
 22. He believeth not that he shall return out of darkness, and he is waited for of the sword.
 
@@ -760,27 +760,27 @@
 
 31. Let not him that is deceived trust in vanity: for vanity shall be his recompence.
 
-32. It shall be accomplished before his time, and his branch shall not be green.accomplished: or, cut off
+32. It shall be accomplished before his time, and his branch shall not be green.
 
 33. He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive.
 
 34. For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery.
 
-35. They conceive mischief, and bring forth vanity, and their belly prepareth deceit.vanity: or, iniquity 
+35. They conceive mischief, and bring forth vanity, and their belly prepareth deceit.
 
 ## Job 16
 
 1. Then Job answered and said,
 
-2. I have heard many such things: miserable comforters are ye all.miserable: or, troublesome
+2. I have heard many such things: miserable comforters are ye all.
 
-3. Shall vain words have an end? or what emboldeneth thee that thou answerest?vain…: Heb. words of wind
+3. Shall vain words have an end? or what emboldeneth thee that thou answerest?
 
 4. I also could speak as ye do: if your soul were in my soul’s stead, I could heap up words against you, and shake mine head at you.
 
 5. But I would strengthen you with my mouth, and the moving of my lips should asswage your grief.
 
-6. Though I speak, my grief is not asswaged: and though I forbear, what am I eased?what…: Heb. what goeth from me?
+6. Though I speak, my grief is not asswaged: and though I forbear, what am I eased?
 
 7. But now he hath made me weary: thou hast made desolate all my company.
 
@@ -790,7 +790,7 @@
 
 10. They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
 
-11. God hath delivered me to the ungodly, and turned me over into the hands of the wicked.hath…: Heb. hath shut me up
+11. God hath delivered me to the ungodly, and turned me over into the hands of the wicked.
 
 12. I was at ease, but he hath broken me asunder: he hath also taken me by my neck, and shaken me to pieces, and set me up for his mark.
 
@@ -806,19 +806,19 @@
 
 18. O earth, cover not thou my blood, and let my cry have no place.
 
-19. Also now, behold, my witness is in heaven, and my record is on high.on high: Heb. in the high places
+19. Also now, behold, my witness is in heaven, and my record is on high.
 
-20. My friends scorn me: but mine eye poureth out tears unto God.scorn me: Heb. are my scorners
+20. My friends scorn me: but mine eye poureth out tears unto God.
 
-21. O that one might plead for a man with God, as a man pleadeth for his neighbour!neighbour: or, friend
+21. O that one might plead for a man with God, as a man pleadeth for his neighbour!
 
-22. When a few years are come, then I shall go the way whence I shall not return.a few…: Heb. years of number 
+22. When a few years are come, then I shall go the way whence I shall not return.
 
 ## Job 17
 
-1. My breath is corrupt, my days are extinct, the graves are ready for me.breath…: or, spirit is spent
+1. My breath is corrupt, my days are extinct, the graves are ready for me.
 
-2. Are there not mockers with me? and doth not mine eye continue in their provocation?continue: Heb. lodge
+2. Are there not mockers with me? and doth not mine eye continue in their provocation?
 
 3. Lay down now, put me in a surety with thee; who is he that will strike hands with me?
 
@@ -826,23 +826,23 @@
 
 5. He that speaketh flattery to his friends, even the eyes of his children shall fail.
 
-6. He hath made me also a byword of the people; and aforetime I was as a tabret.aforetime: or, before them
+6. He hath made me also a byword of the people; and aforetime I was as a tabret.
 
-7. Mine eye also is dim by reason of sorrow, and all my members are as a shadow.my members: or, my thoughts
+7. Mine eye also is dim by reason of sorrow, and all my members are as a shadow.
 
 8. Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite.
 
-9. The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.be…: Heb. add strength
+9. The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.
 
 10. But as for you all, do ye return, and come now: for I cannot find one wise man among you.
 
-11. My days are past, my purposes are broken off, even the thoughts of my heart.the thoughts: Heb. the possessions
+11. My days are past, my purposes are broken off, even the thoughts of my heart.
 
-12. They change the night into day: the light is short because of darkness.short: Heb. near
+12. They change the night into day: the light is short because of darkness.
 
 13. If I wait, the grave is mine house: I have made my bed in the darkness.
 
-14. I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.said: Heb. cried, or, called
+14. I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.
 
 15. And where is now my hope? as for my hope, who shall see it?
 
@@ -856,11 +856,11 @@
 
 3. Wherefore are we counted as beasts, and reputed vile in your sight?
 
-4. He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?himself: Heb. his soul
+4. He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?
 
 5. Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.
 
-6. The light shall be dark in his tabernacle, and his candle shall be put out with him.candle: or, lamp
+6. The light shall be dark in his tabernacle, and his candle shall be put out with him.
 
 7. The steps of his strength shall be straitened, and his own counsel shall cast him down.
 
@@ -868,13 +868,13 @@
 
 9. The gin shall take him by the heel, and the robber shall prevail against him.
 
-10. The snare is laid for him in the ground, and a trap for him in the way.laid: Heb. hidden
+10. The snare is laid for him in the ground, and a trap for him in the way.
 
-11. Terrors shall make him afraid on every side, and shall drive him to his feet.drive: Heb. scatter
+11. Terrors shall make him afraid on every side, and shall drive him to his feet.
 
 12. His strength shall be hungerbitten, and destruction shall be ready at his side.
 
-13. It shall devour the strength of his skin: even the firstborn of death shall devour his strength.strength: Heb. bars
+13. It shall devour the strength of his skin: even the firstborn of death shall devour his strength.
 
 14. His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors.
 
@@ -884,11 +884,11 @@
 
 17. His remembrance shall perish from the earth, and he shall have no name in the street.
 
-18. He shall be driven from light into darkness, and chased out of the world.He…: Heb. They shall drive him
+18. He shall be driven from light into darkness, and chased out of the world.
 
 19. He shall neither have son nor nephew among his people, nor any remaining in his dwellings.
 
-20. They that come after him shall be astonied at his day, as they that went before were affrighted.went…: or, lived with himwere…: Heb. laid hold on horror
+20. They that come after him shall be astonied at his day, as they that went before were affrighted.
 
 21. Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God. 
 
@@ -898,7 +898,7 @@
 
 2. How long will ye vex my soul, and break me in pieces with words?
 
-3. These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me.make…: or, harden yourselves against me
+3. These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me.
 
 4. And be it indeed that I have erred, mine error remaineth with myself.
 
@@ -906,7 +906,7 @@
 
 6. Know now that God hath overthrown me, and hath compassed me with his net.
 
-7. Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.wrong: or, violence
+7. Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.
 
 8. He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.
 
@@ -926,29 +926,29 @@
 
 16. I called my servant, and he gave me no answer; I intreated him with my mouth.
 
-17. My breath is strange to my wife, though I intreated for the children’s sake of mine own body.mine…: Heb. my belly
+17. My breath is strange to my wife, though I intreated for the children’s sake of mine own body.
 
-18. Yea, young children despised me; I arose, and they spake against me.young…: or, the wicked
+18. Yea, young children despised me; I arose, and they spake against me.
 
-19. All my inward friends abhorred me: and they whom I loved are turned against me.my…: Heb. the men of my secret
+19. All my inward friends abhorred me: and they whom I loved are turned against me.
 
-20. My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.and to: or, as to
+20. My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.
 
 21. Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.
 
 22. Why do ye persecute me as God, and are not satisfied with my flesh?
 
-23. Oh that my words were now written! oh that they were printed in a book!Oh…: Heb. Who will give, etc
+23. Oh that my words were now written! oh that they were printed in a book!
 
 24. That they were graven with an iron pen and lead in the rock for ever!
 
 25. For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:
 
-26. And though after my skin worms destroy this body, yet in my flesh shall I see God:And…: or, After I shall awake, though this body be destroyed, yet out of my flesh
+26. And though after my skin worms destroy this body, yet in my flesh shall I see God:
 
-27. Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.another: Heb. a strangerthough…: or, my reins within me are consumed with earnest desire (for that day)within…: Heb. in my bosom
+27. Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.
 
-28. But ye should say, Why persecute we him, seeing the root of the matter is found in me?seeing…: or, and what root of matter is found in me?
+28. But ye should say, Why persecute we him, seeing the root of the matter is found in me?
 
 29. Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment. 
 
@@ -956,15 +956,15 @@
 
 1. Then answered Zophar the Naamathite, and said,
 
-2. Therefore do my thoughts cause me to answer, and for this I make haste.I make…: Heb. my haste is in me
+2. Therefore do my thoughts cause me to answer, and for this I make haste.
 
 3. I have heard the check of my reproach, and the spirit of my understanding causeth me to answer.
 
 4. Knowest thou not this of old, since man was placed upon earth,
 
-5. That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?short: Heb. from near
+5. That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
 
-6. Though his excellency mount up to the heavens, and his head reach unto the clouds;clouds: Heb. cloud
+6. Though his excellency mount up to the heavens, and his head reach unto the clouds;
 
 7. Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?
 
@@ -972,13 +972,13 @@
 
 9. The eye also which saw him shall see him no more; neither shall his place any more behold him.
 
-10. His children shall seek to please the poor, and his hands shall restore their goods.His children…: or, The poor shall oppress his children
+10. His children shall seek to please the poor, and his hands shall restore their goods.
 
 11. His bones are full of the sin of his youth, which shall lie down with him in the dust.
 
 12. Though wickedness be sweet in his mouth, though he hide it under his tongue;
 
-13. Though he spare it, and forsake it not; but keep it still within his mouth:within…: Heb. in the midst of his palate
+13. Though he spare it, and forsake it not; but keep it still within his mouth:
 
 14. Yet his meat in his bowels is turned, it is the gall of asps within him.
 
@@ -986,17 +986,17 @@
 
 16. He shall suck the poison of asps: the viper’s tongue shall slay him.
 
-17. He shall not see the rivers, the floods, the brooks of honey and butter.the floods…: or, streaming brooks
+17. He shall not see the rivers, the floods, the brooks of honey and butter.
 
-18. That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.his…: Heb. the substance of his exchange
+18. That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.
 
-19. Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;oppressed: Heb. crushed
+19. Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;
 
-20. Surely he shall not feel quietness in his belly, he shall not save of that which he desired.feel: Heb. know
+20. Surely he shall not feel quietness in his belly, he shall not save of that which he desired.
 
-21. There shall none of his meat be left; therefore shall no man look for his goods.none…: or, be none left for his meat
+21. There shall none of his meat be left; therefore shall no man look for his goods.
 
-22. In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.wicked: or, troublesome
+22. In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
 
 23. When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.
 
@@ -1010,7 +1010,7 @@
 
 28. The increase of his house shall depart, and his goods shall flow away in the day of his wrath.
 
-29. This is the portion of a wicked man from God, and the heritage appointed unto him by God.appointed…: Heb. of his decree from God 
+29. This is the portion of a wicked man from God, and the heritage appointed unto him by God.
 
 ## Job 21
 
@@ -1020,9 +1020,9 @@
 
 3. Suffer me that I may speak; and after that I have spoken, mock on.
 
-4. As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?troubled: Heb. shortened?
+4. As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?
 
-5. Mark me, and be astonished, and lay your hand upon your mouth.Mark…: Heb. Look unto me
+5. Mark me, and be astonished, and lay your hand upon your mouth.
 
 6. Even when I remember I am afraid, and trembling taketh hold on my flesh.
 
@@ -1030,7 +1030,7 @@
 
 8. Their seed is established in their sight with them, and their offspring before their eyes.
 
-9. Their houses are safe from fear, neither is the rod of God upon them.safe…: Heb. peace from
+9. Their houses are safe from fear, neither is the rod of God upon them.
 
 10. Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
 
@@ -1038,7 +1038,7 @@
 
 12. They take the timbrel and harp, and rejoice at the sound of the organ.
 
-13. They spend their days in wealth, and in a moment go down to the grave.in wealth: or, in mirth
+13. They spend their days in wealth, and in a moment go down to the grave.
 
 14. Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways.
 
@@ -1046,11 +1046,11 @@
 
 16. Lo, their good is not in their hand: the counsel of the wicked is far from me.
 
-17. How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger.candle: or, lamp
+17. How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger.
 
-18. They are as stubble before the wind, and as chaff that the storm carrieth away.carrieth: Heb. stealeth
+18. They are as stubble before the wind, and as chaff that the storm carrieth away.
 
-19. God layeth up his iniquity for his children: he rewardeth him, and he shall know it.his iniquity: that is, the punishment of his iniquity
+19. God layeth up his iniquity for his children: he rewardeth him, and he shall know it.
 
 20. His eyes shall see his destruction, and he shall drink of the wrath of the Almighty.
 
@@ -1058,9 +1058,9 @@
 
 22. Shall any teach God knowledge? seeing he judgeth those that are high.
 
-23. One dieth in his full strength, being wholly at ease and quiet.his…: Heb. his very, or, the strength of, his perfection
+23. One dieth in his full strength, being wholly at ease and quiet.
 
-24. His breasts are full of milk, and his bones are moistened with marrow.breasts: or, milk pails
+24. His breasts are full of milk, and his bones are moistened with marrow.
 
 25. And another dieth in the bitterness of his soul, and never eateth with pleasure.
 
@@ -1068,25 +1068,25 @@
 
 27. Behold, I know your thoughts, and the devices which ye wrongfully imagine against me.
 
-28. For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?the dwelling…: Heb. the tent of the tabernacles
+28. For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?
 
 29. Have ye not asked them that go by the way? and do ye not know their tokens,
 
-30. That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath.wrath: Heb. wraths
+30. That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath.
 
 31. Who shall declare his way to his face? and who shall repay him what he hath done?
 
-32. Yet shall he be brought to the grave, and shall remain in the tomb.grave: Heb. gravesremain…: Heb. watch in the heap
+32. Yet shall he be brought to the grave, and shall remain in the tomb.
 
 33. The clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him.
 
-34. How then comfort ye me in vain, seeing in your answers there remaineth falsehood?falsehood: Heb. transgression? 
+34. How then comfort ye me in vain, seeing in your answers there remaineth falsehood?
 
 ## Job 22
 
 1. Then Eliphaz the Temanite answered and said,
 
-2. Can a man be profitable unto God, as he that is wise may be profitable unto himself?as he…: or, if he may be profitable, doth his good success depend thereon?
+2. Can a man be profitable unto God, as he that is wise may be profitable unto himself?
 
 3. Is it any pleasure to the Almighty, that thou art righteous? or is it gain to him, that thou makest thy ways perfect?
 
@@ -1094,11 +1094,11 @@
 
 5. Is not thy wickedness great? and thine iniquities infinite?
 
-6. For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.the naked…: Heb. the clothes of the naked
+6. For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.
 
 7. Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.
 
-8. But as for the mighty man, he had the earth; and the honourable man dwelt in it.mighty…: Heb. man of armhonourable…: Heb. eminent, or, accepted for countenance
+8. But as for the mighty man, he had the earth; and the honourable man dwelt in it.
 
 9. Thou hast sent widows away empty, and the arms of the fatherless have been broken.
 
@@ -1106,33 +1106,33 @@
 
 11. Or darkness, that thou canst not see; and abundance of waters cover thee.
 
-12. Is not God in the height of heaven? and behold the height of the stars, how high they are!height of the stars: Heb. head of the stars
+12. Is not God in the height of heaven? and behold the height of the stars, how high they are!
 
-13. And thou sayest, How doth God know? can he judge through the dark cloud?How: or, What
+13. And thou sayest, How doth God know? can he judge through the dark cloud?
 
 14. Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.
 
 15. Hast thou marked the old way which wicked men have trodden?
 
-16. Which were cut down out of time, whose foundation was overflown with a flood:whose…: Heb. a flood was poured upon their foundation
+16. Which were cut down out of time, whose foundation was overflown with a flood:
 
-17. Which said unto God, Depart from us: and what can the Almighty do for them?for: or, to
+17. Which said unto God, Depart from us: and what can the Almighty do for them?
 
 18. Yet he filled their houses with good things: but the counsel of the wicked is far from me.
 
 19. The righteous see it, and are glad: and the innocent laugh them to scorn.
 
-20. Whereas our substance is not cut down, but the remnant of them the fire consumeth.substance: or, estatethe remnant…: or, their excellency
+20. Whereas our substance is not cut down, but the remnant of them the fire consumeth.
 
-21. Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.him: that is, God
+21. Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.
 
 22. Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.
 
 23. If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.
 
-24. Then shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks.as dust: or, on the dust
+24. Then shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks.
 
-25. Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.defence: or, goldplenty…: Heb. silver of strength
+25. Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.
 
 26. For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.
 
@@ -1140,15 +1140,15 @@
 
 28. Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.
 
-29. When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.the humble…: Heb. him that hath low eyes
+29. When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.
 
-30. He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.He shall…: or, The innocent shall deliver the island 
+30. He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.
 
 ## Job 23
 
 1. Then Job answered and said,
 
-2. Even to day is my complaint bitter: my stroke is heavier than my groaning.stroke: Heb. hand
+2. Even to day is my complaint bitter: my stroke is heavier than my groaning.
 
 3. Oh that I knew where I might find him! that I might come even to his seat!
 
@@ -1164,11 +1164,11 @@
 
 9. On the left hand, where he doth work, but I cannot behold him: he hideth himself on the right hand, that I cannot see him:
 
-10. But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.that…: Heb. that is with me
+10. But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.
 
 11. My foot hath held his steps, his way have I kept, and not declined.
 
-12. Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food.esteemed: Heb. hid, or, laid upmy…: or, my appointed portion
+12. Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food.
 
 13. But he is in one mind, and who can turn him? and what his soul desireth, even that he doeth.
 
@@ -1184,7 +1184,7 @@
 
 1. Why, seeing times are not hidden from the Almighty, do they that know him not see his days?
 
-2. Some remove the landmarks; they violently take away flocks, and feed thereof.feed…: or, feed them
+2. Some remove the landmarks; they violently take away flocks, and feed thereof.
 
 3. They drive away the ass of the fatherless, they take the widow’s ox for a pledge.
 
@@ -1192,7 +1192,7 @@
 
 5. Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children.
 
-6. They reap every one his corn in the field: and they gather the vintage of the wicked.corn: Heb. mingled corn, or, dredgethey gather…: Heb. the wicked gather the vintage
+6. They reap every one his corn in the field: and they gather the vintage of the wicked.
 
 7. They cause the naked to lodge without clothing, that they have no covering in the cold.
 
@@ -1210,7 +1210,7 @@
 
 14. The murderer rising with the light killeth the poor and needy, and in the night is as a thief.
 
-15. The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.disguiseth…: Heb. setteth his face in secret
+15. The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.
 
 16. In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.
 
@@ -1218,17 +1218,17 @@
 
 18. He is swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.
 
-19. Drought and heat consume the snow waters: so doth the grave those which have sinned.consume: Heb. violently take
+19. Drought and heat consume the snow waters: so doth the grave those which have sinned.
 
 20. The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.
 
 21. He evil entreateth the barren that beareth not: and doeth not good to the widow.
 
-22. He draweth also the mighty with his power: he riseth up, and no man is sure of life.no…: or, he trusteth not his own life
+22. He draweth also the mighty with his power: he riseth up, and no man is sure of life.
 
 23. Though it be given him to be in safety, whereon he resteth; yet his eyes are upon their ways.
 
-24. They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.are gone: Heb. are nottaken…: Heb. closed up
+24. They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.
 
 25. And if it be not so now, who will make me a liar, and make my speech nothing worth? 
 
@@ -1256,7 +1256,7 @@
 
 4. To whom hast thou uttered words? and whose spirit came from thee?
 
-5. Dead things are formed from under the waters, and the inhabitants thereof.and the…: or, with the inhabitants
+5. Dead things are formed from under the waters, and the inhabitants thereof.
 
 6. Hell is naked before him, and destruction hath no covering.
 
@@ -1266,11 +1266,11 @@
 
 9. He holdeth back the face of his throne, and spreadeth his cloud upon it.
 
-10. He hath compassed the waters with bounds, until the day and night come to an end.until…: Heb. until the end of light with darkness
+10. He hath compassed the waters with bounds, until the day and night come to an end.
 
 11. The pillars of heaven tremble and are astonished at his reproof.
 
-12. He divideth the sea with his power, and by his understanding he smiteth through the proud.the proud: Heb. pride
+12. He divideth the sea with his power, and by his understanding he smiteth through the proud.
 
 13. By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.
 
@@ -1278,17 +1278,17 @@
 
 ## Job 27
 
-1. Moreover Job continued his parable, and said,continued: Heb. added to take up
+1. Moreover Job continued his parable, and said,
 
-2. As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;vexed…: Heb. made my soul bitter
+2. As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;
 
-3. All the while my breath is in me, and the spirit of God is in my nostrils;the spirit…: that is, the breath which God gave him
+3. All the while my breath is in me, and the spirit of God is in my nostrils;
 
 4. My lips shall not speak wickedness, nor my tongue utter deceit.
 
 5. God forbid that I should justify you: till I die I will not remove mine integrity from me.
 
-6. My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.so long…: Heb. from my days
+6. My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.
 
 7. Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.
 
@@ -1298,7 +1298,7 @@
 
 10. Will he delight himself in the Almighty? will he always call upon God?
 
-11. I will teach you by the hand of God: that which is with the Almighty will I not conceal.by…: or, being in the hand, etc
+11. I will teach you by the hand of God: that which is with the Almighty will I not conceal.
 
 12. Behold, all ye yourselves have seen it; why then are ye thus altogether vain?
 
@@ -1320,15 +1320,15 @@
 
 21. The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.
 
-22. For God shall cast upon him, and not spare: he would fain flee out of his hand.he…: Heb. in fleeing he would flee
+22. For God shall cast upon him, and not spare: he would fain flee out of his hand.
 
 23. Men shall clap their hands at him, and shall hiss him out of his place. 
 
 ## Job 28
 
-1. Surely there is a vein for the silver, and a place for gold where they fine it.vein: or, mine
+1. Surely there is a vein for the silver, and a place for gold where they fine it.
 
-2. Iron is taken out of the earth, and brass is molten out of the stone.earth: or, dust
+2. Iron is taken out of the earth, and brass is molten out of the stone.
 
 3. He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.
 
@@ -1336,17 +1336,17 @@
 
 5. As for the earth, out of it cometh bread: and under it is turned up as it were fire.
 
-6. The stones of it are the place of sapphires: and it hath dust of gold.dust…: or, gold ore
+6. The stones of it are the place of sapphires: and it hath dust of gold.
 
 7. There is a path which no fowl knoweth, and which the vulture’s eye hath not seen:
 
 8. The lion’s whelps have not trodden it, nor the fierce lion passed by it.
 
-9. He putteth forth his hand upon the rock; he overturneth the mountains by the roots.rock: or, flint
+9. He putteth forth his hand upon the rock; he overturneth the mountains by the roots.
 
 10. He cutteth out rivers among the rocks; and his eye seeth every precious thing.
 
-11. He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light.overflowing: Heb. weeping
+11. He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light.
 
 12. But where shall wisdom be found? and where is the place of understanding?
 
@@ -1354,19 +1354,19 @@
 
 14. The depth saith, It is not in me: and the sea saith, It is not with me.
 
-15. It cannot be gotten for gold, neither shall silver be weighed for the price thereof.It…: Heb. Fine gold shall not be given for it
+15. It cannot be gotten for gold, neither shall silver be weighed for the price thereof.
 
 16. It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.
 
-17. The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold.jewels…: or, vessels of
+17. The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold.
 
-18. No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies.coral: or, Ramoth
+18. No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies.
 
 19. The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.
 
 20. Whence then cometh wisdom? and where is the place of understanding?
 
-21. Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.air: or, heaven
+21. Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.
 
 22. Destruction and death say, We have heard the fame thereof with our ears.
 
@@ -1378,23 +1378,23 @@
 
 26. When he made a decree for the rain, and a way for the lightning of the thunder:
 
-27. Then did he see it, and declare it; he prepared it, yea, and searched it out.declare…: or, number it
+27. Then did he see it, and declare it; he prepared it, yea, and searched it out.
 
 28. And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding. 
 
 ## Job 29
 
-1. Moreover Job continued his parable, and said,continued: Heb. added to take up
+1. Moreover Job continued his parable, and said,
 
 2. Oh that I were as in months past, as in the days when God preserved me;
 
-3. When his candle shined upon my head, and when by his light I walked through darkness;candle: or, lamp
+3. When his candle shined upon my head, and when by his light I walked through darkness;
 
 4. As I was in the days of my youth, when the secret of God was upon my tabernacle;
 
 5. When the Almighty was yet with me, when my children were about me;
 
-6. When I washed my steps with butter, and the rock poured me out rivers of oil;me: Heb. with me
+6. When I washed my steps with butter, and the rock poured me out rivers of oil;
 
 7. When I went out to the gate through the city, when I prepared my seat in the street!
 
@@ -1402,7 +1402,7 @@
 
 9. The princes refrained talking, and laid their hand on their mouth.
 
-10. The nobles held their peace, and their tongue cleaved to the roof of their mouth.The nobles…: Heb. The voice of the nobles was hid
+10. The nobles held their peace, and their tongue cleaved to the roof of their mouth.
 
 11. When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:
 
@@ -1416,13 +1416,13 @@
 
 16. I was a father to the poor: and the cause which I knew not I searched out.
 
-17. And I brake the jaws of the wicked, and plucked the spoil out of his teeth.the jaws: Heb. the jawteeth, or, the grindersplucked: Heb. cast
+17. And I brake the jaws of the wicked, and plucked the spoil out of his teeth.
 
 18. Then I said, I shall die in my nest, and I shall multiply my days as the sand.
 
-19. My root was spread out by the waters, and the dew lay all night upon my branch.spread…: Heb. opened
+19. My root was spread out by the waters, and the dew lay all night upon my branch.
 
-20. My glory was fresh in me, and my bow was renewed in my hand.fresh: Heb. newrenewed: Heb. changed
+20. My glory was fresh in me, and my bow was renewed in my hand.
 
 21. Unto me men gave ear, and waited, and kept silence at my counsel.
 
@@ -1436,25 +1436,25 @@
 
 ## Job 30
 
-1. But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.younger…: Heb. of fewer days than I
+1. But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
 
 2. Yea, whereto might the strength of their hands profit me, in whom old age was perished?
 
-3. For want and famine they were solitary; fleeing into the wilderness in former time desolate and waste.solitary: or, dark as the nightin…: Heb. yesternight
+3. For want and famine they were solitary; fleeing into the wilderness in former time desolate and waste.
 
 4. Who cut up mallows by the bushes, and juniper roots for their meat.
 
 5. They were driven forth from among men, (they cried after them as after a thief;)
 
-6. To dwell in the clifts of the valleys, in caves of the earth, and in the rocks.caves: Heb. holes
+6. To dwell in the clifts of the valleys, in caves of the earth, and in the rocks.
 
 7. Among the bushes they brayed; under the nettles they were gathered together.
 
-8. They were children of fools, yea, children of base men: they were viler than the earth.base…: Heb. men of no name
+8. They were children of fools, yea, children of base men: they were viler than the earth.
 
 9. And now am I their song, yea, I am their byword.
 
-10. They abhor me, they flee far from me, and spare not to spit in my face.and…: Heb. and withhold not spittle from
+10. They abhor me, they flee far from me, and spare not to spit in my face.
 
 11. Because he hath loosed my cord, and afflicted me, they have also let loose the bridle before me.
 
@@ -1464,7 +1464,7 @@
 
 14. They came upon me as a wide breaking in of waters: in the desolation they rolled themselves upon me.
 
-15. Terrors are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud.my soul: Heb. my principal one
+15. Terrors are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud.
 
 16. And now my soul is poured out upon me; the days of affliction have taken hold upon me.
 
@@ -1476,15 +1476,15 @@
 
 20. I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not.
 
-21. Thou art become cruel to me: with thy strong hand thou opposest thyself against me.become…: Heb. turned to be cruelthy…: Heb. the strength of thy hand
+21. Thou art become cruel to me: with thy strong hand thou opposest thyself against me.
 
-22. Thou liftest me up to the wind; thou causest me to ride upon it, and dissolvest my substance.substance: or, wisdom
+22. Thou liftest me up to the wind; thou causest me to ride upon it, and dissolvest my substance.
 
 23. For I know that thou wilt bring me to death, and to the house appointed for all living.
 
-24. Howbeit he will not stretch out his hand to the grave, though they cry in his destruction.grave: Heb. heap
+24. Howbeit he will not stretch out his hand to the grave, though they cry in his destruction.
 
-25. Did not I weep for him that was in trouble? was not my soul grieved for the poor?in trouble: Heb. hard of day?
+25. Did not I weep for him that was in trouble? was not my soul grieved for the poor?
 
 26. When I looked for good, then evil came unto me: and when I waited for light, there came darkness.
 
@@ -1492,7 +1492,7 @@
 
 28. I went mourning without the sun: I stood up, and I cried in the congregation.
 
-29. I am a brother to dragons, and a companion to owls.owls: or, ostriches
+29. I am a brother to dragons, and a companion to owls.
 
 30. My skin is black upon me, and my bones are burned with heat.
 
@@ -1510,7 +1510,7 @@
 
 5. If I have walked with vanity, or if my foot hath hasted to deceit;
 
-6. Let me be weighed in an even balance, that God may know mine integrity.Let…: Heb. Let him weigh me in balances of justice
+6. Let me be weighed in an even balance, that God may know mine integrity.
 
 7. If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;
 
@@ -1528,13 +1528,13 @@
 
 14. What then shall I do when God riseth up? and when he visiteth, what shall I answer him?
 
-15. Did not he that made me in the womb make him? and did not one fashion us in the womb?did not one…: or, did he not fashion us in one womb?
+15. Did not he that made me in the womb make him? and did not one fashion us in the womb?
 
 16. If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;
 
 17. Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;
 
-18. (For from my youth he was brought up with me, as with a father, and I have guided her from my mother’s womb;)her: that is, the widow
+18. (For from my youth he was brought up with me, as with a father, and I have guided her from my mother’s womb;)
 
 19. If I have seen any perish for want of clothing, or any poor without covering;
 
@@ -1542,57 +1542,57 @@
 
 21. If I have lifted up my hand against the fatherless, when I saw my help in the gate:
 
-22. Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone.bone: or, chanelbone
+22. Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone.
 
 23. For destruction from God was a terror to me, and by reason of his highness I could not endure.
 
 24. If I have made gold my hope, or have said to the fine gold, Thou art my confidence;
 
-25. If I rejoiced because my wealth was great, and because mine hand had gotten much;gotten…: Heb. found much
+25. If I rejoiced because my wealth was great, and because mine hand had gotten much;
 
-26. If I beheld the sun when it shined, or the moon walking in brightness;sun: Heb. lightin…: Heb. bright
+26. If I beheld the sun when it shined, or the moon walking in brightness;
 
-27. And my heart hath been secretly enticed, or my mouth hath kissed my hand:my mouth…: Heb. my hand hath kissed my mouth
+27. And my heart hath been secretly enticed, or my mouth hath kissed my hand:
 
 28. This also were an iniquity to be punished by the judge: for I should have denied the God that is above.
 
 29. If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:
 
-30. Neither have I suffered my mouth to sin by wishing a curse to his soul.mouth: Heb. palate
+30. Neither have I suffered my mouth to sin by wishing a curse to his soul.
 
 31. If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied.
 
-32. The stranger did not lodge in the street: but I opened my doors to the traveller.traveller: or, way
+32. The stranger did not lodge in the street: but I opened my doors to the traveller.
 
-33. If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:as Adam: or, after the manner of men
+33. If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:
 
 34. Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?
 
-35. Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.my…: or, my sign is that the Almighty will
+35. Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.
 
 36. Surely I would take it upon my shoulder, and bind it as a crown to me.
 
 37. I would declare unto him the number of my steps; as a prince would I go near unto him.
 
-38. If my land cry against me, or that the furrows likewise thereof complain;complain: Heb. weep
+38. If my land cry against me, or that the furrows likewise thereof complain;
 
-39. If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:fruits: Heb. strengththe owners…: Heb. the soul of the owners thereof to expire, or, breathe out
+39. If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:
 
-40. Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.cockle: or, noisome weeds 
+40. Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.
 
 ## Job 32
 
-1. So these three men ceased to answer Job, because he was righteous in his own eyes.to…: Heb. from answering
+1. So these three men ceased to answer Job, because he was righteous in his own eyes.
 
-2. Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.himself: Heb. his soul
+2. Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.
 
 3. Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job.
 
-4. Now Elihu had waited till Job had spoken, because they were elder than he.waited…: Heb. expected Job in wordselder: Heb. elder for days
+4. Now Elihu had waited till Job had spoken, because they were elder than he.
 
 5. When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled.
 
-6. And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion.young: Heb. few of daysdurst…: Heb. feared
+6. And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion.
 
 7. I said, Days should speak, and multitude of years should teach wisdom.
 
@@ -1602,25 +1602,25 @@
 
 10. Therefore I said, Hearken to me; I also will shew mine opinion.
 
-11. Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.reasons: Heb. understandingswhat…: Heb. words
+11. Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.
 
 12. Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:
 
 13. Lest ye should say, We have found out wisdom: God thrusteth him down, not man.
 
-14. Now he hath not directed his words against me: neither will I answer him with your speeches.directed: or, ordered
+14. Now he hath not directed his words against me: neither will I answer him with your speeches.
 
-15. They were amazed, they answered no more: they left off speaking.left…: Heb. removed speeches from themselves
+15. They were amazed, they answered no more: they left off speaking.
 
 16. When I had waited, (for they spake not, but stood still, and answered no more;)
 
 17. I said, I will answer also my part, I also will shew mine opinion.
 
-18. For I am full of matter, the spirit within me constraineth me.matter: Heb. wordsspirit…: Heb. spirit of my belly
+18. For I am full of matter, the spirit within me constraineth me.
 
-19. Behold, my belly is as wine which hath no vent; it is ready to burst like new bottles.hath…: Heb. is not opened
+19. Behold, my belly is as wine which hath no vent; it is ready to burst like new bottles.
 
-20. I will speak, that I may be refreshed: I will open my lips and answer.be…: Heb. breathe
+20. I will speak, that I may be refreshed: I will open my lips and answer.
 
 21. Let me not, I pray you, accept any man’s person, neither let me give flattering titles unto man.
 
@@ -1630,7 +1630,7 @@
 
 1. Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.
 
-2. Behold, now I have opened my mouth, my tongue hath spoken in my mouth.in my mouth: Heb. in my palate
+2. Behold, now I have opened my mouth, my tongue hath spoken in my mouth.
 
 3. My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly.
 
@@ -1638,11 +1638,11 @@
 
 5. If thou canst answer me, set thy words in order before me, stand up.
 
-6. Behold, I am according to thy wish in God’s stead: I also am formed out of the clay.wish: Heb. mouthformed: Heb. cut
+6. Behold, I am according to thy wish in God’s stead: I also am formed out of the clay.
 
 7. Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.
 
-8. Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,hearing: Heb. ears
+8. Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,
 
 9. I am clean without transgression, I am innocent; neither is there iniquity in me.
 
@@ -1652,21 +1652,21 @@
 
 12. Behold, in this thou art not just: I will answer thee, that God is greater than man.
 
-13. Why dost thou strive against him? for he giveth not account of any of his matters.he giveth…: Heb. he answereth not
+13. Why dost thou strive against him? for he giveth not account of any of his matters.
 
 14. For God speaketh once, yea twice, yet man perceiveth it not.
 
 15. In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;
 
-16. Then he openeth the ears of men, and sealeth their instruction,he…: Heb. he revealeth, or, uncovereth
+16. Then he openeth the ears of men, and sealeth their instruction,
 
-17. That he may withdraw man from his purpose, and hide pride from man.purpose: Heb. work
+17. That he may withdraw man from his purpose, and hide pride from man.
 
-18. He keepeth back his soul from the pit, and his life from perishing by the sword.from perishing: Heb. from passing
+18. He keepeth back his soul from the pit, and his life from perishing by the sword.
 
 19. He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:
 
-20. So that his life abhorreth bread, and his soul dainty meat.dainty…: Heb. meat of desire
+20. So that his life abhorreth bread, and his soul dainty meat.
 
 21. His flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out.
 
@@ -1674,17 +1674,17 @@
 
 23. If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:
 
-24. Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.a ransom: or, an atonement
+24. Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.
 
-25. His flesh shall be fresher than a child’s: he shall return to the days of his youth:a child’s: Heb. childhood
+25. His flesh shall be fresher than a child’s: he shall return to the days of his youth:
 
 26. He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.
 
-27. He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;He…: or, He shall look upon men, and say
+27. He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;
 
-28. He will deliver his soul from going into the pit, and his life shall see the light.He…: or, He hath delivered my soul, etc, and my life
+28. He will deliver his soul from going into the pit, and his life shall see the light.
 
-29. Lo, all these things worketh God oftentimes with man,oftentimes: Heb. twice and thrice
+29. Lo, all these things worketh God oftentimes with man,
 
 30. To bring back his soul from the pit, to be enlightened with the light of the living.
 
@@ -1700,13 +1700,13 @@
 
 2. Hear my words, O ye wise men; and give ear unto me, ye that have knowledge.
 
-3. For the ear trieth words, as the mouth tasteth meat.mouth: Heb. palate
+3. For the ear trieth words, as the mouth tasteth meat.
 
 4. Let us choose to us judgment: let us know among ourselves what is good.
 
 5. For Job hath said, I am righteous: and God hath taken away my judgment.
 
-6. Should I lie against my right? my wound is incurable without transgression.my wound: Heb. mine arrow
+6. Should I lie against my right? my wound is incurable without transgression.
 
 7. What man is like Job, who drinketh up scorning like water?
 
@@ -1714,41 +1714,41 @@
 
 9. For he hath said, It profiteth a man nothing that he should delight himself with God.
 
-10. Therefore hearken unto me, ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity.men…: Heb. men of heart
+10. Therefore hearken unto me, ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity.
 
 11. For the work of a man shall he render unto him, and cause every man to find according to his ways.
 
 12. Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.
 
-13. Who hath given him a charge over the earth? or who hath disposed the whole world?the whole: Heb. all of it?
+13. Who hath given him a charge over the earth? or who hath disposed the whole world?
 
-14. If he set his heart upon man, if he gather unto himself his spirit and his breath;man: Heb. him
+14. If he set his heart upon man, if he gather unto himself his spirit and his breath;
 
 15. All flesh shall perish together, and man shall turn again unto dust.
 
 16. If now thou hast understanding, hear this: hearken to the voice of my words.
 
-17. Shall even he that hateth right govern? and wilt thou condemn him that is most just?govern: Heb. bind?
+17. Shall even he that hateth right govern? and wilt thou condemn him that is most just?
 
 18. Is it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?
 
 19. How much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all are the work of his hands.
 
-20. In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.the mighty…: Heb. they shall take away the mighty
+20. In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.
 
 21. For his eyes are upon the ways of man, and he seeth all his goings.
 
 22. There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves.
 
-23. For he will not lay upon man more than right; that he should enter into judgment with God.enter: Heb. go
+23. For he will not lay upon man more than right; that he should enter into judgment with God.
 
-24. He shall break in pieces mighty men without number, and set others in their stead.number: Heb. searching out
+24. He shall break in pieces mighty men without number, and set others in their stead.
 
-25. Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed.destroyed: Heb. crushed
+25. Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed.
 
-26. He striketh them as wicked men in the open sight of others;open…: Heb. place of beholders
+26. He striketh them as wicked men in the open sight of others;
 
-27. Because they turned back from him, and would not consider any of his ways:him: Heb. after him
+27. Because they turned back from him, and would not consider any of his ways:
 
 28. So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.
 
@@ -1760,13 +1760,13 @@
 
 32. That which I see not teach thou me: if I have done iniquity, I will do no more.
 
-33. Should it be according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest.according…: Heb. from with thee?
+33. Should it be according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest.
 
-34. Let men of understanding tell me, and let a wise man hearken unto me.of…: Heb. of heart
+34. Let men of understanding tell me, and let a wise man hearken unto me.
 
 35. Job hath spoken without knowledge, and his words were without wisdom.
 
-36. My desire is that Job may be tried unto the end because of his answers for wicked men.My…: or, My father, let Job be tried
+36. My desire is that Job may be tried unto the end because of his answers for wicked men.
 
 37. For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God. 
 
@@ -1776,9 +1776,9 @@
 
 2. Thinkest thou this to be right, that thou saidst, My righteousness is more than God’s?
 
-3. For thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?if…: or, by it more than by my sin
+3. For thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?
 
-4. I will answer thee, and thy companions with thee.answer…: Heb. return to thee words
+4. I will answer thee, and thy companions with thee.
 
 5. Look unto the heavens, and see; and behold the clouds which are higher than thou.
 
@@ -1800,7 +1800,7 @@
 
 14. Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.
 
-15. But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:he hath: that is, God hathhe knoweth: that is, Job knoweth
+15. But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:
 
 16. Therefore doth Job open his mouth in vain; he multiplieth words without knowledge. 
 
@@ -1808,15 +1808,15 @@
 
 1. Elihu also proceeded, and said,
 
-2. Suffer me a little, and I will shew thee that I have yet to speak on God’s behalf.I have…: Heb. there are yet words for God
+2. Suffer me a little, and I will shew thee that I have yet to speak on God’s behalf.
 
 3. I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.
 
 4. For truly my words shall not be false: he that is perfect in knowledge is with thee.
 
-5. Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom.wisdom: Heb. heart
+5. Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom.
 
-6. He preserveth not the life of the wicked: but giveth right to the poor.poor: or, afflicted
+6. He preserveth not the life of the wicked: but giveth right to the poor.
 
 7. He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted.
 
@@ -1828,19 +1828,19 @@
 
 11. If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures.
 
-12. But if they obey not, they shall perish by the sword, and they shall die without knowledge.perish: Heb. pass away
+12. But if they obey not, they shall perish by the sword, and they shall die without knowledge.
 
 13. But the hypocrites in heart heap up wrath: they cry not when he bindeth them.
 
-14. They die in youth, and their life is among the unclean.They…: Heb. Their soul diethunclean: or, sodomites
+14. They die in youth, and their life is among the unclean.
 
-15. He delivereth the poor in his affliction, and openeth their ears in oppression.poor: or, afflicted
+15. He delivereth the poor in his affliction, and openeth their ears in oppression.
 
-16. Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness.that…: Heb. the rest of thy table
+16. Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness.
 
-17. But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee.take…: or, should uphold thee
+17. But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee.
 
-18. Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee.deliver…: Heb. turn thee aside
+18. Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee.
 
 19. Will he esteem thy riches? no, not gold, nor all the forces of strength.
 
@@ -1864,41 +1864,41 @@
 
 29. Also can any understand the spreadings of the clouds, or the noise of his tabernacle?
 
-30. Behold, he spreadeth his light upon it, and covereth the bottom of the sea.bottom: Heb. roots
+30. Behold, he spreadeth his light upon it, and covereth the bottom of the sea.
 
 31. For by them judgeth he the people; he giveth meat in abundance.
 
 32. With clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt.
 
-33. The noise thereof sheweth concerning it, the cattle also concerning the vapour.the vapour: Heb. that which goeth up 
+33. The noise thereof sheweth concerning it, the cattle also concerning the vapour.
 
 ## Job 37
 
 1. At this also my heart trembleth, and is moved out of his place.
 
-2. Hear attentively the noise of his voice, and the sound that goeth out of his mouth.Hear…: Heb. Hear in hearing
+2. Hear attentively the noise of his voice, and the sound that goeth out of his mouth.
 
-3. He directeth it under the whole heaven, and his lightning unto the ends of the earth.lightning: Heb. lightends: Heb. wings
+3. He directeth it under the whole heaven, and his lightning unto the ends of the earth.
 
 4. After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard.
 
 5. God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend.
 
-6. For he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength.likewise…: Heb. and to the shower of rain, and to the showers of rain of his strength
+6. For he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength.
 
 7. He sealeth up the hand of every man; that all men may know his work.
 
 8. Then the beasts go into dens, and remain in their places.
 
-9. Out of the south cometh the whirlwind: and cold out of the north.south: Heb. chambernorth: Heb. scattering winds
+9. Out of the south cometh the whirlwind: and cold out of the north.
 
 10. By the breath of God frost is given: and the breadth of the waters is straitened.
 
-11. Also by watering he wearieth the thick cloud: he scattereth his bright cloud:his…: Heb. the cloud of his light
+11. Also by watering he wearieth the thick cloud: he scattereth his bright cloud:
 
 12. And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth.
 
-13. He causeth it to come, whether for correction, or for his land, or for mercy.correction: Heb. a rod
+13. He causeth it to come, whether for correction, or for his land, or for mercy.
 
 14. Hearken unto this, O Job: stand still, and consider the wondrous works of God.
 
@@ -1916,7 +1916,7 @@
 
 21. And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them.
 
-22. Fair weather cometh out of the north: with God is terrible majesty.Fair…: Heb. Gold
+22. Fair weather cometh out of the north: with God is terrible majesty.
 
 23. Touching the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict.
 
@@ -1928,13 +1928,13 @@
 
 2. Who is this that darkeneth counsel by words without knowledge?
 
-3. Gird up now thy loins like a man; for I will demand of thee, and answer thou me.answer…: Heb. make me know
+3. Gird up now thy loins like a man; for I will demand of thee, and answer thou me.
 
-4. Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.hast…: Heb. knowest understanding
+4. Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.
 
 5. Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?
 
-6. Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;foundations: Heb. socketsfastened: Heb. made to sink?
+6. Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;
 
 7. When the morning stars sang together, and all the sons of God shouted for joy?
 
@@ -1942,13 +1942,13 @@
 
 9. When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,
 
-10. And brake up for it my decreed place, and set bars and doors,brake…: or, established my decree upon it
+10. And brake up for it my decreed place, and set bars and doors,
 
-11. And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?thy…: Heb. the pride of thy waves
+11. And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?
 
 12. Hast thou commanded the morning since thy days; and caused the dayspring to know his place;
 
-13. That it might take hold of the ends of the earth, that the wicked might be shaken out of it?ends: Heb. wings
+13. That it might take hold of the ends of the earth, that the wicked might be shaken out of it?
 
 14. It is turned as clay to the seal; and they stand as a garment.
 
@@ -1962,7 +1962,7 @@
 
 19. Where is the way where light dwelleth? and as for darkness, where is the place thereof,
 
-20. That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?to the bound: or, at, etc
+20. That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?
 
 21. Knowest thou it, because thou wast then born? or because the number of thy days is great?
 
@@ -1982,25 +1982,25 @@
 
 29. Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?
 
-30. The waters are hid as with a stone, and the face of the deep is frozen.is…: Heb. is taken
+30. The waters are hid as with a stone, and the face of the deep is frozen.
 
-31. Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?Pleiades: or, the seven stars: Heb. CimahOrion: Heb. Cesil?
+31. Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?
 
-32. Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?Mazzaroth: or, the twelve signsguide: Heb. guide them
+32. Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?
 
 33. Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?
 
 34. Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?
 
-35. Canst thou send lightnings, that they may go, and say unto thee, Here we are?Here…: Heb. Behold us?
+35. Canst thou send lightnings, that they may go, and say unto thee, Here we are?
 
 36. Who hath put wisdom in the inward parts? or who hath given understanding to the heart?
 
-37. Who can number the clouds in wisdom? or who can stay the bottles of heaven,stay: Heb. cause to lie down
+37. Who can number the clouds in wisdom? or who can stay the bottles of heaven,
 
-38. When the dust groweth into hardness, and the clods cleave fast together?groweth…: or, is turned into mire: Heb. is poured
+38. When the dust groweth into hardness, and the clods cleave fast together?
 
-39. Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,the appetite: Heb. the life
+39. Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,
 
 40. When they couch in their dens, and abide in the covert to lie in wait?
 
@@ -2018,9 +2018,9 @@
 
 5. Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?
 
-6. Whose house I have made the wilderness, and the barren land his dwellings.barren…: Heb. salt places
+6. Whose house I have made the wilderness, and the barren land his dwellings.
 
-7. He scorneth the multitude of the city, neither regardeth he the crying of the driver.of the driver: Heb. of the exactor
+7. He scorneth the multitude of the city, neither regardeth he the crying of the driver.
 
 8. The range of the mountains is his pasture, and he searcheth after every green thing.
 
@@ -2032,7 +2032,7 @@
 
 12. Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?
 
-13. Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?wings and…: or, the feathers of the stork and ostrich
+13. Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?
 
 14. Which leaveth her eggs in the earth, and warmeth them in dust,
 
@@ -2046,9 +2046,9 @@
 
 19. Hast thou given the horse strength? hast thou clothed his neck with thunder?
 
-20. Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible.terrible: Heb. terror
+20. Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible.
 
-21. He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.He paweth: or, His feet digthe armed…: Heb. the armour
+21. He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.
 
 22. He mocketh at fear, and is not affrighted; neither turneth he back from the sword.
 
@@ -2060,7 +2060,7 @@
 
 26. Doth the hawk fly by thy wisdom, and stretch her wings toward the south?
 
-27. Doth the eagle mount up at thy command, and make her nest on high?at…: Heb. by thy mouth
+27. Doth the eagle mount up at thy command, and make her nest on high?
 
 28. She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.
 
@@ -2098,11 +2098,11 @@
 
 14. Then will I also confess unto thee that thine own right hand can save thee.
 
-15. Behold now behemoth, which I made with thee; he eateth grass as an ox.behemoth: probably an extinct animal of some kind
+15. Behold now behemoth, which I made with thee; he eateth grass as an ox.
 
 16. Lo now, his strength is in his loins, and his force is in the navel of his belly.
 
-17. He moveth his tail like a cedar: the sinews of his stones are wrapped together.He…: or, He setteth up
+17. He moveth his tail like a cedar: the sinews of his stones are wrapped together.
 
 18. His bones are as strong pieces of brass; his bones are like bars of iron.
 
@@ -2114,13 +2114,13 @@
 
 22. The shady trees cover him with their shadow; the willows of the brook compass him about.
 
-23. Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.he drinketh up: Heb. he oppresseth
+23. Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.
 
-24. He taketh it with his eyes: his nose pierceth through snares.He…: or, Will any take him in his sight, or, bore his nose with a gin? 
+24. He taketh it with his eyes: his nose pierceth through snares.
 
 ## Job 41
 
-1. Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?leviathan: probably an extinct animal of some kindwhich…: Heb. which thou drownest?
+1. Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?
 
 2. Canst thou put an hook into his nose? or bore his jaw through with a thorn?
 
@@ -2144,11 +2144,11 @@
 
 12. I will not conceal his parts, nor his power, nor his comely proportion.
 
-13. Who can discover the face of his garment? or who can come to him with his double bridle?with: or, within
+13. Who can discover the face of his garment? or who can come to him with his double bridle?
 
 14. Who can open the doors of his face? his teeth are terrible round about.
 
-15. His scales are his pride, shut up together as with a close seal.scales: Heb. strong pieces of shields
+15. His scales are his pride, shut up together as with a close seal.
 
 16. One is so near to another, that no air can come between them.
 
@@ -2162,15 +2162,15 @@
 
 21. His breath kindleth coals, and a flame goeth out of his mouth.
 
-22. In his neck remaineth strength, and sorrow is turned into joy before him.is turned into joy: Heb. rejoiceth
+22. In his neck remaineth strength, and sorrow is turned into joy before him.
 
-23. The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.flakes: Heb. fallings
+23. The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.
 
 24. His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.
 
 25. When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.
 
-26. The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.habergeon: or, breastplate
+26. The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.
 
 27. He esteemeth iron as straw, and brass as rotten wood.
 
@@ -2178,13 +2178,13 @@
 
 29. Darts are counted as stubble: he laugheth at the shaking of a spear.
 
-30. Sharp stones are under him: he spreadeth sharp pointed things upon the mire.Sharp stones: Heb. Sharp pieces of potsherd
+30. Sharp stones are under him: he spreadeth sharp pointed things upon the mire.
 
 31. He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.
 
 32. He maketh a path to shine after him; one would think the deep to be hoary.
 
-33. Upon earth there is not his like, who is made without fear.is made without fear: or, behave themselves without fear
+33. Upon earth there is not his like, who is made without fear.
 
 34. He beholdeth all high things: he is a king over all the children of pride. 
 
@@ -2192,7 +2192,7 @@
 
 1. Then Job answered the Lord, and said,
 
-2. I know that thou canst do every thing, and that no thought can be withholden from thee.no thought can be…: or, no thought of thine can be hindered
+2. I know that thou canst do every thing, and that no thought can be withholden from thee.
 
 3. Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.
 
@@ -2204,11 +2204,11 @@
 
 7. And it was so, that after the Lord had spoken these words unto Job, the Lord said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath.
 
-8. Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.him: Heb. his face, or, person
+8. Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.
 
-9. So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the Lord commanded them: the Lord also accepted Job.Job: Heb. the face of Job
+9. So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the Lord commanded them: the Lord also accepted Job.
 
-10. And the Lord turned the captivity of Job, when he prayed for his friends: also the Lord gave Job twice as much as he had before.gave…: Heb. added all that had been to Job unto the double
+10. And the Lord turned the captivity of Job, when he prayed for his friends: also the Lord gave Job twice as much as he had before.
 
 11. Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the Lord had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
 

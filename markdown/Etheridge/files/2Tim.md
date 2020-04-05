@@ -14,7 +14,7 @@
 
 6. On account of this I put thee in mind to keep awake the gift of Aloha, which is in thee by the laying on of my hands.
 
-7. For Aloha hath not given to us the spirit of fear, but of power and of love and of discipline.Marathyonutho.
+7. For Aloha hath not given to us the spirit of fear, but of power and of love and of discipline.
 
 8. Wherefore be not thou ashamed of the testimony of our Lord, nor of me his prisoner; but sustain evil with the gospel, through the power of Aloha,
 
@@ -26,7 +26,7 @@
 
 12. on account of which I suffer these, and am not ashamed. I know in whom I have believed, and am persuaded that there is power in his hands my deposite to keep for me unto that day.
 
-13. Let the outlineOr, model: chauro, from chor, "to look at with attention, to contemplate." Melee chlimotho may be rendered "healthy words, or wholesome doctrines." of sound words be with thee, which thou hast heard from me, with the faith and love which are in Jeshu Meshiha:
+13. Let the outline
 
 14. that good deposite keep through the Spirit of Holiness who dwelleth in us.
 
@@ -82,11 +82,11 @@
 
 21. If a man then purify himself from these, he will be a pure vessel unto honour, fitted for the use of his Lord, and prepared for every good work.
 
-22. From all the lusts of youth escape; and pursueOr, run after. after righteousness, and faith, and charity, and peace, with them who call upon the Lord with a pure heart.
+22. From all the lusts of youth escape; and pursue
 
-23. From foolish controversies which are without instruction withdraw; for thou knowest that they beget strifes.Fightings.
+23. From foolish controversies which are without instruction withdraw; for thou knowest that they beget strifes.
 
-24. But a servant of the Lord oweth not to strive,Fight. but to be gentle towards every man, and teaching, and long-suffering,
+24. But a servant of the Lord oweth not to strive,
 
 25. that he may instruct them who would contend against him with meekness, if by any means Aloha may give them conversion, and they may acknowledge the truth,
 
@@ -100,7 +100,7 @@
 
 3. subjected to lust, brutal, haters of the good,
 
-4. traitors, impetuous,Or, hasty. puffed up, lovers of lusts rather than the love of Aloha;
+4. traitors, impetuous,
 
 5. having a form of the worship of Aloha, but from the power of Aloha afar off: (them) who are such put from thee.
 
@@ -112,7 +112,7 @@
 
 9. But they shall not come further, for their folly is known to all men, as also of them it is known.
 
-10. BUT thou hast followedAth ethaith bothar. my doctrine and my manners, and my purpose, and my faith, and my prolongedness of mind, and my charity, and my patience,
+10. BUT thou hast followed
 
 11. and my persecution, and my sufferings. And thou knowest what things I endured in Antioch, and in Ikonion, and in Lystra, what persecution I endured; and out of all these my Lord delivered me.
 
@@ -124,7 +124,7 @@
 
 15. and that from thy childhood thou hast learned the holy writings, which are able to make thee wise to salvation, through faith which is in Jeshu Meshiha.
 
-16. FOR all scripture which from the Spirit is written, is profitable for doctrine, and for rebuke, and for correction, and for instructionOr, discipline. which is in righteousness:
+16. FOR all scripture which from the Spirit is written, is profitable for doctrine, and for rebuke, and for correction, and for instruction
 
 17. that the man of God may be perfect unto every good work, and completed.
 

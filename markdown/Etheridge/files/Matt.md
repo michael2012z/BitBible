@@ -12,7 +12,7 @@
 
 5. Salmun begat Booz from Rochab, Booz begat Ubid from Ruth, Ubid begat Ishai,
 
-6. Ishai begat David the king; David begat Shelemun fromher who had been the wife of Uria;
+6. Ishai begat David the king; David begat Shelemun from
 
 7. Shelemun begat Rehebaam, Rehebaam begat Abia, Abia begat Asa,
 
@@ -32,7 +32,7 @@
 
 15. Aliud begat Aliozar, Aliozar begat Mathan, Mathan begat Jakub,
 
-16. Jakub begat Jauseph, husband of Mariam, of whom was born JESHU who is called the Meshicha.Pronounced Meshee'ha.
+16. Jakub begat Jauseph, husband of Mariam, of whom was born JESHU who is called the Meshicha.
 
 17. Thus all the generations from Abraham to David (were) fourteen generations; and from David to the exile of Bobel, fourteen generations; and from the exile of Bobel to the Meshicha, fourteen generations.
 
@@ -44,7 +44,7 @@
 
 21. She shall give birth to a son, and thou shalt call his name JESHU; for he shall save his people from their sins.
 
-22. Now all this was done, that what was spoken from the Lord byBy the hand of the prophet. the prophet might be fulfilled:
+22. Now all this was done, that what was spoken from the Lord by
 
 23. Behold, a virgin shall be with child, and shall bring forth the son, and they shall call his name Amanuel; which is interpreted, With us (is) our Aloha.
 
@@ -54,9 +54,9 @@
 
 ## Matthew 2
 
-1. NOW when Jeshu was born in Beth-lechem of Jehuda, in the days of Herodes the king, there came MagiansMagushee; from the East to Urishlem:
+1. NOW when Jeshu was born in Beth-lechem of Jehuda, in the days of Herodes the king, there came Magians
 
-2. and they said, Where is the king of the JewsJihudoyee. who is born? for we have seen his star in the east, and have come to worship him.
+2. and they said, Where is the king of the Jews
 
 3. But Herodes the king heard, and was troubled, and all Urishlem with him.
 
@@ -84,7 +84,7 @@
 
 15. and was there until the death of Herodes. That it might be fulfilled which was spoken from the Lord by the prophet, saying, Out of Metsreen have I called my son.
 
-16. Then Herodes, when he saw that he had been deluded by the Magians, was greatly wroth, and sent (and) killed all the children of Beth-lechem, and all its limits, from two years and under,A son of two years. according to the time which he had inquired from the Magians.
+16. Then Herodes, when he saw that he had been deluded by the Magians, was greatly wroth, and sent (and) killed all the children of Beth-lechem, and all its limits, from two years and under,
 
 17. Then was fulfilled what was spoken by Eramio the prophet, who said,
 
@@ -98,11 +98,11 @@
 
 22. But when he heard that Arkelaos was the king in Jehud, instead of Herodes his father, he was afraid to go thither: and it was shown to him in a dream, that he should go into the region of Galila.
 
-23. And he came and dwelt in a city which is called Natsrath. So would be fulfilled that which was spoken by the prophet, that a NazareneNatsroio. he should be called.
+23. And he came and dwelt in a city which is called Natsrath. So would be fulfilled that which was spoken by the prophet, that a Nazarene
 
 ## Matthew 3
 
-1. NOW in those days came JuchanonOr, Yu'hanan. the Baptizer preaching in the desert of Jehud,
+1. NOW in those days came Juchanon
 
 2. and saying, Repent! the kingdom of heaven hath drawn nigh.
 
@@ -110,7 +110,7 @@
 
 4. But this Juchanon, his clothing was of the hair of camels, with a loins-belt of leather upon his loins; and his food was locusts and wilderness-honey.
 
-5. Then went forth to him Urishlem,Pron. Oorishlem. and all Jehud, and the whole country about Jurdan;
+5. Then went forth to him Urishlem,
 
 6. and were baptized of him in Jurdan, the river, while they were confessing their sins.
 
@@ -130,7 +130,7 @@
 
 14. But Juchanon prohibited him, and said, I need from thee to be baptized, and hast thou come unto me?
 
-15. But Jeshu answered and said unto him, Permitthis now; for thus it becometh us to accomplish all righteousness. And then he permitted him.
+15. But Jeshu answered and said unto him, Permit
 
 16. But when Jeshu was baptized, he immediately ascended from the waters; and the heaven was opened unto him; and he saw the Spirit of Aloha, who descended, like the dove, and came upon him.
 
@@ -162,7 +162,7 @@
 
 12. BUT when Jeshu heard that Juchanan was perfected, he removed into Galila.
 
-13. And he left Natsrath, and came and dwelt in Kaphar-Nachum by the sea-sideBy the hand of the sea. on the borders of Zabolon and of Naptholi.
+13. And he left Natsrath, and came and dwelt in Kaphar-Nachum by the sea-side
 
 14. That the thing might be fulfilled which was spoken by the prophet Eshaia, who said,
 
@@ -182,7 +182,7 @@
 
 22. and they forthwith left the vessel and their father, and went after him.
 
-23. And Jeshu perambulated all Galila, and taught in their synagogues,Or assemblies, congregations. and preached the announcement of the kingdom, and healed all disease and affliction in the people.
+23. And Jeshu perambulated all Galila, and taught in their synagogues,
 
 24. And his fame was heard in all Suria; and they brought to him all those who were grievously affected with various diseases, and those who were pressed down by strong pains, and demoniacs, and lunatics, and the paralysed; and he healed them.
 
@@ -224,11 +224,11 @@
 
 17. Think not that I came to loose the law or the prophets: not that I might loose, but that I might fulfill.
 
-18. For, Amen I say unto you, that until heaven and earth shall pass away, one yod, or one point,"One line."-Codex Vienniensis. shall not pass from the law, till all be done.
+18. For, Amen I say unto you, that until heaven and earth shall pass away, one yod, or one point,
 
-19. Every one, therefore, who shall set loose one from these least commandments, and shall so teach the children of men, the least shall he be called in the kingdom of heaven: but every one who shall do and teachthem, thisone shall be called great in the kingdom of heaven.
+19. Every one, therefore, who shall set loose one from these least commandments, and shall so teach the children of men, the least shall he be called in the kingdom of heaven: but every one who shall do and teach
 
-20. For I say to you, that unless your righteousness shall abound more than that of the scribesSophree. This order of public teachers (the preaching and writing clergy of the Jews) does not seem sufficiently indicated by the word " scribes " in the English version. Luther well renders the corresponding Greek term by Schriftgelehrten. and the Pharishee, you shall not enter into the kingdom of heaven.
+20. For I say to you, that unless your righteousness shall abound more than that of the scribes
 
 21. YOU have heard that it was said unto them who were before, Thou shalt not kill; and whosoever shall kill is obnoxious to the judgment.
 
@@ -238,9 +238,9 @@
 
 24. leave there thy oblation at the altar, and go, first be reconciled with thy brother, and then come and offer thy oblation.
 
-25. Be at one with thine adversaryBeel-dino, "lord of strife." quickly, while thou art with him in the way; lest thy adversary deliver thee to the judge, and the judge deliver thee to the exactor, and thou fall into the house of the bound.
+25. Be at one with thine adversary
 
-26. And, Amen I say unto thee, that thou shalt not come forth from thence till thou hast rendered the last shamuna.A minute coin, in value the one-eighth of the asor, or assarius; from the Hebrew shemoneh, " eight."
+26. And, Amen I say unto thee, that thou shalt not come forth from thence till thou hast rendered the last shamuna.
 
 27. You have heard that it hath been said, Thou shalt not commit adultery.
 
@@ -276,7 +276,7 @@
 
 43. You have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
 
-44. Master of enmity. But I say unto you, Love your enemies; bless them who execrate you; do that which is good to him who hateth you; and pray for them who lead you with a chain, and persecute you.
+44. 
 
 45. That you may be the children of your Father who is in heaven, who causeth his sun to arise on the good and on the evil, and who sendeth showers on the just and on the unjust.
 
@@ -296,7 +296,7 @@
 
 4. that thine alms may be in secret; and thy Father, who seeth in secret, shall recompense thee in openness.
 
-5. And when thou prayest, be not as the face-takers, who love to stand in the assemblies and at the corners of the streets to pray, that they may be seen of men;The sons of men. and truly I say to you that they receive their reward.
+5. And when thou prayest, be not as the face-takers, who love to stand in the assemblies and at the corners of the streets to pray, that they may be seen of men;
 
 6. But thou, when thou prayest, enter into thy secret chamber, and shut thy door, and pray to thy Father who is in secret; and thy Father, who seeth in secret, shall reward thee in openness.
 
@@ -432,7 +432,7 @@
 
 7. Jeshu saith to him, I will come and heal him.
 
-8. The centurion answered and saith, My Lord, I am not worthy that thou shouldst come beneath my roof;Shadow. only speak in a word, and my child shall be healed.
+8. The centurion answered and saith, My Lord, I am not worthy that thou shouldst come beneath my roof;
 
 9. For I also am a man under authority, and under my hand there are soldiers. I say to this one, Go, and he goeth; and to the other, Come, and he cometh; and to my servant, Do this, and he doeth.
 
@@ -510,7 +510,7 @@
 
 11. And when the Pharishee saw (it), they say to his disciples, Why doth your master eat with tribute-takers and sinners?
 
-12. But Jeshu, when he heard (it), said to them, The healthful have no need for the physician, but they who are diseased.Grievously affected.
+12. But Jeshu, when he heard (it), said to them, The healthful have no need for the physician, but they who are diseased.
 
 13. Go, learn what that is:-" I require mercy, and not sacrifice; " for I am not come to call the righteous, but the sinners.
 
@@ -520,7 +520,7 @@
 
 16. No man inserteth a piece of new cloth upon an old garment, lest he should take away its fulness from that garment, and the rent be greater.
 
-17. Neither do they pour new wine into old bottles,Sacks. that the bottles may not be broken, and the wine be spilled, and the bottles perish. But they pour new wine into new bottles, and both are preserved.
+17. Neither do they pour new wine into old bottles,
 
 18. WHILE he spake these words with them, a certain chief came, drew near, worshipped him, and said, My daughter is now dead; but come, lay thy hand upon her, and she shall live!
 
@@ -530,7 +530,7 @@
 
 21. For she was saying within herself, If I touch but his garment, I shall be healed.
 
-22. But Jeshu turned and seeth her, and said to her, Be comforted, my daughter, thy faith hath saved thee.Given thee life. And the woman was healed from that very hour.
+22. But Jeshu turned and seeth her, and said to her, Be comforted, my daughter, thy faith hath saved thee.
 
 23. And Jeshu came to the ruler's house, and saw the minstrels and the crowds which were making a tumult.
 
@@ -572,7 +572,7 @@
 
 3. and Philipos, and Bar-Tholmai, and Thoma, and Mathai the tribute-gatherer, and Jakubbar-Chalphai, and Labi who was surnamed Thadai,
 
-4. and Shemun the zealous,Kenanaia. and Jihuda S'carjuta, he who betrayed him.
+4. and Shemun the zealous,
 
 5. These twelve Jeshu sent, and commanded them and said, In the way of the heathens go not, and into the city of the Shomroyee do not enter;
 
@@ -608,7 +608,7 @@
 
 21. But the brother shall deliver his brother unto death, and the father his son; and the sons shall rise up against their fathers, and shall slay them.
 
-22. And you shall be abhorred by all men on account of my name: but he who shall persevere until the end, he shall be saved.Shall live.
+22. And you shall be abhorred by all men on account of my name: but he who shall persevere until the end, he shall be saved.
 
 23. When they persecute you in this city, escape to the other; for, Amen I say unto you, that you shall not have completed all the cities of the house of Isroel, till the Son of man shall come.
 
@@ -618,11 +618,11 @@
 
 26. You shall not fear, therefore, from them; for there is nothing covered which shall not be revealed, nor secret which shall not be known.
 
-27. Whatsoever I say to you in darkness, declare you in the light; and whatsoever you have heard in your ears, proclaim upon thehouse- roofs.
+27. Whatsoever I say to you in darkness, declare you in the light; and whatsoever you have heard in your ears, proclaim upon the
 
 28. And fear not them who kill the body, but the soul cannot kill; but fear rather One who the soul and the body can destroy in gihano.
 
-29. Are not two sparrows sold for an asor?The assarius, value three farthings. yet one of them, without your Father, doth not fall upon the earth.
+29. Are not two sparrows sold for an asor?
 
 30. But of you, also, the hairs of your head are all numbered.
 
@@ -634,7 +634,7 @@
 
 34. EXPECT not that I have come to send forth peace on the earth; I have not come to send forth peace, but the sword.
 
-35. For I have come to cause a man to separate fromTo divide against. his father, and a daughter from her mother, and a daughter-in-law from her mother-in-law;
+35. For I have come to cause a man to separate from
 
 36. and the adversaries of a man (to be) his own house-sons.
 
@@ -672,11 +672,11 @@
 
 10. For this is he concerning whom it is written, Behold, I send my angel before thy face, to prepare the way before thee.
 
-11. Amen I say to you, there hath not arisen among them born of womenone whois greater than Juchanon the Baptizer: yet, the least in the kingdom of heaven is greater than he.
+11. Amen I say to you, there hath not arisen among them born of women
 
 12. But from the days of Juchanon the Baptizer until now, the kingdom of the heavens by violence is taken, and the violent ones seize it.
 
-13. For all the prophets and the law prophesiedOr. were prophetic. until Juchanon;
+13. For all the prophets and the law prophesied
 
 14. and if you are willing, receive, that he is Elia who was to come.
 
@@ -694,13 +694,13 @@
 
 21. saying, Woe to thee, Korazin! woe to thee, Bethtsaida! for if in Tsur and in Tsaidon those miracles had been done which have been performed in you, they would a while ago in sackcloth and ashes have repented.
 
-22. But I say to you, that for Tsur and Tsaidon it shall be more tolerableOr, tranquil. in the day of judgment than for you.
+22. But I say to you, that for Tsur and Tsaidon it shall be more tolerable
 
 23. And thou, Kaphernachum, who unto heaven art exalted, unto Shiul shalt be brought down; for if in Sadum had been done those miracles which have been done in thee, it would have stood until this day.
 
 24. But I tell you that for the land of Sadum it shall be more tolerable in the day of judgment than for thee.
 
-25. IN that time Jeshu answered and said, I praise thee, my Father, the Lord of the heavens and of the earth, that thou hast concealed these (things) from the wise and prudentones, but hast revealed them unto little children.
+25. IN that time Jeshu answered and said, I praise thee, my Father, the Lord of the heavens and of the earth, that thou hast concealed these (things) from the wise and prudent
 
 26. Yes, my Father, for thus was it pleasing before thee!
 
@@ -714,7 +714,7 @@
 
 ## Matthew 12
 
-1. At that time Jeshu was walking on the sabbath among the grain;Or, in the place of seeds. and his disciples hungered, and began to pluck the ears and to eat.
+1. At that time Jeshu was walking on the sabbath among the grain;
 
 2. But when the Pharishee saw them, they say to him, Look, thy disciples do something which is not lawful to be done on the sabbath.
 
@@ -764,7 +764,7 @@
 
 25. But Jeshu knew their reasonings, and said to them, Every kingdom that is divided against itself is destroyed; and every city which is divided against itself shall not stand.
 
-26. And if SatanSatana. cast out Satan, he is divided against himself; how then standeth his kingdom?
+26. And if Satan
 
 27. And if I by Beelzebub cast forth demons, your sons, by whom do they cast them forth? On this account they shall be your judges.
 
@@ -816,7 +816,7 @@
 
 ## Matthew 13
 
-1. IN that day Jeshu went forth from the house and sat by the sea-side;By the hand of the sea.
+1. IN that day Jeshu went forth from the house and sat by the sea-side;
 
 2. and great multitudes gathered near him, so that he went up and sat in a vessel; and all the multitude were standing on the shore of the sea.
 
@@ -824,7 +824,7 @@
 
 4. and as he sowed, some fell by the road-side, and the fowl came and devoured it.
 
-5. Another (portion) fell upon the rock, where there was not much soil; and immediatelyBar-shoteh, " the son of its hour." it sprung up, because there was no depth of earth.
+5. Another (portion) fell upon the rock, where there was not much soil; and immediately
 
 6. But when the sun was risen, it burned, and, because it had no root, it withered away.
 
@@ -838,7 +838,7 @@
 
 11. He replied and said to them, Because unto you it is given to know the mystery of the kingdom of heaven, but unto them it is not given.
 
-12. For unto him who hath, it shall be given, and it shall be increased to him: butas to him who hath not, that also which he hath shall be taken from him.
+12. For unto him who hath, it shall be given, and it shall be increased to him: but
 
 13. On this account I speak to them in parables. Hence they see, and (yet) see not; and they hear, and (yet) hear not, neither understand;
 
@@ -858,7 +858,7 @@
 
 21. Yet hath he no root in him, but is (only) for a time; and when affliction or persecution occurs on account of the doctrine, he is quickly offended.
 
-22. That sownin the place of thorns, is he who heareth the word, but the anxious thought of this world and the illusions of riches stifle the word in him, and he is without fruits.
+22. That sown
 
 23. But that which upon good ground was sown is he who heareth my doctrine, and understandeth (it), and giveth fruits, and produceth, whether a hundred, or sixty, or thirty fold.
 
@@ -880,7 +880,7 @@
 
 32. This is less than all other seeds; but when it has grown, it is greater than all herbs, and becometh a tree, so that the fowl of the heavens come (and) build in its branches.
 
-33. Another parable he spake to them: The kingdom of heaven resembles that leaven which a woman took and hid in three satasThe seä, or sata, was the third of an ephah. of meal, until the whole was leavened.
+33. Another parable he spake to them: The kingdom of heaven resembles that leaven which a woman took and hid in three satas
 
 34. All these spake Jeshu in parables to the multitude; and without a parable he did not speak with them.
 
@@ -952,7 +952,7 @@
 
 9. And the king sickened, yet, on account of the oath and the guests, he commanded that it should be given to her.
 
-10. And he sentand cut off the head of Juchanon in the house of the chained.
+10. And he sent
 
 11. And his head was brought in a dish, and given to the girl, and she carried it herself to her mother.
 
@@ -984,7 +984,7 @@
 
 25. But in the fourth watch of the night, Jeshu came to them, walking upon the waters.
 
-26. And the disciples beheld him walking on the waters, and they were troubled, saying, That it was a spectre;Or, a false vision. and from fear they cried out.
+26. And the disciples beheld him walking on the waters, and they were troubled, saying, That it was a spectre;
 
 27. But Jeshu at once spoke to them, and said, Take courage, I am, fear not!
 
@@ -1008,7 +1008,7 @@
 
 ## Matthew 15
 
-1. THEN came to Jeshu Pharishee and Sophree,Scribes. who were from Urishlem, saying,
+1. THEN came to Jeshu Pharishee and Sophree,
 
 2. Why do thy disciples transgress the tradition of the elders, and wash not their hands when they eat bread?
 
@@ -1024,7 +1024,7 @@
 
 8. This people with the lips honour me, but their heart (is) very far from me.
 
-9. But in vain they reverence me, while they teach the doctrines of the commandments of men.Sons of men.
+9. But in vain they reverence me, while they teach the doctrines of the commandments of men.
 
 10. And he called to the multitudes, and said to them, Hear, and understand:
 
@@ -1042,7 +1042,7 @@
 
 17. Know you not that whatsoever entereth the mouth, goeth into the belly, and from thence in purification it is cast without?
 
-18. But whatsoever from the mouth shall come forth, from the heart cometh forth, and thisit is that contaminates a child of man.
+18. But whatsoever from the mouth shall come forth, from the heart cometh forth, and this
 
 19. For from the heart proceed evil thoughts, adultery, murder, fornication, robbery, false witness, blasphemy.
 
@@ -1096,7 +1096,7 @@
 
 4. A depraved and adulterous race requireth a sign, but a sign shall not be given to it, save the sign of Jaunon the prophet; and he left them, and went away.
 
-5. And when his disciples had come to the oppositeshore, they had forgotten to take bread with them.
+5. And when his disciples had come to the opposite
 
 6. But he said to them, Take heed and beware of the leaven of the Pharishee and Zadukoyee.
 
@@ -1162,7 +1162,7 @@
 
 8. And they lifted up their eyes and saw no man, except Jeshu by himself.
 
-9. And while they were descending from the mountain, Jeshu charged them, and said to them, Before no man declare this vision,To the eye of man tell not this vision. until the Son of man be risen from the dead.From (among) the dead: plural.
+9. And while they were descending from the mountain, Jeshu charged them, and said to them, Before no man declare this vision,
 
 10. And the disciples asked and said to him, Why therefore say the scribes that Elia must come first?
 
@@ -1192,11 +1192,11 @@
 
 23. and they shall kill him; and in the third day he shall arise. And it grieved them exceedingly.
 
-24. And when they came to Kapher-nachum, they who took the two zuzis, the head-silver, approached Kipha and said to him, Your master, doth he not give his two zuzeen?The zuz, or zuza, was a silver coin, value one drachm.
+24. And when they came to Kapher-nachum, they who took the two zuzis, the head-silver, approached Kipha and said to him, Your master, doth he not give his two zuzeen?
 
 25. He saith to them, Yes. And when Kipha entered the house, Jeshu anticipated him, and said to him, How doth it appear to thee, Shemun? the kings of the earth, from whom do they take custom and headsilver, from their children, or from aliens?
 
-26. Shemun saith to him, From aliens: Jeshu saith to him, Then the children are free.Sons of the free.
+26. Shemun saith to him, From aliens: Jeshu saith to him, Then the children are free.
 
 27. But that we may not offend them, go to the sea, and cast the hook; and the fish that first cometh up, open his mouth; and thou shalt find a stater, that take and present for me and thee.
 
@@ -1210,15 +1210,15 @@
 
 4. Whosoever therefore humbleth himself as this child, he shall be greatest in the kingdom of heaven.
 
-5. And whosoever shall receivesuch asare like this child in my name, he receiveth me.
+5. And whosoever shall receive
 
-6. And every one that shall offend one of these little ones who believe in me, to him it had been better that the mill-stone of an assThat is, the stone of a mill worked by an ass or mule. were hung to his neck, and himself plunged into the depths of the sea.
+6. And every one that shall offend one of these little ones who believe in me, to him it had been better that the mill-stone of an ass
 
 7. Woe to the world from causes of offence! for it is unavoidable that causes of offence will come;
 
-8. but woe to the man by whomBy whose hand. the causes of offence shall come! If, then, thine hand or thy foot shall be a cause of offence to thee, cut it off, and cast it from thee; for it is good for thee that thou enter into lifeLives. lame or mutilated; and not that, having two hands or two feet, thou fall into the fire of eternity.
+8. but woe to the man by whom
 
-9. And if thine eye be a cause of offence to thee, dig it out, and cast it from thee; good (it is) for thee that with one eye thou enter into life;Lives. and not that, having two eyes, thou fall into the gihâna of fire.
+9. And if thine eye be a cause of offence to thee, dig it out, and cast it from thee; good (it is) for thee that with one eye thou enter into life;
 
 10. See that you contemn not one of these little ones: for I say unto you that their angels in all time are beholding the face of my Father who is in heaven.
 
@@ -1228,7 +1228,7 @@
 
 13. And if he shall find it, assuredly I tell you that he rejoiceth in it more than (in) the ninety and nine which wandered not.
 
-14. So it is not goodAd lit., " The will." before your Father who is in heaven, that one of these little ones should perish.
+14. So it is not good
 
 15. NOW if thy brother offend against thee, go, and argue (the matter) between thyself and him alone; and if he hear thee, thou hast gained thy brother.
 
@@ -1244,9 +1244,9 @@
 
 21. Then Kipha came near to him, and said to him, My Lord, how many times, if my brother offend me, shall I forgive him; until seven times?
 
-22. Jeshu said to him, I say not to thee, Until seven, but, Until seventy times seven and seven.Septuaginta vices septem, et septem vices: vel septuagies septies et septies; id est, quatuordecim vicibus septuagies. Vide TREMELLIUM, in loc.
+22. Jeshu said to him, I say not to thee, Until seven, but, Until seventy times seven and seven.
 
-23. THEREFORE is the kingdom of the heavens likened to a royal personA man a king. who would take the account from his servants.
+23. THEREFORE is the kingdom of the heavens likened to a royal person
 
 24. And when he began to receive, they brought to him one who owed a myriad talents.
 
@@ -1284,7 +1284,7 @@
 
 5. And he said, On this account a man shall leave his father and his mother, and shall cleave to his wife, and they two shall be one flesh.
 
-6. Wherefore they were notconstituted two, but one body. That, therefore, which Aloha hath conjoined, man shall not separate.
+6. Wherefore they were not
 
 7. They said to him, Why then did Musha direct that he should give a writing of dismissal and send her away?
 
@@ -1368,7 +1368,7 @@
 
 16. Thus the last shall be first, and the first last; for many are the called, but few the chosen.
 
-17. NOW Jeshu was about to go up to Urishlem, and he took his twelve disciples by themselvesBetween him and themselves. in the way, and said to them,
+17. NOW Jeshu was about to go up to Urishlem, and he took his twelve disciples by themselves
 
 18. Behold, we go up to Urishlem, and the Son of man is betrayed to the chief priests and to the scribes, and they shall condemn him to the death;
 
@@ -1394,7 +1394,7 @@
 
 29. AND when Jeshu went forth from Jirichu, a great multitude cometh after him.
 
-30. And, behold, two blind men were sitting by the sideBy the hand of the way. of the way; and when they heard that Jeshu was passing, they gave voice, saying, Be merciful upon us, my Lord, Son of David!
+30. And, behold, two blind men were sitting by the side
 
 31. But the crowds rebuked them that they should be silent; but they lifted up their voice the more, saying, Our Lord, be merciful upon us, O Son of David!
 
@@ -1446,7 +1446,7 @@
 
 20. And the disciples saw, and were astonished, saying, How in a moment is the fig-tree withered!
 
-21. Jeshu answered and said to them, Amen I say to you, that if faith were in you, and you did not hesitate,Were not divided; that is, in mind. you should not only do (as) to this fig-tree, but also were you to say to this mountain, Be thou lifted up and fall into the sea, it should be done.
+21. Jeshu answered and said to them, Amen I say to you, that if faith were in you, and you did not hesitate,
 
 22. And whatsoever you shall ask in prayer and shall believe, you shall obtain.
 
@@ -1460,7 +1460,7 @@
 
 27. And they answered, saying to him, We know not: Jeshu saith to them, Also I tell not you by what authority I do these (things).
 
-28. BUT how dothit appear to you? a certain man had two sons; and he came to the elder, and said to him, My son, go to-day work in the vinery.
+28. BUT how doth
 
 29. But he answered and said, I am not willing: yet afterwards he relented, and went.
 
@@ -1518,9 +1518,9 @@
 
 9. Go therefore into the outlets of the highways, and every one whom you find call to the feast.
 
-10. And those servants went forth into the highways, and assembled all whom they found, the bad and the good; and the place of feasting was filled with guests,Recliners.
+10. And those servants went forth into the highways, and assembled all whom they found, the bad and the good; and the place of feasting was filled with guests,
 
-11. And the king entered to see the guests,Recliners. and he saw there a man who was not dressed in the garments of a festival.
+11. And the king entered to see the guests,
 
 12. And he said to him, My friend, how didst thou enter here, when thou hast not the vestments of the feast? But he was silent.
 
@@ -1530,9 +1530,9 @@
 
 15. THEN went the Pharishee and took counsel how they might ensnare him in discourse.
 
-16. And they sent to him their disciples with (certain) of the household of Herodes, saying to him, Doctor, we know that thou art resolutely true, and (that) the way of Aloha in truth thou teachest; neither carriest thou fear for man, for thou acceptest not the person of men.Faces of men.
+16. And they sent to him their disciples with (certain) of the household of Herodes, saying to him, Doctor, we know that thou art resolutely true, and (that) the way of Aloha in truth thou teachest; neither carriest thou fear for man, for thou acceptest not the person of men.
 
-17. Tell us then, how doth it appear to thee? is it lawful to give head-moneyHead-silver. unto Cesar or not?
+17. Tell us then, how doth it appear to thee? is it lawful to give head-money
 
 18. But Jeshu knew their malice, and said, Why do you tempt me, you hypocrites?
 
@@ -1558,7 +1558,7 @@
 
 29. Jeshu answered and said to them, You do err, because you understand not the scriptures nor the power of Aloha.
 
-30. For in the resurrection of the dead, they take not wives, neither are wivesunited to husbands; but as the angels of Aloha in heaven are they.
+30. For in the resurrection of the dead, they take not wives, neither are wives
 
 31. But concerning the resurrection of the dead, have you not read that which has been spoken to you by Aloha, who said,
 
@@ -1572,7 +1572,7 @@
 
 36. Doctor, which commandment is greatest in the law?
 
-37. Jeshu said to him, Thou shalt love the Lord thy Aloha withOr, from all, &c. all thy heart, and with all thy soul, and with all thy strength, and with all thy mind.
+37. Jeshu said to him, Thou shalt love the Lord thy Aloha with
 
 38. This is the commandment, the great and the first.
 
@@ -1582,7 +1582,7 @@
 
 41. while the Pharishee were gathered together, Jeshu questioned them,
 
-42. and said, What say you concerning the Meshicha,-whose sonis he? They say to him, Son of David.
+42. and said, What say you concerning the Meshicha,-whose son
 
 43. Saith he to them, And how doth David in spirit call him THE LORD? For he said,
 
@@ -1600,19 +1600,19 @@
 
 3. Every thing, therefore, which they tell you to observe, observe and do; but after their practices do not act; for they say, and do not.
 
-4. And they bind heavy burdens, and lay them on the shoulders of men, but theythemselves with their fingers are not willing to touch them.
+4. And they bind heavy burdens, and lay them on the shoulders of men, but they
 
-5. And all their works they do that they may be seen of men; for they widen their tephillin,Phylakteries; called as above, from the Chaldee tephilla, " prayer." For their formation and uses, see the commentators. and lengthen the fringes of their waving vestments,Martuto; vestis tremula: from the Chaldee rethath, tremuit.
+5. And all their works they do that they may be seen of men; for they widen their tephillin,
 
 6. and love the chief reclining-places at evening feasts, and the highest seats in synagogues,
 
-7. and the shaloma in public places, and to be called of men Râbi.my Master.
+7. and the shaloma in public places, and to be called of men Râbi.
 
 8. But be you not called Râbi: for One is your Master; but all ye are brethren.
 
-9. And call no man AbâFather. to you upon earth: for One is your Father, who is in heaven.
+9. And call no man Abâ
 
-10. Neither be ye called Medabronee:Guides. for One is your Guide,-the Meshicha.
+10. Neither be ye called Medabronee:
 
 11. But he who is great among you, let him be your servitor.
 
@@ -1624,11 +1624,11 @@
 
 15. Woe to you, scribes and Pharishee, hypocrites! because you go over sea and dry (land) to make one proselyte; and when you have done it, you make him doubly more a son of gihana than yourselves.
 
-16. Woe to you, ye blind guides, who say, Thatto him who sweareth by the temple, it is nothing; but if he swear by the gold which is in the temple, he is liable!
+16. Woe to you, ye blind guides, who say, That
 
 17. You senseless and blind! for which is greater, the gold, or the temple that sanctifieth the gold?
 
-18. And (that) whoever sweareth by the altar, it is nothing; butif he swear by the oblation which is upon it, he is liable.
+18. And (that) whoever sweareth by the altar, it is nothing; but
 
 19. You foolish and sightless! for which is greater, the oblation, or the altar that sanctifieth the oblation?
 
@@ -1638,7 +1638,7 @@
 
 22. And whosoever sweareth by heaven, sweareth by the throne of Aloha, and by Him who sitteth thereon.
 
-23. Woe to you, scribes, Pharishee, hypocrites! because you tithe mint, dill, and cummin, and omit the more graverequirements of the law,-justice, benignity, and faithfulness. For these you should have done, and those not omitted.
+23. Woe to you, scribes, Pharishee, hypocrites! because you tithe mint, dill, and cummin, and omit the more grave
 
 24. You blind guides, who strain out gnats and swallow camels.
 
@@ -1684,7 +1684,7 @@
 
 5. for many will come in my name and will say, I am the Meshicha; and many will be deceived.
 
-6. But it will be for you to hearof wars and the noise of battles; (yet) see that you be not perturbed; for all these will take place, but not yet is the end.
+6. But it will be for you to hear
 
 7. For people will rise against people, and kingdom against kingdom; and there shall be famines, and plagues, and earthquakes in various places.
 
@@ -1706,7 +1706,7 @@
 
 16. then let those who are in Jehud escape to the mountain.
 
-17. And let not him who is on the roof descend to take whatis in his house;
+17. And let not him who is on the roof descend to take what
 
 18. nor he who is in the field turn back to take his vestment.
 
@@ -1732,15 +1732,15 @@
 
 29. But immediately after the affliction of those days, the sun will become dark, and the moon show not her light, and the stars shall fall from heaven, and the powers of heaven be commoved.
 
-30. And then shall be seen the standard of the Son of man in heaven, and then all the generations of the earthOr, tribes of the land. shall wail, and they shall see the Son of man coming upon the clouds of heaven, with great power and glory.
+30. And then shall be seen the standard of the Son of man in heaven, and then all the generations of the earth
 
-31. And he shall send his angels with the great trumpet, and they shall gather the chosen who are his from the four winds and from the ends of heaven.From the extremity of the heavens to their extremity.
+31. And he shall send his angels with the great trumpet, and they shall gather the chosen who are his from the four winds and from the ends of heaven.
 
 32. But from the fig-tree learn a parable: As soon as her branches are soft, and they put forth her leaves, you know that summer draweth nigh.
 
 33. So also, when all these are seen, you know that it cometh to the door.
 
-34. Amen I say to you, that this raceSharebtha, " tribe, people, nation." shall not have passed away until all these shall take place.
+34. Amen I say to you, that this race
 
 35. Heaven and earth shall pass away; but my words shall not pass away.
 
@@ -1796,7 +1796,7 @@
 
 9. But the wise ones answered them, saying, Lest it should not suffice for us and for you; but go to those who sell, and buy for you.
 
-10. And while they were gone to buy, the bridegroom came, and those who were prepared entered with him into the house of festivity,Beth-chelulo, domus chori, seu domus nuptiarum. and the gate was shut.
+10. And while they were gone to buy, the bridegroom came, and those who were prepared entered with him into the house of festivity,
 
 11. At last came also those other virgins, saying, Our Lord, our Lord, open to us!
 
@@ -1874,7 +1874,7 @@
 
 1. AND when Jeshu had finished all these discourses, he said to his disciples,
 
-2. You know not that after two days is the Petzcha,Passover. and the Son of man is delivered up to be crucified.
+2. You know not that after two days is the Petzcha,
 
 3. Then assembled the chief priests, and the scribes, and the elders of the people, in the hall of the chief of the priests, who was called Kaiapha.
 
@@ -1894,7 +1894,7 @@
 
 11. For in all time the poor you have with you, but me you have not in all time with you.
 
-12. For this (woman) who hath poured this balsam upon my body, as unto my funeral hath doneit .
+12. For this (woman) who hath poured this balsam upon my body, as unto my funeral hath done
 
 13. And Amen I say unto you, Wheresoever this my Gospel shall be proclaimed, in all the world, this also which she hath done shall be told for her memorial.
 
@@ -1902,7 +1902,7 @@
 
 15. and said to then, What are you willing to give me, and I will deliver him to you? But they settled to him thirty of silver.
 
-16. And from that timeFrom them. he sought to him opportunity to betray him.
+16. And from that time
 
 17. BUT in the first day of the (Phatiree) unleavened-bread days, the disciples came to Jeshu, and said to him, Where wilt thou that we prepare for thee to eat the passover?
 
@@ -1918,7 +1918,7 @@
 
 23. But he answered and said, One who dippeth his hand with me in the dish, he shall betray me.
 
-24. And the Son of man goeth as it is written concerning him; but woe to him, to that man by whomBy whose hand. the Son of man is betrayed! Better had it been for that man if he had not been born.
+24. And the Son of man goeth as it is written concerning him; but woe to him, to that man by whom
 
 25. Then Jihuda the traitor answered and said, Am not I (he), Rabi? Jeshu replieth to him, Thou hast said!
 
@@ -2070,7 +2070,7 @@
 
 23. Pilatos saith to them, Why, what evil hath he done? But they clamoured the more, and said, Let him be crucified!
 
-24. Then Pilatos, when he saw that nothing availed, but that the tumult became greater, took waters (and) washed his hands beforeIn the eye of the assembly. the assembly, and said, I am expiated from the blood of this Just One. You shall know.
+24. Then Pilatos, when he saw that nothing availed, but that the tumult became greater, took waters (and) washed his hands before
 
 25. And all the people answered and said, His blood upon us, and upon our children!
 
@@ -2108,13 +2108,13 @@
 
 42. He saved others; himself he cannot save. If he be the King of Isroel, let him now descend from the cross, that we may see and believe in him.
 
-43. He trusted upon Aloha; let him liberate him now, if he delighteth inWilleth him. him; for he said, I am the Son of Aloha.
+43. He trusted upon Aloha; let him liberate him now, if he delighteth in
 
 44. Likewise also the robbers who were crucified with him reviled him.
 
-45. BUT from the sixth hourSix hours, &c. there was darkness upon all the land until the ninth hour.
+45. BUT from the sixth hour
 
-46. And about the ninth hour Jeshu cried with a high voice, Aloha! Aloha! why hast thou forsaken me?IL! IL! lamono shabakthóni!
+46. And about the ninth hour Jeshu cried with a high voice, Aloha! Aloha! why hast thou forsaken me?
 
 47. But certain of them who stood there, when they heard, said, This hath cried unto Ilio.
 
@@ -2124,7 +2124,7 @@
 
 50. But he, Jeshu, again cried with a high voice, and dismissed his spirit.
 
-51. And at once the veilThe faces of the gate. of the temple was rent in twain from above to beneath; and the earth was shaken, and the rocks were riven.
+51. And at once the veil
 
 52. And the house of the buried was opened; and the bodies of many of the saints who had been asleep arose,
 
@@ -2174,7 +2174,7 @@
 
 8. And they went quickly from the sepulchre, with fear and with great joy, and ran that they might tell his disciples.
 
-9. And, behold, Jeshu met them, and said to them, Peace to you! And they approachedhim, held him by the feet, and adored him.
+9. And, behold, Jeshu met them, and said to them, Peace to you! And they approached
 
 10. Then said Jeshu to them, Fear not; but go tell my brethren, that I will go into Galila, and there they shall see me.
 

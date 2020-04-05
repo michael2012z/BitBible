@@ -18,7 +18,7 @@
 
 8. Be watchful of yourselves, that not any thing perish which you have wrought; but (that with) a complete reward you may be recompensed.
 
-9. Every one who transgresseth, and abideth not in the doctrine of the Meshiha, hath not Aloha.Or, Aloha is not in him. He who abideth in his doctrine, this hath both the Father and the Son.
+9. Every one who transgresseth, and abideth not in the doctrine of the Meshiha, hath not Aloha.
 
 10. If any one come to you, and this doctrine bring not, receive him not into the house, and "Joy to you," and " Farewell," say not to him.
 

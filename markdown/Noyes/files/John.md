@@ -684,7 +684,7 @@
 
 52. They answered and said to him, Art thou too from Galilee? Search and see that no prophet ariseth from Galilee.
 
-53. Joh 7:53-8:12: This passage is omitted as ungenuine by Tischendorf and most critical editors of the Greek Testament. It is found in some manuscripts, but not in the most ancient. It is, however, very generally regarded as a genuine relic of the teaching of Christ, though not forming a part of the fourth Gospel. I give it in the text of Tregelles, omitting the words which he incloses in brackets. Tregelles, however, does not suppose it to be genuine. [And they went each to his house;
+53. 
 
 ## John 8
 

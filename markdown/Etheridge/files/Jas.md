@@ -12,7 +12,7 @@
 
 5. If any of you be deficient in wisdom, let him ask of Aloha, who giveth to all expansively, and upbraideth not, and it is given to him.
 
-6. But let him ask in faith, not wavering.Or, not being divided. For he who wavereth is like the waves of the sea which the wind disturbeth.
+6. But let him ask in faith, not wavering.
 
 7. And let not that man expect to receive any thing from the Lord,
 
@@ -52,9 +52,9 @@
 
 25. But every one who looketh into the perfect law of liberty, and continueth therein, he is not a hearer of the hearing of forgetfulness, but a doer of works; and this shall be blessed in his work.
 
-26. And if a man thinketh that he servethOr, ministereth unto Aloha. Aloha, and holdeth not his tongue, but deceiveth his own heart, of this man his service is vain.
+26. And if a man thinketh that he serveth
 
-27. For the serviceTeshmeshtho, ministry. which is pure and true before Aloha the Father, is this, to visit the orphans and widows in their afflictions, and that a man keep himself from the world without blemish.
+27. For the service
 
 ## James 2
 
@@ -84,7 +84,7 @@
 
 13. For judgment is to be without mercy, upon him who hath not done mercy. Be you exalted by mercy over judgment.
 
-14. WHAT is the use,Henyono, utilitas. my brethren, if a man say, I have faith, and works he hath not? How can his faith save him?
+14. WHAT is the use,
 
 15. And, if a brother or sister be naked, and wanting the food of to-day,
 
@@ -100,7 +100,7 @@
 
 21. Our father Abraham, was he not by works justified, when he offered Ishok his son on the altar?
 
-22. Thou seest that his faith was helpfulVide CASTELL'S Hept. Lex. in -. unto his works; and by works his faith was perfected,
+22. Thou seest that his faith was helpful
 
 23. and the scripture was accomplished which said, that Abraham believed in Aloha, and it was reckoned unto him for righteousness, and the friend of Aloha he was called.
 
@@ -120,7 +120,7 @@
 
 4. Also the mighty ships, while the furious winds drive them, by a little wood are turned about to the region which the will of him who guideth doth contemplate.
 
-5. So also the tongue is a small member, and uplifteth itself. A little fire also burneth many forests;Obee sagiyee mauqdo.
+5. So also the tongue is a small member, and uplifteth itself. A little fire also burneth many forests;
 
 6. and the tongue is a fire, a world of sin, like a forest is the tongue itself among our members; it defileth all of our body, and burneth the course of our generations which run (forward) as a wheel, and kindleth also itself with fire.
 
@@ -134,7 +134,7 @@
 
 11. Can it be that one fountain shall send forth waters sweet and bitter?
 
-12. Or can the fig-tree, my brethren, make olives, or the vines figs? thus alsoHocano oph. salt waters cannot be made sweet.
+12. Or can the fig-tree, my brethren, make olives, or the vines figs? thus also
 
 13. Who of you is wise and instructed? let him show his works in good conversations in meek wisdom.
 
@@ -172,7 +172,7 @@
 
 11. Speak not against one another, my brethren; for he who speaketh against his brother, or judgeth his brother, speaketh against the law, and judgeth the law. And if the law thou judgest, thou art not a doer of the law, but the judge of it.
 
-12. For one is the appointerSoem-nomoso. of the law and the Judge, who can save and destroy. But thou, who art thou, who judgest thy neighbour?
+12. For one is the appointer
 
 13. But what shall we say of them who say, To-day or tomorrow we will go to this city, or that, and work there one year, and negotiate, and make gain?
 
@@ -202,7 +202,7 @@
 
 8. so also you, prolong your spirit, and your hearts confirm; for the coming of our Lord draweth nigh.
 
-9. GroanLo tetanchun. not one against another, my brethren, that you be not judged; for, behold, the Judge standeth before the door.
+9. Groan
 
 10. The example of the prophets take to you, my brethren, to prolong your spirits in your afflictions, them who have spoken in the name of the Lord.
 

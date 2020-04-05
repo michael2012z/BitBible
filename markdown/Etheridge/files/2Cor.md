@@ -18,7 +18,7 @@
 
 8. FOR I would have you to know, my brethren, of the affliction that befell us in Asia: for we were greatly pressed beyond our strength, until our life was nigh to be dissolved,
 
-9. and because of these we had concluded (for) death;Phasakan mautho. that we should not have hope in ourselves, but in Aloha, who raiseth the dead:
+9. and because of these we had concluded (for) death;
 
 10. who from deaths of violence delivered us, and who will again, we trust, deliver us,
 
@@ -44,7 +44,7 @@
 
 21. But Aloha himself confirmeth us with you in the Meshiha, who himself hath anointed us,
 
-22. and hath sealed us, and given us the earnest-pledgeRhabuno. of his Spirit in our hearts.
+22. and hath sealed us, and given us the earnest-pledge
 
 23. BUT I testify to Aloha on my soul that because I am sparing of you, I have not come to Kurinthos.
 
@@ -56,11 +56,11 @@
 
 2. For if I grieve you, who shall refresh me, but he whom I had grieved?
 
-3. And I have written to you this veryepistle, lest when I come they grieve me, they who ought to refresh me. But I confide in you, that my joy is that of all of you.
+3. And I have written to you this very
 
 4. And from great affliction and anxiety of heart I wrote those things to you with many tears, not that you might grieve, but (also) that you might know the abundant love I have towards you.
 
-5. But if any one hath caused grief, he hath not grieved me (only), but a part of you all: that the word may not weigh uponthe whole of you.
+5. But if any one hath caused grief, he hath not grieved me (only), but a part of you all: that the word may not weigh upon
 
 6. But sufficient for him was this chastisement, which was from many.
 
@@ -70,7 +70,7 @@
 
 9. On this account also I have written, to ascertain by experiment whether in every thing you will obey me.
 
-10. But to whom you forgive, I also. For I, too, what I have forgiven, have on your account forgiven in the presenceOr, the person. of the Meshiha:
+10. But to whom you forgive, I also. For I, too, what I have forgiven, have on your account forgiven in the presence
 
 11. lest Satana get the advantage of you; for we know his devices.
 
@@ -122,7 +122,7 @@
 
 17. But the Lord himself is the Spirit; and where the Spirit of the Lord, (there) is liberty.
 
-18. But we all with disclosedOr, revealed. faces behold the glory of the Lord as in a mirror, and into the resemblance of it are changed from brightness to brightness, as by the Lord the Spirit.
+18. But we all with disclosed
 
 ## 2 Corinthians 4
 
@@ -178,7 +178,7 @@
 
 7. For by faith we walk, and not by sight.
 
-8. On this account we confide, and long to pass awayOr, migrate. from the body, and to be with our Lord.
+8. On this account we confide, and long to pass away
 
 9. We give diligence, that whether we are pilgrims or inhabitants, we may be pleasing unto Him.
 
@@ -186,15 +186,15 @@
 
 11. THEREFORE, because we know the terror of our Lord, we persuade men; and to Aloha we are manifest; but I hope that to your minds also we are manifest.
 
-12. For we commendOr, praise; Meschabchinan. not ourselves again to you, but we give you cause to be boastful of us to them who in appearance boast, but not in heart.
+12. For we commend
 
-13. For if we be beside ourselves, (it is) unto Aloha; and if we be right,Tagninan. (it is) unto you.
+13. For if we be beside ourselves, (it is) unto Aloha; and if we be right,
 
 14. For the love of the Meshiha constraineth us, because we judge this, That if one for every man hath died, then (was) every man dead.
 
 15. And for every man he died, that they who live should not live to themselves, but to him who on their behalf died and arose.
 
-16. And henceforth we no man know according to the flesh; and if we have known the Meshiha according to the flesh,Baphgar, "In the body." yet from now we know not.
+16. And henceforth we no man know according to the flesh; and if we have known the Meshiha according to the flesh,
 
 17. Whoever therefore is in the Meshiha is a new creature; the old things have passed, and every thing hath become new
 
@@ -202,13 +202,13 @@
 
 19. For Aloha is in the Meshiha, who hath reconciled the world with his greatness; and he hath not reckoned unto them their sins, and hath put in us the word of reconciliation.
 
-20. WE are ambassadors then for the Meshiha, and as if Aloha himself besought you by us: instead of the Meshiha,Chaloph Meshiha. therefore, we beseech, Be you reconciled unto Aloha.
+20. WE are ambassadors then for the Meshiha, and as if Aloha himself besought you by us: instead of the Meshiha,
 
 21. For Him who knew not sin, on our account hath he made sin, that we might be in him the righteousness of Aloha.
 
 ## 2 Corinthians 6
 
-1. And as helpers, we beseech of you that the grace of Aloha which you have received be not made ineffectualLo testaraq. in you.
+1. And as helpers, we beseech of you that the grace of Aloha which you have received be not made ineffectual
 
 2. For he hath said, In the time acceptable I have heard thee, And in the day of salvation I have helped thee. Behold, Now is the time acceptable; behold, Now is the day of salvation.
 
@@ -230,13 +230,13 @@
 
 11. OUR mouth is opened to you, Kurinthoyee, and our heart expanded.
 
-12. You are not constrainedOr, contracted, cramped. in us, but you are constrainedOr, contracted, cramped. in your own bowels.
+12. You are not constrained
 
 13. But as unto (my) children, I say to you, Render to me my gains which are with you, and expand your love towards me.
 
 14. And be not sons of the yoke with them who believe not. For what participation hath righteousness with iniquity? Or what commixture hath the light with darkness?
 
-15. Or what concordOr, peace. hath the Meshiha with Satana? Or what portion hath the believer with the unbeliever?
+15. Or what concord
 
 16. Or what union hath the temple of Aloha with (that) of demons? For you are the temple of Aloha the living; as it is written, I will dwell in them, and walk in them; And I will be their God, And they shall be to me a people.
 
@@ -264,11 +264,11 @@
 
 9. but now I exercise joy, not because you were made sorry, but because your sorrow hath brought you to repentance. For you were sorry towards Aloha; so that in nothing will you suffer loss from us.
 
-10. For the sorrow that is for the sake of Aloha worketh soul-penitence,Animae conversionem operatur. SCHAFF, as also TREMELLIUS. The Paris Polyglot and WALTON have paenitentiam animae effecit; and the Antwerp, Paenitentem animam effecit. which turneth not and converteth, unto salvation; but the sorrow of the world worketh death.
+10. For the sorrow that is for the sake of Aloha worketh soul-penitence,
 
-11. For, behold, (in) this very (case) that you were made contrite for the sake of Aloha; what carefulness it wrought in you, and vindication, and displeasure, and fear, and love, and zeal, and punishment! Andthus by every thing have you shown yourselves to benow pure in this matter.
+11. For, behold, (in) this very (case) that you were made contrite for the sake of Aloha; what carefulness it wrought in you, and vindication, and displeasure, and fear, and love, and zeal, and punishment! And
 
-12. But, it was for this we wrote to you; not on account of the injurer, nor on account of the injured oneonly, but that you may know before Aloha our carefulness over you.
+12. But, it was for this we wrote to you; not on account of the injurer, nor on account of the injured one
 
 13. For this cause we were consoled, and with our consolation more abundantly did we rejoice in the joy of Titos; because his spirit had been refreshed with you all.
 
@@ -306,7 +306,7 @@
 
 13. Neither must there be to others ease, and to you anxiety,
 
-14. but in equality be you at this time; that your abundance may be a supply to their want, that alsoon another occasion their abundance may be fora supply to your want, that there may be equality.
+14. but in equality be you at this time; that your abundance may be a supply to their want, that also
 
 15. As it is written, He who took up much had no superfluity, and he who took up little was not deficient.
 
@@ -316,17 +316,17 @@
 
 18. But we have sent with him our brother, whose praise in the gospel is in all the churches;
 
-19. who hath, moreover, been chosen by the churches to go forth with us with this bounty which is ministered by us to the glory of Aloha himself, and untothe proof of our cordiality.
+19. who hath, moreover, been chosen by the churches to go forth with us with this bounty which is ministered by us to the glory of Aloha himself, and unto
 
-20. For we are precautious in this, that no one should lay upon us any imputationOr, spot.
+20. For we are precautious in this, that no one should lay upon us any imputation
 
 21. with regard to this great bounty which is to be administered by us. For we are careful for the things which are comely, not only before Aloha, but also before men.
 
-22. But we have also sent with them our brother, whom we have often proved in manyundertakings to be diligent; but now still more diligent from the great confidence he hath concerning you.
+22. But we have also sent with them our brother, whom we have often proved in many
 
 23. Whether, then, (you regard) Titos, he is my companion and helper among you, or the other brethren, they are the apostles of the churches of the glory of Meshiha.
 
-24. Wherefore the demonstration of your love, and of our boasting concerning you in thesethings, make manifest in the sight of all the churches.
+24. Wherefore the demonstration of your love, and of our boasting concerning you in these
 
 ## 2 Corinthians 9
 
@@ -338,9 +338,9 @@
 
 4. lest, if the Makedunoyee should come with me, and find you not ready, we be shamed-that I may not say, you be shamed-of the boasting which we have boasted.
 
-5. For this cause I have been careful to entreat of these brethren to go before to you, to make ready that blessing of which you have caused to be heard before; that it may be prepared, so as that it may beconsidered as a blessing,and not asthe reluctant contribution of avarice.
+5. For this cause I have been careful to entreat of these brethren to go before to you, to make ready that blessing of which you have caused to be heard before; that it may be prepared, so as that it may be
 
-6. But thisremember, He who soweth with scantiness, with scantiness also reapeth; and he who soweth with blessing, with blessing also shall reap.
+6. But this
 
 7. Every man as he hath in his mind: not as of vexation or as of constraint; for a cheerful giver the Lord loveth.
 
@@ -378,7 +378,7 @@
 
 8. For if I should boast somewhat more of the authority which our Lord hath given me, I should not blush; because for your edification he gave it to me, and not for your destruction.
 
-9. But I insist not,Or, But I connive. that I may not be considered as one who would terrify you by my epistles.
+9. But I insist not,
 
 10. For there are men who say, His epistles are weighty and forcible; but his bodily presence is weak, and his speech contemptible.
 
@@ -388,7 +388,7 @@
 
 13. For we do not boast beyond our measure, but in the measure of the boundary which Aloha hath apportioned to us, that we might come also unto you.
 
-14. For it is not as not reaching to youby divine appointment we extend ourselves; for unto you we come with the gospel of the Meshiha.
+14. For it is not as not reaching to you
 
 15. Neither boast we beyond our measure in the labour of others; but we have hope, that with the increase of your faith, we shall be enlarged according to our measure;
 
@@ -432,13 +432,13 @@
 
 16. BUT I say again, Let no man think of me as a fool; or if otherwise, let him receive me as a fool, that I also may boast a little.
 
-17. The thing which I (now) speak, I do not speak inOr, according to. our Lord, but as in foolishness in this place of boasting.
+17. The thing which I (now) speak, I do not speak in
 
 18. Because many boast in the flesh, I also will boast.
 
 19. For you are content to listen to the feebleminded, you yourselves being wise.
 
-20. For you are ruledOr, judged. by one who subjugates you, and by one who devours you, and by one who takes away from you, and by one who exalts himself over you, and by one who smites you on your faces!
+20. For you are ruled
 
 21. As in abasement I speak; as though we were weak through defectiveness of mind, I speak. In whatever any man dareth, I also dare.
 
@@ -470,7 +470,7 @@
 
 1. I might boast, but it is not expedient; for I come to visions and revelations of the Lord.
 
-2. I knewYodano, "knowing." a man in the Meshiha fourteen years ago,Men kedom, "from before fourteen years." -whether in the body, or out of the body, I know not, Aloha himself knoweth, -who, this one himself, was rapt unto the thirdregion of heaven.The third of heaven.
+2. I knew
 
 3. And I know this man himself,-but whether in the body, or out of the body, I know not, Aloha himself knoweth,
 
@@ -502,7 +502,7 @@
 
 17. By any other whom I have sent to you have I made prey of you?
 
-18. Of Titos I requested, and sent with him the brethren.The Polyglot editions read, " a brother." In any thing has Titos made prey of you? Have we not walked in one spirit, and in the same steps?
+18. Of Titos I requested, and sent with him the brethren.
 
 19. DO you again consider that we apologize to you? Before Aloha in the Meshiha do we speak; and all, my beloved, for the sake of your up-building.
 

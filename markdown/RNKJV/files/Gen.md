@@ -736,7 +736,7 @@
 
 17. And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale.
 
-18. And Melchizedek king of Salem brought forth bread and wine: and he was the priest of El-Elyonmost high El.
+18. And Melchizedek king of Salem brought forth bread and wine: and he was the priest of El-Elyon
 
 19. And he blessed him, and said, Blessed be Abram of El-Elyon, possessor of heaven and earth:
 
@@ -820,7 +820,7 @@
 
 12. And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren.
 
-13. And she called the name of יהוה that spake unto her, Thou ElroiEl that seeth: for she said, Have I also here looked after him that seeth me?
+13. And she called the name of יהוה that spake unto her, Thou Elroi
 
 14. Wherefore the well was called Beer-lahai-roi; behold, it is between Kadesh and Bered.
 
@@ -830,7 +830,7 @@
 
 ## Genesis 17
 
-1. And when Abram was ninety years old and nine, יהוה appeared to Abram, and said unto him, I am El-Shaddaithe Almighty provider; walk before me, and be thou perfect.
+1. And when Abram was ninety years old and nine, יהוה appeared to Abram, and said unto him, I am El-Shaddai
 
 2. And I will make my covenant between me and thee, and will multiply thee exceedingly.
 
@@ -1134,7 +1134,7 @@
 
 32. Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.
 
-33. And Abraham planted a grove in Beer-sheba, and called there on the name of יהוה, El-olamEverlasting El.
+33. And Abraham planted a grove in Beer-sheba, and called there on the name of יהוה, El-olam
 
 34. And Abraham sojourned in the Philistines' land many days.  
 

@@ -52,7 +52,7 @@
 
 2. Then said the king's servants that ministered unto him: 'Let there be sought for the king young virgins fair to look on;
 
-3. and let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the castle, to the house of the women, unto the custody of HegaiHeb. Hege. the king's chamberlain, keeper of the women; and let their ointments be given them;
+3. and let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the castle, to the house of the women, unto the custody of Hegai
 
 4. and let the maiden that pleaseth the king be queen instead of Vashti.' And the thing pleased the king; and he did so.
 
@@ -330,7 +330,7 @@
 
 24. because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast pur, that is, the lot, to discomfit them, and to destroy them;
 
-25. but when sheThat is, Esther. came before the king, he commanded by letters that his wicked device, which he had devised against the Jews, should return upon his own head; and that he and his sons should be hanged on the gallows.
+25. but when she
 
 26. Wherefore they called these days Purim, after the name of pur. Therefore because of all the words of this letter, and of that which they had seen concerning this matter, and that which had come unto them,
 

@@ -52,7 +52,7 @@
 
 1. You also who were dead in your sins and in your transgressions,
 
-2. in which from the first you walked according to the worldliness of this age,Olmoyutheh dolmo hono. and according to the will of the prince of the power of the air, of that Spirit who urgethD'methchaphto. in the sons of disobedience;
+2. in which from the first you walked according to the worldliness of this age,
 
 3. in those works in which we also walked from the first in the lusts of our flesh, doing the will of our flesh and of our mind, and were the sons of wrath fully as the rest.
 
@@ -72,7 +72,7 @@
 
 11. Wherefore be mindful, that you Gentiles at first were carnal, and were called the Uncircumcision by that which is called the Circumcision, and is the work of the hands in the flesh;
 
-12. and were at that time without the Meshiha, and were aliens from the polityDuboree, the manners, or regulations, of Israel. of Israel, and strangers to the covenant of the promise, and, without hope, were without Aloha in the world.
+12. and were at that time without the Meshiha, and were aliens from the polity
 
 13. But now, by Jeshu the Meshiha, you who before were far off, are brought nigh by the blood of the Meshiha.
 
@@ -124,7 +124,7 @@
 
 14. for this is your glory; and I bow my knees unto the Father of our Lord Jeshu Meshiha,
 
-15. from whom is named the whole familyAbohutho, paternity. who are in heaven and in earth;
+15. from whom is named the whole family
 
 16. that he would give to you, according to the riches of his glory, with power to be confirmed by his Spirit in your interior man;
 
@@ -166,7 +166,7 @@
 
 13. until we be all one in the faith and in the knowledge of the Son of Aloha, and one man perfect in the measure of the stature of his completeness;
 
-14. and that we be nomore children, agitated and altered by every windOr, spirit. of fraudulent doctrines of men, which in their craftiness they fabricate deceptively in order to seduce,
+14. and that we be no
 
 15. but be confirmed in our love, that whatever is ours may increase in the Meshiha,
 
@@ -174,7 +174,7 @@
 
 17. BUT this I say and testify in the Lord, that from henceforth you may not walk as the rest of the Gentiles, who walk in the vanity of their minds,
 
-18. and are darkened in their understandings, and are alienated from the life of Aloha on account of their ignorance,Or, because they have not knowledge. and on account of the blindness of their hearts;
+18. and are darkened in their understandings, and are alienated from the life of Aloha on account of their ignorance,
 
 19. who are cut off from their hope, and have delivered themselves up to lasciviousness and to the working of all uncleanness in their greediness.
 
@@ -186,7 +186,7 @@
 
 23. and be renewed in the spirit of your minds,
 
-24. and wear the new man, who by Aloha is created in righteousness and in the sanctity of truth.Vabchasyutho da-qushtho.
+24. and wear the new man, who by Aloha is created in righteousness and in the sanctity of truth.
 
 25. WHEREFORE let lying cease from you, and speak the truth every man with his neighbour: for we are members one of another.
 
@@ -290,7 +290,7 @@
 
 8. knowing that whatever good a man doeth he is rewarded by our Lord, whether he be a servant or a son of freedom.
 
-9. So you, masters,Or, lords. do likewise to your servants; forgiving them a fault;"Faults." WALTON'S Polyglot. for you know also that your Master is in heaven, and there is no respect of persons with him.
+9. So you, masters,
 
 10. HENCEFORTH, my brethren, be strong in our Lord, and in the power of his strength.
 

@@ -66,7 +66,7 @@
 
 9. And Pharaoh's daughter said unto her: 'Take this child away, and nurse it for me, and I will give thee thy wages.' And the woman took the child, and nursed it.
 
-10. And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses,Heb. Mosheh. and said: 'Because I drewHeb. mashah, to draw out. him out of the water.'
+10. And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses,
 
 11. And it came to pass in those days, when Moses was grown up, that he went out unto his brethren, and looked on their burdens; and he saw an Egyptian smiting a Hebrew, one of his brethren.
 
@@ -90,7 +90,7 @@
 
 21. And Moses was content to dwell with the man; and he gave Moses Zipporah his daughter.
 
-22. And she bore a son, and he called his name Gershom; for he said: 'I have been a stranger in a strangeHeb. ger. land.'
+22. And she bore a son, and he called his name Gershom; for he said: 'I have been a stranger in a strange
 
 23. And it came to pass in the course of those many days that the king of Egypt died; and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto G-d by reason of the bondage.
 
@@ -180,7 +180,7 @@
 
 17. And thou shalt take in thy hand this rod, wherewith thou shalt do the signs.'
 
-18. And Moses went and returned to JethroHeb. Jether. his father-in-law, and said unto him: 'Let me go, I pray thee, and unto my brethren that are in Egypt, and see whether they be yet alive.' And Jethro said to Moses: 'Go in peace.'
+18. And Moses went and returned to Jethro
 
 19. And HaShem said unto Moses in Midian: 'Go, return into Egypt; for all the men are dead that sought thy life.'
 
@@ -262,7 +262,7 @@
 
 2. And G-d spoke unto Moses, and said unto him: 'I am HaShem;
 
-3. and I appeared unto Abraham, unto Isaac, and unto Jacob, as G-d Almighty, but by My name "HaShem"Special emphasis on the four letter name of G-d which is generally forbidden to be to pronounced by Jews.The Hebrew word (four Hebrew letters: HE, VAV, HE, YOD,) remained in the English text untranslated; the English word 'Jehovah' was substituted for this Hebrew word. The footnote for this Hebrew word is: "The ineffable name, read Adonai, which means the Lord." I made Me not known to them.
+3. and I appeared unto Abraham, unto Isaac, and unto Jacob, as G-d Almighty, but by My name "HaShem"
 
 4. And I have also established My covenant with them, to give them the land of Canaan, the land of their sojournings, wherein they sojourned.
 
@@ -850,7 +850,7 @@
 
 22. And Moses led Israel onward from the Red Sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
 
-23. And when they came to Marah, they could not drink of the waters of Marah, for they were bitter. Therefore the name of it was called Marah.That is, Bitterness.
+23. And when they came to Marah, they could not drink of the waters of Marah, for they were bitter. Therefore the name of it was called Marah.
 
 24. And the people murmured against Moses, saying: 'What shall we drink?'
 
@@ -890,7 +890,7 @@
 
 14. And when the layer of dew was gone up, behold upon the face of the wilderness a fine, scale-like thing, fine as the hoar-frost on the ground.
 
-15. And when the children of Israel saw it, they said one to another: 'What is it?'Heb. Man hu. --for they knew not what it was. And Moses said unto them: 'It is the bread which HaShem hath given you to eat.
+15. And when the children of Israel saw it, they said one to another: 'What is it?'
 
 16. This is the thing which HaShem hath commanded: Gather ye of it every man according to his eating; an omer a head, according to the number of your persons, shall ye take it, every man for them that are in his tent.'
 
@@ -922,7 +922,7 @@
 
 30. So the people rested on the seventh day.
 
-31. And the house of Israel called the name thereof Manna;Heb. Man. and it was like coriander seed, white; and the taste of it was like wafers made with honey.
+31. And the house of Israel called the name thereof Manna;
 
 32. And Moses said: 'This is the thing which HaShem hath commanded: Let an omerful of it be kept throughout your generations; that they may see the bread wherewith I fed you in the wilderness, when I brought you forth from the land of Egypt.'
 
@@ -948,7 +948,7 @@
 
 6. Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink.' And Moses did so in the sight of the elders of Israel.
 
-7. And the name of the place was called Massah,That is, Trying. and Meribah,That is, Strife. because of the striving of the children of Israel, and because they tried HaShem, saying: 'Is HaShem among us, or not?'
+7. And the name of the place was called Massah,
 
 8. Then came Amalek, and fought with Israel in Rephidim.
 
@@ -964,7 +964,7 @@
 
 14. And HaShem said unto Moses: 'Write this for a memorial in the book, and rehearse it in the ears of Joshua: for I will utterly blot out the remembrance of Amalek from under heaven.'
 
-15. And Moses built an altar, and called the name of it Adonai-nissi.That is, The LORD is my banner.
+15. And Moses built an altar, and called the name of it Adonai-nissi.
 
 16. And he said: 'The hand upon the throne of HaShem: HaShem will have war with Amalek from generation to generation.'  
 
@@ -976,7 +976,7 @@
 
 3. and her two sons; of whom the name of the one was Gershom; for he said: 'I have been a stranger in a strange land';
 
-4. and the name of the other was Eliezer:Heb. El, God, and ezer, help. 'for the G-d of my father was my help, and delivered me from the sword of Pharaoh.'
+4. and the name of the other was Eliezer:
 
 5. And Jethro, Moses' father-in-law, came with his sons and his wife unto Moses into the wilderness where he was encamped, at the mount of G-d;
 
@@ -1136,7 +1136,7 @@
 
 5. But if the servant shall plainly say: I love my master, my wife, and my children; I will not go out free;
 
-6. then his master shall bring him unto G-d,That is, the judges. and shall bring him to the door, or unto the door-post; and his master shall bore his ear through with an awl; and he shall serve him for ever.
+6. then his master shall bring him unto G-d,
 
 7. And if a man sell his daughter to be a maid-servant, she shall not go out as the men-servants do.
 
@@ -1214,7 +1214,7 @@
 
 6. If a man deliver unto his neighbour money or stuff to keep, and it be stolen out of the man's house; if the thief be found, he shall pay double.
 
-7. If the thief be not found, then the master of the house shall come near unto G-d,That is, the judges. to see whether he have not put his hand unto his neighbour's goods.
+7. If the thief be not found, then the master of the house shall come near unto G-d,
 
 8. For every matter of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, whereof one saith: 'This is it,' the cause of both parties shall come before G-d; he whom G-d shall condemn shall pay double unto his neighbour.
 
@@ -1254,7 +1254,7 @@
 
 26. for that is his only covering, it is his garment for his skin; wherein shall he sleep? and it shall come to pass, when he crieth unto Me, that I will hear; for I am gracious.
 
-27. Thou shalt not revile G-d,That is, the judges. nor curse a ruler of thy people.
+27. Thou shalt not revile G-d,
 
 28. Thou shalt not delay to offer of the fulness of thy harvest, and of the outflow of thy presses. The first-born of thy sons shalt thou give unto Me.
 
@@ -1324,7 +1324,7 @@
 
 30. By little and little I will drive them out from before thee, until thou be increased, and inherit the land.
 
-31. And I will set thy border from the Red Sea even unto the sea of the Philistines, and from the wilderness unto the River;That is, the Euphrates. for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.
+31. And I will set thy border from the Red Sea even unto the sea of the Philistines, and from the wilderness unto the River;
 
 32. Thou shalt make no covenant with them, nor with their gods.
 
@@ -2046,7 +2046,7 @@
 
 28. And he was there with HaShem forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten words.
 
-29. And it came to pass, when Moses came down from mount Sinai with the two tables of the testimony in Moses' hand, when he came down from the mount, that Moses knew not that the skin of his face sent forth beamsHeb. horns. while He talked with him.
+29. And it came to pass, when Moses came down from mount Sinai with the two tables of the testimony in Moses' hand, when he came down from the mount, that Moses knew not that the skin of his face sent forth beams
 
 30. And when Aaron and all the children of Israel saw Moses, behold, the skin of his face sent forth beams; and they were afraid to come nigh him.
 

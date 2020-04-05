@@ -1308,7 +1308,7 @@
 
 9. They shall therefore keep My charge, lest they bear sin for it, and die therein, if they profane it: I am HaShem who sanctify them.
 
-10. There shall no common manThat is, one who is not a priest. eat of the holy thing; a tenant of a priest, or a hired servant, shall not eat of the holy thing.
+10. There shall no common man
 
 11. But if a priest buy any soul, the purchase of his money, he may eat of it; and such as are born in his house, they may eat of his bread.
 
@@ -1386,7 +1386,7 @@
 
 14. And ye shall eat neither bread, nor parched corn, nor fresh ears, until this selfsame day, until ye have brought the offering of your G-d; it is a statute for ever throughout your generations in all your dwellings.
 
-15. And ye shall count unto you from the morrow after the day of rest,Heb. sabbath. from the day that ye brought the sheaf of the waving; seven weeks shall there be complete;
+15. And ye shall count unto you from the morrow after the day of rest,
 
 16. even unto the morrow after the seventh week shall ye number fifty days; and ye shall present a new meal-offering unto HaShem.
 

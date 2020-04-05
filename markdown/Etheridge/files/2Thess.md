@@ -10,11 +10,11 @@
 
 4. as that we also boast of you in the churches of Aloha, of your faith and of your patience, in all your persecution and your affliction which you endure;
 
-5. for a demonstration of the just judgment of Aloha, that you may beseen to be worthy of his kingdom, for the sake of which you suffer;
+5. for a demonstration of the just judgment of Aloha, that you may be
 
 6. and whether it is (not) righteous to render afflictions to them who afflict you.
 
-7. And you who are afflicted will he saveOr, make alive. with us, at the revelation of our Lord Jeshu Meshiha from heaven, with the hostOr, force; chailo, " powerful array." Of his angels, when he executeth the punishment, with burning of fire,
+7. And you who are afflicted will he save
 
 8. on them who have not known Aloha, and on them who have not acknowledged the gospel of our Lord Jeshu Meshiha.
 
@@ -32,13 +32,13 @@
 
 2. that you be not soon moved in your minds, nor perturbed, nor by word, nor by spirit, nor by letter, which (may be) as (if it were) from us, that, Behold, the day of our Lord cometh!
 
-3. Let no one deceive you by any one of the methods,Or, schemes. 4 Mardutho. because unless there shall come first the rebellion,Mardutho. and there be revealed the man of sin, the son of perdition;
+3. Let no one deceive you by any one of the methods,
 
 4. He who is the adversary, and is exalted over all who is called God and Venerable; so that also in the temple of Aloha as Aloha he will sit, and will make manifest of himself as that he is Aloha.
 
 5. Do you not remember, that, when I was with you, these I told you?
 
-6. And now you know whatwith holdeth, that he may be revealed in his time.
+6. And now you know what
 
 7. For the mystery of iniquity already beginneth to be effective; only if that which now holdeth be taken from the midst,
 
@@ -56,9 +56,9 @@
 
 14. For unto these Aloha called you by our preaching, that you should be the glory of our Lord Jeshu Meshiha.
 
-15. Wherefore, my brethren, stand fast, and persevere in the preceptsBepukdonee. which you have been taught, whether by word, or by our epistle.
+15. Wherefore, my brethren, stand fast, and persevere in the precepts
 
-16. But our Lord Jeshu Meshiha himself, and Aloha our Father, who hath loved us, and given us everlasting consolation,Or, the consolation of eternity. and a good hope through grace,
+16. But our Lord Jeshu Meshiha himself, and Aloha our Father, who hath loved us, and given us everlasting consolation,
 
 17. will comfort your hearts, and establish in every word and in every work of good.
 
@@ -96,6 +96,6 @@
 
 16. But the Lord of peace himself will give you peace always, in every thing. Our Lord be with you all.
 
-17. Salutation,Shaloma. by the writing of my hand, I, PAULOS, have written; which is the sign in all my epistles, so I write.
+17. Salutation,
 
 18. The grace of Jeshu Meshiha be with you all, my brethren. Amen.

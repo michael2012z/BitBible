@@ -180,7 +180,7 @@
 
 2. At that time HaShem said unto Joshua: 'Make thee knives of flint, and circumcise again the children of Israel the second time.'
 
-3. And Joshua made him knives of flint, and circumcised the children of Israel at Gibeath-ha-araloth.That is, The hill of the foreskins.
+3. And Joshua made him knives of flint, and circumcised the children of Israel at Gibeath-ha-araloth.
 
 4. And this is the cause why Joshua did circumcise: all the people that came forth out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came forth out of Egypt.
 
@@ -192,7 +192,7 @@
 
 8. And it came to pass, when all the nation were circumcised, every one of them, that they abode in their places in the camp, till they were whole.
 
-9. And HaShem said unto Joshua: 'This day have I rolled away the reproach of Egypt from off you.' Wherefore the name of that place was called Gilgal,That is, Rolling. unto this day.
+9. And HaShem said unto Joshua: 'This day have I rolled away the reproach of Egypt from off you.' Wherefore the name of that place was called Gilgal,
 
 10. And the children of Israel encamped in Gilgal; and they kept the passover on the fourteenth day of the month at even in the plains of Jericho.
 
@@ -304,7 +304,7 @@
 
 20. And Achan answered Joshua, and said: 'Of a truth I have sinned against HaShem, the G-d of Israel, and thus and thus have I done.
 
-21. When I saw among the spoil a goodly ShinarThat is, Babylonish. mantle, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.'
+21. When I saw among the spoil a goodly Shinar
 
 22. So Joshua sent messengers, and they ran unto the tent; and, behold, it was hid in his tent, and the silver under it.
 
@@ -314,7 +314,7 @@
 
 25. And Joshua said: 'Why hast thou troubled us? HaShem shall trouble thee this day.' And all Israel stoned him with stones; and they burned them with fire, and stoned them with stones.
 
-26. And they raised over him a great heap of stones, unto this day; and HaShem turned from the fierceness of His anger. Wherefore the name of that place was called The valley of Achor,That is, Troubling. unto this day.  
+26. And they raised over him a great heap of stones, unto this day; and HaShem turned from the fierceness of His anger. Wherefore the name of that place was called The valley of Achor,
 
 ## Joshua 8
 
@@ -728,7 +728,7 @@
 
 14. Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite, unto this day; because that he wholly followed HaShem, the G-d of Israel.
 
-15. Now the name of Hebron beforetime was Kiriath-arba,That is, The city of Arba. which Arba was the greatest man among the Anakim. And the land had rest from war.  
+15. Now the name of Hebron beforetime was Kiriath-arba,
 
 ## Joshua 15
 
@@ -768,7 +768,7 @@
 
 18. And it came to pass, when she came unto him, that she persuaded him to ask of her father a field; and she alighted from off her ass; and Caleb said unto her: 'What wouldest thou?'
 
-19. And she said: 'Give me a blessing; for that thou hast set me in the Southland,Heb. land of the Negeb, that is, a dry land. give me therefore springs of water.' And he gave her the Upper Springs and the Nether Springs.
+19. And she said: 'Give me a blessing; for that thou hast set me in the Southland,
 
 20. This is the inheritance of the tribe of the children of Judah according to their families.
 
@@ -1122,7 +1122,7 @@
 
 10. And they were for the children of Aaron, of the families of the Kohathites, who were of the children of Levi; for theirs was the first lot.
 
-11. And they gave them Kiriath-arba,Heb. Anok which Arba was the father of Anak--the same is Hebron--in the hill-country of Judah, with the open land round about it.
+11. And they gave them Kiriath-arba,
 
 12. But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.
 
@@ -1174,7 +1174,7 @@
 
 36. And out of the tribe of Reuben, Bezer with the open land about it, and Jahaz with the open land about it;
 
-37. Kedemoth with the open land about it, and Mephaath with the open land about it; four cities.These two verses, taken from 1 Chron. vi. 63-64, are excluded from the text in authoritative codices and placed in the margin.
+37. Kedemoth with the open land about it, and Mephaath with the open land about it; four cities.
 
 38. And out of the tribe of Gad, Ramoth in Gilead with the open land about it, the city of refuge for the manslayer, and Mahanaim with the open land about it;
 

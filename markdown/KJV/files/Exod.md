@@ -10,7 +10,7 @@
 
 4. Dan, and Naphtali, Gad, and Asher.
 
-5. And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.loins: Heb. thigh
+5. And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
 
 6. And Joseph died, and all his brethren, and all that generation.
 
@@ -24,7 +24,7 @@
 
 11. Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
 
-12. But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.But…: Heb. And as they afflicted them, so they multiplied, etc
+12. But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
 
 13. And the Egyptians made the children of Israel to serve with rigour:
 
@@ -66,7 +66,7 @@
 
 9. And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it.
 
-10. And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.Moses: that is, Drawn out
+10. And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
 
 11. And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.
 
@@ -74,15 +74,15 @@
 
 13. And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?
 
-14. And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.a prince: Heb. a man, a prince
+14. And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
 
 15. Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well.
 
-16. Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father’s flock.priest: or, prince
+16. Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father’s flock.
 
 17. And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.
 
-18. And when they came to Reuel their father, he said, How is it that ye are come so soon to day?Reuel: called also Jethro, or, Jether
+18. And when they came to Reuel their father, he said, How is it that ye are come so soon to day?
 
 19. And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew water enough for us, and watered the flock.
 
@@ -90,13 +90,13 @@
 
 21. And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter.
 
-22. And she bare him a son, and he called his name Gershom: for he said, I have been a stranger in a strange land.Gershom: that is, A stranger here
+22. And she bare him a son, and he called his name Gershom: for he said, I have been a stranger in a strange land.
 
 23. And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.
 
 24. And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 
-25. And God looked upon the children of Israel, and God had respect unto them.had…: Heb. knew 
+25. And God looked upon the children of Israel, and God had respect unto them.
 
 ## Exodus 3
 
@@ -136,13 +136,13 @@
 
 18. And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The Lord God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the Lord our God.
 
-19. And I am sure that the king of Egypt will not let you go, no, not by a mighty hand.no…: or, but by strong hand
+19. And I am sure that the king of Egypt will not let you go, no, not by a mighty hand.
 
 20. And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.
 
 21. And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:
 
-22. But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians.the Egyptians: or, Egypt 
+22. But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians.
 
 ## Exodus 4
 
@@ -162,15 +162,15 @@
 
 8. And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.
 
-9. And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land.shall become: Heb. shall be and shall be
+9. And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land.
 
-10. And Moses said unto the Lord, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue.eloquent: Heb. a man of wordsheretofore: Heb. since yesterday, nor since the third day
+10. And Moses said unto the Lord, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue.
 
 11. And the Lord said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the Lord?
 
 12. Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say.
 
-13. And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send.wilt: or, shouldest
+13. And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send.
 
 14. And the anger of the Lord was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.
 
@@ -180,7 +180,7 @@
 
 17. And thou shalt take this rod in thine hand, wherewith thou shalt do signs.
 
-18. And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.Jethro: Heb. Jether
+18. And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.
 
 19. And the Lord said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.
 
@@ -194,7 +194,7 @@
 
 24. And it came to pass by the way in the inn, that the Lord met him, and sought to kill him.
 
-25. Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me.sharp…: or, knifecast…: Heb. made it touch
+25. Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me.
 
 26. So he let him go: then she said, A bloody husband thou art, because of the circumcision.
 
@@ -226,7 +226,7 @@
 
 8. And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God.
 
-9. Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words.Let there…: Heb. Let the work be heavy upon the men
+9. Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words.
 
 10. And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw.
 
@@ -234,7 +234,7 @@
 
 12. So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw.
 
-13. And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw.your daily…: Heb. a matter of a day in his day
+13. And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw.
 
 14. And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?
 
@@ -250,17 +250,17 @@
 
 20. And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:
 
-21. And they said unto them, The Lord look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.to be…: Heb. to stink
+21. And they said unto them, The Lord look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.
 
 22. And Moses returned unto the Lord, and said, Lord, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?
 
-23. For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all.neither…: Heb. delivering thou hast not delivered 
+23. For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all.
 
 ## Exodus 6
 
 1. Then the Lord said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.
 
-2. And God spake unto Moses, and said unto him, I am the Lord:the Lord: or, Jehovah
+2. And God spake unto Moses, and said unto him, I am the Lord:
 
 3. And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name Jehovah was I not known to them.
 
@@ -272,9 +272,9 @@
 
 7. And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the Lord your God, which bringeth you out from under the burdens of the Egyptians.
 
-8. And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the Lord.swear: Heb. lift up my hand
+8. And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the Lord.
 
-9. And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.anguish: Heb. shortness, or, straitness
+9. And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.
 
 10. And the Lord spake unto Moses, saying,
 
@@ -356,7 +356,7 @@
 
 18. And the fish that is in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river.
 
-19. And the Lord spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone.pools…: Heb. gathering of their waters
+19. And the Lord spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone.
 
 20. And Moses and Aaron did so, as the Lord commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood.
 
@@ -376,7 +376,7 @@
 
 2. And if thou refuse to let them go, behold, I will smite all thy borders with frogs:
 
-3. And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:kneadingtroughs: or, dough
+3. And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:
 
 4. And the frogs shall come up both on thee, and upon thy people, and upon all thy servants.
 
@@ -388,9 +388,9 @@
 
 8. Then Pharaoh called for Moses and Aaron, and said, Intreat the Lord, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the Lord.
 
-9. And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, that they may remain in the river only?Glory…: or, Have this honour over me, etcwhen: or, against whento destroy: Heb. to cut off
+9. And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, that they may remain in the river only?
 
-10. And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the Lord our God.To morrow: or, Against to morrow
+10. And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the Lord our God.
 
 11. And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.
 
@@ -412,13 +412,13 @@
 
 20. And the Lord said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the Lord, Let my people go, that they may serve me.
 
-21. Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are.swarms…: or, a mixture of noisome beasts, etc
+21. Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are.
 
 22. And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the Lord in the midst of the earth.
 
-23. And I will put a division between my people and thy people: to morrow shall this sign be.a division: Heb. a redemptionto morrow: or, by to morrow
+23. And I will put a division between my people and thy people: to morrow shall this sign be.
 
-24. And the Lord did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies.corrupted: or, destroyed
+24. And the Lord did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies.
 
 25. And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land.
 
@@ -468,7 +468,7 @@
 
 15. For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.
 
-16. And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth.raised…: Heb. made thee stand
+16. And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth.
 
 17. As yet exaltest thou thyself against my people, that thou wilt not let them go?
 
@@ -478,7 +478,7 @@
 
 20. He that feared the word of the Lord among the servants of Pharaoh made his servants and his cattle flee into the houses:
 
-21. And he that regarded not the word of the Lord left his servants and his cattle in the field.regarded…: Heb. set not his heart unto
+21. And he that regarded not the word of the Lord left his servants and his cattle in the field.
 
 22. And the Lord said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.
 
@@ -492,7 +492,7 @@
 
 27. And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the Lord is righteous, and I and my people are wicked.
 
-28. Intreat the Lord (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer.mighty…: Heb. voices of God
+28. Intreat the Lord (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer.
 
 29. And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the Lord; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the Lord’s.
 
@@ -500,13 +500,13 @@
 
 31. And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled.
 
-32. But the wheat and the rie were not smitten: for they were not grown up.not grown…: Heb. hidden or, dark
+32. But the wheat and the rie were not smitten: for they were not grown up.
 
 33. And Moses went out of the city from Pharaoh, and spread abroad his hands unto the Lord: and the thunders and hail ceased, and the rain was not poured upon the earth.
 
 34. And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.
 
-35. And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the Lord had spoken by Moses.by Moses: Heb. by the hand of Moses 
+35. And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the Lord had spoken by Moses.
 
 ## Exodus 10
 
@@ -518,13 +518,13 @@
 
 4. Else, if thou refuse to let my people go, behold, to morrow will I bring the locusts into thy coast:
 
-5. And they shall cover the face of the earth, that one cannot be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field:face: Heb. eye
+5. And they shall cover the face of the earth, that one cannot be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field:
 
 6. And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh.
 
 7. And Pharaoh’s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the Lord their God: knowest thou not yet that Egypt is destroyed?
 
-8. And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the Lord your God: but who are they that shall go?who…: Heb. who and who, etc
+8. And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the Lord your God: but who are they that shall go?
 
 9. And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we must hold a feast unto the Lord.
 
@@ -540,17 +540,17 @@
 
 15. For they covered the face of the whole earth, so that the land was darkened; and they did eat every herb of the land, and all the fruit of the trees which the hail had left: and there remained not any green thing in the trees, or in the herbs of the field, through all the land of Egypt.
 
-16. Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the Lord your God, and against you.called: Heb. hastened to call
+16. Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the Lord your God, and against you.
 
 17. Now therefore forgive, I pray thee, my sin only this once, and intreat the Lord your God, that he may take away from me this death only.
 
 18. And he went out from Pharaoh, and intreated the Lord.
 
-19. And the Lord turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.cast: Heb. fastened
+19. And the Lord turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.
 
 20. But the Lord hardened Pharaoh’s heart, so that he would not let the children of Israel go.
 
-21. And the Lord said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.even…: Heb. that one may feel darkness
+21. And the Lord said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.
 
 22. And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:
 
@@ -558,7 +558,7 @@
 
 24. And Pharaoh called unto Moses, and said, Go ye, serve the Lord; only let your flocks and your herds be stayed: let your little ones also go with you.
 
-25. And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the Lord our God.us: Heb. into our hands
+25. And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the Lord our God.
 
 26. Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the Lord our God; and we know not with what we must serve the Lord, until we come thither.
 
@@ -584,7 +584,7 @@
 
 7. But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel.
 
-8. And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.that follow…: Heb. that is at thy feeta great…: Heb. heat of anger
+8. And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.
 
 9. And the Lord said unto Moses, Pharaoh shall not hearken unto you; that my wonders may be multiplied in the land of Egypt.
 
@@ -596,13 +596,13 @@
 
 2. This month shall be unto you the beginning of months: it shall be the first month of the year to you.
 
-3. Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:lamb: or, kid
+3. Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:
 
 4. And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb.
 
-5. Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:of…: Heb. son of a year
+5. Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:
 
-6. And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.in…: Heb. between the two evenings
+6. And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.
 
 7. And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it.
 
@@ -614,15 +614,15 @@
 
 11. And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the Lord’s passover.
 
-12. For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the Lord.gods: or, princes
+12. For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the Lord.
 
-13. And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.to destroy…: Heb. for a destruction
+13. And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.
 
 14. And this day shall be unto you for a memorial; and ye shall keep it a feast to the Lord throughout your generations; ye shall keep it a feast by an ordinance for ever.
 
 15. Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
 
-16. And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you.man: Heb. soul
+16. And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you.
 
 17. And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever.
 
@@ -632,7 +632,7 @@
 
 20. Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.
 
-21. Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.lamb: or, kid
+21. Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.
 
 22. And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning.
 
@@ -648,7 +648,7 @@
 
 28. And the children of Israel went away, and did as the Lord had commanded Moses and Aaron, so did they.
 
-29. And it came to pass, that at midnight the Lord smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle.dungeon: Heb. house of the pit
+29. And it came to pass, that at midnight the Lord smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle.
 
 30. And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.
 
@@ -658,7 +658,7 @@
 
 33. And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men.
 
-34. And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.kneadingtroughs: or, dough
+34. And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.
 
 35. And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:
 
@@ -666,7 +666,7 @@
 
 37. And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children.
 
-38. And a mixed multitude went up also with them; and flocks, and herds, even very much cattle.a mixed…: Heb. a great mixture
+38. And a mixed multitude went up also with them; and flocks, and herds, even very much cattle.
 
 39. And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.
 
@@ -674,7 +674,7 @@
 
 41. And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the Lord went out from the land of Egypt.
 
-42. It is a night to be much observed unto the Lord for bringing them out from the land of Egypt: this is that night of the Lord to be observed of all the children of Israel in their generations.a night…: Heb. a night of observations
+42. It is a night to be much observed unto the Lord for bringing them out from the land of Egypt: this is that night of the Lord to be observed of all the children of Israel in their generations.
 
 43. And the Lord said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:
 
@@ -684,7 +684,7 @@
 
 46. In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof.
 
-47. All the congregation of Israel shall keep it.keep…: Heb. do it
+47. All the congregation of Israel shall keep it.
 
 48. And when a stranger shall sojourn with thee, and will keep the passover to the Lord, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.
 
@@ -700,7 +700,7 @@
 
 2. Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine.
 
-3. And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the Lord brought you out from this place: there shall no leavened bread be eaten.bondage: Heb. servants
+3. And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the Lord brought you out from this place: there shall no leavened bread be eaten.
 
 4. This day came ye out in the month Abib.
 
@@ -718,11 +718,11 @@
 
 11. And it shall be when the Lord shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,
 
-12. That thou shalt set apart unto the Lord all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the Lord’s.set…: Heb. cause to pass over
+12. That thou shalt set apart unto the Lord all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the Lord’s.
 
-13. And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.lamb: or, kid
+13. And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.
 
-14. And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the Lord brought us out from Egypt, from the house of bondage:in…: Heb. to morrow
+14. And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the Lord brought us out from Egypt, from the house of bondage:
 
 15. And it came to pass, when Pharaoh would hardly let us go, that the Lord slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the Lord all that openeth the matrix, being males; but all the firstborn of my children I redeem.
 
@@ -730,7 +730,7 @@
 
 17. And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:
 
-18. But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.harnessed: or, by five in a rank
+18. But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
 
 19. And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.
 
@@ -766,7 +766,7 @@
 
 12. Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness.
 
-13. And Moses said unto the people, Fear ye not, stand still, and see the salvation of the Lord, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever.for the…: or, for whereas ye have seen the Egyptians to day
+13. And Moses said unto the people, Fear ye not, stand still, and see the salvation of the Lord, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever.
 
 14. The Lord shall fight for you, and ye shall hold your peace.
 
@@ -790,11 +790,11 @@
 
 24. And it came to pass, that in the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians,
 
-25. And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.that they…: or, and made them to go heavily
+25. And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
 
 26. And the Lord said unto Moses, Stretch out thine hand over the sea, that the waters may come again upon the Egyptians, upon their chariots, and upon their horsemen.
 
-27. And Moses stretched forth his hand over the sea, and the sea returned to his strength when the morning appeared; and the Egyptians fled against it; and the Lord overthrew the Egyptians in the midst of the sea.overthrew: Heb. shook off
+27. And Moses stretched forth his hand over the sea, and the sea returned to his strength when the morning appeared; and the Egyptians fled against it; and the Lord overthrew the Egyptians in the midst of the sea.
 
 28. And the waters returned, and covered the chariots, and the horsemen, and all the host of Pharaoh that came into the sea after them; there remained not so much as one of them.
 
@@ -802,7 +802,7 @@
 
 30. Thus the Lord saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore.
 
-31. And Israel saw that great work which the Lord did upon the Egyptians: and the people feared the Lord, and believed the Lord, and his servant Moses.work: Heb. hand 
+31. And Israel saw that great work which the Lord did upon the Egyptians: and the people feared the Lord, and believed the Lord, and his servant Moses.
 
 ## Exodus 15
 
@@ -822,11 +822,11 @@
 
 8. And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea.
 
-9. The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.destroy: or, repossess
+9. The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.
 
 10. Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.
 
-11. Who is like unto thee, O Lord, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?gods: or, mighty ones?
+11. Who is like unto thee, O Lord, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?
 
 12. Thou stretchedst out thy right hand, the earth swallowed them.
 
@@ -850,7 +850,7 @@
 
 22. So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
 
-23. And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.Marah: that is Bitterness
+23. And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.
 
 24. And the people murmured against Moses, saying, What shall we drink?
 
@@ -868,7 +868,7 @@
 
 3. And the children of Israel said unto them, Would to God we had died by the hand of the Lord in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.
 
-4. Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.a certain…: Heb. the portion of a day in his day
+4. Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.
 
 5. And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily.
 
@@ -890,9 +890,9 @@
 
 14. And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground.
 
-15. And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the Lord hath given you to eat.It is…: or, What is this? or, It is a portion
+15. And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the Lord hath given you to eat.
 
-16. This is the thing which the Lord hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents.for every…: Heb. by the poll, or, headpersons: Heb. souls
+16. This is the thing which the Lord hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents.
 
 17. And the children of Israel did so, and gathered, some more, some less.
 
@@ -948,11 +948,11 @@
 
 6. Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
 
-7. And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the Lord, saying, Is the Lord among us, or not?Massah: that is, TemptationMeribah: that is, Chiding, or, Strife
+7. And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the Lord, saying, Is the Lord among us, or not?
 
 8. Then came Amalek, and fought with Israel in Rephidim.
 
-9. And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.Joshua: called Jesus
+9. And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.
 
 10. So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.
 
@@ -964,9 +964,9 @@
 
 14. And the Lord said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.
 
-15. And Moses built an altar, and called the name of it Jehovah–nissi:Jehovah–nissi: that is, The Lord my banner
+15. And Moses built an altar, and called the name of it Jehovah–nissi:
 
-16. For he said, Because the Lord hath sworn that the Lord will have war with Amalek from generation to generation.Because…: or, Because the hand of Amalek is against the throne of the Lord, therefore, etcthe Lord hath…: Heb. the hand upon the throne of the Lord 
+16. For he said, Because the Lord hath sworn that the Lord will have war with Amalek from generation to generation.
 
 ## Exodus 18
 
@@ -974,17 +974,17 @@
 
 2. Then Jethro, Moses’ father in law, took Zipporah, Moses’ wife, after he had sent her back,
 
-3. And her two sons; of which the name of the one was Gershom; for he said, I have been an alien in a strange land:Gershom: that is A stranger there
+3. And her two sons; of which the name of the one was Gershom; for he said, I have been an alien in a strange land:
 
-4. And the name of the other was Eliezer; for the God of my father, said he, was mine help, and delivered me from the sword of Pharaoh:Eliezer: that is, My God is an help
+4. And the name of the other was Eliezer; for the God of my father, said he, was mine help, and delivered me from the sword of Pharaoh:
 
 5. And Jethro, Moses’ father in law, came with his sons and his wife unto Moses into the wilderness, where he encamped at the mount of God:
 
 6. And he said unto Moses, I thy father in law Jethro am come unto thee, and thy wife, and her two sons with her.
 
-7. And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of their welfare; and they came into the tent.welfare: Heb. peace
+7. And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of their welfare; and they came into the tent.
 
-8. And Moses told his father in law all that the Lord had done unto Pharaoh and to the Egyptians for Israel’s sake, and all the travail that had come upon them by the way, and how the Lord delivered them.come…: Heb. found them
+8. And Moses told his father in law all that the Lord had done unto Pharaoh and to the Egyptians for Israel’s sake, and all the travail that had come upon them by the way, and how the Lord delivered them.
 
 9. And Jethro rejoiced for all the goodness which the Lord had done to Israel, whom he had delivered out of the hand of the Egyptians.
 
@@ -1000,11 +1000,11 @@
 
 15. And Moses said unto his father in law, Because the people come unto me to enquire of God:
 
-16. When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.one…: Heb. a man and his fellow
+16. When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.
 
 17. And Moses’ father in law said unto him, The thing that thou doest is not good.
 
-18. Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.Thou wilt…: Heb. Fading thou wilt fade
+18. Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.
 
 19. Hearken now unto my voice, I will give thee counsel, and God shall be with thee: Be thou for the people to God-ward, that thou mayest bring the causes unto God:
 
@@ -1050,7 +1050,7 @@
 
 12. And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, that ye go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:
 
-13. There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.trumpet: or, cornet
+13. There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.
 
 14. And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.
 
@@ -1066,7 +1066,7 @@
 
 20. And the Lord came down upon mount Sinai, on the top of the mount: and the Lord called Moses up to the top of the mount; and Moses went up.
 
-21. And the Lord said unto Moses, Go down, charge the people, lest they break through unto the Lord to gaze, and many of them perish.charge: Heb. contest
+21. And the Lord said unto Moses, Go down, charge the people, lest they break through unto the Lord to gaze, and many of them perish.
 
 22. And let the priests also, which come near to the Lord, sanctify themselves, lest the Lord break forth upon them.
 
@@ -1080,7 +1080,7 @@
 
 1. And God spake all these words, saying,
 
-2. I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.bondage: Heb. servants
+2. I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
 
 3. Thou shalt have no other gods before me.
 
@@ -1126,7 +1126,7 @@
 
 24. An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.
 
-25. And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.build…: Heb. build them with hewing
+25. And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.
 
 26. Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon. 
 
@@ -1136,17 +1136,17 @@
 
 2. If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
 
-3. If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.by himself: Heb. with his body
+3. If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.
 
 4. If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself.
 
-5. And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:shall…: Heb. saying shall say
+5. And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:
 
 6. Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.
 
 7. And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.
 
-8. If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.please…: Heb. be evil in the eyes of, etc
+8. If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.
 
 9. And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.
 
@@ -1164,13 +1164,13 @@
 
 16. And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.
 
-17. And he that curseth his father, or his mother, shall surely be put to death.curseth: or, revileth
+17. And he that curseth his father, or his mother, shall surely be put to death.
 
-18. And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:another: or, his neighbour
+18. And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:
 
-19. If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.the loss…: Heb. his ceasing
+19. If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.
 
-20. And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.punished: Heb. avenged
+20. And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.
 
 21. Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.
 
@@ -1206,7 +1206,7 @@
 
 ## Exodus 22
 
-1. If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.or a sheep: or, or a goat
+1. If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.
 
 2. If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him.
 
@@ -1238,7 +1238,7 @@
 
 16. And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.
 
-17. If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.pay: Heb. weigh
+17. If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.
 
 18. Thou shalt not suffer a witch to live.
 
@@ -1260,9 +1260,9 @@
 
 27. For that is his covering only, it is his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious.
 
-28. Thou shalt not revile the gods, nor curse the ruler of thy people.gods: or, judges
+28. Thou shalt not revile the gods, nor curse the ruler of thy people.
 
-29. Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.the first…: Heb. thy fulnessliquors: Heb. tear
+29. Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.
 
 30. Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.
 
@@ -1270,27 +1270,27 @@
 
 ## Exodus 23
 
-1. Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.raise: or, receive
+1. Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.
 
-2. Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:speak: Heb. answer
+2. Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:
 
 3. Neither shalt thou countenance a poor man in his cause.
 
 4. If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it back to him again.
 
-5. If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.and…: or, wilt thou cease to help him? or, and wouldest cease to leave thy business for him: thou shalt surely leave it to join with him
+5. If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.
 
 6. Thou shalt not wrest the judgment of thy poor in his cause.
 
 7. Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked.
 
-8. And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous.the wise: Heb. the seeing
+8. And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous.
 
-9. Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt.heart: Heb. soul
+9. Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt.
 
 10. And six years thou shalt sow thy land, and shalt gather in the fruits thereof:
 
-11. But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard.oliveyard: or, olive trees
+11. But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard.
 
 12. Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed.
 
@@ -1304,7 +1304,7 @@
 
 17. Three times in the year all thy males shall appear before the Lord God.
 
-18. Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.sacrifice: or, feast
+18. Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.
 
 19. The first of the firstfruits of thy land thou shalt bring into the house of the Lord thy God. Thou shalt not seethe a kid in his mother’s milk.
 
@@ -1312,7 +1312,7 @@
 
 21. Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him.
 
-22. But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.an adversary…: or, I will afflict them that afflict thee
+22. But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.
 
 23. For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.
 
@@ -1322,7 +1322,7 @@
 
 26. There shall nothing cast their young, nor be barren, in thy land: the number of thy days I will fulfil.
 
-27. I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee.backs: Heb. neck
+27. I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee.
 
 28. And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee.
 
@@ -1378,11 +1378,11 @@
 
 1. And the Lord spake unto Moses, saying,
 
-2. Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.bring me: Heb. take for meoffering: or, heave offering
+2. Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.
 
-3. And this is the offering which ye shall take of them; gold, and silver, and brass,offering: or, heave offering
+3. And this is the offering which ye shall take of them; gold, and silver, and brass,
 
-4. And blue, and purple, and scarlet, and fine linen, and goats’ hair,fine…: or, silk
+4. And blue, and purple, and scarlet, and fine linen, and goats’ hair,
 
 5. And rams’ skins dyed red, and badgers’ skins, and shittim wood,
 
@@ -1412,7 +1412,7 @@
 
 18. And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat.
 
-19. And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof.of…: or, of the matter of the mercy seat
+19. And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof.
 
 20. And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be.
 
@@ -1432,7 +1432,7 @@
 
 28. And thou shalt make the staves of shittim wood, and overlay them with gold, that the table may be borne with them.
 
-29. And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: of pure gold shalt thou make them.to…: or, to pour out withal
+29. And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: of pure gold shalt thou make them.
 
 30. And thou shalt set upon the table shewbread before me alway.
 
@@ -1448,23 +1448,23 @@
 
 36. Their knops and their branches shall be of the same: all it shall be one beaten work of pure gold.
 
-37. And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it.shall light: or, shall cause to ascendit: Heb. the face of it
+37. And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it.
 
 38. And the tongs thereof, and the snuffdishes thereof, shall be of pure gold.
 
 39. Of a talent of pure gold shall he make it, with all these vessels.
 
-40. And look that thou make them after their pattern, which was shewed thee in the mount.which…: Heb. which thou wast caused to see 
+40. And look that thou make them after their pattern, which was shewed thee in the mount.
 
 ## Exodus 26
 
-1. Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.of cunning…: Heb. the work of a cunning workman, or, embroiderer
+1. Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
 
 2. The length of one curtain shall be eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.
 
 3. The five curtains shall be coupled together one to another; and other five curtains shall be coupled one to another.
 
-4. And thou shalt make loops of blue upon the edge of the one curtain from the selvedge in the coupling; and likewise shalt thou make in the uttermost edge of another curtain, in the coupling of the second.selvedge: an edge of cloth so woven that it cannot unravel
+4. And thou shalt make loops of blue upon the edge of the one curtain from the selvedge in the coupling; and likewise shalt thou make in the uttermost edge of another curtain, in the coupling of the second.
 
 5. Fifty loops shalt thou make in the one curtain, and fifty loops shalt thou make in the edge of the curtain that is in the coupling of the second; that the loops may take hold one of another.
 
@@ -1478,11 +1478,11 @@
 
 10. And thou shalt make fifty loops on the edge of the one curtain that is outmost in the coupling, and fifty loops in the edge of the curtain which coupleth the second.
 
-11. And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent together, that it may be one.tent: or, covering
+11. And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent together, that it may be one.
 
 12. And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over the backside of the tabernacle.
 
-13. And a cubit on the one side, and a cubit on the other side of that which remaineth in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it.of that…: Heb. in the remainder, or, surplus
+13. And a cubit on the one side, and a cubit on the other side of that which remaineth in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it.
 
 14. And thou shalt make a covering for the tent of rams’ skins dyed red, and a covering above of badgers’ skins.
 
@@ -1490,11 +1490,11 @@
 
 16. Ten cubits shall be the length of a board, and a cubit and a half shall be the breadth of one board.
 
-17. Two tenons shall there be in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.tenons: Heb. hands
+17. Two tenons shall there be in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.
 
 18. And thou shalt make the boards for the tabernacle, twenty boards on the south side southward.
 
-19. And thou shalt make forty sockets of silver under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons.tenons: Heb. hands
+19. And thou shalt make forty sockets of silver under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons.
 
 20. And for the second side of the tabernacle on the north side there shall be twenty boards:
 
@@ -1504,7 +1504,7 @@
 
 23. And two boards shalt thou make for the corners of the tabernacle in the two sides.
 
-24. And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners.coupled: Heb. twinned
+24. And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners.
 
 25. And they shall be eight boards, and their sockets of silver, sixteen sockets; two sockets under one board, and two sockets under another board.
 
@@ -1548,7 +1548,7 @@
 
 7. And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it.
 
-8. Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it.it was…: Heb. he shewed
+8. Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it.
 
 9. And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen of an hundred cubits long for one side:
 
@@ -1568,11 +1568,11 @@
 
 17. All the pillars round about the court shall be filleted with silver; their hooks shall be of silver, and their sockets of brass.
 
-18. The length of the court shall be an hundred cubits, and the breadth fifty every where, and the height five cubits of fine twined linen, and their sockets of brass.fifty…: Heb. fifty by fifty
+18. The length of the court shall be an hundred cubits, and the breadth fifty every where, and the height five cubits of fine twined linen, and their sockets of brass.
 
 19. All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass.
 
-20. And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.to burn: Heb. to ascend up
+20. And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.
 
 21. In the tabernacle of the congregation without the vail, which is before the testimony, Aaron and his sons shall order it from evening to morning before the Lord: it shall be a statute for ever unto their generations on the behalf of the children of Israel. 
 
@@ -1592,7 +1592,7 @@
 
 7. It shall have the two shoulderpieces thereof joined at the two edges thereof; and so it shall be joined together.
 
-8. And the curious girdle of the ephod, which is upon it, shall be of the same, according to the work thereof; even of gold, of blue, and purple, and scarlet, and fine twined linen.curious: or, embroidered
+8. And the curious girdle of the ephod, which is upon it, shall be of the same, according to the work thereof; even of gold, of blue, and purple, and scarlet, and fine twined linen.
 
 9. And thou shalt take two onyx stones, and grave on them the names of the children of Israel:
 
@@ -1610,13 +1610,13 @@
 
 16. Foursquare it shall be being doubled; a span shall be the length thereof, and a span shall be the breadth thereof.
 
-17. And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.set…: Heb. fill in it fillings of stonesardius: or, ruby
+17. And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.
 
 18. And the second row shall be an emerald, a sapphire, and a diamond.
 
 19. And the third row a ligure, an agate, and an amethyst.
 
-20. And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.inclosings: Heb. fillings
+20. And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.
 
 21. And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes.
 
@@ -1642,7 +1642,7 @@
 
 32. And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent.
 
-33. And beneath upon the hem of it thou shalt make pomegranates of blue, and of purple, and of scarlet, round about the hem thereof; and bells of gold between them round about:hem: or, skirts
+33. And beneath upon the hem of it thou shalt make pomegranates of blue, and of purple, and of scarlet, round about the hem thereof; and bells of gold between them round about:
 
 34. A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about.
 
@@ -1658,9 +1658,9 @@
 
 40. And for Aaron’s sons thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beauty.
 
-41. And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office.consecrate…: Heb. fill their hand
+41. And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office.
 
-42. And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:their…: Heb. flesh of their nakednessreach: Heb. be
+42. And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:
 
 43. And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy place; that they bear not iniquity, and die: it shall be a statute for ever unto him and his seed after him. 
 
@@ -1682,7 +1682,7 @@
 
 8. And thou shalt bring his sons, and put coats upon them.
 
-9. And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest’s office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.put: Heb. bindconsecrate: Heb. fill the hand of
+9. And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest’s office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.
 
 10. And thou shalt cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons shall put their hands upon the head of the bullock.
 
@@ -1690,7 +1690,7 @@
 
 12. And thou shalt take of the blood of the bullock, and put it upon the horns of the altar with thy finger, and pour all the blood beside the bottom of the altar.
 
-13. And thou shalt take all the fat that covereth the inwards, and the caul that is above the liver, and the two kidneys, and the fat that is upon them, and burn them upon the altar.the caul: it seemeth by anatomy, and the Hebrew doctors, to be the midriff
+13. And thou shalt take all the fat that covereth the inwards, and the caul that is above the liver, and the two kidneys, and the fat that is upon them, and burn them upon the altar.
 
 14. But the flesh of the bullock, and his skin, and his dung, shalt thou burn with fire without the camp: it is a sin offering.
 
@@ -1698,7 +1698,7 @@
 
 16. And thou shalt slay the ram, and thou shalt take his blood, and sprinkle it round about upon the altar.
 
-17. And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put them unto his pieces, and unto his head.unto: or, upon
+17. And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put them unto his pieces, and unto his head.
 
 18. And thou shalt burn the whole ram upon the altar: it is a burnt offering unto the Lord: it is a sweet savour, an offering made by fire unto the Lord.
 
@@ -1712,7 +1712,7 @@
 
 23. And one loaf of bread, and one cake of oiled bread, and one wafer out of the basket of the unleavened bread that is before the Lord:
 
-24. And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them for a wave offering before the Lord.shalt wave: or, shalt shake to and fro
+24. And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them for a wave offering before the Lord.
 
 25. And thou shalt receive them of their hands, and burn them upon the altar for a burnt offering, for a sweet savour before the Lord: it is an offering made by fire unto the Lord.
 
@@ -1724,7 +1724,7 @@
 
 29. And the holy garments of Aaron shall be his sons’ after him, to be anointed therein, and to be consecrated in them.
 
-30. And that son that is priest in his stead shall put them on seven days, when he cometh into the tabernacle of the congregation to minister in the holy place.that son: Heb. he of his sons
+30. And that son that is priest in his stead shall put them on seven days, when he cometh into the tabernacle of the congregation to minister in the holy place.
 
 31. And thou shalt take the ram of the consecration, and seethe his flesh in the holy place.
 
@@ -1750,7 +1750,7 @@
 
 42. This shall be a continual burnt offering throughout your generations at the door of the tabernacle of the congregation before the Lord: where I will meet you, to speak there unto thee.
 
-43. And there I will meet with the children of Israel, and the tabernacle shall be sanctified by my glory.the tabernacle: or, Israel
+43. And there I will meet with the children of Israel, and the tabernacle shall be sanctified by my glory.
 
 44. And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the priest’s office.
 
@@ -1764,17 +1764,17 @@
 
 2. A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same.
 
-3. And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.top: Heb. roofsides: Heb. walls
+3. And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.
 
-4. And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal.corners: Heb. ribs
+4. And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal.
 
 5. And thou shalt make the staves of shittim wood, and overlay them with gold.
 
 6. And thou shalt put it before the vail that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with thee.
 
-7. And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.sweet incense: Heb. incense of spices
+7. And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.
 
-8. And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the Lord throughout your generations.lighteth: or setteth up: Heb. causeth to ascendat even: Heb. between the two evenings
+8. And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the Lord throughout your generations.
 
 9. Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.
 
@@ -1782,13 +1782,13 @@
 
 11. And the Lord spake unto Moses, saying,
 
-12. When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the Lord, when thou numberest them; that there be no plague among them, when thou numberest them.their number: Heb. them that are to be numbered
+12. When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the Lord, when thou numberest them; that there be no plague among them, when thou numberest them.
 
 13. This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel shall be the offering of the Lord.
 
 14. Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the Lord.
 
-15. The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the Lord, to make an atonement for your souls.give more: Heb. multiplygive less: Heb. diminish
+15. The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the Lord, to make an atonement for your souls.
 
 16. And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the Lord, to make an atonement for your souls.
 
@@ -1808,7 +1808,7 @@
 
 24. And of cassia five hundred shekels, after the shekel of the sanctuary, and of oil olive an hin:
 
-25. And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.apothecary: or, perfumer
+25. And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.
 
 26. And thou shalt anoint the tabernacle of the congregation therewith, and the ark of the testimony,
 
@@ -1828,7 +1828,7 @@
 
 34. And the Lord said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:
 
-35. And thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure and holy:tempered…: Heb. salted
+35. And thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure and holy:
 
 36. And thou shalt beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy.
 
@@ -1850,11 +1850,11 @@
 
 6. And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee;
 
-7. The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that is thereupon, and all the furniture of the tabernacle,furniture: Heb. vessels
+7. The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that is thereupon, and all the furniture of the tabernacle,
 
-8. And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,furniture: Heb. vessels
+8. And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,
 
-9. And the altar of burnt offering with all his furniture, and the laver and his foot,furniture: Heb. vessels
+9. And the altar of burnt offering with all his furniture, and the laver and his foot,
 
 10. And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,
 
@@ -1866,7 +1866,7 @@
 
 14. Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people.
 
-15. Six days may work be done; but in the seventh is the sabbath of rest, holy to the Lord: whosoever doeth any work in the sabbath day, he shall surely be put to death.holy: Heb. holiness
+15. Six days may work be done; but in the seventh is the sabbath of rest, holy to the Lord: whosoever doeth any work in the sabbath day, he shall surely be put to death.
 
 16. Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant.
 
@@ -1896,7 +1896,7 @@
 
 10. Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation.
 
-11. And Moses besought the Lord his God, and said, Lord, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?the Lord: Heb. the face of the Lord
+11. And Moses besought the Lord his God, and said, Lord, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?
 
 12. Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people.
 
@@ -1910,7 +1910,7 @@
 
 17. And when Joshua heard the noise of the people as they shouted, he said unto Moses, There is a noise of war in the camp.
 
-18. And he said, It is not the voice of them that shout for mastery, neither is it the voice of them that cry for being overcome: but the noise of them that sing do I hear.being…: Heb. weakness
+18. And he said, It is not the voice of them that shout for mastery, neither is it the voice of them that cry for being overcome: but the noise of them that sing do I hear.
 
 19. And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses’ anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount.
 
@@ -1924,7 +1924,7 @@
 
 24. And I said unto them, Whosoever hath any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.
 
-25. And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)their enemies: Heb. those that rose up against them
+25. And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)
 
 26. Then Moses stood in the gate of the camp, and said, Who is on the Lord’s side? let him come unto me. And all the sons of Levi gathered themselves together unto him.
 
@@ -1932,7 +1932,7 @@
 
 28. And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.
 
-29. For Moses had said, Consecrate yourselves to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.For Moses…: or, And Moses said, Consecrate yourselves to day to the Lord, because every man hath been against his brother, etcConsecrate…: Heb. Fill your hands
+29. For Moses had said, Consecrate yourselves to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.
 
 30. And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for your sin.
 
@@ -2020,7 +2020,7 @@
 
 12. Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:
 
-13. But ye shall destroy their altars, break their images, and cut down their groves:images: Heb. statues
+13. But ye shall destroy their altars, break their images, and cut down their groves:
 
 14. For thou shalt worship no other god: for the Lord, whose name is Jealous, is a jealous God:
 
@@ -2032,13 +2032,13 @@
 
 18. The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.
 
-19. All that openeth the matrix is mine; and every firstling among thy cattle, whether ox or sheep, that is male.sheep: or, kid
+19. All that openeth the matrix is mine; and every firstling among thy cattle, whether ox or sheep, that is male.
 
-20. But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem him not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.lamb: or, kid
+20. But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem him not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.
 
 21. Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.
 
-22. And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end.year’s end: Heb. revolution of the year
+22. And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end.
 
 23. Thrice in the year shall all your men children appear before the Lord God, the God of Israel.
 
@@ -2050,7 +2050,7 @@
 
 27. And the Lord said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel.
 
-28. And he was there with the Lord forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.commandments: Heb. words
+28. And he was there with the Lord forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.
 
 29. And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.
 
@@ -2070,7 +2070,7 @@
 
 1. And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the Lord hath commanded, that ye should do them.
 
-2. Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the Lord: whosoever doeth work therein shall be put to death.an…: Heb. holiness
+2. Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the Lord: whosoever doeth work therein shall be put to death.
 
 3. Ye shall kindle no fire throughout your habitations upon the sabbath day.
 
@@ -2160,7 +2160,7 @@
 
 10. And he coupled the five curtains one unto another: and the other five curtains he coupled one unto another.
 
-11. And he made loops of blue on the edge of one curtain from the selvedge in the coupling: likewise he made in the uttermost side of another curtain, in the coupling of the second.selvedge: an edge of cloth so woven that it cannot unravel
+11. And he made loops of blue on the edge of one curtain from the selvedge in the coupling: likewise he made in the uttermost side of another curtain, in the coupling of the second.
 
 12. Fifty loops made he in one curtain, and fifty loops made he in the edge of the curtain which was in the coupling of the second: the loops held one curtain to another.
 
@@ -2196,9 +2196,9 @@
 
 28. And two boards made he for the corners of the tabernacle in the two sides.
 
-29. And they were coupled beneath, and coupled together at the head thereof, to one ring: thus he did to both of them in both the corners.coupled: Heb. twinned
+29. And they were coupled beneath, and coupled together at the head thereof, to one ring: thus he did to both of them in both the corners.
 
-30. And there were eight boards; and their sockets were sixteen sockets of silver, under every board two sockets.under…: Heb. two sockets, two sockets under one board
+30. And there were eight boards; and their sockets were sixteen sockets of silver, under every board two sockets.
 
 31. And he made bars of shittim wood; five for the boards of the one side of the tabernacle,
 
@@ -2212,7 +2212,7 @@
 
 36. And he made thereunto four pillars of shittim wood, and overlaid them with gold: their hooks were of gold; and he cast for them four sockets of silver.
 
-37. And he made an hanging for the tabernacle door of blue, and purple, and scarlet, and fine twined linen, of needlework;of needlework: Heb. the work of a needleworker or, embroiderer
+37. And he made an hanging for the tabernacle door of blue, and purple, and scarlet, and fine twined linen, of needlework;
 
 38. And the five pillars of it with their hooks: and he overlaid their chapiters and their fillets with gold: but their five sockets were of brass. 
 
@@ -2230,9 +2230,9 @@
 
 6. And he made the mercy seat of pure gold: two cubits and a half was the length thereof, and one cubit and a half the breadth thereof.
 
-7. And he made two cherubims of gold, beaten out of one piece made he them, on the two ends of the mercy seat;on…: or, out of, etc
+7. And he made two cherubims of gold, beaten out of one piece made he them, on the two ends of the mercy seat;
 
-8. One cherub on the end on this side, and another cherub on the other end on that side: out of the mercy seat made he the cherubims on the two ends thereof.on the end: or, out of, etcon the other end: or, out of, etc
+8. One cherub on the end on this side, and another cherub on the other end on that side: out of the mercy seat made he the cherubims on the two ends thereof.
 
 9. And the cherubims spread out their wings on high, and covered with their wings over the mercy seat, with their faces one to another; even to the mercy seatward were the faces of the cherubims.
 
@@ -2248,7 +2248,7 @@
 
 15. And he made the staves of shittim wood, and overlaid them with gold, to bear the table.
 
-16. And he made the vessels which were upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, of pure gold.to cover…: or, to pour out withal
+16. And he made the vessels which were upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, of pure gold.
 
 17. And he made the candlestick of pure gold: of beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:
 
@@ -2292,7 +2292,7 @@
 
 7. And he put the staves into the rings on the sides of the altar, to bear it withal; he made the altar hollow with boards.
 
-8. And he made the laver of brass, and the foot of it of brass, of the lookingglasses of the women assembling, which assembled at the door of the tabernacle of the congregation.lookingglasses: or, brasen glassesassembling: Heb. assembling by troops
+8. And he made the laver of brass, and the foot of it of brass, of the lookingglasses of the women assembling, which assembled at the door of the tabernacle of the congregation.
 
 9. And he made the court: on the south side southward the hangings of the court were of fine twined linen, an hundred cubits:
 
@@ -2328,7 +2328,7 @@
 
 25. And the silver of them that were numbered of the congregation was an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:
 
-26. A bekah for every man, that is, half a shekel, after the shekel of the sanctuary, for every one that went to be numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty men.every man: Heb. a poll
+26. A bekah for every man, that is, half a shekel, after the shekel of the sanctuary, for every one that went to be numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty men.
 
 27. And of the hundred talents of silver were cast the sockets of the sanctuary, and the sockets of the vail; an hundred sockets of the hundred talents, a talent for a socket.
 
@@ -2360,7 +2360,7 @@
 
 9. It was foursquare; they made the breastplate double: a span was the length thereof, and a span the breadth thereof, being doubled.
 
-10. And they set in it four rows of stones: the first row was a sardius, a topaz, and a carbuncle: this was the first row.sardius: or, ruby
+10. And they set in it four rows of stones: the first row was a sardius, a topaz, and a carbuncle: this was the first row.
 
 11. And the second row, an emerald, a sapphire, and a diamond.
 
@@ -2416,7 +2416,7 @@
 
 37. The pure candlestick, with the lamps thereof, even with the lamps to be set in order, and all the vessels thereof, and the oil for light,
 
-38. And the golden altar, and the anointing oil, and the sweet incense, and the hanging for the tabernacle door,the sweet…: Heb. the incense of sweet spices
+38. And the golden altar, and the anointing oil, and the sweet incense, and the hanging for the tabernacle door,
 
 39. The brasen altar, and his grate of brass, his staves, and all his vessels, the laver and his foot,
 
@@ -2436,7 +2436,7 @@
 
 3. And thou shalt put therein the ark of the testimony, and cover the ark with the vail.
 
-4. And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof.the things…: Heb. the order thereof
+4. And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof.
 
 5. And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.
 
@@ -2448,7 +2448,7 @@
 
 9. And thou shalt take the anointing oil, and anoint the tabernacle, and all that is therein, and shalt hallow it, and all the vessels thereof: and it shall be holy.
 
-10. And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy.most holy: Heb. holiness of holinesses
+10. And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy.
 
 11. And thou shalt anoint the laver and his foot, and sanctify it.
 
@@ -2500,7 +2500,7 @@
 
 35. And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the Lord filled the tabernacle.
 
-36. And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:went onward: Heb. journeyed
+36. And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:
 
 37. But if the cloud were not taken up, then they journeyed not till the day that it was taken up.
 

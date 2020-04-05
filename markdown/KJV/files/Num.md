@@ -28,7 +28,7 @@
 
 13. Of Asher; Pagiel the son of Ocran.
 
-14. Of Gad; Eliasaph the son of Deuel.Deuel: also called, Reuel
+14. Of Gad; Eliasaph the son of Deuel.
 
 15. Of Naphtali; Ahira the son of Enan.
 
@@ -114,7 +114,7 @@
 
 1. And the Lord spake unto Moses and unto Aaron, saying,
 
-2. Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch.far…: Heb. over against
+2. Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch.
 
 3. And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab shall be captain of the children of Judah.
 
@@ -138,7 +138,7 @@
 
 13. And his host, and those that were numbered of them, were fifty and nine thousand and three hundred.
 
-14. Then the tribe of Gad: and the captain of the sons of Gad shall be Eliasaph the son of Reuel.Reuel: also called, Deuel
+14. Then the tribe of Gad: and the captain of the sons of Gad shall be Eliasaph the son of Reuel.
 
 15. And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty.
 
@@ -186,7 +186,7 @@
 
 2. And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 
-3. These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.whom…: Heb. whose hand he filled
+3. These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.
 
 4. And Nadab and Abihu died before the Lord, when they offered strange fire before the Lord, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father.
 
@@ -212,7 +212,7 @@
 
 15. Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.
 
-16. And Moses numbered them according to the word of the Lord, as he was commanded.word: Heb. mouth
+16. And Moses numbered them according to the word of the Lord, as he was commanded.
 
 17. And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.
 
@@ -252,7 +252,7 @@
 
 35. And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward.
 
-36. And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,under…: Heb. the office of the charge
+36. And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,
 
 37. And the pillars of the court round about, and their sockets, and their pins, and their cords.
 
@@ -298,7 +298,7 @@
 
 6. And shall put thereon the covering of badgers’ skins, and shall spread over it a cloth wholly of blue, and shall put in the staves thereof.
 
-7. And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:cover…: or, pour out withal
+7. And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:
 
 8. And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers’ skins, and shall put in the staves thereof.
 
@@ -312,7 +312,7 @@
 
 13. And they shall take away the ashes from the altar, and spread a purple cloth thereon:
 
-14. And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers’ skins, and put to the staves of it.basons: or, bowls
+14. And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers’ skins, and put to the staves of it.
 
 15. And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation.
 
@@ -330,21 +330,21 @@
 
 22. Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;
 
-23. From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.to perform…: Heb. to war the warfare
+23. From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.
 
-24. This is the service of the families of the Gershonites, to serve, and for burdens:burdens: or, carriage
+24. This is the service of the families of the Gershonites, to serve, and for burdens:
 
 25. And they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, his covering, and the covering of the badgers’ skins that is above upon it, and the hanging for the door of the tabernacle of the congregation,
 
 26. And the hangings of the court, and the hanging for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve.
 
-27. At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.appointment: Heb. mouth
+27. At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.
 
 28. This is the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge shall be under the hand of Ithamar the son of Aaron the priest.
 
 29. As for the sons of Merari, thou shalt number them after their families, by the house of their fathers;
 
-30. From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.service: Heb. warfare
+30. From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.
 
 31. And this is the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,
 
@@ -402,7 +402,7 @@
 
 8. But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the Lord, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.
 
-9. And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.offering: or, heave offering
+9. And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.
 
 10. And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.
 
@@ -422,11 +422,11 @@
 
 18. And the priest shall set the woman before the Lord, and uncover the woman’s head, and put the offering of memorial in her hands, which is the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse:
 
-19. And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness with another instead of thy husband, be thou free from this bitter water that causeth the curse:with another…: or, being in the power of thy husband: Heb. under thy husband
+19. And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness with another instead of thy husband, be thou free from this bitter water that causeth the curse:
 
 20. But if thou hast gone aside to another instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:
 
-21. Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The Lord make thee a curse and an oath among thy people, when the Lord doth make thy thigh to rot, and thy belly to swell;rot: Heb. fall
+21. Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The Lord make thee a curse and an oath among thy people, when the Lord doth make thy thigh to rot, and thy belly to swell;
 
 22. And this water that causeth the curse shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: And the woman shall say, Amen, amen.
 
@@ -452,17 +452,17 @@
 
 1. And the Lord spake unto Moses, saying,
 
-2. Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the Lord:to separate…: or, to make themselves Nazarites
+2. Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the Lord:
 
 3. He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.
 
-4. All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk.separation: or, Nazariteshipvine…: Heb. vine of the wine
+4. All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk.
 
 5. All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth himself unto the Lord, he shall be holy, and shall let the locks of the hair of his head grow.
 
 6. All the days that he separateth himself unto the Lord he shall come at no dead body.
 
-7. He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is upon his head.consecration: Heb. separation
+7. He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is upon his head.
 
 8. All the days of his separation he is holy unto the Lord.
 
@@ -472,7 +472,7 @@
 
 11. And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
 
-12. And he shall consecrate unto the Lord the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.be lost: Heb. fall
+12. And he shall consecrate unto the Lord the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.
 
 13. And this is the law of the Nazarite, when the days of his separation are fulfilled: he shall be brought unto the door of the tabernacle of the congregation:
 
@@ -508,7 +508,7 @@
 
 1. And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;
 
-2. That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:and were: Heb. who stood
+2. That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:
 
 3. And they brought their offering before the Lord, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.
 
@@ -682,7 +682,7 @@
 
 88. And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed.
 
-89. And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.with him: that is, with God 
+89. And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.
 
 ## Numbers 8
 
@@ -698,7 +698,7 @@
 
 6. Take the Levites from among the children of Israel, and cleanse them.
 
-7. And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean.let them shave…: Heb. let them cause a razor to pass over, etc
+7. And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean.
 
 8. Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.
 
@@ -706,7 +706,7 @@
 
 10. And thou shalt bring the Levites before the Lord: and the children of Israel shall put their hands upon the Levites:
 
-11. And Aaron shall offer the Levites before the Lord for an offering of the children of Israel, that they may execute the service of the Lord.offer: Heb. waveoffering: Heb. wave offeringthey…: Heb. they may be to execute, etc
+11. And Aaron shall offer the Levites before the Lord for an offering of the children of Israel, that they may execute the service of the Lord.
 
 12. And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the Lord, to make an atonement for the Levites.
 
@@ -722,7 +722,7 @@
 
 18. And I have taken the Levites for all the firstborn of the children of Israel.
 
-19. And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.a gift: Heb. given
+19. And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.
 
 20. And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the Lord commanded Moses concerning the Levites, so did the children of Israel unto them.
 
@@ -732,9 +732,9 @@
 
 23. And the Lord spake unto Moses, saying,
 
-24. This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:to…: Heb. to war the warfare of, etc
+24. This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:
 
-25. And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:cease…: Heb. return from the warfare of the service
+25. And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:
 
 26. But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge. 
 
@@ -744,7 +744,7 @@
 
 2. Let the children of Israel also keep the passover at his appointed season.
 
-3. In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.at even: Heb. between the two evenings
+3. In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.
 
 4. And Moses spake unto the children of Israel, that they should keep the passover.
 
@@ -776,11 +776,11 @@
 
 18. At the commandment of the Lord the children of Israel journeyed, and at the commandment of the Lord they pitched: as long as the cloud abode upon the tabernacle they rested in their tents.
 
-19. And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the Lord, and journeyed not.tarried…: Heb. prolonged
+19. And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the Lord, and journeyed not.
 
 20. And so it was, when the cloud was a few days upon the tabernacle; according to the commandment of the Lord they abode in their tents, and according to the commandment of the Lord they journeyed.
 
-21. And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed: whether it was by day or by night that the cloud was taken up, they journeyed.abode: Heb. was
+21. And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed: whether it was by day or by night that the cloud was taken up, they journeyed.
 
 22. Or whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed.
 
@@ -828,7 +828,7 @@
 
 20. And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel.
 
-21. And the Kohathites set forward, bearing the sanctuary: and the other did set up the tabernacle against they came.the other: that is, the Gershonites and the Merarites
+21. And the Kohathites set forward, bearing the sanctuary: and the other did set up the tabernacle against they came.
 
 22. And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud.
 
@@ -842,7 +842,7 @@
 
 27. And over the host of the tribe of the children of Naphtali was Ahira the son of Enan.
 
-28. Thus were the journeyings of the children of Israel according to their armies, when they set forward.Thus: Heb. These
+28. Thus were the journeyings of the children of Israel according to their armies, when they set forward.
 
 29. And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the Lord said, I will give it you: come thou with us, and we will do thee good: for the Lord hath spoken good concerning Israel.
 
@@ -858,23 +858,23 @@
 
 35. And it came to pass, when the ark set forward, that Moses said, Rise up, Lord, and let thine enemies be scattered; and let them that hate thee flee before thee.
 
-36. And when it rested, he said, Return, O Lord, unto the many thousands of Israel.many thousands: Heb. ten thousand thousands 
+36. And when it rested, he said, Return, O Lord, unto the many thousands of Israel.
 
 ## Numbers 11
 
-1. And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.complained: or, were as it were complainersit displeased: Heb. it was evil in the ears of
+1. And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.
 
-2. And the people cried unto Moses; and when Moses prayed unto the Lord, the fire was quenched.was…: Heb. sunk
+2. And the people cried unto Moses; and when Moses prayed unto the Lord, the fire was quenched.
 
-3. And he called the name of the place Taberah: because the fire of the Lord burnt among them.Taberah: that is, A burning
+3. And he called the name of the place Taberah: because the fire of the Lord burnt among them.
 
-4. And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?fell…: Heb. lusted a lustwept…: Heb. returned and wept
+4. And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
 
 5. We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
 
 6. But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
 
-7. And the manna was as coriander seed, and the colour thereof as the colour of bdellium.colour thereof…: Heb. eye of it as the eye of
+7. And the manna was as coriander seed, and the colour thereof as the colour of bdellium.
 
 8. And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
 
@@ -900,7 +900,7 @@
 
 19. Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;
 
-20. But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the Lord which is among you, and have wept before him, saying, Why came we forth out of Egypt?whole…: Heb. month of days
+20. But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the Lord which is among you, and have wept before him, saying, Why came we forth out of Egypt?
 
 21. And Moses said, The people, among whom I am, are six hundred thousand footmen; and thou hast said, I will give them flesh, that they may eat a whole month.
 
@@ -922,19 +922,19 @@
 
 30. And Moses gat him into the camp, he and the elders of Israel.
 
-31. And there went forth a wind from the Lord, and brought quails from the sea, and let them fall by the camp, as it were a day’s journey on this side, and as it were a day’s journey on the other side, round about the camp, and as it were two cubits high upon the face of the earth.as it were a day’s…: Heb. as it were the way of a day
+31. And there went forth a wind from the Lord, and brought quails from the sea, and let them fall by the camp, as it were a day’s journey on this side, and as it were a day’s journey on the other side, round about the camp, and as it were two cubits high upon the face of the earth.
 
 32. And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp.
 
 33. And while the flesh was yet between their teeth, ere it was chewed, the wrath of the Lord was kindled against the people, and the Lord smote the people with a very great plague.
 
-34. And he called the name of that place Kibroth–hattaavah: because there they buried the people that lusted.Kibroth–hattaavah: that is, The graves of lust
+34. And he called the name of that place Kibroth–hattaavah: because there they buried the people that lusted.
 
-35. And the people journeyed from Kibroth–hattaavah unto Hazeroth; and abode at Hazeroth.abode at: Heb. they were in 
+35. And the people journeyed from Kibroth–hattaavah unto Hazeroth; and abode at Hazeroth.
 
 ## Numbers 12
 
-1. And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.Ethiopian: or, Cushitemarried: Heb. taken
+1. And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 
 2. And they said, Hath the Lord indeed spoken only by Moses? hath he not spoken also by us? And the Lord heard it.
 
@@ -982,7 +982,7 @@
 
 7. Of the tribe of Issachar, Igal the son of Joseph.
 
-8. Of the tribe of Ephraim, Oshea the son of Nun.Oshea: also called, Joshua
+8. Of the tribe of Ephraim, Oshea the son of Nun.
 
 9. Of the tribe of Benjamin, Palti the son of Raphu.
 
@@ -998,7 +998,7 @@
 
 15. Of the tribe of Gad, Geuel the son of Machi.
 
-16. These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.Oshea: also called JoshuaJehoshua: or, Joshua
+16. These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.
 
 17. And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:
 
@@ -1012,9 +1012,9 @@
 
 22. And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
 
-23. And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.brook: or, valley
+23. And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.
 
-24. The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.brook: or, valleyEshcol: that is, A cluster of grapes
+24. The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.
 
 25. And they returned from searching of the land after forty days.
 
@@ -1030,7 +1030,7 @@
 
 31. But the men that went up with him said, We be not able to go up against the people; for they are stronger than we.
 
-32. And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature.men…: Heb. men of statures
+32. And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature.
 
 33. And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight. 
 
@@ -1052,7 +1052,7 @@
 
 8. If the Lord delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.
 
-9. Only rebel not ye against the Lord, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the Lord is with us: fear them not.defence: Heb. shadow
+9. Only rebel not ye against the Lord, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the Lord is with us: fear them not.
 
 10. But all the congregation bade stone them with stones. And the glory of the Lord appeared in the tabernacle of the congregation before all the children of Israel.
 
@@ -1072,7 +1072,7 @@
 
 18. The Lord is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.
 
-19. Pardon, I beseech thee, the iniquity of this people according unto the greatness of thy mercy, and as thou hast forgiven this people, from Egypt even until now.until…: or, hitherto
+19. Pardon, I beseech thee, the iniquity of this people according unto the greatness of thy mercy, and as thou hast forgiven this people, from Egypt even until now.
 
 20. And the Lord said, I have pardoned according to thy word:
 
@@ -1080,7 +1080,7 @@
 
 22. Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;
 
-23. Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:Surely…: Heb. If they see the land
+23. Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:
 
 24. But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.
 
@@ -1094,15 +1094,15 @@
 
 29. Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me,
 
-30. Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.sware: Heb. lifted up my hand
+30. Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.
 
 31. But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.
 
 32. But as for you, your carcases, they shall fall in this wilderness.
 
-33. And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.wander: or, feed
+33. And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.
 
-34. After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years, and ye shall know my breach of promise.breach…: or, altering of my purpose
+34. After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years, and ye shall know my breach of promise.
 
 35. I the Lord have said, I will surely do it unto all this evil congregation, that are gathered together against me: in this wilderness they shall be consumed, and there they shall die.
 
@@ -1132,7 +1132,7 @@
 
 2. Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,
 
-3. And will make an offering by fire unto the Lord, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the Lord, of the herd, or of the flock:performing: Heb. separating
+3. And will make an offering by fire unto the Lord, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the Lord, of the herd, or of the flock:
 
 4. Then shall he that offereth his offering unto the Lord bring a meat offering of a tenth deal of flour mingled with the fourth part of an hin of oil.
 
@@ -1174,7 +1174,7 @@
 
 23. Even all that the Lord hath commanded you by the hand of Moses, from the day that the Lord commanded Moses, and henceforward among your generations;
 
-24. Then it shall be, if ought be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the Lord, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering.without…: Heb. from the eyesmanner: or, ordinance
+24. Then it shall be, if ought be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the Lord, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering.
 
 25. And the priest shall make an atonement for all the congregation of the children of Israel, and it shall be forgiven them; for it is ignorance: and they shall bring their offering, a sacrifice made by fire unto the Lord, and their sin offering before the Lord, for their ignorance:
 
@@ -1184,9 +1184,9 @@
 
 28. And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the Lord, to make an atonement for him; and it shall be forgiven him.
 
-29. Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them.sinneth: Heb. doth
+29. Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them.
 
-30. But the soul that doeth ought presumptuously, whether he be born in the land, or a stranger, the same reproacheth the Lord; and that soul shall be cut off from among his people.presumptuously: Heb. with an high hand
+30. But the soul that doeth ought presumptuously, whether he be born in the land, or a stranger, the same reproacheth the Lord; and that soul shall be cut off from among his people.
 
 31. Because he hath despised the word of the Lord, and hath broken his commandment, that soul shall utterly be cut off; his iniquity shall be upon him.
 
@@ -1216,7 +1216,7 @@
 
 2. And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
 
-3. And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?Ye take…: Heb. It is much for you
+3. And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?
 
 4. And when Moses heard it, he fell upon his face:
 
@@ -1238,7 +1238,7 @@
 
 13. Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?
 
-14. Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.put…: Heb. bore out
+14. Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
 
 15. And Moses was very wroth, and said unto the Lord, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.
 
@@ -1268,9 +1268,9 @@
 
 28. And Moses said, Hereby ye shall know that the Lord hath sent me to do all these works; for I have not done them of mine own mind.
 
-29. If these men die the common death of all men, or if they be visited after the visitation of all men; then the Lord hath not sent me.the common…: Heb. as every man dieth
+29. If these men die the common death of all men, or if they be visited after the visitation of all men; then the Lord hath not sent me.
 
-30. But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the Lord.make…: Heb. create a creature
+30. But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the Lord.
 
 31. And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that was under them:
 
@@ -1324,7 +1324,7 @@
 
 5. And it shall come to pass, that the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.
 
-6. And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, even twelve rods: and the rod of Aaron was among their rods.a rod…: Heb. a rod for one prince, a rod for one prince
+6. And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, even twelve rods: and the rod of Aaron was among their rods.
 
 7. And Moses laid up the rods before the Lord in the tabernacle of witness.
 
@@ -1332,7 +1332,7 @@
 
 9. And Moses brought out all the rods from before the Lord unto all the children of Israel: and they looked, and took every man his rod.
 
-10. And the Lord said unto Moses, Bring Aaron’s rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not.rebels: Heb. children of rebellion
+10. And the Lord said unto Moses, Bring Aaron’s rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not.
 
 11. And Moses did so: as the Lord commanded him, so did he.
 
@@ -1364,7 +1364,7 @@
 
 11. And this is thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute for ever: every one that is clean in thy house shall eat of it.
 
-12. All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the Lord, them have I given thee.best: Heb. fat
+12. All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the Lord, them have I given thee.
 
 13. And whatsoever is first ripe in the land, which they shall bring unto the Lord, shall be thine; every one that is clean in thine house shall eat of it.
 
@@ -1384,7 +1384,7 @@
 
 21. And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, even the service of the tabernacle of the congregation.
 
-22. Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.and die: Heb. to die
+22. Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.
 
 23. But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: it shall be a statute for ever throughout your generations, that among the children of Israel they have no inheritance.
 
@@ -1398,9 +1398,9 @@
 
 28. Thus ye also shall offer an heave offering unto the Lord of all your tithes, which ye receive of the children of Israel; and ye shall give thereof the Lord’s heave offering to Aaron the priest.
 
-29. Out of all your gifts ye shall offer every heave offering of the Lord, of all the best thereof, even the hallowed part thereof out of it.best: Heb. fat
+29. Out of all your gifts ye shall offer every heave offering of the Lord, of all the best thereof, even the hallowed part thereof out of it.
 
-30. Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress.best: Heb. fat
+30. Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress.
 
 31. And ye shall eat it in every place, ye and your households: for it is your reward for your service in the tabernacle of the congregation.
 
@@ -1428,7 +1428,7 @@
 
 10. And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.
 
-11. He that toucheth the dead body of any man shall be unclean seven days.man: Heb. soul of man
+11. He that toucheth the dead body of any man shall be unclean seven days.
 
 12. He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean.
 
@@ -1440,7 +1440,7 @@
 
 16. And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days.
 
-17. And for an unclean person they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:ashes: Heb. dustrunning…: Heb. living waters shall be given
+17. And for an unclean person they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:
 
 18. And a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:
 
@@ -1478,9 +1478,9 @@
 
 12. And the Lord spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.
 
-13. This is the water of Meribah; because the children of Israel strove with the Lord, and he was sanctified in them.Meribah: that is, Strife
+13. This is the water of Meribah; because the children of Israel strove with the Lord, and he was sanctified in them.
 
-14. And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:befallen…: Heb. found us
+14. And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:
 
 15. How our fathers went down into Egypt, and we have dwelt in Egypt a long time; and the Egyptians vexed us, and our fathers:
 
@@ -1500,7 +1500,7 @@
 
 23. And the Lord spake unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,
 
-24. Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the water of Meribah.word: Heb. mouth
+24. Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the water of Meribah.
 
 25. Take Aaron and Eleazar his son, and bring them up unto mount Hor:
 
@@ -1518,9 +1518,9 @@
 
 2. And Israel vowed a vow unto the Lord, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.
 
-3. And the Lord hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.Hormah: that is, Utter destruction
+3. And the Lord hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.
 
-4. And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.discouraged: or, grieved: Heb. shortened
+4. And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.
 
 5. And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread.
 
@@ -1534,25 +1534,25 @@
 
 10. And the children of Israel set forward, and pitched in Oboth.
 
-11. And they journeyed from Oboth, and pitched at Ije–abarim, in the wilderness which is before Moab, toward the sunrising.Ije–abarim: or, heaps of Abarim
+11. And they journeyed from Oboth, and pitched at Ije–abarim, in the wilderness which is before Moab, toward the sunrising.
 
 12. From thence they removed, and pitched in the valley of Zared.
 
 13. From thence they removed, and pitched on the other side of Arnon, which is in the wilderness that cometh out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites.
 
-14. Wherefore it is said in the book of the wars of the Lord, What he did in the Red sea, and in the brooks of Arnon,What…: or, Vaheb in Suphah
+14. Wherefore it is said in the book of the wars of the Lord, What he did in the Red sea, and in the brooks of Arnon,
 
-15. And at the stream of the brooks that goeth down to the dwelling of Ar, and lieth upon the border of Moab.lieth: Heb. leaneth
+15. And at the stream of the brooks that goeth down to the dwelling of Ar, and lieth upon the border of Moab.
 
 16. And from thence they went to Beer: that is the well whereof the Lord spake unto Moses, Gather the people together, and I will give them water.
 
-17. Then Israel sang this song, Spring up, O well; sing ye unto it:Spring…: Heb. Ascendsing: or, answer
+17. Then Israel sang this song, Spring up, O well; sing ye unto it:
 
 18. The princes digged the well, the nobles of the people digged it, by the direction of the lawgiver, with their staves. And from the wilderness they went to Mattanah:
 
 19. And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
 
-20. And from Bamoth in the valley, that is in the country of Moab, to the top of Pisgah, which looketh toward Jeshimon.country: Heb. fieldPisgah: or, the hillJeshimon: or, the wilderness
+20. And from Bamoth in the valley, that is in the country of Moab, to the top of Pisgah, which looketh toward Jeshimon.
 
 21. And Israel sent messengers unto Sihon king of the Amorites, saying,
 
@@ -1562,7 +1562,7 @@
 
 24. And Israel smote him with the edge of the sword, and possessed his land from Arnon unto Jabbok, even unto the children of Ammon: for the border of the children of Ammon was strong.
 
-25. And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the villages thereof.villages: Heb. daughters
+25. And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the villages thereof.
 
 26. For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto Arnon.
 
@@ -1594,7 +1594,7 @@
 
 4. And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
 
-5. He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:face: Heb. eye
+5. He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
 
 6. Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed.
 
@@ -1606,7 +1606,7 @@
 
 10. And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, saying,
 
-11. Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.I shall…: Heb. I shall prevail in fighting against him
+11. Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.
 
 12. And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed.
 
@@ -1616,7 +1616,7 @@
 
 15. And Balak sent yet again princes, more, and more honourable than they.
 
-16. And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:Let…: Heb. Be not thou hindered from, etc
+16. And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:
 
 17. For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.
 
@@ -1644,15 +1644,15 @@
 
 29. And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee.
 
-30. And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee? And he said, Nay.upon…: Heb. who hast ridden upon meever since…: or, ever since thou wast, etc
+30. And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee? And he said, Nay.
 
-31. Then the Lord opened the eyes of Balaam, and he saw the angel of the Lord standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.fell…: or, bowed himself
+31. Then the Lord opened the eyes of Balaam, and he saw the angel of the Lord standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.
 
-32. And the angel of the Lord said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because thy way is perverse before me:to…: Heb. to be an adversary unto thee
+32. And the angel of the Lord said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because thy way is perverse before me:
 
 33. And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive.
 
-34. And Balaam said unto the angel of the Lord, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.displease…: Heb. be evil in thine eyes
+34. And Balaam said unto the angel of the Lord, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.
 
 35. And the angel of the Lord said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.
 
@@ -1662,7 +1662,7 @@
 
 38. And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak.
 
-39. And Balaam went with Balak, and they came unto Kirjath–huzoth.Kirjath–huzoth: or, a city of streets
+39. And Balaam went with Balak, and they came unto Kirjath–huzoth.
 
 40. And Balak offered oxen and sheep, and sent to Balaam, and to the princes that were with him.
 
@@ -1674,7 +1674,7 @@
 
 2. And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.
 
-3. And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the Lord will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place.to an…: or, solitary
+3. And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the Lord will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place.
 
 4. And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram.
 
@@ -1688,7 +1688,7 @@
 
 9. For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations.
 
-10. Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!me: Heb. my soul, or, my life
+10. Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!
 
 11. And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.
 
@@ -1696,7 +1696,7 @@
 
 13. And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
 
-14. And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.Pisgah: or, the hill
+14. And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
 
 15. And he said unto Balak, Stand here by thy burnt offering, while I meet the Lord yonder.
 
@@ -1714,7 +1714,7 @@
 
 22. God brought them out of Egypt; he hath as it were the strength of an unicorn.
 
-23. Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!against: or, in
+23. Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!
 
 24. Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain.
 
@@ -1732,11 +1732,11 @@
 
 ## Numbers 24
 
-1. And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.to seek…: Heb. to the meeting of
+1. And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 
 2. And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.
 
-3. And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:whose…: Heb. who had his eyes shut, but now opened
+3. And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:
 
 4. He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open:
 
@@ -1764,17 +1764,17 @@
 
 16. He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:
 
-17. I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.smite…: or, smite through the princes of
+17. I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.
 
 18. And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.
 
 19. Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city.
 
-20. And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever.the nations: the nations that warred against Israelthat…: or, even to destruction
+20. And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever.
 
 21. And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock.
 
-22. Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.the Kenite: Heb. Kainuntil…: or, how long shall it be ere Asshur carry thee away captive
+22. Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.
 
 23. And he took up his parable, and said, Alas, who shall live when God doeth this!
 
@@ -1804,13 +1804,13 @@
 
 10. And the Lord spake unto Moses, saying,
 
-11. Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.for…: Heb. with my zeal
+11. Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.
 
 12. Wherefore say, Behold, I give unto him my covenant of peace:
 
 13. And he shall have it, and his seed after him, even the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel.
 
-14. Now the name of the Israelite that was slain, even that was slain with the Midianitish woman, was Zimri, the son of Salu, a prince of a chief house among the Simeonites.chief…: Heb. house of a father
+14. Now the name of the Israelite that was slain, even that was slain with the Midianitish woman, was Zimri, the son of Salu, a prince of a chief house among the Simeonites.
 
 15. And the name of the Midianitish woman that was slain was Cozbi, the daughter of Zur; he was head over a people, and of a chief house in Midian.
 
@@ -1844,17 +1844,17 @@
 
 11. Notwithstanding the children of Korah died not.
 
-12. The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:Nemuel: also called, JemuelJachin: also called, Jarib
+12. The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:
 
-13. Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.Zerah: also called, Zohar
+13. Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.
 
 14. These are the families of the Simeonites, twenty and two thousand and two hundred.
 
-15. The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:Zephon: also called, Ziphion
+15. The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:
 
-16. Of Ozni, the family of the Oznites: of Eri, the family of the Erites:Ozni: also called, Ezbon
+16. Of Ozni, the family of the Oznites: of Eri, the family of the Erites:
 
-17. Of Arod, the family of the Arodites: of Areli, the family of the Arelites.Arod: also called, Arodi
+17. Of Arod, the family of the Arodites: of Areli, the family of the Arelites.
 
 18. These are the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred.
 
@@ -1866,9 +1866,9 @@
 
 22. These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred.
 
-23. Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites:Pua: or, Phuvah
+23. Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites:
 
-24. Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites.Jashub: or, Job
+24. Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites.
 
 25. These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.
 
@@ -1880,7 +1880,7 @@
 
 29. Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir begat Gilead: of Gilead come the family of the Gileadites.
 
-30. These are the sons of Gilead: of Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:Jeezer: also called Abiezer
+30. These are the sons of Gilead: of Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:
 
 31. And of Asriel, the family of the Asrielites: and of Shechem, the family of the Shechemites:
 
@@ -1890,21 +1890,21 @@
 
 34. These are the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred.
 
-35. These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.Becher: also called, Bered
+35. These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.
 
 36. And these are the sons of Shuthelah: of Eran, the family of the Eranites.
 
 37. These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These are the sons of Joseph after their families.
 
-38. The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:Ahiram: also called, Ehi, or, Aharah
+38. The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:
 
-39. Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites.Shupham…Hupham: also called, Muppim and Huppim
+39. Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites.
 
-40. And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman, the family of the Naamites.Ard: also called, Addar
+40. And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman, the family of the Naamites.
 
 41. These are the sons of Benjamin after their families: and they that were numbered of them were forty and five thousand and six hundred.
 
-42. These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.Shuham: or, Hushim
+42. These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.
 
 43. All the families of the Shuhamites, according to those that were numbered of them, were threescore and four thousand and four hundred.
 
@@ -1918,7 +1918,7 @@
 
 48. Of the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:
 
-49. Of Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites.Shillem: also called, Shallum
+49. Of Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites.
 
 50. These are the families of Naphtali according to their families: and they that were numbered of them were forty and five thousand and four hundred.
 
@@ -1928,7 +1928,7 @@
 
 53. Unto these the land shall be divided for an inheritance according to the number of names.
 
-54. To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.give the more…: Heb. multiply his inheritancegive the less…: Heb. diminish his inheritance
+54. To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.
 
 55. Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.
 
@@ -1960,7 +1960,7 @@
 
 3. Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the Lord in the company of Korah; but died in his own sin, and had no sons.
 
-4. Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father.done…: Heb. diminished
+4. Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father.
 
 5. And Moses brought their cause before the Lord.
 
@@ -2004,11 +2004,11 @@
 
 1. And the Lord spake unto Moses, saying,
 
-2. Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season.a sweet…: Heb. a savour of my rest
+2. Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season.
 
-3. And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the Lord; two lambs of the first year without spot day by day, for a continual burnt offering.day by day: Heb. in a day
+3. And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the Lord; two lambs of the first year without spot day by day, for a continual burnt offering.
 
-4. The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;at even: Heb. between the two evenings
+4. The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;
 
 5. And a tenth part of an ephah of flour for a meat offering, mingled with the fourth part of an hin of beaten oil.
 
@@ -2142,7 +2142,7 @@
 
 38. And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering.
 
-39. These things ye shall do unto the Lord in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings.do: or, offer
+39. These things ye shall do unto the Lord in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings.
 
 40. And Moses told the children of Israel according to all that the Lord commanded Moses. 
 
@@ -2150,7 +2150,7 @@
 
 1. And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the Lord hath commanded.
 
-2. If a man vow a vow unto the Lord, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.break: Heb. profane
+2. If a man vow a vow unto the Lord, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.
 
 3. If a woman also vow a vow unto the Lord, and bind herself by a bond, being in her father’s house in her youth;
 
@@ -2158,7 +2158,7 @@
 
 5. But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the Lord shall forgive her, because her father disallowed her.
 
-6. And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;she vowed: Heb. her vows were upon her
+6. And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;
 
 7. And her husband heard it, and held his peace at her in the day that he heard it: then her vows shall stand, and her bonds wherewith she bound her soul shall stand.
 
@@ -2188,7 +2188,7 @@
 
 3. And Moses spake unto the people, saying, Arm some of yourselves unto the war, and let them go against the Midianites, and avenge the Lord of Midian.
 
-4. Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war.Of…: Heb. A thousand of a tribe, a thousand of a tribe
+4. Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war.
 
 5. So there were delivered out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war.
 
@@ -2208,19 +2208,19 @@
 
 13. And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp.
 
-14. And Moses was wroth with the officers of the host, with the captains over thousands, and captains over hundreds, which came from the battle.battle: Heb. host of war
+14. And Moses was wroth with the officers of the host, with the captains over thousands, and captains over hundreds, which came from the battle.
 
 15. And Moses said unto them, Have ye saved all the women alive?
 
 16. Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the Lord in the matter of Peor, and there was a plague among the congregation of the Lord.
 
-17. Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him.him: Heb. a male
+17. Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him.
 
 18. But all the women children, that have not known a man by lying with him, keep alive for yourselves.
 
 19. And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives on the third day, and on the seventh day.
 
-20. And purify all your raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood.that…: Heb. instrument, or, vessel of skins
+20. And purify all your raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood.
 
 21. And Eleazar the priest said unto the men of war which went to the battle, This is the ordinance of the law which the Lord commanded Moses;
 
@@ -2232,7 +2232,7 @@
 
 25. And the Lord spake unto Moses, saying,
 
-26. Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:that…: Heb. of the captivity
+26. Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:
 
 27. And divide the prey into two parts; between them that took the war upon them, who went out to battle, and between all the congregation:
 
@@ -2240,7 +2240,7 @@
 
 29. Take it of their half, and give it unto Eleazar the priest, for an heave offering of the Lord.
 
-30. And of the children of Israel’s half, thou shalt take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the Lord.flocks: or, goats
+30. And of the children of Israel’s half, thou shalt take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the Lord.
 
 31. And Moses and Eleazar the priest did as the Lord commanded Moses.
 
@@ -2278,13 +2278,13 @@
 
 48. And the officers which were over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:
 
-49. And they said unto Moses, Thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us.charge: Heb. hand
+49. And they said unto Moses, Thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us.
 
-50. We have therefore brought an oblation for the Lord, what every man hath gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the Lord.gotten: Heb. found
+50. We have therefore brought an oblation for the Lord, what every man hath gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the Lord.
 
 51. And Moses and Eleazar the priest took the gold of them, even all wrought jewels.
 
-52. And all the gold of the offering that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.offering: Heb. heave offering
+52. And all the gold of the offering that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.
 
 53. (For the men of war had taken spoil, every man for himself.)
 
@@ -2296,7 +2296,7 @@
 
 2. The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,
 
-3. Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,Nimrah: also called, Beth–nimrahShebam: also called, ShibmahBeon: also called, Baal–meon
+3. Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
 
 4. Even the country which the Lord smote before the congregation of Israel, is a land for cattle, and thy servants have cattle:
 
@@ -2304,7 +2304,7 @@
 
 6. And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?
 
-7. And wherefore discourage ye the heart of the children of Israel from going over into the land which the Lord hath given them?discourage: Heb. break
+7. And wherefore discourage ye the heart of the children of Israel from going over into the land which the Lord hath given them?
 
 8. Thus did your fathers, when I sent them from Kadesh–barnea to see the land.
 
@@ -2312,7 +2312,7 @@
 
 10. And the Lord’s anger was kindled the same time, and he sware, saying,
 
-11. Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:wholly…: Heb. fulfilled after me
+11. Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
 
 12. Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the Lord.
 
@@ -2360,13 +2360,13 @@
 
 34. And the children of Gad built Dibon, and Ataroth, and Aroer,
 
-35. And Atroth, Shophan, and Jaazer, and Jogbehah,Jaazer: also called, Jazer
+35. And Atroth, Shophan, and Jaazer, and Jogbehah,
 
-36. And Beth–nimrah, and Beth–haran, fenced cities: and folds for sheep.Beth–nimrah: also called, Nimrah
+36. And Beth–nimrah, and Beth–haran, fenced cities: and folds for sheep.
 
 37. And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,
 
-38. And Nebo, and Baal–meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.gave…: Heb. they called by names the names of the cities
+38. And Nebo, and Baal–meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.
 
 39. And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it.
 
@@ -2408,7 +2408,7 @@
 
 15. And they departed from Rephidim, and pitched in the wilderness of Sinai.
 
-16. And they removed from the desert of Sinai, and pitched at Kibroth–hattaavah.Kibroth–hattaavah: that is, the graves of lust
+16. And they removed from the desert of Sinai, and pitched at Kibroth–hattaavah.
 
 17. And they departed from Kibroth–hattaavah, and encamped at Hazeroth.
 
@@ -2464,7 +2464,7 @@
 
 43. And they departed from Punon, and pitched in Oboth.
 
-44. And they departed from Oboth, and pitched in Ije–abarim, in the border of Moab.Ije–abarim: or, heaps of Abarim
+44. And they departed from Oboth, and pitched in Ije–abarim, in the border of Moab.
 
 45. And they departed from Iim, and pitched in Dibon–gad.
 
@@ -2474,7 +2474,7 @@
 
 48. And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho.
 
-49. And they pitched by Jordan, from Beth–jesimoth even unto Abel–shittim in the plains of Moab.Abel–shittim: or, the plains of Shittim
+49. And they pitched by Jordan, from Beth–jesimoth even unto Abel–shittim in the plains of Moab.
 
 50. And the Lord spake unto Moses in the plains of Moab by Jordan near Jericho, saying,
 
@@ -2484,7 +2484,7 @@
 
 53. And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it.
 
-54. And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.give the more…: Heb. multiply his inheritancegive the less…: Heb. diminish his inheritance
+54. And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.
 
 55. But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
 
@@ -2512,7 +2512,7 @@
 
 10. And ye shall point out your east border from Hazar–enan to Shepham:
 
-11. And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:side of the sea: Heb. shoulder of the sea
+11. And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:
 
 12. And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.
 
@@ -2562,17 +2562,17 @@
 
 5. And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city shall be in the midst: this shall be to them the suburbs of the cities.
 
-6. And among the cities which ye shall give unto the Levites there shall be six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.to them…: Heb. above them ye shall give
+6. And among the cities which ye shall give unto the Levites there shall be six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.
 
 7. So all the cities which ye shall give to the Levites shall be forty and eight cities: them shall ye give with their suburbs.
 
-8. And the cities which ye shall give shall be of the possession of the children of Israel: from them that have many ye shall give many; but from them that have few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.he…: Heb. they inherit
+8. And the cities which ye shall give shall be of the possession of the children of Israel: from them that have many ye shall give many; but from them that have few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.
 
 9. And the Lord spake unto Moses, saying,
 
 10. Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;
 
-11. Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares.at…: Heb. by error
+11. Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares.
 
 12. And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment.
 
@@ -2584,7 +2584,7 @@
 
 16. And if he smite him with an instrument of iron, so that he die, he is a murderer: the murderer shall surely be put to death.
 
-17. And if he smite him with throwing a stone, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death.with…: Heb. with a stone of the hand
+17. And if he smite him with throwing a stone, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death.
 
 18. Or if he smite him with an hand weapon of wood, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death.
 
@@ -2604,7 +2604,7 @@
 
 26. But if the slayer shall at any time come without the border of the city of his refuge, whither he was fled;
 
-27. And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:he…: Heb. no blood shall be to him
+27. And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:
 
 28. Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession.
 
@@ -2612,11 +2612,11 @@
 
 30. Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die.
 
-31. Moreover ye shall take no satisfaction for the life of a murderer, which is guilty of death: but he shall be surely put to death.guilty…: Heb. faulty to die
+31. Moreover ye shall take no satisfaction for the life of a murderer, which is guilty of death: but he shall be surely put to death.
 
 32. And ye shall take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest.
 
-33. So ye shall not pollute the land wherein ye are: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it.the land cannot…: Heb. there can be no expiation for the land
+33. So ye shall not pollute the land wherein ye are: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it.
 
 34. Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the Lord dwell among the children of Israel. 
 
@@ -2626,15 +2626,15 @@
 
 2. And they said, The Lord commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother unto his daughters.
 
-3. And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.whereunto…: Heb. unto whom they shall be
+3. And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.
 
-4. And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.whereunto…: Heb. unto whom they shall be
+4. And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.
 
 5. And Moses commanded the children of Israel according to the word of the Lord, saying, The tribe of the sons of Joseph hath said well.
 
-6. This is the thing which the Lord doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.marry: Heb. be wives
+6. This is the thing which the Lord doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.
 
-7. So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.keep…: Heb. cleave to the, etc
+7. So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.
 
 8. And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
 
@@ -2644,6 +2644,6 @@
 
 11. For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:
 
-12. And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.into…: Heb. to some that were of the families
+12. And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
 
 13. These are the commandments and the judgments, which the Lord commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.  

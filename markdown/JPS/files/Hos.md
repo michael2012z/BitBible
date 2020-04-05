@@ -12,13 +12,13 @@
 
 5. And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.'
 
-6. And she conceived again, and bore a daughter. And He said unto him: 'Call her name Lo-ruhamah;That is, That hath not obtained compassion. for I will no more have compassion upon the house of Israel, that I should in any wise pardon them.
+6. And she conceived again, and bore a daughter. And He said unto him: 'Call her name Lo-ruhamah;
 
 7. But I will have compassion upon the house of Judah, and will save them by HaShem their G-d, and will not save them by bow, nor by sword, nor by battle, nor by horses, nor by horsemen.'
 
 8. Now when she had weaned Lo-ruhamah, she conceived, and bore a son.
 
-9. And He said: 'Call his name Lo-ammi;That is, Not My people. for ye are not My people, and I will not be yours.'  
+9. And He said: 'Call his name Lo-ammi;
 
 ## Hosea 2
 
@@ -26,7 +26,7 @@
 
 2. And the children of Judah and the children of Israel shall be gathered together, and they shall appoint themselves one head, and shall go up out of the land; for great shall be the day of Jezreel.
 
-3. Say ye unto your brethren: 'Ammi';That is, My people. and to your sisters, 'Ruhamah.'That is, That hath obtained compassion.
+3. Say ye unto your brethren: 'Ammi';
 
 4. Plead with your mother, plead; for she is not My wife, neither am I her husband; and let her put away her harlotries from her face, and her adulteries from between her breasts;
 
@@ -54,9 +54,9 @@
 
 16. Therefore, behold, I will allure her, and bring her into the wilderness, and speak tenderly unto her.
 
-17. And I will give her her vineyards from thence, and the valley of AchorThat is, Troubling. for a door of hope; and she shall respond there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
+17. And I will give her her vineyards from thence, and the valley of Achor
 
-18. And it shall be at that day, saith HaShem, that thou shalt call Me Ishi,That is, My husband. and shalt call Me no more Baali.That is, My master.
+18. And it shall be at that day, saith HaShem, that thou shalt call Me Ishi,
 
 19. For I will take away the names of the Baalim out of her mouth, and they shall no more be mentioned by their name.
 
@@ -68,7 +68,7 @@
 
 23. And it shall come to pass in that day, I will respond, saith HaShem, I will respond to the heavens, and they shall respond to the earth;
 
-24. And the earth shall respond to the corn, and the wine, and the oil; and they shall respond to Jezreel.That is, Whom God soweth.
+24. And the earth shall respond to the corn, and the wine, and the oil; and they shall respond to Jezreel.
 
 25. And I will sow her unto Me in the land; and I will have compassion upon her that had not obtained compassion; and I will say to them that were not My people: 'Thou art My people'; and they shall say: 'Thou art my G-d.'  
 

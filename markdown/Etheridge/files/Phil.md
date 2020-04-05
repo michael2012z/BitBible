@@ -26,7 +26,7 @@
 
 12. BUT I wish you to know, my brethren, that my business tendeth the more to the forwarding of the gospel.
 
-13. For so also my bonds are manifest for the Meshiha in the whole palace,Or, praetorium. and unto all besides.
+13. For so also my bonds are manifest for the Meshiha in the whole palace,
 
 14. And a multitude of brethren who are in our Lord are strengthened on account of my bonds, and have dared the more fearlessly to speak the word of Aloha.
 
@@ -34,7 +34,7 @@
 
 16. and in the love of the Meshiha; for they know that for the defence of the gospel I am appointed.
 
-17. But those who preach the Meshiha from contention do it not sincerely,Or, purely. but think to add affliction to my bonds.
+17. But those who preach the Meshiha from contention do it not sincerely,
 
 18. Yet in this I have rejoiced, and do rejoice, that in every way, if for an occasion, or if in truth, the Meshiha shall be preached.
 
@@ -46,7 +46,7 @@
 
 22. But if in this life of the flesh there be also fruit to me from my works, I know not what to choose.
 
-23. For these two straiten me. I desire to be set free, that I might be with the Meshiha, and this is greatly preferableProfitable. to me;
+23. For these two straiten me. I desire to be set free, that I might be with the Meshiha, and this is greatly preferable
 
 24. but also to remain in my body is the thing which constraineth me on your account.
 
@@ -64,7 +64,7 @@
 
 ## Philippians 2
 
-1. IF, therefore, you have consolation in the Meshiha, and if there be comfort in love,Ven mamale belebo bachubo, " If there be the speaking of the heart in love." Mamale belebo, (like the Hebrew, Dibber al leb,) " the speaking of, or into, the heart," is an idiom for giving consolation. Compare John xi. 19, 31. and if communion of the Spirit, and if compassions and mercies,
+1. IF, therefore, you have consolation in the Meshiha, and if there be comfort in love,
 
 2. complete my gladness by having one sentiment and one love, and one soul and one mind.
 
@@ -72,7 +72,7 @@
 
 4. And let no one care for himself (only), but every one for his neighbour also.
 
-5. And feelOr, be of this sentiment in yourselves. this in yourselves, which Jeshu the Meshiha (did) also:
+5. And feel
 
 6. who, when he was in the form of Aloha, considered this not to be robbery, (this, namely,) that he was the co-equal of Aloha:
 
@@ -88,7 +88,7 @@
 
 12. WHEREFORE, my beloved, as you have all time obeyed, not while I am near you only, but now that I am far from you, the more with fear and trembling work the work of your salvation;
 
-13. for Aloha himself effectuatesMechaphet becun. in you also to will, also to do, the thing which you will.Medem detsobeen.
+13. for Aloha himself effectuates
 
 14. Do every thing without murmuring and without division;
 
@@ -96,7 +96,7 @@
 
 16. to be unto them for a place of salvation, for my exultation in the day of the Meshiha, that I may not have run in vain, nor laboured to no purpose.
 
-17. But, also,if I should be offered on the sacrifice and service of your faith, I am glad, and rejoice with you all;
+17. But, also,
 
 18. so also you be glad and rejoice with me.
 
@@ -106,9 +106,9 @@
 
 21. For all are seeking what is theirs, and not what is of Jeshu Meshiha.
 
-22. But the proof of thisevangelist you know, that as a son with his father, so hath he wrought with me in the gospel.
+22. But the proof of this
 
-23. Him, therefore, I hope to send to you speedily, when I shall have seen whatwill be done with me.
+23. Him, therefore, I hope to send to you speedily, when I shall have seen what
 
 24. And I confide on my Lord, that I also speedily shall come unto you.
 
@@ -126,13 +126,13 @@
 
 ## Philippians 3
 
-1. HENCEFORTH, my brethren, rejoice in our Lord. To write the very same (things) to you, to me is not weariness, because they make youthe more cautious.
+1. HENCEFORTH, my brethren, rejoice in our Lord. To write the very same (things) to you, to me is not weariness, because they make you
 
 2. Beware of dogs, beware of evil workers, beware of the cutting of the flesh.
 
 3. For the circumcision are we, who serve Aloha in the spirit, and glory in Jeshu the Meshiha, and confide not on the flesh.
 
-4. Yet I may have confidence on the flesh. For if any one consider that his confidence is in the flesh, Ihave more than he.
+4. Yet I may have confidence on the flesh. For if any one consider that his confidence is in the flesh, I
 
 5. Circumcised the son of eight days, of the family of Israel, of the tribe of Benyomin, Ebroia of Ebroyee; in the law, Pharisha;
 
@@ -140,13 +140,13 @@
 
 7. But these things which were my gain, I have reckoned loss for the Meshiha;
 
-8. and I also (still) reckon them all loss, for the grandeurRabutho. of the knowledge of Jeshu Meshiha my Lord; for whose sake I have lost all things, and have reckoned as dung, that the Meshiha I may gain,
+8. and I also (still) reckon them all loss, for the grandeur
 
 9. and be found in him, not having my own righteousness, which is of the law, but that which is by the faith of the Meshiha, which is righteousness that is from Aloha:
 
 10. that in it I may know Jeshu, and the power of his resurrection, and have fellowship in his sufferings, and be conformed into his death,
 
-11. that any howDalmo. I may be able to come to the resurrection which is from among the dead.
+11. that any how
 
 12. I have not yet received, nor (am I) yet perfected; but I run, that so I may lay hold on that for the sake of which Jeshu the Meshiha hath laid hold on me.
 
@@ -164,9 +164,9 @@
 
 19. they, whose end is perdition, whose god is their belly, and whose glory is their shame; they, whose mind is in the earth.
 
-20. But our employmentPulchonan. Pulchono is " occupation," whether sacred, cultus, or civil, operatio. is in heaven, and from thence we expect the Saviour, our Lord Jeshu Meshiha,
+20. But our employment
 
-21. who will change the body of our abasement to make (it) in the fashion of his glorious body,The body of his glory. 3 Knowing. according to his great power, by which all is subjected unto him.
+21. who will change the body of our abasement to make (it) in the fashion of his glorious body,
 
 ## Philippians 4
 
@@ -188,11 +188,11 @@
 
 9. These which you have learned, and received, and heard, and seen in me, these perform; and the God of peace will be with you.
 
-10. But greatly do I rejoice in our Lord, that you have begun to care (again) for me, as also you wereformerly careful, but you have not had ability.Sufficiency.
+10. But greatly do I rejoice in our Lord, that you have begun to care (again) for me, as also you were
 
 11. But I have not spoken because I have had need; for I have learned to make sufficient to me that which I have had.
 
-12. I know (how) to be abased, I know also how to abound in all; and in every thing I am trained with sufficiency and with hunger, with abundance and with destitutionto be satisfied:
+12. I know (how) to be abased, I know also how to abound in all; and in every thing I am trained with sufficiency and with hunger, with abundance and with destitution
 
 13. for every thing I am empowered through the Meshiha who strengtheneth me.
 

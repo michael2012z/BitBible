@@ -474,7 +474,7 @@
 
 12. And he shall consecrate unto HaShem the days of his Naziriteship, and shall bring a he-lamb of the first year for a guilt-offering; but the former days shall be void, because his consecration was defiled.
 
-13. And this is the law of the Nazirite, when the days of his consecration are fulfilled: he shall bring itThat is, bring his consecrated head (come with his consecrated hair unshaven). unto the door of the tent of meeting;
+13. And this is the law of the Nazirite, when the days of his consecration are fulfilled: he shall bring it
 
 14. and he shall present his offering unto HaShem, one he-lamb of the first year without blemish for a burnt-offering, and one ewe-lamb of the first year without blemish for a sin-offering, and one ram without blemish for peace-offerings,
 
@@ -866,7 +866,7 @@
 
 2. And the people cried unto Moses; and Moses prayed unto HaShem, and the fire abated.
 
-3. And the name of that place was called Taberah,That is, Burning. because the fire of HaShem burnt among them.
+3. And the name of that place was called Taberah,
 
 4. And the mixed multitude that was among them fell a lusting; and the children of Israel also wept on their part, and said: 'Would that we were given flesh to eat!
 
@@ -928,7 +928,7 @@
 
 33. While the flesh was yet between their teeth, ere it was chewed, the anger of HaShem was kindled against the people, and HaShem smote the people with a very great plague.
 
-34. And the name of that place was called Kibroth-hattaavah,That is, The graves of lust. because there they buried the people that lusted.
+34. And the name of that place was called Kibroth-hattaavah,
 
 35. From Kibroth-hattaavah the people journeyed unto Hazeroth; and they abode at Hazeroth.  
 
@@ -1014,7 +1014,7 @@
 
 23. And they came unto the valley of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bore it upon a pole between two; they took also of the pomegranates, and of the figs.--
 
-24. That place was called the valley of Eshcol,That is, cluster. because of the cluster which the children of Israel cut down from thence.--
+24. That place was called the valley of Eshcol,
 
 25. And they returned from spying out the land at the end of forty days.
 
@@ -1478,7 +1478,7 @@
 
 12. And HaShem said unto Moses and Aaron: 'Because ye believed not in Me, to sanctify Me in the eyes of the children of Israel, therefore ye shall not bring this assembly into the land which I have given them.'
 
-13. These are the waters of Meribah,That is, Strife. where the children of Israel strove with HaShem, and He was sanctified in them.
+13. These are the waters of Meribah,
 
 14. And Moses sent messengers from Kadesh unto the king of Edom: 'Thus saith thy brother Israel: Thou knowest all the travail that hath befallen us;
 
@@ -1518,7 +1518,7 @@
 
 2. And Israel vowed a vow unto HaShem, and said: 'If Thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.'
 
-3. And HaShem hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities; and the name of the place was called Hormah.That is, Utter destruction.
+3. And HaShem hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities; and the name of the place was called Hormah.
 
 4. And they journeyed from mount Hor by the way to the Red Sea, to compass the land of Edom; and the soul of the people became impatient because of the way.
 
@@ -1544,7 +1544,7 @@
 
 15. And the slope of the valleys that inclineth toward the seat of Ar, and leaneth upon the border of Moab.--
 
-16. And from thence to Beer;That is, A well. that is the well whereof HaShem said unto Moses: 'Gather the people together, and I will give them water.'
+16. And from thence to Beer;
 
 17. Then sang Israel this song: Spring up, O well--sing ye unto it--
 
@@ -2374,7 +2374,7 @@
 
 40. And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.
 
-41. And Jair the son of Manasseh went and took the villages thereof, and called them Havvoth-jair.That is, The villages of Jair.
+41. And Jair the son of Manasseh went and took the villages thereof, and called them Havvoth-jair.
 
 42. And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name. 
 

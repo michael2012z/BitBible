@@ -4,15 +4,15 @@
 
 1. THE former writing, O Theophilus, I wrote concerning all those (things) which our Lord Jeshu Meshiha began to do and to teach,
 
-2. until that day in which he was taken up, after that he had instructedOr, commanded. those apostles whom he had chosen by the Holy Spirit:
+2. until that day in which he was taken up, after that he had instructed
 
 3. to whom also he showed himself alive, after he had suffered, with many signs, for forty days, appearing to them, and discoursing on the kingdom of Aloha.
 
-4. And when he had eaten bread with them, he directed them that from Urishlem they should not remove; but await the promise of the Father, which,said he, you have heard from me.
+4. And when he had eaten bread with them, he directed them that from Urishlem they should not remove; but await the promise of the Father, which,
 
 5. For Juhanon baptized with waters, but you shall be baptized with the Spirit of Holiness after days not many.
 
-6. But they when assembled asked him, and said to him, Our Lord, at this time wilt thou restoreOr, return. the kingdom to Israel?
+6. But they when assembled asked him, and said to him, Our Lord, at this time wilt thou restore
 
 7. He saith to them, This is not yours to know the time or the times which the Father hath reposed in his own authority:
 
@@ -20,7 +20,7 @@
 
 9. And as these he said, while they beheld him, he was taken up, and the cloud received him, and he was covered from their eyes.
 
-10. And while they looked to the heavensInto heaven. WALTON. as he went, two men were found standing with them in white vestments;
+10. And while they looked to the heavens
 
 11. and they said to them, Men, Galiloyee, why stand you looking to the heavens 3? this Jeshu who is taken up from you into the heavens will so come as you have seen him ascend into the heavens.
 
@@ -74,7 +74,7 @@
 
 9. Parthoyee and Medoyee and Alanoyee, and they who dwell in the Place of Rivers, Jihudoyee and Kapadukoyee, and of the region of Pontos and of Asia;
 
-10. and from the land of Phrygia and of Pamphylia and of Metsreen, and the regions of Lybi neighbouring upon Kyrine, and those who come from Rumi, Jihudoyee, and Proselytes,Gíuree,
+10. and from the land of Phrygia and of Pamphylia and of Metsreen, and the regions of Lybi neighbouring upon Kyrine, and those who come from Rumi, Jihudoyee, and Proselytes,
 
 11. and from Krete and Arabia, behold, we hear them speaking in our tongues the wonders of Aloha.
 
@@ -84,11 +84,11 @@
 
 14. And afterwards arose Shemun Kipha with the eleven apostles, and lifted up his voice and said to them: Men, Jihudoyee, and all who dwell at Urishlem, be this known to you, and hearken to my words.
 
-15. For not as you suppose are these drunken; for, behold, until now arethere but three hours.
+15. For not as you suppose are these drunken; for, behold, until now are
 
 16. But this is that spoken of by Joel the prophet:
 
-17. It shall be in the last days, saith Aloha, I will pourout my Spirit upon all flesh: And your sons and your daughters shall prophesy, And your youths shall see visions,
+17. It shall be in the last days, saith Aloha, I will pour
 
 18. And your elders shall dream dreams: And upon the servants and upon the handmaids Will I pour my Spirit in those days; And they shall prophesy.
 
@@ -96,7 +96,7 @@
 
 20. The sun shall be turned into darkness, And the moon into blood, Before shall come the day of the Lord, great and fearful;
 
-21. And every one who shall callupon the name Of the Lord shall be saved.
+21. And every one who shall call
 
 22. MEN, sons of Israel, hear these words; Jeshu Natsroya, the man who from Aloha appeared with you, with powers and mighty acts, which Aloha wrought among you by his hand, (even) as you know,
 
@@ -128,7 +128,7 @@
 
 36. Assuredly, then, let all the house of Israel know, that Lord and Meshiha hath Aloha made this Jeshu, whom you crucified.
 
-37. AND when they heard, they were pierced in their heart,Consternavit, permovit animo. Ethpa. Perculsus, permotus, compunctus est. and said to Shemun and to the rest of the apostles, What shall we do, brethren?
+37. AND when they heard, they were pierced in their heart,
 
 38. Shemun saith to them, Repent, and be baptized, every man of you, in the name of the Lord Jeshu, for the remission of sins, and you shall receive the gift of the Holy Spirit.
 
@@ -174,7 +174,7 @@
 
 11. AND as he held Shemun and Juhanon, all the people ran wondering unto them to the portico which is called Of Shelemun.
 
-12. And when Shemun saw, he answered and said to them, Men, sons of Israel, why wonder you at this? or why gaze you at us, asthough by power of ours, or by our (own) authority, we had done this, that this (man) should walk?
+12. And when Shemun saw, he answered and said to them, Men, sons of Israel, why wonder you at this? or why gaze you at us, as
 
 13. The God of Abraham, and of Ishok, and of Jakub, the God of our fathers, hath glorified his son Jeshu, him whom you delivered up, and denied before the face of Pilatos, when he had justified (him) and would have released him;
 
@@ -228,9 +228,9 @@
 
 11. This is the stone which you builders rejected, and he is become the head of the corner.
 
-12. And in no other oneIn no other man. is redemption: for there is no other name under heaven given to mankind, by which we must be saved.
+12. And in no other one
 
-13. And when they heard the words of Shemun and of Juhanon, which they had confidently spoken, they perceived that they knew not literature and were common-men,Hediutee. and wondered at them; and they recognised them, that with Jeshu they had been conversant.
+13. And when they heard the words of Shemun and of Juhanon, which they had confidently spoken, they perceived that they knew not literature and were common-men,
 
 14. And they saw that the lame man who had been healed was standing with them, and they could not say any thing against them.
 
@@ -238,7 +238,7 @@
 
 16. What shall we do with these men? For, behold, a conspicuous sign which hath been done by their hands to all the inhabitants of Urishlem is known, and we cannot deny.
 
-17. But that this report may not go forth morewidely, we will threaten them that again they shall not speak in This Name to any man.To a man of men.
+17. But that this report may not go forth more
 
 18. And they called them, and commanded them that not at all they should speak and teach in the name of Jeshu.
 
@@ -246,7 +246,7 @@
 
 20. For what we have seen and heard we cannot but speak.
 
-21. And they threatened them, and dismissed them; for they could not find cause to laya penalty upon their head,Compare chap. xxii. 5, Syriac; and SCHAAF. Lex. in verb. because of the people; for every one glorified Aloha for that which had been done.
+21. And they threatened them, and dismissed them; for they could not find cause to lay
 
 22. For a son of more than forty years was that man in whom had been wrought this sign of healing.
 
@@ -272,7 +272,7 @@
 
 33. And with great power did those apostles testify concerning the resurrection of Jeshu Meshiha, and great grace was with all of them.
 
-34. And no man of them had want; for they who possessed fields and houses soldthem, and brought the prices of whatever was sold
+34. And no man of them had want; for they who possessed fields and houses sold
 
 35. and laid at the feet of the apostles, and there was given to each according to that which was needed.
 
@@ -292,7 +292,7 @@
 
 5. And when Hanania heard these words he fell and died. And there was great fear upon all those who heard.
 
-6. And they who were young men among them arose and composedCollected or gathered up. him,and carried him forth and buried him.
+6. And they who were young men among them arose and composed
 
 7. And after there had been three hours, his wife also entered, not knowing what had been done.
 
@@ -326,7 +326,7 @@
 
 22. And when they who were sent from them went, they found them not (in) the house of the bound; and they returned, and came,
 
-23. and said, We found the house of the bound shut carefully,Or, cautiously. and the keepers standing at the gates: and we opened, but no man found we there.
+23. and said, We found the house of the bound shut carefully,
 
 24. And when the chief priests and rulers of the temple heard these words, they were astounded by them, and reasoned, what this was.
 
@@ -356,7 +356,7 @@
 
 37. Afterward arose Jihuda Galiloya in the days when men were enregistered for the head-silver, and tempted much people after him; and he died, and all they who went after him were scattered.
 
-38. And now I say to you, keep aloof from these men, and dismiss them; for if from men be this imaginationOr, thought. and this work, it will be dissolved and end;
+38. And now I say to you, keep aloof from these men, and dismiss them; for if from men be this imagination
 
 39. but if it be from Aloha, there is no power in your hands to bring it to an end: lest you should be found to have arisen against Aloha.
 
@@ -402,7 +402,7 @@
 
 1. And the chief of the priests demanded if these (things) were so?
 
-2. But he said, Men, brethren, and fathers, hear! The God of glory appeared to our father Abraham while he was between the rivers,and while he had not yet come to dwell in Charan,
+2. But he said, Men, brethren, and fathers, hear! The God of glory appeared to our father Abraham while he was between the rivers,
 
 3. and said to him, Go forth from thy country and from (being) with the sons of thy family, and come to the land that I will show thee.
 
@@ -436,7 +436,7 @@
 
 18. until another king had arisen over Mitsreen, who knew not Jauseph,
 
-19. and he dealt fraudulently against our kindred, and shamefully entreated our fathers, and commanded that their children should be cast away,Or destroyed. that they might not live.
+19. and he dealt fraudulently against our kindred, and shamefully entreated our fathers, and commanded that their children should be cast away,
 
 20. In that time Musha was born, and was beloved of Aloha, and was brought up three months in the house of his father.
 
@@ -466,7 +466,7 @@
 
 33. And the Lord said to him, Loose thy sandals from thy feet: for the ground on which thou standest is holy.
 
-34. Seeing I have seen the affliction of my people whoare in Mitsreen, and his groaning I have heard, and I have descended that I may deliver them. And now come, I will send thee into Mitsreen.
+34. Seeing I have seen the affliction of my people who
 
 35. This Musha whom they denied, when they said, Who appointed thee over us a prince and a judge? this, sent Aloha unto them a prince and a deliverer by the hand of the angel who appeared to him at the bush.
 
@@ -538,7 +538,7 @@
 
 8. and great joy was in that city.
 
-9. But a certain man was there whose name was Simon, who had dwelt in that city much time, and with his sorceries had deceived the people of the Shomroyee, magnifying himself, and saying, I am the Great.Ano 'no Rabo.
+9. But a certain man was there whose name was Simon, who had dwelt in that city much time, and with his sorceries had deceived the people of the Shomroyee, magnifying himself, and saying, I am the Great.
 
 10. And all inclined to him, great and small, and said, This is the great Power of Aloha.
 
@@ -574,7 +574,7 @@
 
 26. AND the angel of the Lord spake with Philipos, and said to him, Arise, go to the south, in the desert way which goeth down from Urishlem to Gaza.
 
-27. And arising he went. And there met him a certain eunuchMahaimna, "a faithful or confidential one." who had come from Cush, an officer of Kandak, queen of the Cushoyee; and he was officer over all her treasure. And he had been to worship at Urishlem;
+27. And arising he went. And there met him a certain eunuch
 
 28. and while returning that he might go, he sat in the chariot and read in Eshaia the prophet.
 
@@ -592,7 +592,7 @@
 
 35. Then Philipos opened his mouth and began, from that very scripture, preaching to him concerning our Lord Jeshu.
 
-36. And as they went in the way they came to a certain place which had water in it, and that eunuch said, Behold the water; what is the hinderance that I should be baptized?Verse 37 is wanting in the Peschito.
+36. And as they went in the way they came to a certain place which had water in it, and that eunuch said, Behold the water; what is the hinderance that I should be baptized?
 
 37. And he commanded that the chariot should stand; and they descended both of them to the water, and Philipos baptized that eunuch.
 
@@ -602,7 +602,7 @@
 
 ## Acts 9
 
-1. BUT Shaol was yet full of threatenings and murderous wrathWrath of slaughter. against the disciples of our Lord.
+1. BUT Shaol was yet full of threatenings and murderous wrath
 
 2. And he demanded letters from the chief priests which he should give at Darmsuk to the synagogues, that if he found (any) who walked in this way, men or women, he might bind and bring them to Urishlem.
 
@@ -658,7 +658,7 @@
 
 28. And he went in with them and went out in Urishlem. And he spake in the name of Jeshu with boldness,
 
-29. and disputed with those Jihudoyee who knew Greek;Javanith. but they were wishful to kill him.
+29. and disputed with those Jihudoyee who knew Greek;
 
 30. And when the brethren knew, they brought him by night to Cesarea, and from thence sent him to Tarsos.
 
@@ -680,7 +680,7 @@
 
 39. And Shemun arose and went with them. And when he was come, they brought him up to the upper room, and assembled (and) stood around him all the widows, weeping, and showing him those vestments and mantles which Tabitha had given them, while living.
 
-40. But Shemun put forth all the men without, and fell upon his knees and prayed; and he turned towards the corpse and said Tabitha, arise.Tabitha Kumi. And she opened her eyes;
+40. But Shemun put forth all the men without, and fell upon his knees and prayed; and he turned towards the corpse and said Tabitha, arise.
 
 41. and when she beheld Shemun, she sat. And he reached his hand and raised her, and called the saints and widows, and gave her to them living.
 
@@ -718,7 +718,7 @@
 
 14. And Shemun said, Not so, my Lord: for never have I eaten any thing that is profane and unclean.
 
-15. And again the second time was to him, Those (things) which Aloha cleanseth make not thou profane.Or, polluted.
+15. And again the second time was to him, Those (things) which Aloha cleanseth make not thou profane.
 
 16. This was three times done: and the vessel was elevated to heaven.
 
@@ -802,7 +802,7 @@
 
 7. And I heard a voice which said to me, Shemun, arise, slay, and eat.
 
-8. And I said, Not so, my Lord; for nothing hath entered my mouth that is unclean or profane.Or, polluted.
+8. And I said, Not so, my Lord; for nothing hath entered my mouth that is unclean or profane.
 
 9. And again the voice said to me from heaven, What Aloha hath cleansed make not thou to be polluted.
 
@@ -854,7 +854,7 @@
 
 2. And he killed with the sword Jakub the brother of Juhanon.
 
-3. And when he saw that this pleased the Jihudoyee, he added to apprehend also Shemun Kipha. And they were the days of the Phatiree.See the Gospels, page 384.
+3. And when he saw that this pleased the Jihudoyee, he added to apprehend also Shemun Kipha. And they were the days of the Phatiree.
 
 4. And he apprehended him and cast him into the house of the bound, and delivered him to sixteen soldiers to keep him, that after the Petscha he might deliver him to the people of the Jihudoyee.
 
@@ -868,7 +868,7 @@
 
 9. And he went forth, and came after him; not knowing that what was done by the hand of the angel was reality, for he thought that he saw a vision.
 
-10. And when he had passed the first and second guard, they came to the gate of iron, and it was opened to them of its own accord.From the will of itself. And when they went forth and had passed one street, the angel departed from him.
+10. And when he had passed the first and second guard, they came to the gate of iron, and it was opened to them of its own accord.
 
 11. Then acknowledged Shemun, and said, Now know I in truth that the Lord hath sent his angel, and hath delivered me from the hand of Herodes the king, and from that which the Jihudoyee had calculated against me.
 
@@ -892,7 +892,7 @@
 
 21. But upon a public day Herodes was clothed with the robe of royalty, and sat upon the tribunal, and he discoursed to an assembly.
 
-22. But all the people exclaimed, and said, These are the wordsBenoth kolee, "voices." of a god, and not of a man.
+22. But all the people exclaimed, and said, These are the words
 
 23. And on this account, because he gave not the glory to Aloha, in that hour the angel of the Lord smote him, and he was corroded with worms, and died.
 
@@ -996,11 +996,11 @@
 
 47. For so hath our Lord commanded, as it is written, I have set thee a light to the Gentiles, To be for salvation to the ends of the earth.
 
-48. And when the Gentiles heard, they rejoiced and glorified Aloha; and they believed who were disposedOr, set unto. unto eternal life.
+48. And when the Gentiles heard, they rejoiced and glorified Aloha; and they believed who were disposed
 
 49. And the word of Aloha was spoken in all that region.
 
-50. But the Jihudoyee excited the principal men of the city andcertain rich women, who with them feared Aloha, and raised a persecution against Paulos and against Bar Naba, and cast them out from their bounds.
+50. But the Jihudoyee excited the principal men of the city and
 
 51. And as they went forth, they shook off against them the dust of their feet; and they came to Ikanon, a city.
 
@@ -1030,7 +1030,7 @@
 
 11. And leaping, he stood and walked. And the assembly of the people, when they saw what Paulos had done, lifted up their voice in the language of the country, and said, Gods in the likeness of men have come down unto us.
 
-12. And they named Bar Naba, lord of the gods;Mare Alohee. and Paulos, Hermis, because he was foremost in discourse.
+12. And they named Bar Naba, lord of the gods;
 
 13. And the priest of the lord of the gods, who was without the city, brought oxen and garlands to the gates of the court of the place where they dwelt, and willed to sacrifice to them.
 
@@ -1132,7 +1132,7 @@
 
 33. And when they had been there a time, the brethren dismissed them with peace unto the apostles.
 
-34. Some Greek MSS. read here, "Notwithstanding, it pleased Silas to abide there still."
+34. 
 
 35. BUT Paulos and Bar Naba remained in Antiokia, and taught and preached, with many others, the word of Aloha.
 
@@ -1252,7 +1252,7 @@
 
 10. But the brethren immediately in that night dismissed Paulos and Shilo unto Beroa the city; and when they were come thither they entered into the synagogue of the Jihudoyee:
 
-11. for more nobleOr, free. were those Jihudoyee who were there than those Jihudoyee who were in Thessalonika; and they heard from them the word daily with joy, while they decided from the scriptures whether these things were so.
+11. for more noble
 
 12. And many of them believed, and so also of the Javnoyee, men many, and distinguished women.
 
@@ -1260,7 +1260,7 @@
 
 14. And the brethren dismissed Paulos that he should go down by sea; and Shilo and Timotheos remained in that city.
 
-15. AND they who accompanied Paulos camewith him unto Athinos the city; and when they departed from the midst of it they took from him an epistle to Shilo and Timotheos, that they should speedily come to him.
+15. AND they who accompanied Paulos came
 
 16. But he, Paulos, while he waited in Athinos, was embittered in his spirit, (for he) saw how the whole city was filled with idols.
 
@@ -1288,7 +1288,7 @@
 
 28. For in him we live, and are moved, and are; as also one of your sages hath said, From him is our descent.
 
-29. Men, therefore, whose descent is from Aloha, should not think that gold or silver or stone sculptured by the art and skill of man is like the Divinity.Alohutha.
+29. Men, therefore, whose descent is from Aloha, should not think that gold or silver or stone sculptured by the art and skill of man is like the Divinity.
 
 30. For the times of error Aloha hath made to pass away; and in this time he commandeth all men, that every man in every place should repent;
 
@@ -1362,7 +1362,7 @@
 
 1. AND while Apolu was in Kurinthos, Paulos itinerated through the upper countries unto Ephesos; and he asked those disciples whom he found there,
 
-2. Have you received the Spirit of Holiness fromthe time that you believed? They answered and said to him, It hath not been heard by us whether there be the Spirit.
+2. Have you received the Spirit of Holiness from
 
 3. He saith to them, And into what were you baptized? They said, Into the baptism of Juhanon.
 
@@ -1420,7 +1420,7 @@
 
 30. AND Paulos willed to enter the theatre, and the disciples restrained him.
 
-31. And the chiefs of Asia, because they were his friends, sent, praying of him not to deliverOr, give his life. himself by going into the theatre.
+31. And the chiefs of Asia, because they were his friends, sent, praying of him not to deliver
 
 32. But the crowd who were in the theatre were greatly commoved, and others cried other things; for many of them knew not on what account they were assembled.
 
@@ -1446,7 +1446,7 @@
 
 1. And after the tumult had stilled, Paulos called the disciples and consoled them and kissed them, and going forth went unto Makedunia.
 
-2. And when he had itinerated those regions, and had consoled them with many words, he came into the country of Hales,Quasi dicat, HELLAS, Greece.
+2. And when he had itinerated those regions, and had consoled them with many words, he came into the country of Hales,
 
 3. and was there three months. But the Jihudoyee wrought treachery against him, when he was about to go into Syria, and had thought to return into Makedunia.
 
@@ -1458,7 +1458,7 @@
 
 7. AND on the first day in the week, when we were assembled to break the eucharist, Paulos discoursed with them, because the day following he was to depart; and he prolonged his discourse until the dividing of the night.
 
-8. And there were many lamps of fire in the high-roomB'elitho. where we were assembled.
+8. And there were many lamps of fire in the high-room
 
 9. And a certain youth whose name was Eutikos sat in a window and heard. And he had sunk into a heavy sleep while Paulos prolonged his discourse, and in his sleep he fell from the third floor, and was taken up as dead.
 
@@ -1468,7 +1468,7 @@
 
 12. And they brought the young man alive, and rejoiced over him greatly.
 
-13. But we went down to the ship, and voyaged to the portPortus. But Tremellius, G. Faber, Buxtorf, and Trostius say, Caetus, congregatio. Schaaff seems to prefer caetus. of Thesos, because there we were to receive Paulos, for thus he had instructed us, while he himself would proceed by land.
+13. But we went down to the ship, and voyaged to the port
 
 14. But when we had received him from Thesos, we took him up into the ship and came to Mitylene.
 
@@ -1558,7 +1558,7 @@
 
 18. And the day following we entered with Paulos to Jakub, while all the presbyters were with him.
 
-19. And we gave them salutation.Shaloma. And Paulos recounted to them in order what Aloha had done among the Gentiles by his ministry.
+19. And we gave them salutation.
 
 20. And when they heard, they glorified Aloha. And they said to him, Thou seest, our brother, how many myriads there are in Jihud who believe, and all of them are zealous for the law.
 
@@ -1582,7 +1582,7 @@
 
 30. And the whole city was commoved, and all the people assembled, and they laid hold of Paulos, and dragged him without from the temple; and instantly the gates were shut.
 
-31. And while the multitude sought to kill him, the tribuneKiliarka. of the cohort heard that the whole city was agitated.
+31. And while the multitude sought to kill him, the tribune
 
 32. And forthwith took he a centurion and many soldiers and ran upon them; and when they saw the tribune and the soldiers, they desisted from beating Paulos.
 
@@ -1620,7 +1620,7 @@
 
 8. But I answered and said, Who art thou, my Lord? And he said to me, I am Jeshu Natsroya, whom thou persecutest!
 
-9. And the men who were with me saw the light, but the voice they understoodLit. "heard." not which spake with me.
+9. And the men who were with me saw the light, but the voice they understood
 
 10. And I said, What shall I do, my Lord? And he said to me, Arise, go into Darmsuk, and there shall it be told thee of whatever it is commanded thee to do.
 
@@ -1638,7 +1638,7 @@
 
 17. And being returned, I came hither to Urishlem. And I prayed in the temple.
 
-18. And I saw him in a vision, when he saidOr, saying. to me, Hasten, and remove thee from Urishlem: for they will not receive thy testimony concerning me.
+18. And I saw him in a vision, when he said
 
 19. And I said, My Lord, they know also how I delivered to the house of the bound, and smote in all the synagogues, those who have believed in thee.
 
@@ -1658,7 +1658,7 @@
 
 27. And the tribune approached him, and said to him, Tell me, art thou a Roman? He said to him, Yes.
 
-28. The tribune answered, and said to him, I with much money purchased the Roman-right.Rumoiutha. Paulos said to him, But I was born in it.
+28. The tribune answered, and said to him, I with much money purchased the Roman-right.
 
 29. And immediately those who had sought to scourge him desisted from him; and the tribune feared when he learned that he was a Roman, because he had bound him.
 
@@ -1688,7 +1688,7 @@
 
 11. And when it was night our Lord appeared unto Paulos, and said to him, Be strong: for as thou hast testified of me in Urishlem, so is it to be that thou also in Ruma shalt testify.
 
-12. AND when it became morning, men of the Jihudoyee gathered and bound a vowCherem. upon themselves, that they would not eat or drink till they had killed Paulos.
+12. AND when it became morning, men of the Jihudoyee gathered and bound a vow
 
 13. But there were of those who established by oath this compact more than forty men.
 
@@ -1712,7 +1712,7 @@
 
 23. And he called two centurions, and said to them, Go, prepare two hundred Romans to go to Cesarea, and seventy horsemen and right-handed spearmen two hundred, to go forth at the third hour of the night;
 
-24. but provide also a beast to carry Paulos, and escape to Felix the governor.Verse 25 is wanting.
+24. but provide also a beast to carry Paulos, and escape to Felix the governor.
 
 25. And he wrote a letter, and gave it to them, which was thus:
 
@@ -1766,7 +1766,7 @@
 
 14. Nevertheless, this do I confess, that in that very doctrine of which they speak, in it serve I the God of my fathers, believing in all that is written in the law and in the prophets,
 
-15. and having hope in Alohafor that which they also hope: that there shall be a resurrection from the house of the dead, of the just and of the evil.
+15. and having hope in Aloha
 
 16. Because of this also I labour to have a good conscience before Aloha and before men, continually.
 
@@ -1786,7 +1786,7 @@
 
 24. And after a few days Felix, and Drusilla his wife, who was a Jihudoytha, sent and called Paulos, and they heard from him concerning the faith of the Meshiha.
 
-25. And as he discoursed with them of righteousness, and of holiness, and of the judgment which is to come, Felix was filled with fear, and he said, Now go, and when I have opportunityOr, place. I will send for thee.
+25. And as he discoursed with them of righteousness, and of holiness, and of the judgment which is to come, Felix was filled with fear, and he said, Now go, and when I have opportunity
 
 26. For he hoped that a bribe would be given him by Paulos, and on this account he continually sent to bring him, and to speak with him.
 
@@ -1818,9 +1818,9 @@
 
 12. Then Festos, having spoken with the sons of his council, said, The appeals of Caesar hast thou invoked? To Caesar goest thou.
 
-13. AND when days had been, Agripos the king and Bernike came down to Cesarea to saluteTo wish the peace of. Festos.
+13. AND when days had been, Agripos the king and Bernike came down to Cesarea to salute
 
-14. And when they had been with him (some) days, Festos recounted to the king the judgmentOr, cause. of Paulos, saying, A certain man has been left bound by Felix;
+14. And when they had been with him (some) days, Festos recounted to the king the judgment
 
 15. and when I was at Urishlem, the chief priests and elders of the Jihudoyee informed me against him, and begged that I would do for them judgment against him.
 
@@ -1832,7 +1832,7 @@
 
 19. but (had) various questions with him regarding their worship, and concerning Jeshu, a man who was dead, of whom Paulos said that he was alive.
 
-20. And because I stood notOr, have not been constituted for. upon the investigation of these (matters), I said to Paulos, Dost thou require to go to Urishlem, and there be judged concerning these?
+20. And because I stood not
 
 21. But he required to be kept unto the judgment of Caesar; and I commanded that he should be kept until I may send him to Caesar.
 
@@ -1876,7 +1876,7 @@
 
 13. at the dividing of the day, in the way, I saw from heaven, O king, shining upon me and upon all who were with me, a light which (was) more excellent than the sun.
 
-14. And we fell all of us upon the earth; and I heard a voice that said to me in Hebrew, Shaol, Shaol, why persecutest thou me?Shaol, Shaol, mono rodeph ath li? It is hard to thee to kick against the pricks!
+14. And we fell all of us upon the earth; and I heard a voice that said to me in Hebrew, Shaol, Shaol, why persecutest thou me?
 
 15. And I said, Who art thou, my Lord? And he said, I am Jeshu Natsroya, whom thou persecutest.
 
@@ -1896,7 +1896,7 @@
 
 23. that the Meshiha should suffer, and should be the chief of the resurrection from the house of the dead, and should preach light to the people and to the nations.
 
-24. AND as Paulos was thus making defence, Festos cried with a high voice, Thou art mad, Paulos; much learningOr, many books. hath made thee mad!
+24. AND as Paulos was thus making defence, Festos cried with a high voice, Thou art mad, Paulos; much learning
 
 25. Paulos said to him, I am not mad, victorious Festos, but words of truth and righteousness I speak.
 
@@ -1922,7 +1922,7 @@
 
 3. entered the ship with us. And the day after we came to Tsaidon. And the centurion behaved with kindness towards Paulos, and permitted him to go to his friends and be refreshed.
 
-4. And from thence we voyaged; and because the winds were contrary we made a circuit unto Cypros.Al Kypros.
+4. And from thence we voyaged; and because the winds were contrary we made a circuit unto Cypros.
 
 5. And we went through the sea of Cilicia and of Pamphulia, and came to Mura, a city of Lukia.
 
@@ -1932,7 +1932,7 @@
 
 8. and hardly voyaging we passing around it came to the place which is called the Fair Havens. AND it was nigh to the city named Lasia.
 
-9. And we were there much time, until the day when the dayTishri, 10th day: about September 20th. of the fast of the Jihudoyee had also passed, and there had become danger for one to voyage by sea. And Paulos counselled them
+9. And we were there much time, until the day when the day
 
 10. and said, Men, I perceive that with distress and much loss we are to voyage, not only to the burden of the ship, but also to our own lives.
 
@@ -1948,7 +1948,7 @@
 
 16. And when we had passed a certain isle that is called Cyra; we could scarcely take up the boat.
 
-17. And when we had uplifted her, we girded and strengthened the ship. And because we feared lest we should fall into the precipitancyLocus declivis, descensus, praecipitium. Greek, snrtiv. of the sea, we brought down the sails, and so went forward.i
+17. And when we had uplifted her, we girded and strengthened the ship. And because we feared lest we should fall into the precipitancy
 
 18. And while there rose against us the hard tempest, the next day we threw the goods into the sea.
 
@@ -1994,9 +1994,9 @@
 
 39. And when it was day, the sailors knew not what land it was; but they saw along the coast a certain inlet of the sea, (into) which they purposed if possible to drive the ship.
 
-40. And they cut the anchorsSic. from the ship, and left them in the sea, and they loosed the bands of the oars, and raised a small sail to the wind which blew, and went forward to the face of the land.
+40. And they cut the anchors
 
-41. And the ship struck on a high place between two depths of the sea, and infixedInfixit se.-TREM. Illisa est.-REG. Resupinata est.-Paris, Min. et Angl. Rupta est.- BUXT. C. R. herself in it; and her forepart stood upon it, and was immovable, but her afterpart was loosed from the violence of the waves.
+41. And the ship struck on a high place between two depths of the sea, and infixed
 
 42. And the soldiers would have killed the prisoners, lest they should cast forth to swim, and escape from them;
 

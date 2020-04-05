@@ -18,7 +18,7 @@
 
 8. We therefore ought to receive such, that we may be helpers of the truth.
 
-9. I would have written to the church; but he who loveth to be foremostKadmoyo. of you, Diotrapas, receiveth us not.
+9. I would have written to the church; but he who loveth to be foremost
 
 10. On account of this, if I come, I will remember the works which he doeth, who words of evil maketh concerning us; and these not satisfying him, he hath not received the brethren, and those who receive he forbiddeth, and also expelleth from the church.
 

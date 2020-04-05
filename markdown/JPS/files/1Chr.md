@@ -142,7 +142,7 @@
 
 15. Ozem the sixth, David the seventh.
 
-16. And their sisters were Zeruiah and Abigail. And the sons of Zeruiah: Abishai,Heb. Abshai. and Joab, and Asahel, three.
+16. And their sisters were Zeruiah and Abigail. And the sons of Zeruiah: Abishai,
 
 17. And Abigail bore Amasa; and the father of Amasa was Jether the Ishmaelite.
 
@@ -300,7 +300,7 @@
 
 13. And the sons of Kenaz: Othniel, and Seraiah; and the sons of Othniel: Hathath.
 
-14. And Meonothai begot Ophrah; and Seraiah begot Joab the father of Ge-harashim;That is, The valley of craftsmen. for they were craftsmen.
+14. And Meonothai begot Ophrah; and Seraiah begot Joab the father of Ge-harashim;
 
 15. And the sons of Caleb the son of Jephunneh: Iru, Elah, and Naam; and the sons of Elah: Kenaz.
 
@@ -528,7 +528,7 @@
 
 41. but the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.
 
-42. And to the sons of Aaron they gave the cityHeb. cities. of refuge, Hebron; Libnah also with the open land about it, and Jattir, and Eshtemoa with the open land about it;
+42. And to the sons of Aaron they gave the city
 
 43. and Hilen with the open land about it, Debir with the open land about it;
 
@@ -548,7 +548,7 @@
 
 51. And some of the families of the sons of Kohath had cities of their borders out of the tribe of Ephraim.
 
-52. And they gave unto them the cityHeb. cities. of refuge, Shechem in the hill-country of Ephraim with the open land about it; Gezer also with the open land about it;
+52. And they gave unto them the city
 
 53. and Jokmeam with the open land about it, and Bethhoron with the open land about it;
 
@@ -602,7 +602,7 @@
 
 11. All these were sons of Jediael, even heads of their fathers' houses, mighty men of valour, seventeen thousand and two hundred, that were able to go forth in the host for war.
 
-12. Shuppim also, and Huppim, the sons of Ir, Hushim, the son of another.That is, Dan.
+12. Shuppim also, and Huppim, the sons of Ir, Hushim, the son of another.
 
 13. The sons of Naphtali: Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.
 
@@ -624,7 +624,7 @@
 
 22. And Ephraim their father mourned many days, and his brethren came to comfort him.
 
-23. And he went in to his wife, and she conceived, and bore a son, and he called his name Beriah, because itHeb. beraah. went evil with his house.
+23. And he went in to his wife, and she conceived, and bore a son, and he called his name Beriah, because it
 
 24. And his daughter was Sheerah, who built Beth-horon the nether and the upper, and Uzzen-sheerah.
 
@@ -632,7 +632,7 @@
 
 26. Ladan his son, Ammihud his son, Elishama his son;
 
-27. NunHeb. Non. his son, Joshua his son.
+27. Nun
 
 28. And their possessions and habitations were Beth-el and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Aiah and the towns thereof;
 
@@ -718,7 +718,7 @@
 
 28. These were heads of fathers' houses throughout their generations, chief men; these dwelt in Jerusalem.
 
-29. And in Gibeon there dwelt the father of Gibeon, Jeiel,See ch. 9.35. whose wife's name was Maacah;
+29. And in Gibeon there dwelt the father of Gibeon, Jeiel,
 
 30. and his first-born son Abdon, and Zur, and Kish, and Baal, and Nadab;
 
@@ -822,9 +822,9 @@
 
 39. And Ner begot Kish; and Kish begot Saul; and Saul begot Jonathan, and Malchi-shua, and Abinadab, and Eshbaal.
 
-40. And the son of Jonathan was Merib-baal;Heb. Meri-baal. and Merib-baal begot Micah.
+40. And the son of Jonathan was Merib-baal;
 
-41. And the sons of Micah: Pithon, and Melech, and Taharea ,and Ahaz.See ch. 8.35
+41. And the sons of Micah: Pithon, and Melech, and Taharea ,and Ahaz.
 
 42. And Ahaz begot Jarah; and Jarah begot Alemeth, and Azmaveth, and Zimri; and Zimri begot Moza.
 
@@ -902,7 +902,7 @@
 
 19. and said: 'My G-d forbid it me, that I should do this; shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it.' Therefore he would not drink it. These things did the three mighty men.
 
-20. And Abishai,Heb. Abshai. the brother of Joab, he was chief of the three; for he lifted up his spear against three hundred and slew them, and had a name among the three.
+20. And Abishai,
 
 21. Of the three in the second rank he was the most honourable, and was made their captain; howbeit he attained not to the first three.
 
@@ -996,7 +996,7 @@
 
 18. Then the spirit clothed Amasai, who was chief of the captains: Thine are we, David, and on thy side, thou son of Jesse; peace, peace be unto thee, and peace be to thy helpers; for thy G-d helpeth thee. Then David received them, and made them captains of the band.
 
-19. Of Manasseh also there fell away some to David, when he came with the Philistines against Saul to battle, but theyThat is, David and his men. helped them not; for the lords of the Philistines upon advisement sent him away, saying: 'He will fall away to his master Saul to the jeopardy of our heads.'
+19. Of Manasseh also there fell away some to David, when he came with the Philistines against Saul to battle, but they
 
 20. As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zillethai, captains of thousands that were of Manasseh.
 
@@ -1062,7 +1062,7 @@
 
 10. And the anger of HaShem was kindled against Uzza, and He smote him, because he put forth his hand to the ark; and there he died before G-d.
 
-11. And David was displeased, because HaShem had broken forth upon Uzza; and that place was called Perez-uzzaThat is, The breach of Uzza. unto this day.
+11. And David was displeased, because HaShem had broken forth upon Uzza; and that place was called Perez-uzza
 
 12. And David was afraid of G-d that day, saying: 'How shall I bring the ark of G-d home to me?'
 
@@ -1092,7 +1092,7 @@
 
 10. And David inquired of G-d, saying: 'Shall I go up against the Philistines? and wilt Thou deliver them into my hand?' And HaShem said unto him: 'Go up; for I will deliver them into thy hand.'
 
-11. So they came up to Baal-perazim, and David smote them there; and David said: 'G-d hath broken mine enemies by my hand, like the breach of waters.' Therefore they called the name of that place Baal-perazim.That is, The possessor of breaches.
+11. So they came up to Baal-perazim, and David smote them there; and David said: 'G-d hath broken mine enemies by my hand, like the breach of waters.' Therefore they called the name of that place Baal-perazim.
 
 12. And they left their gods there; and David gave commandment, and they were burned with fire.
 
@@ -1334,7 +1334,7 @@
 
 11. These also did king David dedicate unto HaShem, with the silver and the gold that he carried away from all the nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.
 
-12. Moreover AbishaiHeb. Abshai, and in xix. 11, 15. the son of Zeruiah smote of the Edomites in the Valley of Salt eighteen thousand.
+12. Moreover Abishai
 
 13. And he put garrisons in Edom; and all the Edomites became servants to David. And HaShem gave victory to David whithersoever he went.
 
@@ -1484,7 +1484,7 @@
 
 8. But the word of HaShem came to me, saying: Thou hast shed blood abundantly, and hast made great wars; thou shalt not build a house unto My name, because thou hast shed much blood upon the earth in My sight.
 
-9. Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about; for his name shall be Solomon,That is, Peaceful. and I will give peace and quietness unto Israel in his days.
+9. Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about; for his name shall be Solomon,
 
 10. He shall build a house for My name; and he shall be to Me for a son, and I will be to him for a father; and I will establish the throne of his kingdom over Israel for ever.
 
@@ -1752,7 +1752,7 @@
 
 25. And his brethren by Eliezer: Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.
 
-26. This ShelomithHeb. Shelomoth. and his brethren were over all the treasuries of the dedicated things, which David the king, and the heads of the fathers' houses, the captains over thousands and hundreds, and the captains of the host, had dedicated.
+26. This Shelomith
 
 27. Out of the spoil won in battles did they dedicate to repair the house of HaShem.
 

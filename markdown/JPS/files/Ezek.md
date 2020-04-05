@@ -1138,7 +1138,7 @@
 
 3. and they committed harlotries in Egypt; they committed harlotries in their youth; there were their bosoms pressed, and there their virgin breasts were bruised.
 
-4. And the names of them were OholahThat is, Her tent. the elder, and Oholibah her sister; and they became Mine, and they bore sons and daughters. And as for their names, Samaria is Oholah, and Jerusalem Oholibah.That is, My tent is in her.
+4. And the names of them were Oholah
 
 5. And Oholah played the harlot when she was Mine; and she doted on her lovers, on the Assyrians, warriors,
 
@@ -2066,7 +2066,7 @@
 
 10. so that they shall take no wood out of the field, neither cut down any out of the forests, for they shall make fires of the weapons; and they shall spoil those that spoiled them, and rob those that robbed them, saith the L-rd GOD.
 
-11. And it shall come to pass in that day, that I will give unto Gog a place fit for burial in Israel, the valley of them that pass through on the east of the sea; and it shall stop them that pass through; and there shall they bury Gog and all his multitude; and they shall call it the valley of Hamon-gog.That is, The multitude of Gog.
+11. And it shall come to pass in that day, that I will give unto Gog a place fit for burial in Israel, the valley of them that pass through on the east of the sea; and it shall stop them that pass through; and there shall they bury Gog and all his multitude; and they shall call it the valley of Hamon-gog.
 
 12. And seven months shall the house of Israel be burying them, that they may cleanse the land.
 
@@ -2076,7 +2076,7 @@
 
 15. And when they that pass through shall pass through the land, and any seeth a man's bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamon-gog.
 
-16. And Hamonah shall also be the name of a city. Thus shall they cleanse the land.That is, Multitude.
+16. And Hamonah shall also be the name of a city. Thus shall they cleanse the land.
 
 17. And thou, son of man, thus saith the L-rd GOD: Speak unto the birds of every sort, and to every beast of the field: Assemble yourselves, and come; gather yourselves on every side to My feast that I do prepare for you, even a great feast, upon the mountains of Israel, that ye may eat flesh and drink blood.
 
@@ -2206,7 +2206,7 @@
 
 ## Ezekiel 41
 
-1. And he brought me to the temple,That is, the holy place. and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, which was the breadth of the tent.
+1. And he brought me to the temple,
 
 2. And the breadth of the entrance was ten cubits; and the sides of the entrance were five cubits on the one side, and five cubits on the other side; and he measured the length thereof, forty cubits, and the breadth, twenty cubits.
 

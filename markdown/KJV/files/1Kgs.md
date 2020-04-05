@@ -2,23 +2,23 @@
 
 ## 1 Kings 1
 
-1. Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.stricken…: Heb. entered into days
+1. Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.
 
-2. Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat.Let there…: Heb. Let them seeka young…: Heb. a damsel, a virgincherish…: Heb. be a cherisher unto him
+2. Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat.
 
 3. So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.
 
 4. And the damsel was very fair, and cherished the king, and ministered to him: but the king knew her not.
 
-5. Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.be king: Heb. reign
+5. Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.
 
-6. And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom.at any…: Heb. from his days
+6. And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom.
 
-7. And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.he…: Heb. his words were withfollowing…: Heb. helped after Adonijah
+7. And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.
 
 8. But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
 
-9. And Adonijah slew sheep and oxen and fat cattle by the stone of Zoheleth, which is by En–rogel, and called all his brethren the king’s sons, and all the men of Judah the king’s servants:En–rogel: or, the well Rogel
+9. And Adonijah slew sheep and oxen and fat cattle by the stone of Zoheleth, which is by En–rogel, and called all his brethren the king’s sons, and all the men of Judah the king’s servants:
 
 10. But Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not.
 
@@ -28,11 +28,11 @@
 
 13. Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?
 
-14. Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words.confirm: Heb. fill up
+14. Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words.
 
 15. And Bath–sheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king.
 
-16. And Bath–sheba bowed, and did obeisance unto the king. And the king said, What wouldest thou?What…: Heb. What to thee?
+16. And Bath–sheba bowed, and did obeisance unto the king. And the king said, What wouldest thou?
 
 17. And she said unto him, My lord, thou swarest by the Lord thy God unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne.
 
@@ -42,7 +42,7 @@
 
 20. And thou, my lord, O king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him.
 
-21. Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders.offenders: Heb. sinners
+21. Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders.
 
 22. And, lo, while she yet talked with the king, Nathan the prophet also came in.
 
@@ -50,13 +50,13 @@
 
 24. And Nathan said, My lord, O king, hast thou said, Adonijah shall reign after me, and he shall sit upon my throne?
 
-25. For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king’s sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah.God…: Heb. Let king Adonijah live
+25. For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king’s sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah.
 
 26. But me, even me thy servant, and Zadok the priest, and Benaiah the son of Jehoiada, and thy servant Solomon, hath he not called.
 
 27. Is this thing done by my lord the king, and thou hast not shewed it unto thy servant, who should sit on the throne of my lord the king after him?
 
-28. Then king David answered and said, Call me Bath–sheba. And she came into the king’s presence, and stood before the king.into…: Heb. before the king
+28. Then king David answered and said, Call me Bath–sheba. And she came into the king’s presence, and stood before the king.
 
 29. And the king sware, and said, As the Lord liveth, that hath redeemed my soul out of all distress,
 
@@ -66,7 +66,7 @@
 
 32. And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.
 
-33. The king also said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon:mine…: Heb. which belongeth to me
+33. The king also said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon:
 
 34. And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon.
 
@@ -80,7 +80,7 @@
 
 39. And Zadok the priest took an horn of oil out of the tabernacle, and anointed Solomon. And they blew the trumpet; and all the people said, God save king Solomon.
 
-40. And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.pipes: or, flutes
+40. And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.
 
 41. And Adonijah and all the guests that were with him heard it as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore is this noise of the city being in an uproar?
 
@@ -114,17 +114,17 @@
 
 2. I go the way of all the earth: be thou strong therefore, and shew thyself a man;
 
-3. And keep the charge of the Lord thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:prosper: or, do wisely
+3. And keep the charge of the Lord thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:
 
-4. That the Lord may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel.fail…: Heb. be cut off from thee from the throne
+4. That the Lord may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel.
 
-5. Moreover thou knowest also what Joab the son of Zeruiah did to me, and what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that was about his loins, and in his shoes that were on his feet.shed: Heb. put
+5. Moreover thou knowest also what Joab the son of Zeruiah did to me, and what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that was about his loins, and in his shoes that were on his feet.
 
 6. Do therefore according to thy wisdom, and let not his hoar head go down to the grave in peace.
 
 7. But shew kindness unto the sons of Barzillai the Gileadite, and let them be of those that eat at thy table: for so they came to me when I fled because of Absalom thy brother.
 
-8. And, behold, thou hast with thee Shimei the son of Gera, a Benjamite of Bahurim, which cursed me with a grievous curse in the day when I went to Mahanaim: but he came down to meet me at Jordan, and I sware to him by the Lord, saying, I will not put thee to death with the sword.grievous: Heb. strong
+8. And, behold, thou hast with thee Shimei the son of Gera, a Benjamite of Bahurim, which cursed me with a grievous curse in the day when I went to Mahanaim: but he came down to meet me at Jordan, and I sware to him by the Lord, saying, I will not put thee to death with the sword.
 
 9. Now therefore hold him not guiltless: for thou art a wise man, and knowest what thou oughtest to do unto him; but his hoar head bring thou down to the grave with blood.
 
@@ -140,7 +140,7 @@
 
 15. And he said, Thou knowest that the kingdom was mine, and that all Israel set their faces on me, that I should reign: howbeit the kingdom is turned about, and is become my brother’s: for it was his from the Lord.
 
-16. And now I ask one petition of thee, deny me not. And she said unto him, Say on.deny…: Heb. turn not away my face
+16. And now I ask one petition of thee, deny me not. And she said unto him, Say on.
 
 17. And he said, Speak, I pray thee, unto Solomon the king, (for he will not say thee nay,) that he give me Abishag the Shunammite to wife.
 
@@ -160,7 +160,7 @@
 
 25. And king Solomon sent by the hand of Benaiah the son of Jehoiada; and he fell upon him that he died.
 
-26. And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou art worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord God before David my father, and because thou hast been afflicted in all wherein my father was afflicted.worthy…: Heb. a man of death
+26. And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou art worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord God before David my father, and because thou hast been afflicted in all wherein my father was afflicted.
 
 27. So Solomon thrust out Abiathar from being priest unto the Lord; that he might fulfil the word of the Lord, which he spake concerning the house of Eli in Shiloh.
 
@@ -214,21 +214,21 @@
 
 5. In Gibeon the Lord appeared to Solomon in a dream by night: and God said, Ask what I shall give thee.
 
-6. And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as it is this day.mercy: or, bounty
+6. And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as it is this day.
 
 7. And now, O Lord my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in.
 
 8. And thy servant is in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude.
 
-9. Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?understanding: Heb. hearing
+9. Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?
 
 10. And the speech pleased the Lord, that Solomon had asked this thing.
 
-11. And God said unto him, Because thou hast asked this thing, and hast not asked for thyself long life; neither hast asked riches for thyself, nor hast asked the life of thine enemies; but hast asked for thyself understanding to discern judgment;long life: Heb. many daysdiscern: Heb. hear
+11. And God said unto him, Because thou hast asked this thing, and hast not asked for thyself long life; neither hast asked riches for thyself, nor hast asked the life of thine enemies; but hast asked for thyself understanding to discern judgment;
 
 12. Behold, I have done according to thy words: lo, I have given thee a wise and an understanding heart; so that there was none like thee before thee, neither after thee shall any arise like unto thee.
 
-13. And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.shall…: or, hath not been
+13. And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.
 
 14. And if thou wilt walk in my ways, to keep my statutes and my commandments, as thy father David did walk, then I will lengthen thy days.
 
@@ -254,41 +254,41 @@
 
 25. And the king said, Divide the living child in two, and give half to the one, and half to the other.
 
-26. Then spake the woman whose the living child was unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, but divide it.yearned: Heb. were hot
+26. Then spake the woman whose the living child was unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, but divide it.
 
 27. Then the king answered and said, Give her the living child, and in no wise slay it: she is the mother thereof.
 
-28. And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment.in him: Heb. in the midst of him 
+28. And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment.
 
 ## 1 Kings 4
 
 1. So king Solomon was king over all Israel.
 
-2. And these were the princes which he had; Azariah the son of Zadok the priest,priest: or, chief officer
+2. And these were the princes which he had; Azariah the son of Zadok the priest,
 
-3. Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.scribes: or, secretariesrecorder: or, remembrancer
+3. Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.
 
 4. And Benaiah the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:
 
 5. And Azariah the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king’s friend:
 
-6. And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.tribute: or, levy
+6. And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.
 
 7. And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.
 
-8. And these are their names: The son of Hur, in mount Ephraim:The son…: or, Ben–hur
+8. And these are their names: The son of Hur, in mount Ephraim:
 
-9. The son of Dekar, in Makaz, and in Shaalbim, and Beth–shemesh, and Elon–beth–hanan:The son…: or, Ben–dekar
+9. The son of Dekar, in Makaz, and in Shaalbim, and Beth–shemesh, and Elon–beth–hanan:
 
-10. The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:The son…: or, Ben–hesed
+10. The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:
 
-11. The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:The son…: or, Ben–abinadab
+11. The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:
 
 12. Baana the son of Ahilud; to him pertained Taanach and Megiddo, and all Beth–shean, which is by Zartanah beneath Jezreel, from Beth–shean to Abel–meholah, even unto the place that is beyond Jokneam:
 
-13. The son of Geber, in Ramoth–gilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:The son…: or, Ben–geber
+13. The son of Geber, in Ramoth–gilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:
 
-14. Ahinadab the son of Iddo had Mahanaim:Mahanaim: or, to Mahanaim
+14. Ahinadab the son of Iddo had Mahanaim:
 
 15. Ahimaaz was in Naphtali; he also took Basmath the daughter of Solomon to wife:
 
@@ -304,19 +304,19 @@
 
 21. And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.
 
-22. And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,provision: Heb. breadmeasures: Heb. cors
+22. And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,
 
 23. Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
 
 24. For he had dominion over all the region on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.
 
-25. And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer–sheba, all the days of Solomon.safely: Heb. confidently
+25. And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer–sheba, all the days of Solomon.
 
 26. And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
 
 27. And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing.
 
-28. Barley also and straw for the horses and dromedaries brought they unto the place where the officers were, every man according to his charge.dromedaries: or, mules, or, swift beasts
+28. Barley also and straw for the horses and dromedaries brought they unto the place where the officers were, every man according to his charge.
 
 29. And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore.
 
@@ -332,7 +332,7 @@
 
 ## 1 Kings 5
 
-1. And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.Hiram: also called, Huram
+1. And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.
 
 2. And Solomon sent to Hiram, saying,
 
@@ -340,23 +340,23 @@
 
 4. But now the Lord my God hath given me rest on every side, so that there is neither adversary nor evil occurrent.
 
-5. And, behold, I purpose to build an house unto the name of the Lord my God, as the Lord spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.purpose: Heb. say
+5. And, behold, I purpose to build an house unto the name of the Lord my God, as the Lord spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.
 
-6. Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians.appoint: Heb. say
+6. Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians.
 
 7. And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the Lord this day, which hath given unto David a wise son over this great people.
 
-8. And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir.considered: Heb. heard
+8. And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir.
 
-9. My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household.appoint: Heb. send
+9. My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household.
 
 10. So Hiram gave Solomon cedar trees and fir trees according to all his desire.
 
-11. And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.measures: Heb. cors
+11. And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.
 
 12. And the Lord gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.
 
-13. And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.levy: Heb. tribute of men
+13. And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.
 
 14. And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home: and Adoniram was over the levy.
 
@@ -366,27 +366,27 @@
 
 17. And the king commanded, and they brought great stones, costly stones, and hewed stones, to lay the foundation of the house.
 
-18. And Solomon’s builders and Hiram’s builders did hew them, and the stonesquarers: so they prepared timber and stones to build the house.stonesquarers: or, Giblites 
+18. And Solomon’s builders and Hiram’s builders did hew them, and the stonesquarers: so they prepared timber and stones to build the house.
 
 ## 1 Kings 6
 
-1. And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.began…: Heb. built
+1. And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.
 
 2. And the house which king Solomon built for the Lord, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.
 
 3. And the porch before the temple of the house, twenty cubits was the length thereof, according to the breadth of the house; and ten cubits was the breadth thereof before the house.
 
-4. And for the house he made windows of narrow lights.of…: or, broad within, and narrow without: or, skewed and closed
+4. And for the house he made windows of narrow lights.
 
-5. And against the wall of the house he built chambers round about, against the walls of the house round about, both of the temple and of the oracle: and he made chambers round about:against the wall: or, upon, or, joining to the wallbuilt chambers: Heb. built floorsmade chambers: Heb. made ribs
+5. And against the wall of the house he built chambers round about, against the walls of the house round about, both of the temple and of the oracle: and he made chambers round about:
 
-6. The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made narrowed rests round about, that the beams should not be fastened in the walls of the house.narrowed…: Heb. narrowings, or, rebatements
+6. The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made narrowed rests round about, that the beams should not be fastened in the walls of the house.
 
 7. And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building.
 
-8. The door for the middle chamber was in the right side of the house: and they went up with winding stairs into the middle chamber, and out of the middle into the third.side: Heb. shoulder
+8. The door for the middle chamber was in the right side of the house: and they went up with winding stairs into the middle chamber, and out of the middle into the third.
 
-9. So he built the house, and finished it; and covered the house with beams and boards of cedar.with…: or, the vaultbeams and the panellings with cedar
+9. So he built the house, and finished it; and covered the house with beams and boards of cedar.
 
 10. And then he built chambers against all the house, five cubits high: and they rested on the house with timber of cedar.
 
@@ -398,23 +398,23 @@
 
 14. So Solomon built the house, and finished it.
 
-15. And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: and he covered them on the inside with wood, and covered the floor of the house with planks of fir.both…: or, from the floor of the house unto the walls, etc
+15. And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: and he covered them on the inside with wood, and covered the floor of the house with planks of fir.
 
 16. And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built them for it within, even for the oracle, even for the most holy place.
 
 17. And the house, that is, the temple before it, was forty cubits long.
 
-18. And the cedar of the house within was carved with knops and open flowers: all was cedar; there was no stone seen.knops: or, gourdsopen: Heb. openings of
+18. And the cedar of the house within was carved with knops and open flowers: all was cedar; there was no stone seen.
 
 19. And the oracle he prepared in the house within, to set there the ark of the covenant of the Lord.
 
-20. And the oracle in the forepart was twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof: and he overlaid it with pure gold; and so covered the altar which was of cedar.pure: Heb. shut up
+20. And the oracle in the forepart was twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof: and he overlaid it with pure gold; and so covered the altar which was of cedar.
 
 21. So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold.
 
 22. And the whole house he overlaid with gold, until he had finished all the house: also the whole altar that was by the oracle he overlaid with gold.
 
-23. And within the oracle he made two cherubims of olive tree, each ten cubits high.olive: or, oily: Heb. trees of oil
+23. And within the oracle he made two cherubims of olive tree, each ten cubits high.
 
 24. And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits.
 
@@ -422,19 +422,19 @@
 
 26. The height of the one cherub was ten cubits, and so was it of the other cherub.
 
-27. And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house.they…: or, the cherubims stretched forth their wings
+27. And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house.
 
 28. And he overlaid the cherubims with gold.
 
-29. And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without.open flowers: Heb. openings of flowers
+29. And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without.
 
 30. And the floor of the house he overlaid with gold, within and without.
 
-31. And for the entering of the oracle he made doors of olive tree: the lintel and side posts were a fifth part of the wall.a fifth…: or, fivesquare
+31. And for the entering of the oracle he made doors of olive tree: the lintel and side posts were a fifth part of the wall.
 
-32. The two doors also were of olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid them with gold, and spread gold upon the cherubims, and upon the palm trees.two…: or, leaves of the doorsopen flowers: Heb. openings of flowers
+32. The two doors also were of olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid them with gold, and spread gold upon the cherubims, and upon the palm trees.
 
-33. So also made he for the door of the temple posts of olive tree, a fourth part of the wall.a fourth…: or, foursquare
+33. So also made he for the door of the temple posts of olive tree, a fourth part of the wall.
 
 34. And the two doors were of fir tree: the two leaves of the one door were folding, and the two leaves of the other door were folding.
 
@@ -444,7 +444,7 @@
 
 37. In the fourth year was the foundation of the house of the Lord laid, in the month Zif:
 
-38. And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.throughout…: or, with all the parts thereof, and with all the ordinances thereof 
+38. And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.
 
 ## 1 Kings 7
 
@@ -452,15 +452,15 @@
 
 2. He built also the house of the forest of Lebanon; the length thereof was an hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.
 
-3. And it was covered with cedar above upon the beams, that lay on forty five pillars, fifteen in a row.beams: Heb. ribs
+3. And it was covered with cedar above upon the beams, that lay on forty five pillars, fifteen in a row.
 
-4. And there were windows in three rows, and light was against light in three ranks.light was…: Heb. sight against sight
+4. And there were windows in three rows, and light was against light in three ranks.
 
-5. And all the doors and posts were square, with the windows: and light was against light in three ranks.doors…: or, spaces and pillars were square in prospect
+5. And all the doors and posts were square, with the windows: and light was against light in three ranks.
 
-6. And he made a porch of pillars; the length thereof was fifty cubits, and the breadth thereof thirty cubits: and the porch was before them: and the other pillars and the thick beam were before them.before them: or, according to them
+6. And he made a porch of pillars; the length thereof was fifty cubits, and the breadth thereof thirty cubits: and the porch was before them: and the other pillars and the thick beam were before them.
 
-7. Then he made a porch for the throne where he might judge, even the porch of judgment: and it was covered with cedar from one side of the floor to the other.from…: Heb. from floor to floor
+7. Then he made a porch for the throne where he might judge, even the porch of judgment: and it was covered with cedar from one side of the floor to the other.
 
 8. And his house where he dwelt had another court within the porch, which was of the like work. Solomon made also an house for Pharaoh’s daughter, whom he had taken to wife, like unto this porch.
 
@@ -472,11 +472,11 @@
 
 12. And the great court round about was with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the Lord, and for the porch of the house.
 
-13. And king Solomon sent and fetched Hiram out of Tyre.Hiram: also called, Huram
+13. And king Solomon sent and fetched Hiram out of Tyre.
 
-14. He was a widow’s son of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work.a widow’s…: Heb. the son of a widow woman
+14. He was a widow’s son of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work.
 
-15. For he cast two pillars of brass, of eighteen cubits high apiece: and a line of twelve cubits did compass either of them about.cast: Heb. fashioned
+15. For he cast two pillars of brass, of eighteen cubits high apiece: and a line of twelve cubits did compass either of them about.
 
 16. And he made two chapiters of molten brass, to set upon the tops of the pillars: the height of the one chapiter was five cubits, and the height of the other chapiter was five cubits:
 
@@ -488,11 +488,11 @@
 
 20. And the chapiters upon the two pillars had pomegranates also above, over against the belly which was by the network: and the pomegranates were two hundred in rows round about upon the other chapiter.
 
-21. And he set up the pillars in the porch of the temple: and he set up the right pillar, and called the name thereof Jachin: and he set up the left pillar, and called the name thereof Boaz.Jachin: that is, He shall establishBoaz: that is, In it is strength
+21. And he set up the pillars in the porch of the temple: and he set up the right pillar, and called the name thereof Jachin: and he set up the left pillar, and called the name thereof Boaz.
 
 22. And upon the top of the pillars was lily work: so was the work of the pillars finished.
 
-23. And he made a molten sea, ten cubits from the one brim to the other: it was round all about, and his height was five cubits: and a line of thirty cubits did compass it round about.from…: Heb. from his brim to his brim
+23. And he made a molten sea, ten cubits from the one brim to the other: it was round all about, and his height was five cubits: and a line of thirty cubits did compass it round about.
 
 24. And under the brim of it round about there were knops compassing it, ten in a cubit, compassing the sea round about: the knops were cast in two rows, when it was cast.
 
@@ -510,7 +510,7 @@
 
 31. And the mouth of it within the chapiter and above was a cubit: but the mouth thereof was round after the work of the base, a cubit and an half: and also upon the mouth of it were gravings with their borders, foursquare, not round.
 
-32. And under the borders were four wheels; and the axletrees of the wheels were joined to the base: and the height of a wheel was a cubit and half a cubit.joined…: Heb. in the base
+32. And under the borders were four wheels; and the axletrees of the wheels were joined to the base: and the height of a wheel was a cubit and half a cubit.
 
 33. And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.
 
@@ -518,41 +518,41 @@
 
 35. And in the top of the base was there a round compass of half a cubit high: and on the top of the base the ledges thereof and the borders thereof were of the same.
 
-36. For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.proportion: Heb. nakedness
+36. For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
 
 37. After this manner he made the ten bases: all of them had one casting, one measure, and one size.
 
 38. Then made he ten lavers of brass: one laver contained forty baths: and every laver was four cubits: and upon every one of the ten bases one laver.
 
-39. And he put five bases on the right side of the house, and five on the left side of the house: and he set the sea on the right side of the house eastward over against the south.side: Heb. shoulder
+39. And he put five bases on the right side of the house, and five on the left side of the house: and he set the sea on the right side of the house eastward over against the south.
 
-40. And Hiram made the lavers, and the shovels, and the basons. So Hiram made an end of doing all the work that he made king Solomon for the house of the Lord:And Hiram: Heb. And Hirom
+40. And Hiram made the lavers, and the shovels, and the basons. So Hiram made an end of doing all the work that he made king Solomon for the house of the Lord:
 
 41. The two pillars, and the two bowls of the chapiters that were on the top of the two pillars; and the two networks, to cover the two bowls of the chapiters which were upon the top of the pillars;
 
-42. And four hundred pomegranates for the two networks, even two rows of pomegranates for one network, to cover the two bowls of the chapiters that were upon the pillars;upon…: Heb. upon the face of the pillars
+42. And four hundred pomegranates for the two networks, even two rows of pomegranates for one network, to cover the two bowls of the chapiters that were upon the pillars;
 
 43. And the ten bases, and ten lavers on the bases;
 
 44. And one sea, and twelve oxen under the sea;
 
-45. And the pots, and the shovels, and the basons: and all these vessels, which Hiram made to king Solomon for the house of the Lord, were of bright brass.bright: Heb. made bright or, scoured
+45. And the pots, and the shovels, and the basons: and all these vessels, which Hiram made to king Solomon for the house of the Lord, were of bright brass.
 
-46. In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.in…: Heb. in the thickness of the ground
+46. In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.
 
-47. And Solomon left all the vessels unweighed, because they were exceeding many: neither was the weight of the brass found out.because…: Heb. for the exceeding multitudefound: Heb. searched
+47. And Solomon left all the vessels unweighed, because they were exceeding many: neither was the weight of the brass found out.
 
 48. And Solomon made all the vessels that pertained unto the house of the Lord: the altar of gold, and the table of gold, whereupon the shewbread was,
 
 49. And the candlesticks of pure gold, five on the right side, and five on the left, before the oracle, with the flowers, and the lamps, and the tongs of gold,
 
-50. And the bowls, and the snuffers, and the basons, and the spoons, and the censers of pure gold; and the hinges of gold, both for the doors of the inner house, the most holy place, and for the doors of the house, to wit, of the temple.censers: Heb. ash pans
+50. And the bowls, and the snuffers, and the basons, and the spoons, and the censers of pure gold; and the hinges of gold, both for the doors of the inner house, the most holy place, and for the doors of the house, to wit, of the temple.
 
-51. So was ended all the work that king Solomon made for the house of the Lord. And Solomon brought in the things which David his father had dedicated; even the silver, and the gold, and the vessels, did he put among the treasures of the house of the Lord.things…: Heb. holy things of David 
+51. So was ended all the work that king Solomon made for the house of the Lord. And Solomon brought in the things which David his father had dedicated; even the silver, and the gold, and the vessels, did he put among the treasures of the house of the Lord.
 
 ## 1 Kings 8
 
-1. Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the Lord out of the city of David, which is Zion.chief: Heb. princes
+1. Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the Lord out of the city of David, which is Zion.
 
 2. And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which is the seventh month.
 
@@ -566,9 +566,9 @@
 
 7. For the cherubims spread forth their two wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
 
-8. And they drew out the staves, that the ends of the staves were seen out in the holy place before the oracle, and they were not seen without: and there they are unto this day.ends: Heb. headsholy…: or, ark
+8. And they drew out the staves, that the ends of the staves were seen out in the holy place before the oracle, and they were not seen without: and there they are unto this day.
 
-9. There was nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the Lord made a covenant with the children of Israel, when they came out of the land of Egypt.when the: or, where the
+9. There was nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the Lord made a covenant with the children of Israel, when they came out of the land of Egypt.
 
 10. And it came to pass, when the priests were come out of the holy place, that the cloud filled the house of the Lord,
 
@@ -600,7 +600,7 @@
 
 24. Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled it with thine hand, as it is this day.
 
-25. Therefore now, Lord God of Israel, keep with thy servant David my father that thou promisedst him, saying, There shall not fail thee a man in my sight to sit on the throne of Israel; so that thy children take heed to their way, that they walk before me as thou hast walked before me.fail…: Heb. be cut off unto thee a man from my sightso that: Heb. only if
+25. Therefore now, Lord God of Israel, keep with thy servant David my father that thou promisedst him, saying, There shall not fail thee a man in my sight to sit on the throne of Israel; so that thy children take heed to their way, that they walk before me as thou hast walked before me.
 
 26. And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.
 
@@ -608,15 +608,15 @@
 
 28. Yet have thou respect unto the prayer of thy servant, and to his supplication, O Lord my God, to hearken unto the cry and to the prayer, which thy servant prayeth before thee to day:
 
-29. That thine eyes may be open toward this house night and day, even toward the place of which thou hast said, My name shall be there: that thou mayest hearken unto the prayer which thy servant shall make toward this place.toward this place: or, in this place
+29. That thine eyes may be open toward this house night and day, even toward the place of which thou hast said, My name shall be there: that thou mayest hearken unto the prayer which thy servant shall make toward this place.
 
-30. And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive.toward this place: or, in this place
+30. And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive.
 
-31. If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before thine altar in this house:and an oath…: Heb. and he require an oath of him
+31. If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before thine altar in this house:
 
 32. Then hear thou in heaven, and do, and judge thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness.
 
-33. When thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again to thee, and confess thy name, and pray, and make supplication unto thee in this house:in: or, toward
+33. When thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again to thee, and confess thy name, and pray, and make supplication unto thee in this house:
 
 34. Then hear thou in heaven, and forgive the sin of thy people Israel, and bring them again unto the land which thou gavest unto their fathers.
 
@@ -624,7 +624,7 @@
 
 36. Then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, that thou teach them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people for an inheritance.
 
-37. If there be in the land famine, if there be pestilence, blasting, mildew, locust, or if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness there be;cities: or, jurisdiction
+37. If there be in the land famine, if there be pestilence, blasting, mildew, locust, or if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness there be;
 
 38. What prayer and supplication soever be made by any man, or by all thy people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house:
 
@@ -636,19 +636,19 @@
 
 42. (For they shall hear of thy great name, and of thy strong hand, and of thy stretched out arm;) when he shall come and pray toward this house;
 
-43. Hear thou in heaven thy dwelling place, and do according to all that the stranger calleth to thee for: that all people of the earth may know thy name, to fear thee, as do thy people Israel; and that they may know that this house, which I have builded, is called by thy name.this…: Heb. thy name is called upon this house
+43. Hear thou in heaven thy dwelling place, and do according to all that the stranger calleth to thee for: that all people of the earth may know thy name, to fear thee, as do thy people Israel; and that they may know that this house, which I have builded, is called by thy name.
 
-44. If thy people go out to battle against their enemy, whithersoever thou shalt send them, and shall pray unto the Lord toward the city which thou hast chosen, and toward the house that I have built for thy name:toward the city: Heb. the way of the city
+44. If thy people go out to battle against their enemy, whithersoever thou shalt send them, and shall pray unto the Lord toward the city which thou hast chosen, and toward the house that I have built for thy name:
 
-45. Then hear thou in heaven their prayer and their supplication, and maintain their cause.cause: or, right
+45. Then hear thou in heaven their prayer and their supplication, and maintain their cause.
 
 46. If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
 
-47. Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;bethink…: Heb. bring back to their heart
+47. Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
 
 48. And so return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:
 
-49. Then hear thou their prayer and their supplication in heaven thy dwelling place, and maintain their cause,cause: or, right
+49. Then hear thou their prayer and their supplication in heaven thy dwelling place, and maintain their cause,
 
 50. And forgive thy people that have sinned against thee, and all their transgressions wherein they have transgressed against thee, and give them compassion before them who carried them captive, that they may have compassion on them:
 
@@ -662,13 +662,13 @@
 
 55. And he stood, and blessed all the congregation of Israel with a loud voice, saying,
 
-56. Blessed be the Lord, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant.failed: Heb. fallen
+56. Blessed be the Lord, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant.
 
 57. The Lord our God be with us, as he was with our fathers: let him not leave us, nor forsake us:
 
 58. That he may incline our hearts unto him, to walk in all his ways, and to keep his commandments, and his statutes, and his judgments, which he commanded our fathers.
 
-59. And let these my words, wherewith I have made supplication before the Lord, be nigh unto the Lord our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:at all…: Heb. the thing of a day in his day
+59. And let these my words, wherewith I have made supplication before the Lord, be nigh unto the Lord our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:
 
 60. That all the people of the earth may know that the Lord is God, and that there is none else.
 
@@ -682,7 +682,7 @@
 
 65. And at that time Solomon held a feast, and all Israel with him, a great congregation, from the entering in of Hamath unto the river of Egypt, before the Lord our God, seven days and seven days, even fourteen days.
 
-66. On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the Lord had done for David his servant, and for Israel his people.blessed: or, thanked 
+66. On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the Lord had done for David his servant, and for Israel his people.
 
 ## 1 Kings 9
 
@@ -708,9 +708,9 @@
 
 11. (Now Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee.
 
-12. And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.pleased…: Heb. were not right in his eyes
+12. And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.
 
-13. And he said, What cities are these which thou hast given me, my brother? And he called them the land of Cabul unto this day.Cabul: that is, displeasing, or, dirty
+13. And he said, What cities are these which thou hast given me, my brother? And he called them the land of Cabul unto this day.
 
 14. And Hiram sent to the king sixscore talents of gold.
 
@@ -722,7 +722,7 @@
 
 18. And Baalath, and Tadmor in the wilderness, in the land,
 
-19. And all the cities of store that Solomon had, and cities for his chariots, and cities for his horsemen, and that which Solomon desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion.that which…: Heb. the desire of Solomon which he desired
+19. And all the cities of store that Solomon had, and cities for his chariots, and cities for his horsemen, and that which Solomon desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion.
 
 20. And all the people that were left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which were not of the children of Israel,
 
@@ -734,9 +734,9 @@
 
 24. But Pharaoh’s daughter came up out of the city of David unto her house which Solomon had built for her: then did he build Millo.
 
-25. And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the Lord, and he burnt incense upon the altar that was before the Lord. So he finished the house.upon the altar that: Heb. upon it, etc
+25. And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the Lord, and he burnt incense upon the altar that was before the Lord. So he finished the house.
 
-26. And king Solomon made a navy of ships in Ezion–geber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.shore: Heb. lip
+26. And king Solomon made a navy of ships in Ezion–geber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.
 
 27. And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon.
 
@@ -748,15 +748,15 @@
 
 2. And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
 
-3. And Solomon told her all her questions: there was not any thing hid from the king, which he told her not.questions: Heb. words
+3. And Solomon told her all her questions: there was not any thing hid from the king, which he told her not.
 
 4. And when the queen of Sheba had seen all Solomon’s wisdom, and the house that he had built,
 
-5. And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the Lord; there was no more spirit in her.attendance: Heb. standingcupbearers: or, butlers
+5. And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the Lord; there was no more spirit in her.
 
-6. And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom.report: Heb. wordacts: or, sayings
+6. And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom.
 
-7. Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard.thy…: Heb. thou hast added wisdom and goodness to
+7. Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard.
 
 8. Happy are thy men, happy are these thy servants, which stand continually before thee, and that hear thy wisdom.
 
@@ -764,15 +764,15 @@
 
 10. And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon.
 
-11. And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.almug…: also called, algum trees
+11. And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.
 
-12. And the king made of the almug trees pillars for the house of the Lord, and for the king’s house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day.pillars: or, rails: Heb. a prop
+12. And the king made of the almug trees pillars for the house of the Lord, and for the king’s house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day.
 
-13. And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside that which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants.of his…: Heb. according to the hand of king Solomon
+13. And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside that which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants.
 
 14. Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,
 
-15. Beside that he had of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.governors: or, captains
+15. Beside that he had of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.
 
 16. And king Solomon made two hundred targets of beaten gold: six hundred shekels of gold went to one target.
 
@@ -780,31 +780,31 @@
 
 18. Moreover the king made a great throne of ivory, and overlaid it with the best gold.
 
-19. The throne had six steps, and the top of the throne was round behind: and there were stays on either side on the place of the seat, and two lions stood beside the stays.behind: Heb. on the hinder part thereofstays: Heb. hands
+19. The throne had six steps, and the top of the throne was round behind: and there were stays on either side on the place of the seat, and two lions stood beside the stays.
 
-20. And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.the like: Heb. so
+20. And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.
 
-21. And all king Solomon’s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon.none…: or, there was no silver in them
+21. And all king Solomon’s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon.
 
-22. For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.ivory: or, elephants’ teeth
+22. For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.
 
 23. So king Solomon exceeded all the kings of the earth for riches and for wisdom.
 
-24. And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.sought to: Heb. sought the face of
+24. And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.
 
 25. And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armour, and spices, horses, and mules, a rate year by year.
 
 26. And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem.
 
-27. And the king made silver to be in Jerusalem as stones, and cedars made he to be as the sycomore trees that are in the vale, for abundance.made: Heb. gave
+27. And the king made silver to be in Jerusalem as stones, and cedars made he to be as the sycomore trees that are in the vale, for abundance.
 
-28. And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price.And Solomon…: Heb. And the going forth of the horses which was Solomon’s
+28. And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price.
 
-29. And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means.by their…: Heb. by their hand 
+29. And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means.
 
 ## 1 Kings 11
 
-1. But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;together…: or, beside
+1. But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;
 
 2. Of the nations concerning which the Lord said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods: Solomon clave unto these in love.
 
@@ -812,9 +812,9 @@
 
 4. For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.
 
-5. For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.Milcom: also called, Molech
+5. For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.
 
-6. And Solomon did evil in the sight of the Lord, and went not fully after the Lord, as did David his father.went…: Heb. fulfilled not after
+6. And Solomon did evil in the sight of the Lord, and went not fully after the Lord, as did David his father.
 
 7. Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that is before Jerusalem, and for Molech, the abomination of the children of Ammon.
 
@@ -824,7 +824,7 @@
 
 10. And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the Lord commanded.
 
-11. Wherefore the Lord said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant.is done…: Heb. is with thee
+11. Wherefore the Lord said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant.
 
 12. Notwithstanding in thy days I will not do it for David thy father’s sake: but I will rend it out of the hand of thy son.
 
@@ -844,9 +844,9 @@
 
 20. And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh’s house: and Genubath was in Pharaoh’s household among the sons of Pharaoh.
 
-21. And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.Let…: Heb. Send me away
+21. And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.
 
-22. Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise.Nothing: Heb. Not
+22. Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise.
 
 23. And God stirred him up another adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:
 
@@ -856,9 +856,9 @@
 
 26. And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon’s servant, whose mother’s name was Zeruah, a widow woman, even he lifted up his hand against the king.
 
-27. And this was the cause that he lifted up his hand against the king: Solomon built Millo, and repaired the breaches of the city of David his father.repaired: Heb. closed
+27. And this was the cause that he lifted up his hand against the king: Solomon built Millo, and repaired the breaches of the city of David his father.
 
-28. And the man Jeroboam was a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.was industrious: Heb. did workcharge: Heb. burden
+28. And the man Jeroboam was a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.
 
 29. And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two were alone in the field:
 
@@ -874,7 +874,7 @@
 
 35. But I will take the kingdom out of his son’s hand, and will give it unto thee, even ten tribes.
 
-36. And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there.light: Heb. lamp, or, candle
+36. And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there.
 
 37. And I will take thee, and thou shalt reign according to all that thy soul desireth, and shalt be king over Israel.
 
@@ -884,11 +884,11 @@
 
 40. Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon.
 
-41. And the rest of the acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon?acts: or, words, or, things
+41. And the rest of the acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon?
 
-42. And the time that Solomon reigned in Jerusalem over all Israel was forty years.time: Heb. days
+42. And the time that Solomon reigned in Jerusalem over all Israel was forty years.
 
-43. And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.Rehoboam: Gr. Roboam 
+43. And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.
 
 ## 1 Kings 12
 
@@ -916,7 +916,7 @@
 
 12. So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.
 
-13. And the king answered the people roughly, and forsook the old men’s counsel that they gave him;roughly: Heb. hardly
+13. And the king answered the people roughly, and forsook the old men’s counsel that they gave him;
 
 14. And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions.
 
@@ -926,9 +926,9 @@
 
 17. But as for the children of Israel which dwelt in the cities of Judah, Rehoboam reigned over them.
 
-18. Then king Rehoboam sent Adoram, who was over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.made…: Heb. strengthened himself
+18. Then king Rehoboam sent Adoram, who was over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.
 
-19. So Israel rebelled against the house of David unto this day.rebelled: or, fell away
+19. So Israel rebelled against the house of David unto this day.
 
 20. And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.
 
@@ -954,13 +954,13 @@
 
 31. And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi.
 
-32. And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like unto the feast that is in Judah, and he offered upon the altar. So did he in Beth–el, sacrificing unto the calves that he had made: and he placed in Beth–el the priests of the high places which he had made.offered…: or, went up to the altar, etcsacrificing: or, to sacrifice
+32. And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like unto the feast that is in Judah, and he offered upon the altar. So did he in Beth–el, sacrificing unto the calves that he had made: and he placed in Beth–el the priests of the high places which he had made.
 
-33. So he offered upon the altar which he had made in Beth–el the fifteenth day of the eighth month, even in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense.offered…: or, went up to the altar, etcand burnt…: Heb. to burn incense 
+33. So he offered upon the altar which he had made in Beth–el the fifteenth day of the eighth month, even in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense.
 
 ## 1 Kings 13
 
-1. And, behold, there came a man of God out of Judah by the word of the Lord unto Beth–el: and Jeroboam stood by the altar to burn incense.burn: or, offer
+1. And, behold, there came a man of God out of Judah by the word of the Lord unto Beth–el: and Jeroboam stood by the altar to burn incense.
 
 2. And he cried against the altar in the word of the Lord, and said, O altar, altar, thus saith the Lord; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men’s bones shall be burnt upon thee.
 
@@ -970,7 +970,7 @@
 
 5. The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the Lord.
 
-6. And the king answered and said unto the man of God, Intreat now the face of the Lord thy God, and pray for me, that my hand may be restored me again. And the man of God besought the Lord, and the king’s hand was restored him again, and became as it was before.the Lord, and: Heb. the face of the Lord, etc
+6. And the king answered and said unto the man of God, Intreat now the face of the Lord thy God, and pray for me, that my hand may be restored me again. And the man of God besought the Lord, and the king’s hand was restored him again, and became as it was before.
 
 7. And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward.
 
@@ -992,7 +992,7 @@
 
 16. And he said, I may not return with thee, nor go in with thee: neither will I eat bread nor drink water with thee in this place:
 
-17. For it was said to me by the word of the Lord, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest.it…: Heb. a word was
+17. For it was said to me by the word of the Lord, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest.
 
 18. He said unto him, I am a prophet also as thou art; and an angel spake unto me by the word of the Lord, saying, Bring him back with thee into thine house, that he may eat bread and drink water. But he lied unto him.
 
@@ -1010,11 +1010,11 @@
 
 25. And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told it in the city where the old prophet dwelt.
 
-26. And when the prophet that brought him back from the way heard thereof, he said, It is the man of God, who was disobedient unto the word of the Lord: therefore the Lord hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the Lord, which he spake unto him.torn: Heb. broken
+26. And when the prophet that brought him back from the way heard thereof, he said, It is the man of God, who was disobedient unto the word of the Lord: therefore the Lord hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the Lord, which he spake unto him.
 
 27. And he spake to his sons, saying, Saddle me the ass. And they saddled him.
 
-28. And he went and found his carcase cast in the way, and the ass and the lion standing by the carcase: the lion had not eaten the carcase, nor torn the ass.torn: Heb. broken
+28. And he went and found his carcase cast in the way, and the ass and the lion standing by the carcase: the lion had not eaten the carcase, nor torn the ass.
 
 29. And the prophet took up the carcase of the man of God, and laid it upon the ass, and brought it back: and the old prophet came to the city, to mourn and to bury him.
 
@@ -1024,7 +1024,7 @@
 
 32. For the saying which he cried by the word of the Lord against the altar in Beth–el, and against all the houses of the high places which are in the cities of Samaria, shall surely come to pass.
 
-33. After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became one of the priests of the high places.made…: Heb. returned and madeconsecrated…: Heb. filled his hand
+33. After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became one of the priests of the high places.
 
 34. And this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth. 
 
@@ -1034,13 +1034,13 @@
 
 2. And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people.
 
-3. And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.with…: Heb. in thine handcracknels: or, cakescruse: or, bottle
+3. And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.
 
-4. And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age.were…: Heb. stood for his hoariness
+4. And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age.
 
 5. And the Lord said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he is sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself to be another woman.
 
-6. And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings.heavy: Heb. hard
+6. And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings.
 
 7. Go, tell Jeroboam, Thus saith the Lord God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,
 
@@ -1068,13 +1068,13 @@
 
 19. And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.
 
-20. And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.slept: Heb. lay down
+20. And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.
 
 21. And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord did choose out of all the tribes of Israel, to put his name there. And his mother’s name was Naamah an Ammonitess.
 
 22. And Judah did evil in the sight of the Lord, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
 
-23. For they also built them high places, and images, and groves, on every high hill, and under every green tree.images: or, standing images, or, statues
+23. For they also built them high places, and images, and groves, on every high hill, and under every green tree.
 
 24. And there were also sodomites in the land: and they did according to all the abominations of the nations which the Lord cast out before the children of Israel.
 
@@ -1082,7 +1082,7 @@
 
 26. And he took away the treasures of the house of the Lord, and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made.
 
-27. And king Rehoboam made in their stead brasen shields, and committed them unto the hands of the chief of the guard, which kept the door of the king’s house.guard: Heb. runners
+27. And king Rehoboam made in their stead brasen shields, and committed them unto the hands of the chief of the guard, which kept the door of the king’s house.
 
 28. And it was so, when the king went into the house of the Lord, that the guard bare them, and brought them back into the guard chamber.
 
@@ -1090,17 +1090,17 @@
 
 30. And there was war between Rehoboam and Jeroboam all their days.
 
-31. And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother’s name was Naamah an Ammonitess. And Abijam his son reigned in his stead.Abijam: also called, Abijah: Gr. Abia 
+31. And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother’s name was Naamah an Ammonitess. And Abijam his son reigned in his stead.
 
 ## 1 Kings 15
 
 1. Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.
 
-2. Three years reigned he in Jerusalem. And his mother’s name was Maachah, the daughter of Abishalom.Maachah…: also called, Michaiah the daughter of UrielAbishalom: also called, Absalom
+2. Three years reigned he in Jerusalem. And his mother’s name was Maachah, the daughter of Abishalom.
 
 3. And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the Lord his God, as the heart of David his father.
 
-4. Nevertheless for David’s sake did the Lord his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:lamp: or, candle
+4. Nevertheless for David’s sake did the Lord his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:
 
 5. Because David did that which was right in the eyes of the Lord, and turned not aside from any thing that he commanded him all the days of his life, save only in the matter of Uriah the Hittite.
 
@@ -1112,17 +1112,17 @@
 
 9. And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah.
 
-10. And forty and one years reigned he in Jerusalem. And his mother’s name was Maachah, the daughter of Abishalom.mother’s: that is, grandmother’s
+10. And forty and one years reigned he in Jerusalem. And his mother’s name was Maachah, the daughter of Abishalom.
 
 11. And Asa did that which was right in the eyes of the Lord, as did David his father.
 
 12. And he took away the sodomites out of the land, and removed all the idols that his fathers had made.
 
-13. And also Maachah his mother, even her he removed from being queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt it by the brook Kidron.destroyed: Heb. cut off
+13. And also Maachah his mother, even her he removed from being queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt it by the brook Kidron.
 
 14. But the high places were not removed: nevertheless Asa’s heart was perfect with the Lord all his days.
 
-15. And he brought in the things which his father had dedicated, and the things which himself had dedicated, into the house of the Lord, silver, and gold, and vessels.things: Heb. holy
+15. And he brought in the things which his father had dedicated, and the things which himself had dedicated, into the house of the Lord, silver, and gold, and vessels.
 
 16. And there was war between Asa and Baasha king of Israel all their days.
 
@@ -1130,19 +1130,19 @@
 
 18. Then Asa took all the silver and the gold that were left in the treasures of the house of the Lord, and the treasures of the king’s house, and delivered them into the hand of his servants: and king Asa sent them to Ben–hadad, the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at Damascus, saying,
 
-19. There is a league between me and thee, and between my father and thy father: behold, I have sent unto thee a present of silver and gold; come and break thy league with Baasha king of Israel, that he may depart from me.depart: Heb. go up
+19. There is a league between me and thee, and between my father and thy father: behold, I have sent unto thee a present of silver and gold; come and break thy league with Baasha king of Israel, that he may depart from me.
 
 20. So Ben–hadad hearkened unto king Asa, and sent the captains of the hosts which he had against the cities of Israel, and smote Ijon, and Dan, and Abel–beth–maachah, and all Cinneroth, with all the land of Naphtali.
 
 21. And it came to pass, when Baasha heard thereof, that he left off building of Ramah, and dwelt in Tirzah.
 
-22. Then king Asa made a proclamation throughout all Judah; none was exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.exempted: Heb. free
+22. Then king Asa made a proclamation throughout all Judah; none was exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
 
 23. The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, are they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet.
 
-24. And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.Jehoshaphat: Gr. Josaphat
+24. And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.
 
-25. And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.began…: Heb. reigned
+25. And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.
 
 26. And he did evil in the sight of the Lord, and walked in the way of his father, and in his sin wherewith he made Israel to sin.
 
@@ -1180,13 +1180,13 @@
 
 8. In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.
 
-9. And his servant Zimri, captain of half his chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of his house in Tirzah.steward…: Heb. which was over
+9. And his servant Zimri, captain of half his chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of his house in Tirzah.
 
 10. And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.
 
-11. And it came to pass, when he began to reign, as soon as he sat on his throne, that he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.neither…: or, both his kinsmen and his friends
+11. And it came to pass, when he began to reign, as soon as he sat on his throne, that he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.
 
-12. Thus did Zimri destroy all the house of Baasha, according to the word of the Lord, which he spake against Baasha by Jehu the prophet,by: Heb. by the hand of
+12. Thus did Zimri destroy all the house of Baasha, according to the word of the Lord, which he spake against Baasha by Jehu the prophet,
 
 13. For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the Lord God of Israel to anger with their vanities.
 
@@ -1210,7 +1210,7 @@
 
 23. In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.
 
-24. And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria.Samaria: Heb. Shomeron
+24. And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria.
 
 25. But Omri wrought evil in the eyes of the Lord, and did worse than all that were before him.
 
@@ -1224,7 +1224,7 @@
 
 30. And Ahab the son of Omri did evil in the sight of the Lord above all that were before him.
 
-31. And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.as if…: Heb. was it a light thing, etc
+31. And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.
 
 32. And he reared up an altar for Baal in the house of Baal, which he had built in Samaria.
 
@@ -1234,7 +1234,7 @@
 
 ## 1 Kings 17
 
-1. And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the Lord God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.Elijah: Heb. Elijahu: Gr. Elias
+1. And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the Lord God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
 
 2. And the word of the Lord came unto him, saying,
 
@@ -1246,11 +1246,11 @@
 
 6. And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.
 
-7. And it came to pass after a while, that the brook dried up, because there had been no rain in the land.after…: Heb. at the end of days
+7. And it came to pass after a while, that the brook dried up, because there had been no rain in the land.
 
 8. And the word of the Lord came unto him, saying,
 
-9. Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.Zarephath: Gr. Sarepta
+9. Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.
 
 10. So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.
 
@@ -1260,11 +1260,11 @@
 
 13. And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.
 
-14. For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth.sendeth: Heb. giveth
+14. For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth.
 
-15. And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days.many…: or, a full year
+15. And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days.
 
-16. And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the Lord, which he spake by Elijah.by: Heb. by the hand of
+16. And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the Lord, which he spake by Elijah.
 
 17. And it came to pass after these things, that the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him.
 
@@ -1274,7 +1274,7 @@
 
 20. And he cried unto the Lord, and said, O Lord my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?
 
-21. And he stretched himself upon the child three times, and cried unto the Lord, and said, O Lord my God, I pray thee, let this child’s soul come into him again.stretched: Heb. measuredinto…: Heb. into his inward parts
+21. And he stretched himself upon the child three times, and cried unto the Lord, and said, O Lord my God, I pray thee, let this child’s soul come into him again.
 
 22. And the Lord heard the voice of Elijah; and the soul of the child came into him again, and he revived.
 
@@ -1288,11 +1288,11 @@
 
 2. And Elijah went to shew himself unto Ahab. And there was a sore famine in Samaria.
 
-3. And Ahab called Obadiah, which was the governor of his house. (Now Obadiah feared the Lord greatly:Obadiah: Heb. Obadiahuthe governor…: Heb. over his house
+3. And Ahab called Obadiah, which was the governor of his house. (Now Obadiah feared the Lord greatly:
 
-4. For it was so, when Jezebel cut off the prophets of the Lord, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)Jezebel: Heb. Izebel
+4. For it was so, when Jezebel cut off the prophets of the Lord, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)
 
-5. And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and unto all brooks: peradventure we may find grass to save the horses and mules alive, that we lose not all the beasts.that…: Heb. that we cut not off ourselves from the beasts
+5. And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and unto all brooks: peradventure we may find grass to save the horses and mules alive, that we lose not all the beasts.
 
 6. So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.
 
@@ -1324,23 +1324,23 @@
 
 20. So Ahab sent unto all the children of Israel, and gathered the prophets together unto mount Carmel.
 
-21. And Elijah came unto all the people, and said, How long halt ye between two opinions? if the Lord be God, follow him: but if Baal, then follow him. And the people answered him not a word.opinions: or, thoughts
+21. And Elijah came unto all the people, and said, How long halt ye between two opinions? if the Lord be God, follow him: but if Baal, then follow him. And the people answered him not a word.
 
 22. Then said Elijah unto the people, I, even I only, remain a prophet of the Lord; but Baal’s prophets are four hundred and fifty men.
 
 23. Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay it on wood, and put no fire under: and I will dress the other bullock, and lay it on wood, and put no fire under:
 
-24. And call ye on the name of your gods, and I will call on the name of the Lord: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.It is…: Heb. The word is good
+24. And call ye on the name of your gods, and I will call on the name of the Lord: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.
 
 25. And Elijah said unto the prophets of Baal, Choose you one bullock for yourselves, and dress it first; for ye are many; and call on the name of your gods, but put no fire under.
 
-26. And they took the bullock which was given them, and they dressed it, and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But there was no voice, nor any that answered. And they leaped upon the altar which was made.hear: or, answeranswered: or, heardleaped…: or, leaped up and down at the altar
+26. And they took the bullock which was given them, and they dressed it, and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But there was no voice, nor any that answered. And they leaped upon the altar which was made.
 
-27. And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleepeth, and must be awaked.aloud: Heb. with a great voicehe is talking: or, he meditatethis pursuing: Heb. hath a pursuit
+27. And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleepeth, and must be awaked.
 
-28. And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.the blood…: Heb. poured out blood upon them
+28. And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.
 
-29. And it came to pass, when midday was past, and they prophesied until the time of the offering of the evening sacrifice, that there was neither voice, nor any to answer, nor any that regarded.offering: Heb. ascendingthat regarded: Heb. attention
+29. And it came to pass, when midday was past, and they prophesied until the time of the offering of the evening sacrifice, that there was neither voice, nor any to answer, nor any that regarded.
 
 30. And Elijah said unto all the people, Come near unto me. And all the people came near unto him. And he repaired the altar of the Lord that was broken down.
 
@@ -1352,7 +1352,7 @@
 
 34. And he said, Do it the second time. And they did it the second time. And he said, Do it the third time. And they did it the third time.
 
-35. And the water ran round about the altar; and he filled the trench also with water.ran: Heb. went
+35. And the water ran round about the altar; and he filled the trench also with water.
 
 36. And it came to pass at the time of the offering of the evening sacrifice, that Elijah the prophet came near, and said, Lord God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.
 
@@ -1362,19 +1362,19 @@
 
 39. And when all the people saw it, they fell on their faces: and they said, The Lord, he is the God; the Lord, he is the God.
 
-40. And Elijah said unto them, Take the prophets of Baal; let not one of them escape. And they took them: and Elijah brought them down to the brook Kishon, and slew them there.Take: or, Apprehend
+40. And Elijah said unto them, Take the prophets of Baal; let not one of them escape. And they took them: and Elijah brought them down to the brook Kishon, and slew them there.
 
-41. And Elijah said unto Ahab, Get thee up, eat and drink; for there is a sound of abundance of rain.a sound…: or, a sound of a noise of rain
+41. And Elijah said unto Ahab, Get thee up, eat and drink; for there is a sound of abundance of rain.
 
 42. So Ahab went up to eat and to drink. And Elijah went up to the top of Carmel; and he cast himself down upon the earth, and put his face between his knees,
 
 43. And said to his servant, Go up now, look toward the sea. And he went up, and looked, and said, There is nothing. And he said, Go again seven times.
 
-44. And it came to pass at the seventh time, that he said, Behold, there ariseth a little cloud out of the sea, like a man’s hand. And he said, Go up, say unto Ahab, Prepare thy chariot, and get thee down, that the rain stop thee not.Prepare: Heb. Tie, or, Bind
+44. And it came to pass at the seventh time, that he said, Behold, there ariseth a little cloud out of the sea, like a man’s hand. And he said, Go up, say unto Ahab, Prepare thy chariot, and get thee down, that the rain stop thee not.
 
 45. And it came to pass in the mean while, that the heaven was black with clouds and wind, and there was a great rain. And Ahab rode, and went to Jezreel.
 
-46. And the hand of the Lord was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.to the…: Heb. till thou come to Jezreel 
+46. And the hand of the Lord was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.
 
 ## 1 Kings 19
 
@@ -1384,11 +1384,11 @@
 
 3. And when he saw that, he arose, and went for his life, and came to Beer–sheba, which belongeth to Judah, and left his servant there.
 
-4. But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O Lord, take away my life; for I am not better than my fathers.for himself: Heb. for his life
+4. But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O Lord, take away my life; for I am not better than my fathers.
 
 5. And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat.
 
-6. And he looked, and, behold, there was a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again.head: Heb. bolster
+6. And he looked, and, behold, there was a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again.
 
 7. And the angel of the Lord came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee.
 
@@ -1408,15 +1408,15 @@
 
 15. And the Lord said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael to be king over Syria:
 
-16. And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abel–meholah shalt thou anoint to be prophet in thy room.Elisha: Gr. Eliseus
+16. And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abel–meholah shalt thou anoint to be prophet in thy room.
 
 17. And it shall come to pass, that him that escapeth the sword of Hazael shall Jehu slay: and him that escapeth from the sword of Jehu shall Elisha slay.
 
-18. Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.I have…: or, I will leave
+18. Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.
 
 19. So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
 
-20. And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said unto him, Go back again: for what have I done to thee?Go…: Heb. Go return
+20. And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said unto him, Go back again: for what have I done to thee?
 
 21. And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him. 
 
@@ -1432,23 +1432,23 @@
 
 5. And the messengers came again, and said, Thus speaketh Ben–hadad, saying, Although I have sent unto thee, saying, Thou shalt deliver me thy silver, and thy gold, and thy wives, and thy children;
 
-6. Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away.pleasant: Heb. desirable
+6. Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away.
 
-7. Then the king of Israel called all the elders of the land, and said, Mark, I pray you, and see how this man seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not.I denied…: Heb. I kept not back from him
+7. Then the king of Israel called all the elders of the land, and said, Mark, I pray you, and see how this man seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not.
 
 8. And all the elders and all the people said unto him, Hearken not unto him, nor consent.
 
 9. Wherefore he said unto the messengers of Ben–hadad, Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again.
 
-10. And Ben–hadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me.follow…: Heb. are at my feet
+10. And Ben–hadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me.
 
 11. And the king of Israel answered and said, Tell him, Let not him that girdeth on his harness boast himself as he that putteth it off.
 
-12. And it came to pass, when Ben–hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants, Set yourselves in array. And they set themselves in array against the city.message: Heb. wordpavilions: or, tentsSet yourselves…: or, Place the engines. And they placed the engines
+12. And it came to pass, when Ben–hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants, Set yourselves in array. And they set themselves in array against the city.
 
-13. And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the Lord, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the Lord.came: Heb. approached
+13. And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the Lord, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the Lord.
 
-14. And Ahab said, By whom? And he said, Thus saith the Lord, Even by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou.young…: or, servantsorder: Heb. bind, or, tie
+14. And Ahab said, By whom? And he said, Thus saith the Lord, Even by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou.
 
 15. Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, even all the children of Israel, being seven thousand.
 
@@ -1470,17 +1470,17 @@
 
 24. And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:
 
-25. And number thee an army, like the army that thou hast lost, horse for horse, and chariot for chariot: and we will fight against them in the plain, and surely we shall be stronger than they. And he hearkened unto their voice, and did so.that thou…: Heb. that was fallen
+25. And number thee an army, like the army that thou hast lost, horse for horse, and chariot for chariot: and we will fight against them in the plain, and surely we shall be stronger than they. And he hearkened unto their voice, and did so.
 
-26. And it came to pass at the return of the year, that Ben–hadad numbered the Syrians, and went up to Aphek, to fight against Israel.to fight…: Heb. to the war with Israel
+26. And it came to pass at the return of the year, that Ben–hadad numbered the Syrians, and went up to Aphek, to fight against Israel.
 
-27. And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country.were all…: or, were nourished
+27. And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country.
 
 28. And there came a man of God, and spake unto the king of Israel, and said, Thus saith the Lord, Because the Syrians have said, The Lord is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am the Lord.
 
 29. And they pitched one over against the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.
 
-30. But the rest fled to Aphek, into the city; and there a wall fell upon twenty and seven thousand of the men that were left. And Ben–hadad fled, and came into the city, into an inner chamber.into an…: or, from chamber to chamber: Heb. into a chamber within a chamber
+30. But the rest fled to Aphek, into the city; and there a wall fell upon twenty and seven thousand of the men that were left. And Ben–hadad fled, and came into the city, into an inner chamber.
 
 31. And his servants said unto him, Behold now, we have heard that the kings of the house of Israel are merciful kings: let us, I pray thee, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: peradventure he will save thy life.
 
@@ -1488,19 +1488,19 @@
 
 33. Now the men did diligently observe whether any thing would come from him, and did hastily catch it: and they said, Thy brother Ben–hadad. Then he said, Go ye, bring him. Then Ben–hadad came forth to him; and he caused him to come up into the chariot.
 
-34. And Ben–hadad said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then said Ahab, I will send thee away with this covenant. So he made a covenant with him, and sent him away.streets: or, market places
+34. And Ben–hadad said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then said Ahab, I will send thee away with this covenant. So he made a covenant with him, and sent him away.
 
 35. And a certain man of the sons of the prophets said unto his neighbour in the word of the Lord, Smite me, I pray thee. And the man refused to smite him.
 
 36. Then said he unto him, Because thou hast not obeyed the voice of the Lord, behold, as soon as thou art departed from me, a lion shall slay thee. And as soon as he was departed from him, a lion found him, and slew him.
 
-37. Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded him.so that…: Heb. smiting and wounding
+37. Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded him.
 
 38. So the prophet departed, and waited for the king by the way, and disguised himself with ashes upon his face.
 
-39. And as the king passed by, he cried unto the king: and he said, Thy servant went out into the midst of the battle; and, behold, a man turned aside, and brought a man unto me, and said, Keep this man: if by any means he be missing, then shall thy life be for his life, or else thou shalt pay a talent of silver.pay: Heb. weigh
+39. And as the king passed by, he cried unto the king: and he said, Thy servant went out into the midst of the battle; and, behold, a man turned aside, and brought a man unto me, and said, Keep this man: if by any means he be missing, then shall thy life be for his life, or else thou shalt pay a talent of silver.
 
-40. And as thy servant was busy here and there, he was gone. And the king of Israel said unto him, So shall thy judgment be; thyself hast decided it.he was…: Heb. he was not
+40. And as thy servant was busy here and there, he was gone. And the king of Israel said unto him, So shall thy judgment be; thyself hast decided it.
 
 41. And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he was of the prophets.
 
@@ -1512,7 +1512,7 @@
 
 1. And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria.
 
-2. And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money.seem…: Heb. be good in thine eyes
+2. And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money.
 
 3. And Naboth said to Ahab, The Lord forbid it me, that I should give the inheritance of my fathers unto thee.
 
@@ -1526,7 +1526,7 @@
 
 8. So she wrote letters in Ahab’s name, and sealed them with his seal, and sent the letters unto the elders and to the nobles that were in his city, dwelling with Naboth.
 
-9. And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people:on high…: Heb. in the top of the people
+9. And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people:
 
 10. And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And then carry him out, and stone him, that he may die.
 
@@ -1554,11 +1554,11 @@
 
 22. And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked me to anger, and made Israel to sin.
 
-23. And of Jezebel also spake the Lord, saying, The dogs shall eat Jezebel by the wall of Jezreel.wall: or, ditch
+23. And of Jezebel also spake the Lord, saying, The dogs shall eat Jezebel by the wall of Jezreel.
 
 24. Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.
 
-25. But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the Lord, whom Jezebel his wife stirred up.stirred…: or, incited
+25. But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the Lord, whom Jezebel his wife stirred up.
 
 26. And he did very abominably in following idols, according to all things as did the Amorites, whom the Lord cast out before the children of Israel.
 
@@ -1574,7 +1574,7 @@
 
 2. And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.
 
-3. And the king of Israel said unto his servants, Know ye that Ramoth in Gilead is ours, and we be still, and take it not out of the hand of the king of Syria?still…: Heb. silent from taking it
+3. And the king of Israel said unto his servants, Know ye that Ramoth in Gilead is ours, and we be still, and take it not out of the hand of the king of Syria?
 
 4. And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth–gilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses.
 
@@ -1586,9 +1586,9 @@
 
 8. And the king of Israel said unto Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the Lord: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.
 
-9. Then the king of Israel called an officer, and said, Hasten hither Micaiah the son of Imlah.officer: or, eunuch
+9. Then the king of Israel called an officer, and said, Hasten hither Micaiah the son of Imlah.
 
-10. And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them.void…: Heb. floor
+10. And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them.
 
 11. And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the Lord, With these shalt thou push the Syrians, until thou have consumed them.
 
@@ -1608,7 +1608,7 @@
 
 19. And he said, Hear thou therefore the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.
 
-20. And the Lord said, Who shall persuade Ahab, that he may go up and fall at Ramoth–gilead? And one said on this manner, and another said on that manner.persuade: or, deceive
+20. And the Lord said, Who shall persuade Ahab, that he may go up and fall at Ramoth–gilead? And one said on this manner, and another said on that manner.
 
 21. And there came forth a spirit, and stood before the Lord, and said, I will persuade him.
 
@@ -1618,7 +1618,7 @@
 
 24. But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the Lord from me to speak unto thee?
 
-25. And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself.into…: or, from chamber to chamber: Heb. a chamber in a chamber
+25. And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself.
 
 26. And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;
 
@@ -1628,7 +1628,7 @@
 
 29. So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth–gilead.
 
-30. And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.I will…: or, when he was to disguise himself, and enter into the battle
+30. And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.
 
 31. But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.
 
@@ -1636,13 +1636,13 @@
 
 33. And it came to pass, when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him.
 
-34. And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded.at a…: Heb. in his simplicityjoints…: Heb. joints and the breastplatewounded: Heb. made sick
+34. And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded.
 
-35. And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot.increased: Heb. ascendedmidst: Heb. bosom
+35. And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot.
 
 36. And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country.
 
-37. So the king died, and was brought to Samaria; and they buried the king in Samaria.was brought: Heb. came
+37. So the king died, and was brought to Samaria; and they buried the king in Samaria.
 
 38. And one washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the Lord which he spake.
 
@@ -1664,7 +1664,7 @@
 
 47. There was then no king in Edom: a deputy was king.
 
-48. Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion–geber.made…: or, had ten ships
+48. Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion–geber.
 
 49. Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.
 

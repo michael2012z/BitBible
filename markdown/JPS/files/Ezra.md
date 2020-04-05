@@ -150,7 +150,7 @@
 
 62. These sought their register, that is, the genealogy, but it was not found; therefore were they deemed polluted and put from the priesthood.
 
-63. And the TirshathaThat is, governor said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.
+63. And the Tirshatha
 
 64. The whole congregation together was forty and two thousand three hundred and threescore,
 

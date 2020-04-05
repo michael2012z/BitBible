@@ -52,11 +52,11 @@
 
 25. For the foolishness of Aloha is wiser than men, and the weakness of Aloha is stronger than men.
 
-26. For you see also your calling, my brethren, that not many among you are wise after the flesh, and not many among you are powerful, and not many among you are of noble birth;Or, sons of a great family.
+26. For you see also your calling, my brethren, that not many among you are wise after the flesh, and not many among you are powerful, and not many among you are of noble birth;
 
 27. but Aloha hath chosen the simple of the world, to shame the wise, and he hath chosen the weak of the world, to shame the mighty,
 
-28. and he hath chosen those of low birthOr, mean family. in the world, and the outcasts, and those who are nothing, to bring to nothing those who are;
+28. and he hath chosen those of low birth
 
 29. that no flesh may boast before him.
 
@@ -102,7 +102,7 @@
 
 1. AND I, my brethren, could not speak with you as with the spiritual, but as with the carnal, and as with babes in the Meshiha.
 
-2. I have sustained you with milk,Or, have given you milk to drink. and have not given you meat; for as yet you could not, nor can you now, (bear it).
+2. I have sustained you with milk,
 
 3. For as yet you are in the flesh. For while there are among you envy and contentions and divisions, are you not carnal, and walking in the flesh?
 
@@ -172,7 +172,7 @@
 
 12. and we labour, working with our hands. They revile us, and we bless; they persecute us, and we endure;
 
-13. they maltreat us, and we pray for them; as the refuse of the world are we made and the execrationKuphoro. Piaculum; flagitium expiatione dignum. of all men until now.
+13. they maltreat us, and we pray for them; as the refuse of the world are we made and the execration
 
 14. Not as to shame you write I these things, but as my beloved children I admonish (you).
 
@@ -210,9 +210,9 @@
 
 9. I have written to you by epistle, not to be mixed with fornicators;
 
-10. but I do not say with fornicators who are in this world, nor speak I concerning the covetous,Or, the oppressive. or the rapacious, or the servers of idols; otherwise you would be obligated from the world also to go forth.
+10. but I do not say with fornicators who are in this world, nor speak I concerning the covetous,
 
-11. But this which I have written to you, Be not mixed, (is,) If any one who is called a brother be a fornicator, or covetous,An oppressor. or a worshipper of idols, or a reviler, or a drunkard, or rapacious, with one who is such as he not to eat bread.
+11. But this which I have written to you, Be not mixed, (is,) If any one who is called a brother be a fornicator, or covetous,
 
 12. For what had I to judge those who are without? But you judge those who are within;
 
@@ -222,11 +222,11 @@
 
 1. DARE any of you, having a suit with his brother, to litigate before the evil, and not before the saints?
 
-2. Or know you not that the saints shall judge the world? And if the world by you is judged, are you not worthy to judge small matters?Or, judgments.
+2. Or know you not that the saints shall judge the world? And if the world by you is judged, are you not worthy to judge small matters?
 
 3. Know you not that you are to judge angels? How much more those (matters) which are of this world?
 
-4. But if you have matters to be judged regarding the world, those who are little-esteemedOr, contemptible. in the church make you to sit in judgment.
+4. But if you have matters to be judged regarding the world, those who are little-esteemed
 
 5. But to your reproach am I to say to you, So there is not among you even one wise man, who is able to adjust between a brother and his brother?
 
@@ -234,7 +234,7 @@
 
 7. Now, therefore, you make yourselves guilty while you have litigation one with another. For why do you not bear injury? and why do you not suffer fraud?
 
-8. But you injure, and you defraud,and that also your brethren!
+8. But you injure, and you defraud,
 
 9. Or, know you not that the unjust the kingdom of Aloha cannot inherit? Do not err; neither fornicators, nor the servers of idols, nor adulterers, nor corrupters, nor liers with men, nor the oppressive,
 
@@ -302,17 +302,17 @@
 
 20. Let every man in the calling in which he hath been called remain.
 
-21. If a servant thou wast called, be not careful, but, if also thou canst be made free, chooseit rather than that thou shouldest serve.Gabi lok datephluch.
+21. If a servant thou wast called, be not careful, but, if also thou canst be made free, choose
 
 22. For he who a servant is called in the Lord, is the freeman of Aloha, so he who as a son of freedom is called, is a servant of the Meshiha.
 
 23. With a price are you bought; you will not be servants of men.
 
-24. Every one in that in which he was called, my brethren, in it let him remain untoOr, with. Aloha.
+24. Every one in that in which he was called, my brethren, in it let him remain unto
 
 25. BUT respecting virginity, a commandment from Aloha I have not received; but I give counsel as a man who hath had grace from Aloha to be faithful.
 
-26. And I consider that this is goodcounsel, on account of the necessity of the time, that it is expedient for a man so to be.
+26. And I consider that this is good
 
 27. Art thou bound to a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.
 
@@ -322,7 +322,7 @@
 
 30. and they who weep, as not weeping; and they who rejoice, as not rejoicing; and they who buy, as not possessing;
 
-31. and they who use this world should not exceed the just usethereof; for the fashion of this world passeth away.
+31. and they who use this world should not exceed the just use
 
 32. Wherefore I would that you be without anxiety; for he who hath not a wife thinketh of the things of his Lord, that so he may please his Lord;
 
@@ -376,7 +376,7 @@
 
 2. And if to others I be not an apostle, yet am I (such) to you; and the seal of my apostleship are you.
 
-3. My apology to them who judge mefor not receiving maintenance is this:
+3. My apology to them who judge me
 
 4. Have we not authority to eat and to drink?
 
@@ -396,7 +396,7 @@
 
 12. And if others have this power over you, much more have we. But we are not used in this power; but we bear all, lest in any thing we should hinder the gospel of the Meshiha.
 
-13. KNOW you not that they who serve in the sanctuaryOr, the holy house. from the sanctuary are sustained? And they who at the altar serve share with the altar?
+13. KNOW you not that they who serve in the sanctuary
 
 14. So also our Lord hath commanded, that they who his gospel preach, by his gospel shall live.
 
@@ -430,11 +430,11 @@
 
 1. BUT I would that you know, my brethren, that all our fathers were under the cloud,
 
-2. and all of them in the sea were baptized, and all byBy the hand of.
+2. and all of them in the sea were baptized, and all by
 
-3. Musha were baptized in the cloud and in the sea, and all of them ate one spiritual food,Food of the Spirit. and all of them drank one spiritual drink;Drink of the Spirit.
+3. Musha were baptized in the cloud and in the sea, and all of them ate one spiritual food,
 
-4. for they drank of that spiritual RockThat Rock of the Spirit. which went with them,-but that Rock was the Meshiha himself.
+4. for they drank of that spiritual Rock
 
 5. But not with many of them was Aloha pleased; for they fell in the desert.
 
@@ -448,13 +448,13 @@
 
 10. Neither murmur you, as some of them murmured, and perished by the hand of the destroyer.
 
-11. For all these which happened to them were unto us an example, and were written for our instruction, upon whom come the ends of the world.Trostius and Gutbir read, " The end of the worlds, or ages."
+11. For all these which happened to them were unto us an example, and were written for our instruction, upon whom come the ends of the world.
 
 12. Whoever then thinketh he standeth, let him beware that he fall not.
 
 13. Temptation cometh not (upon) you but what cometh on mankind; but faithful is Aloha, who will not permit you to be tempted more than you are able, but will make to your temptation a departure, that you may be able to endure.
 
-14. WHEREFORE, my beloved, flee from the worshipOr, service. of idols.
+14. WHEREFORE, my beloved, flee from the worship
 
 15. As to the wise I speak; judge what I say.
 
@@ -514,7 +514,7 @@
 
 9. Neither was the man created for the sake of woman, but woman for the sake of man.
 
-10. Because of this the woman is a debtor,Chaiobo. that the powerShultono. shall be upon her head, on account of the angels.
+10. Because of this the woman is a debtor,
 
 11. Nevertheless man is not without woman, neither is woman without man, in our Lord.
 
@@ -522,13 +522,13 @@
 
 13. Judge among yourselves, Is it comely for a woman with her head revealed to pray to Aloha?
 
-14. Does not nature itself teach you, that when a man's hair standeth,Koyem. it is a disgrace to him?
+14. Does not nature itself teach you, that when a man's hair standeth,
 
 15. But when a woman increaseth her hair, it is a glory to her; because her hair for a covering was given to her.
 
 16. But if any man contendeth about these things, we have no such usage as this, neither the church of Aloha.
 
-17. But this I prescribe not as praising you, because you go not forward, but to the lessLabtsirutha. you descend.
+17. But this I prescribe not as praising you, because you go not forward, but to the less
 
 18. For, first, when you are assembled in the church, there are divisions, (as) I hear, among you, and in some measure I believe.
 
@@ -558,7 +558,7 @@
 
 31. For if we judge ourselves, we shall not be judged.
 
-32. But when we are judged of our Lord, we are chastised,Lit. " To be chastised we are chastised." that not with the world we might be condemned.
+32. But when we are judged of our Lord, we are chastised,
 
 33. Wherefore, my brethren, when you assemble to eat, wait for one another.
 
@@ -570,7 +570,7 @@
 
 2. that you were Heathens, and unto idols which have no voice you were led without discernment .
 
-3. I therefore make known to you, that there is no man who by the Spirit of Aloha speaketh, and saith that Jeshu is accursed;Cherem. and no man also can say that Jeshu is THE LORD unless by the Spirit of Holiness.
+3. I therefore make known to you, that there is no man who by the Spirit of Aloha speaketh, and saith that Jeshu is accursed;
 
 4. Now, there are distributions of gifts, but one is the Spirit;
 
@@ -612,7 +612,7 @@
 
 23. and those which we consider contemptible in the body, to these the more we increase the honour; and on those which are of shame we bestow the greater decoration.
 
-24. But those members that are honourable in us have no need of adornment:Or, honour. but Aloha hath contempered the body, and given the more honour to the member which is inconsiderable;
+24. But those members that are honourable in us have no need of adornment:
 
 25. that there should be no divisions in the body, but all the members equally one of the other should have care:
 
@@ -620,7 +620,7 @@
 
 27. But you are the body of the Meshiha, and members in your place.
 
-28. FOR Aloha hath placed in the church, first, apostles; after them, prophets; after them, teachers; after them, workers of miracles;Powers. after them, gifts of healing, and helpers, and leaders, and kinds of tongues.
+28. FOR Aloha hath placed in the church, first, apostles; after them, prophets; after them, teachers; after them, workers of miracles;
 
 29. Are all apostles? Are all prophets? Are all teachers? Are all workers of miracles?
 
@@ -632,7 +632,7 @@
 
 1. Though in every tongue of men and of angels I spoke, and had not love, I should be as brass which soundeth, or a cymbal which giveth voice.
 
-2. And though there were in me prophecy, and I knew all mysteries, and all knowledge, and though there were in me all faith, as that I could remove the mountain,Mountains.-WALTON'S edit. and love were not in me, I should be nothing.
+2. And though there were in me prophecy, and I knew all mysteries, and all knowledge, and though there were in me all faith, as that I could remove the mountain,
 
 3. And if all I have I make to feed the poor, and I deliver my body to burn, and love be not in me, I profit nothing.
 
@@ -644,7 +644,7 @@
 
 7. It endureth every thing, believeth every thing; it hopeth all, endureth all.
 
-8. Love never falleth;Lo nophel. for prophecies shall be abolished, and tongues be silent, and knowledge be abolished:
+8. Love never falleth;
 
 9. for it is a little of much that we know, and a little of much we prophesy;
 
@@ -652,7 +652,7 @@
 
 11. When I was a child, as a child I spake, and as a child I thought, and as a child I reasoned; but when I had become a man I abolished these things of childhood.
 
-12. But now as in a mirror we see in a figure;Or, parable. but then- the face before the face. Now I know a little of much; but then shall I know even as I am known.
+12. But now as in a mirror we see in a figure;
 
 13. For these are the three that remain, faith and hope and love; but the greatest of these is love.
 
@@ -670,13 +670,13 @@
 
 6. And now, my brethren, if I come to you and speak with you in tongues, what do I profit you, unless I speak with you, or by revelation, or by knowledge, or by prophecy, or by doctrine?
 
-7. For thosethings also which have no life in them, and give voice, whether pipe or harp, if distinction be not made between a tone and its fellow, how can it be known what is sung, or what is played?Or, stricken.
+7. For those
 
 8. And if the trumpet call a voice which is not distinguished, who will prepare for the battle?
 
 9. So you also, if you speak the word in a tongue, and there be no interpretation, how will it be known what you say? Will you not be as if speaking with the air?
 
-10. For, behold, there are many kinds of tongues in the world, and not one of them hath not signification;Voice.
+10. For, behold, there are many kinds of tongues in the world, and not one of them hath not signification;
 
 11. but if I do not know the power of the voice, I become as a barbarian to him who speaks, and he also who speaks is a barbarian to me.
 
@@ -688,7 +688,7 @@
 
 15. What shall I do then? I will pray with my spirit, and I will pray with my mind; and I will sing with my spirit, and I will sing with my mind.
 
-16. Otherwise, if thou bless with the spirit, how shall he who filleth the place of the unlearnedHediuto. say Amen to thy thanksgiving? for he knoweth not what thou sayest.
+16. Otherwise, if thou bless with the spirit, how shall he who filleth the place of the unlearned
 
 17. For thou blessest well, but thy neighbour is not edified.
 
@@ -704,7 +704,7 @@
 
 23. If then all the church be assembled, and all of you speak with tongues, and the ignorant, or those who believe not enter, will they not say you are insane?
 
-24. And if all should prophesy, and there come in to you the ignorant, or of those who believe not, he is convictedOr, searched. by you all, and reproved by you all;
+24. And if all should prophesy, and there come in to you the ignorant, or of those who believe not, he is convicted
 
 25. and the secrets of his heart are revealed; and then will he fall upon his face and worship Aloha, and say, Truly Aloha is in you.
 
@@ -716,7 +716,7 @@
 
 29. Let the prophets speak, two or three, and let the rest discern.
 
-30. And ifsomewhat to another be revealed while sitting, let the first be silent.
+30. And if
 
 31. For one by one you can all prophesy, that each may learn, and each be edified.
 
@@ -730,7 +730,7 @@
 
 36. Was it from you that the word of Aloha went forth? Or did it come only to you?
 
-37. But if any man of you think that he is a prophet, or that he is spiritual,Or, of the Spirit. let him acknowledge these which I write to you to be the commandments of our Lord.
+37. But if any man of you think that he is a prophet, or that he is spiritual,
 
 38. But if any man know not, let him not know.
 
@@ -750,7 +750,7 @@
 
 5. And he was seen of Kipha, and after him, of the twelve,
 
-6. and after them, he was seen of more than five hundred brethren together, many of whom surviveOr, are standing. till now, and some of them have slept.
+6. and after them, he was seen of more than five hundred brethren together, many of whom survive
 
 7. And afterward he was seen of Jakub, and after him of all the apostles:
 
@@ -804,7 +804,7 @@
 
 32. If as among men I have been thrown to beasts at Ephesus, what have I profited if the dead do not arise? Let us eat and drink, for to-morrow we die.
 
-33. Mistake not; for Evil narrations corrupt well-disposedReyonee basimee. minds.
+33. Mistake not; for Evil narrations corrupt well-disposed
 
 34. AWAKEN your hearts rightly, and sin not; for there are some who have not the knowledge of Aloha; to your shame I say it.
 
@@ -816,7 +816,7 @@
 
 38. but Aloha giveth it a body as he willeth, and to each of the seeds a body of its own nature.
 
-39. For every body is not alike:Or, equal. for there is one body of man, and another of the beast, and another of the fowl, and another of fishes.
+39. For every body is not alike:
 
 40. There are heavenly bodies, and there are earthly bodies; but one is the glory of the heavenly, and another of the earthly.
 
@@ -826,7 +826,7 @@
 
 43. They are sown in baseness, they arise in glory. They are sown in weakness, they arise in power.
 
-44. It is sown an animal body, it ariseth a body spiritual. For there is a body of the animal,Phagro da-nephesh, body of the animal life. and there is a body of the spirit;
+44. It is sown an animal body, it ariseth a body spiritual. For there is a body of the animal,
 
 45. as also it is written, Adam the first man became a living soul, and the last Adam a life-giving spirit.
 
@@ -858,9 +858,9 @@
 
 ## 1 Corinthians 16
 
-1. BUT concerning what isto be collected for the saints, as I have instructed the churches of Galatia, so also do you.
+1. BUT concerning what is
 
-2. On each first day of the week let every one of you at his own house lay by and keep something of that which cometh unto his hands, lest when I come there be then collections.Or, choosings, selections.
+2. On each first day of the week let every one of you at his own house lay by and keep something of that which cometh unto his hands, lest when I come there be then collections.
 
 3. And when I come, those whom you shall choose, them will I send with an epistle, that they may take your bounty to Urishlem.
 
@@ -876,7 +876,7 @@
 
 9. For a great door is opened to me, which is full of labours, and the opposers are many.
 
-10. But if Timotheos come among you, see that he may be with you without fear; for he doeth the work of the Lord, as Ido .
+10. But if Timotheos come among you, see that he may be with you without fear; for he doeth the work of the Lord, as I
 
 11. Wherefore let no man despise him, but conduct him in peace, that he may come to me; for I wait for him with the brethren.
 

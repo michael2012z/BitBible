@@ -2,7 +2,7 @@
 
 ## Philemon 1
 
-1. PAULOS, the bondman of Jeshu Meshiha, and the brother Timotheos, to the beloved Philemon, our fellow-labourer,Or, the labourer who is with us.
+1. PAULOS, the bondman of Jeshu Meshiha, and the brother Timotheos, to the beloved Philemon, our fellow-labourer,
 
 2. and to our beloved Aphia, and to Arkipos our fellowlabourer,1 and to the church which is in thy house.
 

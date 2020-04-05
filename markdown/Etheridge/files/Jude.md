@@ -6,11 +6,11 @@
 
 2. Mercy and peace in love be multiplied unto you.
 
-3. My beloved, while giving all diligence to write to you concerning our common salvation, it is needful for me to write to you, exhorting you (in particular) to do battleD'aguno tebadun. for the faith which was once delivered to the saints.
+3. My beloved, while giving all diligence to write to you concerning our common salvation, it is needful for me to write to you, exhorting you (in particular) to do battle
 
 4. For certain men have obtained entrance, who from the beginning were proscribed in this condemnation; depraved men, who the grace of Aloha turn unto lasciviousness, and him who is the only Lord GOD, our Lord Jeshu Meshiha, deny.
 
-5. But I will to remind you, though all of you know, that Aloha, when once the people from Metsreen he had redeemed, yet afterwardOr, secondly. destroyed them who believed not.
+5. But I will to remind you, though all of you know, that Aloha, when once the people from Metsreen he had redeemed, yet afterward
 
 6. And the angels who kept not their primacy, but left their habitation, unto the judgment of the great day in chains unknown, under darkness, he hath kept.
 

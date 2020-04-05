@@ -30,9 +30,9 @@
 
 14. And if the burnt sacrifice for his offering to the Lord be of fowls, then he shall bring his offering of turtledoves, or of young pigeons.
 
-15. And the priest shall bring it unto the altar, and wring off his head, and burn it on the altar; and the blood thereof shall be wrung out at the side of the altar:wring…: or, pinch off the head with the nail
+15. And the priest shall bring it unto the altar, and wring off his head, and burn it on the altar; and the blood thereof shall be wrung out at the side of the altar:
 
-16. And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:his feathers: or, the filth thereof
+16. And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:
 
 17. And he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the Lord. 
 
@@ -46,7 +46,7 @@
 
 4. And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
 
-5. And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil.in a pan: or, on a flat plate, or, slice
+5. And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil.
 
 6. Thou shalt part it in pieces, and pour oil thereon: it is a meat offering.
 
@@ -60,7 +60,7 @@
 
 11. No meat offering, which ye shall bring unto the Lord, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the Lord made by fire.
 
-12. As for the oblation of the firstfruits, ye shall offer them unto the Lord: but they shall not be burnt on the altar for a sweet savour.be burnt: Heb. ascend
+12. As for the oblation of the firstfruits, ye shall offer them unto the Lord: but they shall not be burnt on the altar for a sweet savour.
 
 13. And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt.
 
@@ -76,9 +76,9 @@
 
 2. And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron’s sons the priests shall sprinkle the blood upon the altar round about.
 
-3. And he shall offer of the sacrifice of the peace offering an offering made by fire unto the Lord; the fat that covereth the inwards, and all the fat that is upon the inwards,fat: or, suet
+3. And he shall offer of the sacrifice of the peace offering an offering made by fire unto the Lord; the fat that covereth the inwards, and all the fat that is upon the inwards,
 
-4. And the two kidneys, and the fat that is on them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away.caul…: or, midriff over the liver, and over the kidneys
+4. And the two kidneys, and the fat that is on them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away.
 
 5. And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savour unto the Lord.
 
@@ -130,7 +130,7 @@
 
 11. And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,
 
-12. Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt.without…: Heb. to without the campwhere…: Heb. at the pouring out of the ashes
+12. Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt.
 
 13. And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the Lord concerning things which should not be done, and are guilty;
 
@@ -160,7 +160,7 @@
 
 26. And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.
 
-27. And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the Lord concerning things which ought not to be done, and be guilty;any one: Heb. any soulcommon…: Heb. people of the land
+27. And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the Lord concerning things which ought not to be done, and be guilty;
 
 28. Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.
 
@@ -192,13 +192,13 @@
 
 6. And he shall bring his trespass offering unto the Lord for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.
 
-7. And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the Lord; one for a sin offering, and the other for a burnt offering.he be…: Heb. his hand cannot reach to the sufficiency of a lamb
+7. And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the Lord; one for a sin offering, and the other for a burnt offering.
 
 8. And he shall bring them unto the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it asunder:
 
 9. And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it is a sin offering.
 
-10. And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.manner: or, ordinance
+10. And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.
 
 11. But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put any frankincense thereon: for it is a sin offering.
 
@@ -222,13 +222,13 @@
 
 1. And the Lord spake unto Moses, saying,
 
-2. If a soul sin, and commit a trespass against the Lord, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;in fellowship: or, in dealingfellowship: Heb. putting of the hand
+2. If a soul sin, and commit a trespass against the Lord, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;
 
 3. Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:
 
 4. Then it shall be, because he hath sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he hath deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,
 
-5. Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertaineth, in the day of his trespass offering.in the day…: or, in the day of his being found guilty: Heb. in the day of his trespass
+5. Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertaineth, in the day of his trespass offering.
 
 6. And he shall bring his trespass offering unto the Lord, a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest:
 
@@ -236,7 +236,7 @@
 
 8. And the Lord spake unto Moses, saying,
 
-9. Command Aaron and his sons, saying, This is the law of the burnt offering: It is the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.because…: or, for the burning
+9. Command Aaron and his sons, saying, This is the law of the burnt offering: It is the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.
 
 10. And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar.
 
@@ -298,7 +298,7 @@
 
 8. And the priest that offereth any man’s burnt offering, even the priest shall have to himself the skin of the burnt offering which he hath offered.
 
-9. And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it.in the pan: or, on the flat plate or, slice
+9. And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it.
 
 10. And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one as much as another.
 
@@ -328,7 +328,7 @@
 
 23. Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat.
 
-24. And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it.beast…: Heb. carcase
+24. And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it.
 
 25. For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the Lord, even the soul that eateth it shall be cut off from his people.
 
@@ -384,7 +384,7 @@
 
 12. And he poured of the anointing oil upon Aaron’s head, and anointed him, to sanctify him.
 
-13. And Moses brought Aaron’s sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the Lord commanded Moses.put bonnets: Heb. bound bonnets
+13. And Moses brought Aaron’s sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the Lord commanded Moses.
 
 14. And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.
 
@@ -464,9 +464,9 @@
 
 15. And he brought the people’s offering, and took the goat, which was the sin offering for the people, and slew it, and offered it for sin, as the first.
 
-16. And he brought the burnt offering, and offered it according to the manner.manner: or, ordinance
+16. And he brought the burnt offering, and offered it according to the manner.
 
-17. And he brought the meat offering, and took an handful thereof, and burnt it upon the altar, beside the burnt sacrifice of the morning.took…: Heb. filled his hand out of it
+17. And he brought the meat offering, and took an handful thereof, and burnt it upon the altar, beside the burnt sacrifice of the morning.
 
 18. He slew also the bullock and the ram for a sacrifice of peace offerings, which was for the people: and Aaron’s sons presented unto him the blood, which he sprinkled upon the altar round about,
 
@@ -596,7 +596,7 @@
 
 35. And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you.
 
-36. Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.wherein…: Heb. a gathering together of waters
+36. Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.
 
 37. And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean.
 
@@ -608,9 +608,9 @@
 
 41. And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten.
 
-42. Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination.hath…: Heb. doth multiply feet
+42. Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination.
 
-43. Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.yourselves abominable: Heb. your souls, etc
+43. Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.
 
 44. For I am the Lord your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
 
@@ -632,17 +632,17 @@
 
 5. But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
 
-6. And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:of the first…: Heb. a son of his year
+6. And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:
 
 7. Who shall offer it before the Lord, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.
 
-8. And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.she be…: Heb. her hand find not sufficiency of 
+8. And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.
 
 ## Leviticus 13
 
 1. And the Lord spake unto Moses and Aaron, saying,
 
-2. When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:rising: or, swelling
+2. When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:
 
 3. And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean.
 
@@ -658,7 +658,7 @@
 
 9. When the plague of leprosy is in a man, then he shall be brought unto the priest;
 
-10. And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;quick…: Heb. the quickening of living flesh
+10. And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;
 
 11. It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean.
 
@@ -686,7 +686,7 @@
 
 23. But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest shall pronounce him clean.
 
-24. Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;a hot…: Heb. a burning of fire
+24. Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;
 
 25. Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy.
 
@@ -718,7 +718,7 @@
 
 39. Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean.
 
-40. And the man whose hair is fallen off his head, he is bald; yet is he clean.hair…: Heb. head is pilled
+40. And the man whose hair is fallen off his head, he is bald; yet is he clean.
 
 41. And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean.
 
@@ -734,9 +734,9 @@
 
 47. The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;
 
-48. Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;thing…: Heb. work of
+48. Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;
 
-49. And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:thing: Heb. vessel, or, instrument
+49. And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:
 
 50. And the priest shall look upon the plague, and shut up it that hath the plague seven days:
 
@@ -748,7 +748,7 @@
 
 54. Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:
 
-55. And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without.whether…: Heb. whether it be bald in the head thereof, or in the forehead thereof
+55. And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without.
 
 56. And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:
 
@@ -766,19 +766,19 @@
 
 3. And the priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper;
 
-4. Then shall the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:birds: or, sparrows
+4. Then shall the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:
 
 5. And the priest shall command that one of the birds be killed in an earthen vessel over running water:
 
 6. As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water:
 
-7. And he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field.into…: Heb. upon the face of the field
+7. And he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field.
 
 8. And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days.
 
 9. But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean.
 
-10. And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil.of the…: Heb. the daughter of her year
+10. And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil.
 
 11. And the priest that maketh him clean shall present the man that is to be made clean, and those things, before the Lord, at the door of the tabernacle of the congregation:
 
@@ -800,7 +800,7 @@
 
 20. And the priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean.
 
-21. And if he be poor, and cannot get so much; then he shall take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;cannot…: Heb. his hand reach notto be…: Heb. for a waving
+21. And if he be poor, and cannot get so much; then he shall take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;
 
 22. And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering.
 
@@ -830,7 +830,7 @@
 
 35. And he that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:
 
-36. Then the priest shall command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:empty: or, prepare
+36. Then the priest shall command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:
 
 37. And he shall look on the plague, and, behold, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;
 
@@ -854,7 +854,7 @@
 
 47. And he that lieth in the house shall wash his clothes; and he that eateth in the house shall wash his clothes.
 
-48. And if the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.shall come…: Heb. in coming in shall come in, etc
+48. And if the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.
 
 49. And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:
 
@@ -872,17 +872,17 @@
 
 56. And for a rising, and for a scab, and for a bright spot:
 
-57. To teach when it is unclean, and when it is clean: this is the law of leprosy.when it is unclean…: Heb. in the day of the unclean, and in the day of the clean 
+57. To teach when it is unclean, and when it is clean: this is the law of leprosy.
 
 ## Leviticus 15
 
 1. And the Lord spake unto Moses and to Aaron, saying,
 
-2. Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean.running…: or, running of the reins
+2. Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean.
 
 3. And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness.
 
-4. Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.thing: Heb. vessel
+4. Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.
 
 5. And whosoever toucheth his bed shall wash his clothes, and bathe himself in water, and be unclean until the even.
 
@@ -912,7 +912,7 @@
 
 18. The woman also with whom man shall lie with seed of copulation, they shall both bathe themselves in water, and be unclean until the even.
 
-19. And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even.put…: Heb. in her separation
+19. And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even.
 
 20. And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean.
 
@@ -958,9 +958,9 @@
 
 7. And he shall take the two goats, and present them before the Lord at the door of the tabernacle of the congregation.
 
-8. And Aaron shall cast lots upon the two goats; one lot for the Lord, and the other lot for the scapegoat.scapegoat: Heb. Azazel
+8. And Aaron shall cast lots upon the two goats; one lot for the Lord, and the other lot for the scapegoat.
 
-9. And Aaron shall bring the goat upon which the Lord’s lot fell, and offer him for a sin offering.fell: Heb. went up
+9. And Aaron shall bring the goat upon which the Lord’s lot fell, and offer him for a sin offering.
 
 10. But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the Lord, to make an atonement with him, and to let him go for a scapegoat into the wilderness.
 
@@ -974,7 +974,7 @@
 
 15. Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:
 
-16. And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.remaineth: Heb. dwelleth
+16. And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.
 
 17. And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel.
 
@@ -984,9 +984,9 @@
 
 20. And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:
 
-21. And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:a fit…: Heb. a man of opportunity
+21. And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:
 
-22. And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.not…: Heb. of separation
+22. And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.
 
 23. And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there:
 
@@ -1006,7 +1006,7 @@
 
 31. It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.
 
-32. And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest’s office in his father’s stead, shall make the atonement, and shall put on the linen clothes, even the holy garments:consecrate: Heb. fill his hand
+32. And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest’s office in his father’s stead, shall make the atonement, and shall put on the linen clothes, even the holy garments:
 
 33. And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation.
 
@@ -1038,11 +1038,11 @@
 
 12. Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.
 
-13. And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.which…: Heb. that hunteth any hunting
+13. And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
 
 14. For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.
 
-15. And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean.that which died…: Heb. a carcase
+15. And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean.
 
 16. But if he wash them not, nor bathe his flesh; then he shall bear his iniquity. 
 
@@ -1058,7 +1058,7 @@
 
 5. Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the Lord.
 
-6. None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the Lord.near…: Heb. remainder of his flesh
+6. None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the Lord.
 
 7. The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness.
 
@@ -1082,13 +1082,13 @@
 
 17. Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; for they are her near kinswomen: it is wickedness.
 
-18. Neither shalt thou take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time.a wife…: or, one wife to another
+18. Neither shalt thou take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time.
 
 19. Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness.
 
 20. Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.
 
-21. And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the Lord.Molech: Gr. Moloch
+21. And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the Lord.
 
 22. Thou shalt not lie with mankind, as with womankind: it is abomination.
 
@@ -1142,13 +1142,13 @@
 
 16. Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the Lord.
 
-17. Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.and…: or, that thou bear not sin for him
+17. Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 
 18. Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 19. Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.
 
-20. And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.betrothed…: or, abused by any: Heb. reproached by (or, for) manshe shall…: or, they, etc: Heb. there shall be a scourging
+20. And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.
 
 21. And he shall bring his trespass offering unto the Lord, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.
 
@@ -1156,7 +1156,7 @@
 
 23. And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.
 
-24. But in the fourth year all the fruit thereof shall be holy to praise the Lord withal.holy…: Heb. holiness of praises to the Lord
+24. But in the fourth year all the fruit thereof shall be holy to praise the Lord withal.
 
 25. And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the Lord your God.
 
@@ -1166,7 +1166,7 @@
 
 28. Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the Lord.
 
-29. Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.prostitute: Heb. profane
+29. Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.
 
 30. Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.
 
@@ -1174,13 +1174,13 @@
 
 32. Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the Lord.
 
-33. And if a stranger sojourn with thee in your land, ye shall not vex him.vex: or, oppress
+33. And if a stranger sojourn with thee in your land, ye shall not vex him.
 
 34. But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the Lord your God.
 
 35. Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.
 
-36. Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the Lord your God, which brought you out of the land of Egypt.weights: Heb. stones
+36. Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the Lord your God, which brought you out of the land of Egypt.
 
 37. Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the Lord. 
 
@@ -1220,13 +1220,13 @@
 
 17. And if a man shall take his sister, his father’s daughter, or his mother’s daughter, and see her nakedness, and she see his nakedness; it is a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister’s nakedness; he shall bear his iniquity.
 
-18. And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people.discovered: Heb. made naked
+18. And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people.
 
-19. And thou shalt not uncover the nakedness of thy mother’s sister, nor of thy father’s sister: for he uncovereth his near kin: they shall bear their iniquity.uncovereth: Heb. hath made naked
+19. And thou shalt not uncover the nakedness of thy mother’s sister, nor of thy father’s sister: for he uncovereth his near kin: they shall bear their iniquity.
 
 20. And if a man shall lie with his uncle’s wife, he hath uncovered his uncle’s nakedness: they shall bear their sin; they shall die childless.
 
-21. And if a man shall take his brother’s wife, it is an unclean thing: he hath uncovered his brother’s nakedness; they shall be childless.an…: Heb. a separation
+21. And if a man shall take his brother’s wife, it is an unclean thing: he hath uncovered his brother’s nakedness; they shall be childless.
 
 22. Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.
 
@@ -1234,7 +1234,7 @@
 
 24. But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the Lord your God, which have separated you from other people.
 
-25. Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.creepeth: or, moveth
+25. Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.
 
 26. And ye shall be holy unto me: for I the Lord am holy, and have severed you from other people, that ye should be mine.
 
@@ -1248,7 +1248,7 @@
 
 3. And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.
 
-4. But he shall not defile himself, being a chief man among his people, to profane himself.he…: or, being an husband among his people, he shall not defile himself for his wife, etc
+4. But he shall not defile himself, being a chief man among his people, to profane himself.
 
 5. They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.
 
@@ -1274,13 +1274,13 @@
 
 16. And the Lord spake unto Moses, saying,
 
-17. Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God.bread: or, food
+17. Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God.
 
 18. For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,
 
 19. Or a man that is brokenfooted, or brokenhanded,
 
-20. Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;a dwarf: or, too slender
+20. Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
 
 21. No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the Lord made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.
 
@@ -1298,7 +1298,7 @@
 
 3. Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the Lord, having his uncleanness upon him, that soul shall be cut off from my presence: I am the Lord.
 
-4. What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;running…: Heb. running of the reins
+4. What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;
 
 5. Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;
 
@@ -1312,9 +1312,9 @@
 
 10. There shall no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, shall not eat of the holy thing.
 
-11. But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.with…: Heb. with the purchase of his money
+11. But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.
 
-12. If the priest’s daughter also be married unto a stranger, she may not eat of an offering of the holy things.a stranger: Heb. a man a stranger
+12. If the priest’s daughter also be married unto a stranger, she may not eat of an offering of the holy things.
 
 13. But if the priest’s daughter be a widow, or divorced, and have no child, and is returned unto her father’s house, as in her youth, she shall eat of her father’s meat: but there shall no stranger eat thereof.
 
@@ -1322,7 +1322,7 @@
 
 15. And they shall not profane the holy things of the children of Israel, which they offer unto the Lord;
 
-16. Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the Lord do sanctify them.suffer…: or, lade themselves with the iniquity of trespass in their eating
+16. Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the Lord do sanctify them.
 
 17. And the Lord spake unto Moses, saying,
 
@@ -1332,11 +1332,11 @@
 
 20. But whatsoever hath a blemish, that shall ye not offer: for it shall not be acceptable for you.
 
-21. And whosoever offereth a sacrifice of peace offerings unto the Lord to accomplish his vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.sheep: or, goats
+21. And whosoever offereth a sacrifice of peace offerings unto the Lord to accomplish his vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.
 
 22. Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the Lord, nor make an offering by fire of them upon the altar unto the Lord.
 
-23. Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer for a freewill offering; but for a vow it shall not be accepted.lamb: or, kid
+23. Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer for a freewill offering; but for a vow it shall not be accepted.
 
 24. Ye shall not offer unto the Lord that which is bruised, or crushed, or broken, or cut; neither shall ye make any offering thereof in your land.
 
@@ -1346,7 +1346,7 @@
 
 27. When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the Lord.
 
-28. And whether it be cow or ewe, ye shall not kill it and her young both in one day.ewe: or, she goat
+28. And whether it be cow or ewe, ye shall not kill it and her young both in one day.
 
 29. And when ye will offer a sacrifice of thanksgiving unto the Lord, offer it at your own will.
 
@@ -1378,7 +1378,7 @@
 
 9. And the Lord spake unto Moses, saying,
 
-10. Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:sheaf: or, handful: Heb. omer
+10. Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:
 
 11. And he shall wave the sheaf before the Lord, to be accepted for you: on the morrow after the sabbath the priest shall wave it.
 
@@ -1422,7 +1422,7 @@
 
 31. Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings.
 
-32. It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath.celebrate: Heb. rest
+32. It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath.
 
 33. And the Lord spake unto Moses, saying,
 
@@ -1430,7 +1430,7 @@
 
 35. On the first day shall be an holy convocation: ye shall do no servile work therein.
 
-36. Seven days ye shall offer an offering made by fire unto the Lord: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the Lord: it is a solemn assembly; and ye shall do no servile work therein.solemn…: Heb. day of restraint
+36. Seven days ye shall offer an offering made by fire unto the Lord: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the Lord: it is a solemn assembly; and ye shall do no servile work therein.
 
 37. These are the feasts of the Lord, which ye shall proclaim to be holy convocations, to offer an offering made by fire unto the Lord, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:
 
@@ -1438,7 +1438,7 @@
 
 39. Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the Lord seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath.
 
-40. And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the Lord your God seven days.boughs of goodly trees: Heb. fruit of, etc
+40. And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the Lord your God seven days.
 
 41. And ye shall keep it a feast unto the Lord seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month.
 
@@ -1452,7 +1452,7 @@
 
 1. And the Lord spake unto Moses, saying,
 
-2. Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.to cause: Heb. to cause to ascend
+2. Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.
 
 3. Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the Lord continually: it shall be a statute for ever in your generations.
 
@@ -1472,7 +1472,7 @@
 
 11. And the Israelitish woman’s son blasphemed the name of the Lord, and cursed. And they brought him unto Moses: (and his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan:)
 
-12. And they put him in ward, that the mind of the Lord might be shewed them.that…: Heb. to expound unto them according to the mouth of the Lord
+12. And they put him in ward, that the mind of the Lord might be shewed them.
 
 13. And the Lord spake unto Moses, saying,
 
@@ -1482,9 +1482,9 @@
 
 16. And he that blasphemeth the name of the Lord, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name of the Lord, shall be put to death.
 
-17. And he that killeth any man shall surely be put to death.killeth…: Heb. smiteth the life of a man
+17. And he that killeth any man shall surely be put to death.
 
-18. And he that killeth a beast shall make it good; beast for beast.beast for…: Heb. life for life
+18. And he that killeth a beast shall make it good; beast for beast.
 
 19. And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him;
 
@@ -1500,13 +1500,13 @@
 
 1. And the Lord spake unto Moses in mount Sinai, saying,
 
-2. Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the Lord.keep: Heb. rest
+2. Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the Lord.
 
 3. Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;
 
 4. But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the Lord: thou shalt neither sow thy field, nor prune thy vineyard.
 
-5. That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land.of thy vine…: Heb. of thy separation
+5. That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land.
 
 6. And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
 
@@ -1514,7 +1514,7 @@
 
 8. And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.
 
-9. Then shalt thou cause the trumpet of the jubile to sound on the tenth day of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.of the jubile: Heb. loud of sound
+9. Then shalt thou cause the trumpet of the jubile to sound on the tenth day of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.
 
 10. And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.
 
@@ -1542,13 +1542,13 @@
 
 22. And ye shall sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in ye shall eat of the old store.
 
-23. The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me.for ever: or, to be quite cut off: Heb. for cutting off
+23. The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me.
 
 24. And in all the land of your possession ye shall grant a redemption for the land.
 
 25. If thy brother be waxen poor, and hath sold away some of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold.
 
-26. And if the man have none to redeem it, and himself be able to redeem it;himself…: Heb. his hand hath attained and found sufficiency
+26. And if the man have none to redeem it, and himself be able to redeem it;
 
 27. Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession.
 
@@ -1558,15 +1558,15 @@
 
 30. And if it be not redeemed within the space of a full year, then the house that is in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile.
 
-31. But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile.they may…: Heb. redemption belongeth unto it
+31. But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile.
 
 32. Notwithstanding the cities of the Levites, and the houses of the cities of their possession, may the Levites redeem at any time.
 
-33. And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in the year of jubile: for the houses of the cities of the Levites are their possession among the children of Israel.a man…: or, one of the Levites redeem them
+33. And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in the year of jubile: for the houses of the cities of the Levites are their possession among the children of Israel.
 
 34. But the field of the suburbs of their cities may not be sold; for it is their perpetual possession.
 
-35. And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee.fallen…: Heb. his hand failethrelieve: Heb. strengthen
+35. And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee.
 
 36. Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.
 
@@ -1574,13 +1574,13 @@
 
 38. I am the Lord your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, and to be your God.
 
-39. And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:compel…: Heb. serve thyself with him with the service, etc
+39. And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:
 
 40. But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:
 
 41. And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.
 
-42. For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.as…: Heb. with the sale of a bondman
+42. For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.
 
 43. Thou shalt not rule over him with rigour; but shalt fear thy God.
 
@@ -1588,9 +1588,9 @@
 
 45. Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shall be your possession.
 
-46. And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.they…: Heb. ye shall serve yourselves with them
+46. And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
 
-47. And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:wax rich…: Heb. his hand obtain, etc
+47. And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:
 
 48. After that he is sold he may be redeemed again; one of his brethren may redeem him:
 
@@ -1604,13 +1604,13 @@
 
 53. And as a yearly hired servant shall he be with him: and the other shall not rule with rigour over him in thy sight.
 
-54. And if he be not redeemed in these years, then he shall go out in the year of jubile, both he, and his children with him.in these…: or, by these means
+54. And if he be not redeemed in these years, then he shall go out in the year of jubile, both he, and his children with him.
 
 55. For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the Lord your God. 
 
 ## Leviticus 26
 
-1. Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the Lord your God.standing…: or, pillarimage of…: or, figured stone: Heb. a stone of picture
+1. Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the Lord your God.
 
 2. Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.
 
@@ -1620,7 +1620,7 @@
 
 5. And your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing time: and ye shall eat your bread to the full, and dwell in your land safely.
 
-6. And I will give peace in the land, and ye shall lie down, and none shall make you afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.rid: Heb. cause to cease
+6. And I will give peace in the land, and ye shall lie down, and none shall make you afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.
 
 7. And ye shall chase your enemies, and they shall fall before you by the sword.
 
@@ -1640,7 +1640,7 @@
 
 15. And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, but that ye break my covenant:
 
-16. I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.over: Heb. upon
+16. I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.
 
 17. And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.
 
@@ -1650,7 +1650,7 @@
 
 20. And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits.
 
-21. And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.contrary…: or, at all adventures with me
+21. And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.
 
 22. I will also send wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number; and your high ways shall be desolate.
 
@@ -1680,7 +1680,7 @@
 
 35. As long as it lieth desolate it shall rest; because it did not rest in your sabbaths, when ye dwelt upon it.
 
-36. And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.shaken: Heb. driven
+36. And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
 
 37. And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.
 
@@ -1726,7 +1726,7 @@
 
 11. And if it be any unclean beast, of which they do not offer a sacrifice unto the Lord, then he shall present the beast before the priest:
 
-12. And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be.as…: Heb. according to thy estimation, O priest, etc
+12. And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be.
 
 13. But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation.
 
@@ -1734,7 +1734,7 @@
 
 15. And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his.
 
-16. And if a man shall sanctify unto the Lord some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver.an…: or, the land of an homer, etc
+16. And if a man shall sanctify unto the Lord some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver.
 
 17. If he sanctify his field from the year of jubile, according to thy estimation it shall stand.
 
@@ -1754,7 +1754,7 @@
 
 25. And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.
 
-26. Only the firstling of the beasts, which should be the Lord’s firstling, no man shall sanctify it; whether it be ox, or sheep: it is the Lord’s.firstling of: Heb. firstborn, etc
+26. Only the firstling of the beasts, which should be the Lord’s firstling, no man shall sanctify it; whether it be ox, or sheep: it is the Lord’s.
 
 27. And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.
 

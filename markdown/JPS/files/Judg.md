@@ -84,7 +84,7 @@
 
 4. And it came to pass, when the angel of HaShem spoke these words unto all the children of Israel, that the people lifted up their voice, and wept.
 
-5. And they called the name of that place Bochim;That is, Weepers. and they sacrificed there unto HaShem.
+5. And they called the name of that place Bochim;
 
 6. Now when Joshua had sent the people away, the children of Israel went every man unto his inheritance to possess the land.
 
@@ -348,7 +348,7 @@
 
 23. And HaShem said unto him: 'Peace be unto thee; fear not; thou shalt not die.'
 
-24. Then Gideon built an altar there unto HaShem, and called it 'Adonai-shalom';That is, The LORD is peace. unto this day it is yet in Ophrah of the Abiezrites.
+24. Then Gideon built an altar there unto HaShem, and called it 'Adonai-shalom';
 
 25. And it came to pass the same night, that HaShem said unto him: 'Take thy father's bullock, and the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the Asherah that is by it;
 
@@ -364,7 +364,7 @@
 
 31. And Joash said unto all that stood against him: 'Will ye contend for Baal? or will ye save him? he that will contend for him, shall be put to death before morning; if he be a god, let him contend for himself, because one hath broken down his altar.'
 
-32. Therefore on that day he was called Jerubbaal,That is, Let Baal contend. saying: 'Let Baal contend against him, because he hath broken down his altar.'
+32. Therefore on that day he was called Jerubbaal,
 
 33. Now all the Midianites and the Amalekites and the children of the east assembled themselves together; and they passed over, and pitched in the valley of Jezreel.
 
@@ -630,7 +630,7 @@
 
 3. And after him arose Jair, the Gileadite; and he judged Israel twenty and two years.
 
-4. And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havvoth-jairThat is, The villages of Jair. unto this day, which are in the land of Gilead.
+4. And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havvoth-jair
 
 5. And Jair died, and was buried in Kamon.
 
@@ -902,11 +902,11 @@
 
 16. And Samson said: With the jawbone of an ass, heaps upon heaps, with the jawbone of an ass have I smitten a thousand men.
 
-17. And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand; and that place was called Ramath-lehi.That is, The hill of the jawbone.
+17. And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand; and that place was called Ramath-lehi.
 
 18. And he was sore athirst, and called on HaShem, and said: 'Thou hast given this great deliverance by the hand of Thy servant; and now shall I die for thirst, and fall into the hand of the uncircumcised?'
 
-19. But G-d cleaved the hollow place that is in Lehi, and there came water thereout; and when he had drunk, his spirit came back, and he revived; wherefore the name thereof was called En-hakkore,That is, The spring of him that called. which is in Lehi unto this day.
+19. But G-d cleaved the hollow place that is in Lehi, and there came water thereout; and when he had drunk, his spirit came back, and he revived; wherefore the name thereof was called En-hakkore,
 
 20. And he judged Israel in the days of the Philistines twenty years.  
 
@@ -1062,7 +1062,7 @@
 
 29. And they called the name of the city Dan, after the name of Dan their father, who was born unto Israel; howbeit the name of the city was Laish at the first.
 
-30. And the children of Dan set up for themselves the graven image; and Jonathan, the son of Gershom, the son of Manasseh,An earlier Hebrew reading indicates: Moses. he and his sons were priests to the tribe of the Danites until the day of the captivity of the land.
+30. And the children of Dan set up for themselves the graven image; and Jonathan, the son of Gershom, the son of Manasseh,
 
 31. So they set them up Micah's graven image which he made, all the time that the house of G-d was in Shiloh.  
 
@@ -1148,7 +1148,7 @@
 
 9. But now this is the thing which we will do to Gibeah: we will go up against it by lot;
 
-10. and we will take ten men of a hundred throughout all the tribes of Israel, and a hundred of a thousand, and a thousand out of ten thousand, to fetch victuals for the people, that they may do, when they come to GibeahHeb. Geba. of Benjamin, according to all the wantonness that they have wrought in Israel.'
+10. and we will take ten men of a hundred throughout all the tribes of Israel, and a hundred of a thousand, and a thousand out of ten thousand, to fetch victuals for the people, that they may do, when they come to Gibeah
 
 11. So all the men of Israel were gathered against the city, knit together as one man.
 

@@ -40,7 +40,7 @@
 
 19. So they two went until they came to Beth-lehem. And it came to pass, when they were come to Beth-lehem, that all the city was astir concerning them, and the women said: 'Is this Naomi?'
 
-20. And she said unto them: 'Call me not Naomi,That is, Pleasant. call me Marah;That is, Bitter. for the Almighty hath dealt very bitterly with me.
+20. And she said unto them: 'Call me not Naomi,
 
 21. I went out full, and HaShem hath brought me back home empty; why call ye me Naomi, seeing HaShem hath testified against me, and the Almighty hath afflicted me?'
 
@@ -172,7 +172,7 @@
 
 19. and Hezron begot Ram, and Ram begot Amminadab;
 
-20. and Amminadab begot Nahshon, and Nahshon begot Salmon;Heb. Salmah.
+20. and Amminadab begot Nahshon, and Nahshon begot Salmon;
 
 21. and Salmon begot Boaz, and Boaz begot Obed;
 

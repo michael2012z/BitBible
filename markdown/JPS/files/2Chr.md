@@ -664,7 +664,7 @@
 
 1. In the six and thirtieth year of the reign of Asa, Baasa king of Israel went up against Judah, and built Ramah, that he might not suffer any to go out or come in to Asa king of Judah.
 
-2. Then Asa brought out silver and gold out of the treasures of the house of HaShem and of the king's house, and sent to Ben-hadad king of Aram, that dwelt at Damascus,Heb. Darmesek, and in xxiv. 23; xxviii. 5, 23. saying:
+2. Then Asa brought out silver and gold out of the treasures of the house of HaShem and of the king's house, and sent to Ben-hadad king of Aram, that dwelt at Damascus,
 
 3. 'There is a league between me and thee, as there was between my father and thy father; behold, I have sent thee silver and gold; go, break thy league with Baasa king of Israel, that he may depart from me.'
 
@@ -758,7 +758,7 @@
 
 13. And Micaiah said: 'As HaShem liveth, what my G-d saith, that will I speak.'
 
-14. And when he was come to the king, the king said unto him: 'Micaiah,Heb. Micah. shall we go to Ramoth-gilead to battle, or shall I forbear?' And he said: 'Go ye up, and prosper; and they shall be delivered into your hand.'
+14. And when he was come to the king, the king said unto him: 'Micaiah,
 
 15. And the king said to him: 'How many times shall I adjure thee that thou speak unto me nothing but the truth in the name of HaShem.'
 
@@ -876,7 +876,7 @@
 
 25. And when Jehoshaphat and his people came to take the spoil of them, they found among them in abundance both riches and dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away; and they were three days in taking the spoil, it was so much.
 
-26. And on the fourth day they assembled themselves in the valley of Beracah;That is, Blessing. for there they blessed HaShem; therefore the name of that place was called The valley of Beracah, unto this day.
+26. And on the fourth day they assembled themselves in the valley of Beracah;
 
 27. Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go back to Jerusalem with joy; for HaShem had made them to rejoice over their enemies.
 

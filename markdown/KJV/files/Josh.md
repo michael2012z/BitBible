@@ -12,11 +12,11 @@
 
 5. There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee.
 
-6. Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.unto this…: or, thou shalt cause this people to inherit the land, etc
+6. Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.
 
-7. Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest.prosper: or, do wisely
+7. Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest.
 
-8. This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.have…: or, do wisely
+8. This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.
 
 9. Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.
 
@@ -28,7 +28,7 @@
 
 13. Remember the word which Moses the servant of the Lord commanded you, saying, The Lord your God hath given you rest, and hath given you this land.
 
-14. Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;armed: Heb. marshalled by five
+14. Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;
 
 15. Until the Lord have given your brethren rest, as he hath given you, and they also have possessed the land which the Lord your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the Lord’s servant gave you on this side Jordan toward the sunrising.
 
@@ -40,7 +40,7 @@
 
 ## Joshua 2
 
-1. And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.sent: or, had sentlodged: Heb. lay
+1. And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.
 
 2. And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.
 
@@ -56,17 +56,17 @@
 
 8. And before they were laid down, she came up unto them upon the roof;
 
-9. And she said unto the men, I know that the Lord hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.faint: Heb. melt
+9. And she said unto the men, I know that the Lord hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.
 
 10. For we have heard how the Lord dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.
 
-11. And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.did there…: Heb. rose up
+11. And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.
 
 12. Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:
 
 13. And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.
 
-14. And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee.for…: Heb. instead of you to die
+14. And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee.
 
 15. Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.
 
@@ -74,7 +74,7 @@
 
 17. And the men said unto her, We will be blameless of this thine oath which thou hast made us swear.
 
-18. Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.bring: Heb. gather
+18. Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.
 
 19. And it shall be, that whosoever shall go out of the doors of thy house into the street, his blood shall be upon his head, and we will be guiltless: and whosoever shall be with thee in the house, his blood shall be on our head, if any hand be upon him.
 
@@ -86,7 +86,7 @@
 
 23. So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them:
 
-24. And they said unto Joshua, Truly the Lord hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.faint: Heb. melt 
+24. And they said unto Joshua, Truly the Lord hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.
 
 ## Joshua 3
 
@@ -96,7 +96,7 @@
 
 3. And they commanded the people, saying, When ye see the ark of the covenant of the Lord your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it.
 
-4. Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore.heretofore: Heb. since yesterday, and the third day
+4. Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore.
 
 5. And Joshua said unto the people, Sanctify yourselves: for to morrow the Lord will do wonders among you.
 
@@ -136,7 +136,7 @@
 
 5. And Joshua said unto them, Pass over before the ark of the Lord your God into the midst of Jordan, and take ye up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:
 
-6. That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones?in time…: Heb. to morrow
+6. That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones?
 
 7. Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the Lord; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever.
 
@@ -150,7 +150,7 @@
 
 12. And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake unto them:
 
-13. About forty thousand prepared for war passed over before the Lord unto battle, to the plains of Jericho.prepared: or, ready armed
+13. About forty thousand prepared for war passed over before the Lord unto battle, to the plains of Jericho.
 
 14. On that day the Lord magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life.
 
@@ -160,27 +160,27 @@
 
 17. Joshua therefore commanded the priests, saying, Come ye up out of Jordan.
 
-18. And it came to pass, when the priests that bare the ark of the covenant of the Lord were come up out of the midst of Jordan, and the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as they did before.lifted…: Heb. plucked upflowed: Heb. went
+18. And it came to pass, when the priests that bare the ark of the covenant of the Lord were come up out of the midst of Jordan, and the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as they did before.
 
 19. And the people came up out of Jordan on the tenth day of the first month, and encamped in Gilgal, in the east border of Jericho.
 
 20. And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal.
 
-21. And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones?in time…: Heb. to morrow
+21. And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones?
 
 22. Then ye shall let your children know, saying, Israel came over this Jordan on dry land.
 
 23. For the Lord your God dried up the waters of Jordan from before you, until ye were passed over, as the Lord your God did to the Red sea, which he dried up from before us, until we were gone over:
 
-24. That all the people of the earth might know the hand of the Lord, that it is mighty: that ye might fear the Lord your God for ever.for ever: Heb. all days 
+24. That all the people of the earth might know the hand of the Lord, that it is mighty: that ye might fear the Lord your God for ever.
 
 ## Joshua 5
 
 1. And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the Lord had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
 
-2. At that time the Lord said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.sharp…: or, knives of flints
+2. At that time the Lord said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.
 
-3. And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins.sharp…: or, knives of flintsthe hill…: or, Gibeah–haaraloth
+3. And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins.
 
 4. And this is the cause why Joshua did circumcise: All the people that came out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came out of Egypt.
 
@@ -190,9 +190,9 @@
 
 7. And their children, whom he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way.
 
-8. And it came to pass, when they had done circumcising all the people, that they abode in their places in the camp, till they were whole.they had…: Heb. the people had made an end to be circumcised
+8. And it came to pass, when they had done circumcising all the people, that they abode in their places in the camp, till they were whole.
 
-9. And the Lord said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.Gilgal: that is Rolling
+9. And the Lord said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.
 
 10. And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho.
 
@@ -202,13 +202,13 @@
 
 13. And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries?
 
-14. And he said, Nay; but as captain of the host of the Lord am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?captain: or, prince
+14. And he said, Nay; but as captain of the host of the Lord am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?
 
 15. And the captain of the Lord’s host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so. 
 
 ## Joshua 6
 
-1. Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.was…: Heb. did shut up, and was shut up
+1. Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
 
 2. And the Lord said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valour.
 
@@ -216,7 +216,7 @@
 
 4. And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets.
 
-5. And it shall come to pass, that when they make a long blast with the ram’s horn, and when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.flat: Heb. under it
+5. And it shall come to pass, that when they make a long blast with the ram’s horn, and when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
 
 6. And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the Lord.
 
@@ -224,9 +224,9 @@
 
 8. And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams’ horns passed on before the Lord, and blew with the trumpets: and the ark of the covenant of the Lord followed them.
 
-9. And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, the priests going on, and blowing with the trumpets.rereward: Heb. gathering host
+9. And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, the priests going on, and blowing with the trumpets.
 
-10. And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout.any noise…: Heb. your voice to be heard
+10. And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout.
 
 11. So the ark of the Lord compassed the city, going about it once: and they came into the camp, and lodged in the camp.
 
@@ -240,19 +240,19 @@
 
 16. And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the Lord hath given you the city.
 
-17. And the city shall be accursed, even it, and all that are therein, to the Lord: only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent.accursed: or, devoted
+17. And the city shall be accursed, even it, and all that are therein, to the Lord: only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent.
 
-18. And ye, in any wise keep yourselves from the accursed thing, lest ye make yourselves accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.accursed: or, devoteda curse: or, devoted
+18. And ye, in any wise keep yourselves from the accursed thing, lest ye make yourselves accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.
 
-19. But all the silver, and gold, and vessels of brass and iron, are consecrated unto the Lord: they shall come into the treasury of the Lord.consecrated: Heb. holiness
+19. But all the silver, and gold, and vessels of brass and iron, are consecrated unto the Lord: they shall come into the treasury of the Lord.
 
-20. So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.flat: Heb. under it
+20. So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 
 21. And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
 
 22. But Joshua had said unto the two men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as ye sware unto her.
 
-23. And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.kindred: Heb. families
+23. And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.
 
 24. And they burnt the city with fire, and all that was therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the Lord.
 
@@ -264,25 +264,25 @@
 
 ## Joshua 7
 
-1. But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the Lord was kindled against the children of Israel.Achan: also called, AcharZabdi: also called, Zimri
+1. But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the Lord was kindled against the children of Israel.
 
 2. And Joshua sent men from Jericho to Ai, which is beside Beth–aven, on the east side of Beth–el, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai.
 
-3. And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; and make not all the people to labour thither; for they are but few.about…: Heb. about two thousand men, or, about three thousand men
+3. And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; and make not all the people to labour thither; for they are but few.
 
 4. So there went up thither of the people about three thousand men: and they fled before the men of Ai.
 
-5. And the men of Ai smote of them about thirty and six men: for they chased them from before the gate even unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.in…: or, in Morad
+5. And the men of Ai smote of them about thirty and six men: for they chased them from before the gate even unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.
 
 6. And Joshua rent his clothes, and fell to the earth upon his face before the ark of the Lord until the eventide, he and the elders of Israel, and put dust upon their heads.
 
 7. And Joshua said, Alas, O Lord God, wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!
 
-8. O Lord, what shall I say, when Israel turneth their backs before their enemies!backs: Heb. necks
+8. O Lord, what shall I say, when Israel turneth their backs before their enemies!
 
 9. For the Canaanites and all the inhabitants of the land shall hear of it, and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?
 
-10. And the Lord said unto Joshua, Get thee up; wherefore liest thou thus upon thy face?liest: Heb. fallest
+10. And the Lord said unto Joshua, Get thee up; wherefore liest thou thus upon thy face?
 
 11. Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put it even among their own stuff.
 
@@ -292,7 +292,7 @@
 
 14. In the morning therefore ye shall be brought according to your tribes: and it shall be, that the tribe which the Lord taketh shall come according to the families thereof; and the family which the Lord shall take shall come by households; and the household which the Lord shall take shall come man by man.
 
-15. And it shall be, that he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the Lord, and because he hath wrought folly in Israel.folly: or, wickedness
+15. And it shall be, that he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the Lord, and because he hath wrought folly in Israel.
 
 16. So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:
 
@@ -304,17 +304,17 @@
 
 20. And Achan answered Joshua, and said, Indeed I have sinned against the Lord God of Israel, and thus and thus have I done:
 
-21. When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.wedge: Heb. tongue
+21. When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.
 
 22. So Joshua sent messengers, and they ran unto the tent; and, behold, it was hid in his tent, and the silver under it.
 
-23. And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the Lord.laid: Heb. poured
+23. And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the Lord.
 
 24. And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor.
 
 25. And Joshua said, Why hast thou troubled us? the Lord shall trouble thee this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones.
 
-26. And they raised over him a great heap of stones unto this day. So the Lord turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day.Achor: that is, Trouble 
+26. And they raised over him a great heap of stones unto this day. So the Lord turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day.
 
 ## Joshua 8
 
@@ -328,7 +328,7 @@
 
 5. And I, and all the people that are with me, will approach unto the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them,
 
-6. (For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.drawn: Heb. pulled
+6. (For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.
 
 7. Then ye shall rise up from the ambush, and seize upon the city: for the Lord your God will deliver it into your hand.
 
@@ -340,9 +340,9 @@
 
 11. And all the people, even the people of war that were with him, went up, and drew nigh, and came before the city, and pitched on the north side of Ai: now there was a valley between them and Ai.
 
-12. And he took about five thousand men, and set them to lie in ambush between Beth–el and Ai, on the west side of the city.of…: or, of Ai
+12. And he took about five thousand men, and set them to lie in ambush between Beth–el and Ai, on the west side of the city.
 
-13. And when they had set the people, even all the host that was on the north of the city, and their liers in wait on the west of the city, Joshua went that night into the midst of the valley.liers…: Heb. lying in wait
+13. And when they had set the people, even all the host that was on the north of the city, and their liers in wait on the west of the city, Joshua went that night into the midst of the valley.
 
 14. And it came to pass, when the king of Ai saw it, that they hasted and rose up early, and the men of the city went out against Israel to battle, he and all his people, at a time appointed, before the plain; but he wist not that there were liers in ambush against him behind the city.
 
@@ -356,7 +356,7 @@
 
 19. And the ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand: and they entered into the city, and took it, and hasted and set the city on fire.
 
-20. And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.power: Heb. hand
+20. And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.
 
 21. And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
 
@@ -386,13 +386,13 @@
 
 34. And afterward he read all the words of the law, the blessings and cursings, according to all that is written in the book of the law.
 
-35. There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.were…: Heb. walked 
+35. There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.
 
 ## Joshua 9
 
 1. And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;
 
-2. That they gathered themselves together, to fight with Joshua and with Israel, with one accord.accord: Heb. mouth
+2. That they gathered themselves together, to fight with Joshua and with Israel, with one accord.
 
 3. And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,
 
@@ -410,13 +410,13 @@
 
 10. And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth.
 
-11. Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make ye a league with us.with you: Heb. in your hand
+11. Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make ye a league with us.
 
 12. This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:
 
 13. And these bottles of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
 
-14. And the men took of their victuals, and asked not counsel at the mouth of the Lord.the men…: or, they received the men by reason of their victuals
+14. And the men took of their victuals, and asked not counsel at the mouth of the Lord.
 
 15. And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware unto them.
 
@@ -434,7 +434,7 @@
 
 22. And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We are very far from you; when ye dwell among us?
 
-23. Now therefore ye are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.none…: Heb. not be cut off from you
+23. Now therefore ye are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.
 
 24. And they answered Joshua, and said, Because it was certainly told thy servants, how that the Lord thy God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing.
 
@@ -442,13 +442,13 @@
 
 26. And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not.
 
-27. And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the Lord, even unto this day, in the place which he should choose.made: Heb. gave, or, delivered to be 
+27. And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the Lord, even unto this day, in the place which he should choose.
 
 ## Joshua 10
 
 1. Now it came to pass, when Adoni–zedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;
 
-2. That they feared greatly, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all the men thereof were mighty.royal…: Heb. cities of the kingdom
+2. That they feared greatly, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all the men thereof were mighty.
 
 3. Wherefore Adoni–zedek king of Jerusalem sent unto Hoham king of Hebron, and unto Piram king of Jarmuth, and unto Japhia king of Lachish, and unto Debir king of Eglon, saying,
 
@@ -468,9 +468,9 @@
 
 11. And it came to pass, as they fled from before Israel, and were in the going down to Beth–horon, that the Lord cast down great stones from heaven upon them unto Azekah, and they died: they were more which died with hailstones than they whom the children of Israel slew with the sword.
 
-12. Then spake Joshua to the Lord in the day when the Lord delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.stand…: Heb. be silent
+12. Then spake Joshua to the Lord in the day when the Lord delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.
 
-13. And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.Jasher: or, the upright?
+13. And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
 
 14. And there was no day like that before it or after it, that the Lord hearkened unto the voice of a man: for the Lord fought for Israel.
 
@@ -482,7 +482,7 @@
 
 18. And Joshua said, Roll great stones upon the mouth of the cave, and set men by it for to keep them:
 
-19. And stay ye not, but pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the Lord your God hath delivered them into your hand.smite…: Heb. cut off the tail
+19. And stay ye not, but pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the Lord your God hath delivered them into your hand.
 
 20. And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest which remained of them entered into fenced cities.
 
@@ -542,31 +542,31 @@
 
 4. And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many.
 
-5. And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.met…: Heb. assembled by appointment
+5. And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.
 
 6. And the Lord said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire.
 
 7. So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them.
 
-8. And the Lord delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth–maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining.great Zidon: or, ZidonrabbahMisrephoth–maim: or, Salt pits: Heb. Burnings of waters
+8. And the Lord delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth–maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining.
 
 9. And Joshua did unto them as the Lord bade him: he houghed their horses, and burnt their chariots with fire.
 
 10. And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.
 
-11. And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire.any…: Heb. any breath
+11. And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire.
 
 12. And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the Lord commanded.
 
-13. But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn.in their…: Heb. on their heap
+13. But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn.
 
 14. And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.
 
-15. As the Lord commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the Lord commanded Moses.left…: Heb. removed nothing
+15. As the Lord commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the Lord commanded Moses.
 
 16. So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;
 
-17. Even from the mount Halak, that goeth up to Seir, even unto Baal–gad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them.the mount…: or, the smooth mountain
+17. Even from the mount Halak, that goeth up to Seir, even unto Baal–gad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them.
 
 18. Joshua made war a long time with all those kings.
 
@@ -586,7 +586,7 @@
 
 2. Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;
 
-3. And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Beth–jeshimoth; and from the south, under Ashdoth–pisgah:the south: or, TemanAshdoth–pisgah: or, the springs of Pisgah, or, the hill
+3. And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Beth–jeshimoth; and from the south, under Ashdoth–pisgah:
 
 4. And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,
 
@@ -616,7 +616,7 @@
 
 17. The king of Tappuah, one; the king of Hepher, one;
 
-18. The king of Aphek, one; the king of Lasharon, one;Lasharon: or, Sharon
+18. The king of Aphek, one; the king of Lasharon, one;
 
 19. The king of Madon, one; the king of Hazor, one;
 
@@ -632,13 +632,13 @@
 
 ## Joshua 13
 
-1. Now Joshua was old and stricken in years; and the Lord said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.to…: Heb. to possess it
+1. Now Joshua was old and stricken in years; and the Lord said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.
 
 2. This is the land that yet remaineth: all the borders of the Philistines, and all Geshuri,
 
 3. From Sihor, which is before Egypt, even unto the borders of Ekron northward, which is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:
 
-4. From the south, all the land of the Canaanites, and Mearah that is beside the Sidonians, unto Aphek, to the borders of the Amorites:Mearah: or, the cave
+4. From the south, all the land of the Canaanites, and Mearah that is beside the Sidonians, unto Aphek, to the borders of the Amorites:
 
 5. And the land of the Giblites, and all Lebanon, toward the sunrising, from Baal–gad under mount Hermon unto the entering into Hamath.
 
@@ -664,17 +664,17 @@
 
 16. And their coast was from Aroer, that is on the bank of the river Arnon, and the city that is in the midst of the river, and all the plain by Medeba;
 
-17. Heshbon, and all her cities that are in the plain; Dibon, and Bamoth–baal, and Beth–baal–meon,Bamoth–baal…: or, the high places of Baal, and house of Baal–meon
+17. Heshbon, and all her cities that are in the plain; Dibon, and Bamoth–baal, and Beth–baal–meon,
 
 18. And Jahazah, and Kedemoth, and Mephaath,
 
 19. And Kirjathaim, and Sibmah, and Zareth–shahar in the mount of the valley,
 
-20. And Beth–peor, and Ashdoth–pisgah, and Beth–jeshimoth,Ashdoth–pisgah: or, springs of Pisgah, or, the hill
+20. And Beth–peor, and Ashdoth–pisgah, and Beth–jeshimoth,
 
 21. And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the country.
 
-22. Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.soothsayer: or, diviner
+22. Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.
 
 23. And the border of the children of Reuben was Jordan, and the border thereof. This was the inheritance of the children of Reuben after their families, the cities and the villages thereof.
 
@@ -718,7 +718,7 @@
 
 9. And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children’s for ever, because thou hast wholly followed the Lord my God.
 
-10. And now, behold, the Lord hath kept me alive, as he said, these forty and five years, even since the Lord spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old.wandered: Heb. walked
+10. And now, behold, the Lord hath kept me alive, as he said, these forty and five years, even since the Lord spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old.
 
 11. As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in.
 
@@ -734,9 +734,9 @@
 
 1. This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast.
 
-2. And their south border was from the shore of the salt sea, from the bay that looketh southward:bay: Heb. tongue
+2. And their south border was from the shore of the salt sea, from the bay that looketh southward:
 
-3. And it went out to the south side to Maaleh–acrabbim, and passed along to Zin, and ascended up on the south side unto Kadesh–barnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:Maaleh–acrabbim: or, the going up to Acrabbim
+3. And it went out to the south side to Maaleh–acrabbim, and passed along to Zin, and ascended up on the south side unto Kadesh–barnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:
 
 4. From thence it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast.
 
@@ -756,7 +756,7 @@
 
 12. And the west border was to the great sea, and the coast thereof. This is the coast of the children of Judah round about according to their families.
 
-13. And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the Lord to Joshua, even the city of Arba the father of Anak, which city is Hebron.the city…: or, Kirjath–arba
+13. And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the Lord to Joshua, even the city of Arba the father of Anak, which city is Hebron.
 
 14. And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.
 
@@ -802,7 +802,7 @@
 
 35. Jarmuth, and Adullam, Socoh, and Azekah,
 
-36. And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:and Gederothaim: or, or Gederothaim
+36. And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:
 
 37. Zenan, and Hadashah, and Migdal–gad,
 
@@ -822,7 +822,7 @@
 
 45. Ekron, with her towns and her villages:
 
-46. From Ekron even unto the sea, all that lay near Ashdod, with their villages:near: Heb. by the place of
+46. From Ekron even unto the sea, all that lay near Ashdod, with their villages:
 
 47. Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border thereof:
 
@@ -836,7 +836,7 @@
 
 52. Arab, and Dumah, and Eshean,
 
-53. And Janum, and Beth–tappuah, and Aphekah,Janum: or, Janus
+53. And Janum, and Beth–tappuah, and Aphekah,
 
 54. And Humtah, and Kirjath–arba, which is Hebron, and Zior; nine cities with their villages:
 
@@ -860,7 +860,7 @@
 
 ## Joshua 16
 
-1. And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Beth–el,fell: Heb. went forth
+1. And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Beth–el,
 
 2. And goeth out from Beth–el to Luz, and passeth along unto the borders of Archi to Ataroth,
 
@@ -884,7 +884,7 @@
 
 1. There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.
 
-2. There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families.Abiezer: also called, Jeezer
+2. There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families.
 
 3. But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these are the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
 
@@ -898,7 +898,7 @@
 
 8. Now Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh belonged to the children of Ephraim;
 
-9. And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim are among the cities of Manasseh: the coast of Manasseh also was on the north side of the river, and the outgoings of it were at the sea:river Kanah: or, brook of reeds
+9. And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim are among the cities of Manasseh: the coast of Manasseh also was on the north side of the river, and the outgoings of it were at the sea:
 
 10. Southward it was Ephraim’s, and northward it was Manasseh’s, and the sea is his border; and they met together in Asher on the north, and in Issachar on the east.
 
@@ -910,7 +910,7 @@
 
 14. And the children of Joseph spake unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the Lord hath blessed me hitherto?
 
-15. And Joshua answered them, If thou be a great people, then get thee up to the wood country, and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for thee.giants: or, Rephaims
+15. And Joshua answered them, If thou be a great people, then get thee up to the wood country, and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for thee.
 
 16. And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Beth–shean and her towns, and they who are of the valley of Jezreel.
 
@@ -954,9 +954,9 @@
 
 17. And was drawn from the north, and went forth to En–shemesh, and went forth toward Geliloth, which is over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,
 
-18. And passed along toward the side over against Arabah northward, and went down unto Arabah:Arabah: or, the plain
+18. And passed along toward the side over against Arabah northward, and went down unto Arabah:
 
-19. And the border passed along to the side of Beth–hoglah northward: and the outgoings of the border were at the north bay of the salt sea at the south end of Jordan: this was the south coast.bay: Heb. tongue
+19. And the border passed along to the side of Beth–hoglah northward: and the outgoings of the border were at the north bay of the salt sea at the south end of Jordan: this was the south coast.
 
 20. And Jordan was the border of it on the east side. This was the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families.
 
@@ -1002,7 +1002,7 @@
 
 12. And turned from Sarid eastward toward the sunrising unto the border of Chisloth–tabor, and then goeth out to Daberath, and goeth up to Japhia,
 
-13. And from thence passeth on along on the east to Gittah–hepher, to Ittah–kazin, and goeth out to Remmon–methoar to Neah;methoar: or, which is drawn
+13. And from thence passeth on along on the east to Gittah–hepher, to Ittah–kazin, and goeth out to Remmon–methoar to Neah;
 
 14. And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthah–el:
 
@@ -1034,7 +1034,7 @@
 
 28. And Hebron, and Rehob, and Hammon, and Kanah, even unto great Zidon;
 
-29. And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:Tyre: Heb. Tzor
+29. And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:
 
 30. Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.
 
@@ -1068,7 +1068,7 @@
 
 45. And Jehud, and Bene–berak, and Gath–rimmon,
 
-46. And Me–jarkon, and Rakkon, with the border before Japho.before: or, over againstJapho: or, Joppa
+46. And Me–jarkon, and Rakkon, with the border before Japho.
 
 47. And the coast of the children of Dan went out too little for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.
 
@@ -1094,7 +1094,7 @@
 
 6. And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.
 
-7. And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjath–arba, which is Hebron, in the mountain of Judah.appointed: Heb. sanctified
+7. And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjath–arba, which is Hebron, in the mountain of Judah.
 
 8. And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
 
@@ -1118,11 +1118,11 @@
 
 8. And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the Lord commanded by the hand of Moses.
 
-9. And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,mentioned: Heb. called
+9. And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,
 
 10. Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot.
 
-11. And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.the city…: or, Kirjath–arba
+11. And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.
 
 12. But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.
 
@@ -1130,13 +1130,13 @@
 
 14. And Jattir with her suburbs, and Eshtemoa with her suburbs,
 
-15. And Holon with her suburbs, and Debir with her suburbs,Holon: also called, Hilen
+15. And Holon with her suburbs, and Debir with her suburbs,
 
-16. And Ain with her suburbs, and Juttah with her suburbs, and Beth–shemesh with her suburbs; nine cities out of those two tribes.Ain: also called, Ashan
+16. And Ain with her suburbs, and Juttah with her suburbs, and Beth–shemesh with her suburbs; nine cities out of those two tribes.
 
-17. And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,Geba: also called, Gaba
+17. And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,
 
-18. Anathoth with her suburbs, and Almon with her suburbs; four cities.Almon: also called, Alemeth
+18. Anathoth with her suburbs, and Almon with her suburbs; four cities.
 
 19. All the cities of the children of Aaron, the priests, were thirteen cities with their suburbs.
 
@@ -1220,7 +1220,7 @@
 
 13. And the children of Israel sent unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest,
 
-14. And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one was an head of the house of their fathers among the thousands of Israel.chief…: Heb. house of the father
+14. And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one was an head of the house of their fathers among the thousands of Israel.
 
 15. And they came unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, unto the land of Gilead, and they spake with them, saying,
 
@@ -1240,7 +1240,7 @@
 
 23. That we have built us an altar to turn from following the Lord, or if to offer thereon burnt offering or meat offering, or if to offer peace offerings thereon, let the Lord himself require it;
 
-24. And if we have not rather done it for fear of this thing, saying, In time to come your children might speak unto our children, saying, What have ye to do with the Lord God of Israel?In time…: Heb. To morrow
+24. And if we have not rather done it for fear of this thing, saying, In time to come your children might speak unto our children, saying, What have ye to do with the Lord God of Israel?
 
 25. For the Lord hath made Jordan a border between us and you, ye children of Reuben and children of Gad; ye have no part in the Lord: so shall your children make our children cease from fearing the Lord.
 
@@ -1252,25 +1252,25 @@
 
 29. God forbid that we should rebel against the Lord, and turn this day from following the Lord, to build an altar for burnt offerings, for meat offerings, or for sacrifices, beside the altar of the Lord our God that is before his tabernacle.
 
-30. And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them.pleased…: Heb. was good in their eyes
+30. And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them.
 
-31. And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the Lord is among us, because ye have not committed this trespass against the Lord: now ye have delivered the children of Israel out of the hand of the Lord.now: Heb. then
+31. And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the Lord is among us, because ye have not committed this trespass against the Lord: now ye have delivered the children of Israel out of the hand of the Lord.
 
 32. And Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, unto the land of Canaan, to the children of Israel, and brought them word again.
 
 33. And the thing pleased the children of Israel; and the children of Israel blessed God, and did not intend to go up against them in battle, to destroy the land wherein the children of Reuben and Gad dwelt.
 
-34. And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the Lord is God.Ed: that is, A witness 
+34. And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the Lord is God.
 
 ## Joshua 23
 
-1. And it came to pass a long time after that the Lord had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age.stricken…: Heb. come into days
+1. And it came to pass a long time after that the Lord had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age.
 
 2. And Joshua called for all Israel, and for their elders, and for their heads, and for their judges, and for their officers, and said unto them, I am old and stricken in age:
 
 3. And ye have seen all that the Lord your God hath done unto all these nations because of you; for the Lord your God is he that hath fought for you.
 
-4. Behold, I have divided unto you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even unto the great sea westward.westward: Heb. at the sunset
+4. Behold, I have divided unto you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even unto the great sea westward.
 
 5. And the Lord your God, he shall expel them from before you, and drive them from out of your sight; and ye shall possess their land, as the Lord your God hath promised unto you.
 
@@ -1278,13 +1278,13 @@
 
 7. That ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourselves unto them:
 
-8. But cleave unto the Lord your God, as ye have done unto this day.But cleave…: or, For if ye will cleave, etc
+8. But cleave unto the Lord your God, as ye have done unto this day.
 
-9. For the Lord hath driven out from before you great nations and strong: but as for you, no man hath been able to stand before you unto this day.For the Lord…: or, Then the Lord will drive
+9. For the Lord hath driven out from before you great nations and strong: but as for you, no man hath been able to stand before you unto this day.
 
 10. One man of you shall chase a thousand: for the Lord your God, he it is that fighteth for you, as he hath promised you.
 
-11. Take good heed therefore unto yourselves, that ye love the Lord your God.yourselves: Heb. your souls
+11. Take good heed therefore unto yourselves, that ye love the Lord your God.
 
 12. Else if ye do in any wise go back, and cleave unto the remnant of these nations, even these that remain among you, and shall make marriages with them, and go in unto them, and they to you:
 
@@ -1334,7 +1334,7 @@
 
 18. And the Lord drave out from before us all the people, even the Amorites which dwelt in the land: therefore will we also serve the Lord; for he is our God.
 
-19. And Joshua said unto the people, Ye cannot serve the Lord: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins.holy God: Heb. holy Gods
+19. And Joshua said unto the people, Ye cannot serve the Lord: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins.
 
 20. If ye forsake the Lord, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good.
 
@@ -1358,8 +1358,8 @@
 
 30. And they buried him in the border of his inheritance in Timnath–serah, which is in mount Ephraim, on the north side of the hill of Gaash.
 
-31. And Israel served the Lord all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the Lord, that he had done for Israel.overlived…: Heb. prolonged their days after Joshua
+31. And Israel served the Lord all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the Lord, that he had done for Israel.
 
-32. And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.pieces…: or, lambs
+32. And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 
 33. And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.  

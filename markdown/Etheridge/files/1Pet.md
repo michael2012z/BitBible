@@ -12,7 +12,7 @@
 
 5. while you are kept by the power of Aloha and through faith, unto the salvation which is prepared to be revealed in the last times;
 
-6. wherein you will rejoice for ever, though in this little time you are afflictedOr, straitened. by manifold temptations which pass over you;
+6. wherein you will rejoice for ever, though in this little time you are afflicted
 
 7. that the proof of your faith may be seen, which is more precious than gold refined which is proved in fire, unto praise and unto honour and unto glory, at the revelation of Jeshu Meshiha;
 
@@ -24,7 +24,7 @@
 
 11. and searched into, what time the Spirit of the Meshiha who dwelt in them showed and testified of the future sufferings of the Meshiha, and his glory which (should be) after them.
 
-12. And all that they searched was revealed to them; for not for themselves they inquired, but to us (and) of usLan dilan. they prophesied those (blessings) which now are revealed to you by them who have preached to youOr, evangelized you. by the Spirit of Holiness which is sent from heaven; for into these themselves the angels also desire to look.
+12. And all that they searched was revealed to them; for not for themselves they inquired, but to us (and) of us
 
 13. Wherefore gird up the loins of your minds, and be fully wakeful, and hope for the joy that cometh to you at the revelation of our Lord Jeshu Meshiha;
 
@@ -42,7 +42,7 @@
 
 20. who was afore-separated for this from before the foundations of the world, and hath been manifested in these last times for you,
 
-21. who by himDabideh. believe in Aloha, who raised him from the dead, and gave him glory, that your faith and your hope may be in Aloha.
+21. who by him
 
 22. Let your souls be sanctified in obedience to the truth, and be filled with the charity which respecteth not persons, that with a pure heart and perfect you may love one another,
 
@@ -64,13 +64,13 @@
 
 5. And you also as living stones are builded, and become a spiritual temple, and holy priests to offer sacrifices, which are acceptable before Aloha by Jeshu Meshiha.
 
-6. For it is said in the scripture, Behold, I lay in Zion a stone choiceOr, tried, bachirtho. and honourable in the head of the corner: whosoever believeth in him shall not be ashamed.
+6. For it is said in the scripture, Behold, I lay in Zion a stone choice
 
-7. To you therefore is given this honour, to them who believe: but to them who are disobedient he is a rockKipha. of offence,
+7. To you therefore is given this honour, to them who believe: but to them who are disobedient he is a rock
 
-8. or a stoneAbn'na. of stumbling, and they are offended at him in not obeying the word, because to this they are set.
+8. or a stone
 
-9. But you are a chosen race, who minister as priests to the kingdom,Damkahno lemalkutho. a holy people, a congregation redeemed to announce the praises of him who hath called you from darkness to his transcendant light:
+9. But you are a chosen race, who minister as priests to the kingdom,
 
 10. those who before were not reputed a people, but now the people of Aloha; upon whom also mercies were not; but now, mercies are poured upon you.
 
@@ -100,9 +100,9 @@
 
 23. who was reviled and reviled not, and suffered and threatened not, but delivered his cause to the Judge of righteousness;
 
-24. and took all our sins and upboreVaseq enun. Aphel of nesaq, ascendit, clevarit. them in his body on the cross; that when dead to sin, in the righteousness of him we might live; for by his stripes you are healed,
+24. and took all our sins and upbore
 
-25. who had wandered as sheep, and are returned now unto the Shepherd and GuardianSouro, curator. of your souls.
+25. who had wandered as sheep, and are returned now unto the Shepherd and Guardian
 
 ## 1 Peter 3
 
@@ -130,7 +130,7 @@
 
 12. For the eyes of the Lord are upon the righteous, And his ears, to hear them; And the face of the Lord is against the wicked.
 
-13. And who (is he) who will do you evil if you be emulous of goodPlural. (actions)?
+13. And who (is he) who will do you evil if you be emulous of good
 
 14. And (yet) if you suffer for the sake of righteousness, you are happy. And you will not fear them who would make you afraid, nor be shaken.
 
@@ -140,13 +140,13 @@
 
 17. For it helpeth you (if) while doing goodly works you have to sustain evil, if so it be the will of Aloha, and not while working evils.
 
-18. Because the Meshiha also once died on account of sins, the just on account of sinners, that he might bringOr, present. us unto Aloha. And dead in the body and alive in the Spirit,
+18. Because the Meshiha also once died on account of sins, the just on account of sinners, that he might bring
 
 19. he preached unto those souls who were held in sheul,
 
-20. those who before were disobedient in the days of Nuch;Or, Nooch. while the long-suffering of Aloha commanded that he should make the ark, upon the hope of their conversion, and eight souls only entered therein, and were saved in the waters.
+20. those who before were disobedient in the days of Nuch;
 
-21. After which very type also you are saved in baptism,B'mahmuditho. not while you cleanse the body from filth, but while you make confession of 6 Aloha with a pure conscience, and ofOr, in. the resurrection of Jeshu Meshiha;
+21. After which very type also you are saved in baptism,
 
 22. who is exalted unto heaven, and is at the right hand of Aloha, and unto whom are subject angels and authorities and powers.
 
@@ -194,13 +194,13 @@
 
 1. BUT I entreat of the presbyters who are among you, I, a presbyter, your companion, and a witness of the sufferings of the Meshiha, and a partaker of his glory that is to be revealed;
 
-2. feed the flock of Aloha which is delivered to you, and take care (of it) spiritually,Vasuru ruchonoith. not by constraint, but with the will; not for corrupt gain, but with all your heart;
+2. feed the flock of Aloha which is delivered to you, and take care (of it) spiritually,
 
 3. not as lords of the flock, but that you may be to them a goodly example;
 
-4. that when the Chief of pastorsRab Roauthö. shall be revealed, you may receive from him a crown of glory which fadeth not.
+4. that when the Chief of pastors
 
-5. And you younger, be subject to your presbyters, and be clothed carefullyOr, closely. with humility of mind towards one another; because Aloha is against those who exalt themselves, and to the humble he giveth grace.
+5. And you younger, be subject to your presbyters, and be clothed carefully
 
 6. Be humbled, therefore, under the mighty hand of Aloha, that he may exalt you at the right time.
 

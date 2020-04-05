@@ -65,6 +65,7 @@ def osis_to_structure(xml_text):
     tag_osis_verse = ns + "verse"
     tag_osis_chapter = ns + "chapter"
     tag_osis_w = ns + "w"
+    tag_osis_note = ns + "note"
 
     book_blocks = []
     
@@ -96,6 +97,14 @@ def osis_to_structure(xml_text):
                             for osis_verse in osis_chapter:
                                 # verse +
                                 if osis_verse.tag == tag_osis_verse:
+                                    # remove notes at first
+                                    has_note = True
+                                    while (has_note):
+                                        has_note = False
+                                        for i in osis_verse.iter():
+                                            if i.tag == tag_osis_note:
+                                                osis_verse.remove(i)
+                                                has_note = True
                                     verse_text = []
                                     for t in osis_verse.itertext():
                                         verse_text.append(t)

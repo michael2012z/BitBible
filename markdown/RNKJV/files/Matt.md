@@ -398,7 +398,7 @@
 
 20. Wherefore by their fruits ye shall know them.
 
-21. Not every one that saith unto me, My MasterHebrew אדני, My Master, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
+21. Not every one that saith unto me, My Master
 
 22. Many will say to me in that day, My master, my master, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 
@@ -420,7 +420,7 @@
 
 1. When he was come down from the mountain, great multitudes followed him.
 
-2. And, behold, there came a leper and worshipped him, saying, My masterHebrew אדני, if thou wilt, thou canst make me clean.
+2. And, behold, there came a leper and worshipped him, saying, My master
 
 3. And Yahushua put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.
 

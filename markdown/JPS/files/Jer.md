@@ -22,9 +22,9 @@
 
 10. See, I have this day set thee over the nations and over the kingdoms, to root out and to pull down, and to destroy and to overthrow; to build, and to plant.
 
-11. Moreover the word of HaShem came unto me, saying: 'Jeremiah, what seest thou?' And I said: 'I see a rod of an almond-tree.'Heb. shaked.
+11. Moreover the word of HaShem came unto me, saying: 'Jeremiah, what seest thou?' And I said: 'I see a rod of an almond-tree.'
 
-12. Then said HaShem unto me: 'Thou hast well seen; for I watchHeb. shoked. over My word to perform it.'
+12. Then said HaShem unto me: 'Thou hast well seen; for I watch
 
 13. And the word of HaShem came unto me the second time, saying: 'What seest thou?' And I said: 'I see a seething pot; and the face thereof is from the north.'
 
@@ -996,7 +996,7 @@
 
 2. Then Pashhur smote Jeremiah the prophet, and put him in the stocks that were in the upper gate of Benjamin, which was in the house of HaShem.
 
-3. And it came to pass on the morrow, that Pashhur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him: 'The HaShem hath not called thy name Pashhur, but Magormissabib.That is, Terror on every side.
+3. And it came to pass on the morrow, that Pashhur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him: 'The HaShem hath not called thy name Pashhur, but Magormissabib.
 
 4. For thus saith HaShem: Behold, I will make thee a terror to thyself, and to all thy friends; and they shall fall by the sword of their enemies, and thine eyes shall behold it; and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive to Babylon, and shall slay them with the sword.
 
@@ -1276,7 +1276,7 @@
 
 25. and all the kings of Zimri, and all the kings of Elam, and all the kings of the Medes;
 
-26. and all the kings of the north, far and near, one with another; and all the kingdoms of the world, which are upon the face of the earth. --And the king of SheshachAccording to ancient tradition, a cypher for Babel. shall drink after them.
+26. and all the kings of the north, far and near, one with another; and all the kingdoms of the world, which are upon the face of the earth. --And the king of Sheshach
 
 27. And thou shalt say unto them: Thus saith HaShem of hosts, the G-d of Israel: Drink ye, and be drunken, and spew, and fall, and rise no more, because of the sword which I will send among you.
 
@@ -1534,7 +1534,7 @@
 
 16. Therefore all they that devour thee shall be devoured, and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
 
-17. For I will restore health unto thee, and I will heal thee of thy wounds, saith HaShem; because they have called thee an outcast: 'She is Zion,With a play on the meaning, a dry land. there is none that careth for her.'
+17. For I will restore health unto thee, and I will heal thee of thy wounds, saith HaShem; because they have called thee an outcast: 'She is Zion,
 
 18. Thus saith HaShem: Behold, I will turn the captivity of Jacob's tents, and have compassion on his dwelling-places; and the city shall be builded upon her own mound, and the palace shall be inhabited upon its wonted place.
 
@@ -2036,7 +2036,7 @@
 
 2. in the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, a breach was made in the city--
 
-3. that all the princes of the king of Babylon came in, and sat in the middle gate, even Nergal-sarezer, Samgar-nebo, Sarsechim Rab-saris,Titles of Officers. Nergal-sarezer Rab-mag,Titles of Officers. with all the residue of the princes of the king of Babylon.
+3. that all the princes of the king of Babylon came in, and sat in the middle gate, even Nergal-sarezer, Samgar-nebo, Sarsechim Rab-saris,
 
 4. And it came to pass, that when Zedekiah the king of Judah and all the men of war saw them, then they fled, and went forth out of the city by night, by the way of the king's garden, by the gate betwixt the two walls; and he went out the way of the Arabah.
 
@@ -2580,7 +2580,7 @@
 
 20. In those days, and in that time, saith HaShem, the iniquity of Israel shall be sought for, and there shall be none, and the sins of Judah, and they shall not be found; for I will pardon them whom I leave as a remnant.
 
-21. Go up against the land of Merathaim,That is, Double rebellion. even against it, and against the inhabitants of Pekod;That is, Visitation. waste and utterly destroy after them, saith HaShem, and do according to all that I have commanded thee.
+21. Go up against the land of Merathaim,
 
 22. Hark! battle is in the land, and great destruction.
 
@@ -2634,7 +2634,7 @@
 
 ## Jeremiah 51
 
-1. Thus saith HaShem: Behold, I will raise up against Babylon, and against them that dwell in Leb-kamai,That is, The heart of them that rise up against Me. According to ancient tradition, a cypher for Casdim, that is, Chaldea. a destroying wind.
+1. Thus saith HaShem: Behold, I will raise up against Babylon, and against them that dwell in Leb-kamai,
 
 2. And I will send unto Babylon strangers, that shall fan her, and they shall empty her land; for in the day of trouble they shall be against her round about.
 

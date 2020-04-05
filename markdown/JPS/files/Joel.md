@@ -134,7 +134,7 @@
 
 11. Haste ye, and come, all ye nations round about, and gather yourselves together; thither cause Thy mighty ones to come down, O HaShem!
 
-12. Let the nations be stirred up, and come up to the valley of Jehoshaphat;That is, The Lord judgeth. for there will I sit to judge all the nations round about.
+12. Let the nations be stirred up, and come up to the valley of Jehoshaphat;
 
 13. Put ye in the sickle, for the harvest is ripe; come, tread ye, for the winepress is full, the vats overflow; for their wickedness is great.
 

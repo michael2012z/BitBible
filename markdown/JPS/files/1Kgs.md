@@ -350,7 +350,7 @@
 
 23. My servants shall bring them down from Lebanon unto the sea; and I will make them into rafts to go by sea unto the place that thou shalt appoint me, and will cause them to be broken up there, and thou shalt receive them; and thou shalt accomplish my desire, in giving food for my household.'
 
-24. So HiramHeb. Hirom, and in verse 32. gave Solomon timber of cedar and timber of cypress according to all his desire.
+24. So Hiram
 
 25. And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of beaten oil; thus gave Solomon to Hiram year by year.
 
@@ -374,17 +374,17 @@
 
 2. And the house which king Solomon built for HaShem, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.
 
-3. And the porch before the temple of the house,That is, the holy place. twenty cubits was the length thereof, according to the breadth of the house; and ten cubits was the breadth thereof before the house.
+3. And the porch before the temple of the house,
 
 4. And for the house he made windows broad within, and narrow without.
 
-5. And against the wall of the house he built a side-structure round about, against the walls of the house round about, both of the temple and of the sanctuary;Heb. debir, that is, the hindmost or innermost room, the most holy place. and he made side-chambers round about;
+5. And against the wall of the house he built a side-structure round about, against the walls of the house round about, both of the temple and of the sanctuary;
 
 6. the nethermost story of the side-structure was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad; for on the outside he made rebatements in the wall of the house round about, that the beams should not have hold in the walls of the house.--
 
 7. For the house, when it was in building, was built of stone made ready at the quarry; and there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building.--
 
-8. The door for the lowestHeb. middle. row of chambers was in the right side of the house and they went up by winding stairs into the middle row, and out of the middle into the third.
+8. The door for the lowest
 
 9. So he built the house, and finished it; and he covered in the house with planks of cedar over beams.
 
@@ -410,7 +410,7 @@
 
 20. And before the Sanctuary which was twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof, overlaid with pure gold, he set an altar, which he covered with cedar.
 
-21. So Solomon overlaid the houseThat is, the Sanctuary. within with pure gold; and he drew chains of gold across the wall before the Sanctuary; and he overlaid it with gold.
+21. So Solomon overlaid the house
 
 22. And the whole house he overlaid with gold, until all the house was finished; also the whole altar that belonged to the Sanctuary he overlaid with gold.
 
@@ -526,7 +526,7 @@
 
 39. And he set the bases, five on the right side of the house, and five on the left side of the house; and he set the sea on the right side of the house eastward, toward the south.
 
-40. And HiramHeb. Hirom. made the pots, and the shovels, and the basins. So Hiram made an end of doing all the work that he wrought for king Solomon in the house of HaShem:
+40. And Hiram
 
 41. the two pillars, and the two bowls of the capitals that were on the top of the pillars; and the two networks to cover the two bowls of the capitals that were on the top of the pillars;
 
@@ -836,7 +836,7 @@
 
 16. for Joab and all Israel remained there six months, until he had cut off every male in Edom--
 
-17. that HadadHeb. Adad. fled, he and certain Edomites of his father's servants with him, to go into Egypt; Hadad being yet a little child.
+17. that Hadad
 
 18. And they arose out of Midian, and came to Paran; and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt, who gave him a house, and appointed him victuals, and gave him land.
 

@@ -1354,7 +1354,7 @@
 
 8. And they went out, and fled from the tomb; for trembling and amazement had seized them, and they said nothing to any one; for they were terrified.
 
-9. The remaining twelve verses, according to Tischendorf and others, made originally no part of Mark’s Gospel. As the passage was added very early, however, since it is referred to by Irenaeus in the latter part of the second century, it is here given, as an appendix. [And having risen early, on the first day of the week, he appeared first to Mary the Magdalene, out of whom he had cast seven demons.
+9. 
 
 10. She went and reported it to those who had been with him, who were mourning and weeping.
 

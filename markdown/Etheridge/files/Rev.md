@@ -8,21 +8,21 @@
 
 3. Blessed is he who readeth, and they who hear the words of this prophecy, and keep those which are written therein; for the time hath approached.
 
-4. Juhanon to the seven churches which are in Asia: grace to you and peace from him who is, and who was, and who cometh;D'othe. from the seven Spirits who are before his throne;
+4. Juhanon to the seven churches which are in Asia: grace to you and peace from him who is, and who was, and who cometh;
 
-5. and from Jeshu Meshiha who is the faithful Witness, the First-born of the dead, and Head of the kings of the earth, who hath loved us, and releasedSharo, solvit. us from our sins by his blood,
+5. and from Jeshu Meshiha who is the faithful Witness, the First-born of the dead, and Head of the kings of the earth, who hath loved us, and released
 
-6. and hath made us a priestly kingdomMalkutho koknoitho, regnum sacerdotale. unto Aloha and his Father; to whom be glory and dominion for ever and ever. Amen.
+6. and hath made us a priestly kingdom
 
-7. Behold, he cometh with clouds, and all eyes shall see him, and they also who transfixedDadaqruhi. him; and for him shall mourn all the tribes of the earth. Yes, Amen!
+7. Behold, he cometh with clouds, and all eyes shall see him, and they also who transfixed
 
-8. I am Olaph and Thau, saith Aloha the Lord, who is, and who was, and who cometh, the Omnipotent.Lit. Achid kul, The holder or upholder of all. So throughout.
+8. I am Olaph and Thau, saith Aloha the Lord, who is, and who was, and who cometh, the Omnipotent.
 
 9. I, Juhanon your brother, and your fellow-sharer in the affliction, and in the patience, which are in Jeshu Meshiha, was in the island which is called Pathamon, for the word of Aloha and for the testimony of Jeshu Meshiha.
 
-10. I was in the Spirit on the Lord's day;Yaumo moronoio. and I heard behind me a great voice as a trumpet, saying,
+10. I was in the Spirit on the Lord's day;
 
-11. What thou seest, write in a book; and send to the seven churches, at Ephesos, and at Smurna, and at Pergamos, and at Thiatira, and at Sardis, and at Philidaphia,Thus spelt in the Syriac copies. and at Laodikia.
+11. What thou seest, write in a book; and send to the seven churches, at Ephesos, and at Smurna, and at Pergamos, and at Thiatira, and at Sardis, and at Philidaphia,
 
 12. And I turned to see the voice that spake with me; and being turned, I saw seven candlesticks of gold.
 
@@ -30,7 +30,7 @@
 
 14. But his head and hair were white as wool, white as snow; and his eyes (were) as a flame of fire,
 
-15. and his feet were like refined brass,Nechosho Lebanonoio. The- of the Greek text. which flamed as in a furnace, and his voice as the voice of many waters.
+15. and his feet were like refined brass,
 
 16. And he had in his right hand seven stars; and from his mouth a sharp sword of two edges went forth; and his countenance was as the sun shining in his strength.
 
@@ -44,7 +44,7 @@
 
 ## Revelation 2
 
-1. To the angel of the church which is in Ephesos, write: These saith the Holder of all,Achid Kul. and of the seven stars in his right hand, who walketh in the midst of the seven candlesticks of gold.
+1. To the angel of the church which is in Ephesos, write: These saith the Holder of all,
 
 2. I know thy works, and thy labour, and thy patience, and (that) thou canst not bear evils; and hast tried those who say they are apostles, and are not, and hast found them liars.
 
@@ -68,21 +68,21 @@
 
 12. And to the angel of the church which is in Pergamos, write: These saith he who hath the sharp sword with two edges.
 
-13. I know thy works, and where thou dwellest, where (is) the throne of Satana; and thou hast held my name, and not denied my faith in those days when my witness was exposed,Or, became a spectacle. But, instead of ETHCHAZAITH, spectaculum factus est, the Polyglots read ETHCHARITH AM; " Thou wast in conflict along with my witness, my faithful one." my faithful one, who was killed with you where dwelleth Satana.
+13. I know thy works, and where thou dwellest, where (is) the throne of Satana; and thou hast held my name, and not denied my faith in those days when my witness was exposed,
 
-14. But I have against thee a little," A few things."-POLYGLOT. because thou hast there those who hold the doctrine of Belam, who taught Balok to cast a stumbling-block before the sons of Israel, to eat that which the sons of idols (eat), and to commit fornication.
+14. But I have against thee a little,
 
 15. So hast thou who hold the doctrine of the Nikolitu: of it,
 
 16. in like (manner), repent; and if not, I will come to thee quickly, and will war against them with the sword of my mouth.
 
-17. He who hath ears, let him hear what saith the Spirit to the churches. To him who overcometh will I give to eat of the manna which is hidden; and I will give to him the white stone,Chushbono, rationale. Query, a breastplate? and upon the stone a new name written, which no man knoweth but he who receiveth.
+17. He who hath ears, let him hear what saith the Spirit to the churches. To him who overcometh will I give to eat of the manna which is hidden; and I will give to him the white stone,
 
-18. And to the angel and churchSo SCHAFF'S text, but not WALTON'S. which is in Thiatiros, write: These saith the Son of Aloha, who hath his eyes as the flame of fire, and his feet like refined brass.
+18. And to the angel and church
 
 19. I know thy works, and thy love and faith and service; and also thy patience, and thy last works to be greater than the first.
 
-20. But I have against thee that thou permittest thy wife Izabel, who calleth herself a prophetess, to teach and seduce my servants to commit fornication, and to eat what the sons of idolsWALTON, " To eat the sacrifices of idols." (eat).
+20. But I have against thee that thou permittest thy wife Izabel, who calleth herself a prophetess, to teach and seduce my servants to commit fornication, and to eat what the sons of idols
 
 21. And I gave her time when she might convert, and she willed not to repent of her fornication.
 
@@ -90,11 +90,11 @@
 
 23. And her sons will I kill with death, and all the churches shall know that I am he who searcheth the reins and the hearts: and I will give to you every one according to your works.
 
-24. But to you I say, to those of the rest who are in Thiatiros, all them who have not this doctrine, the men who know not the depthsAmïkthö. Of Satana, as they speak; I will not throw upon you another burden;
+24. But to you I say, to those of the rest who are in Thiatiros, all them who have not this doctrine, the men who know not the depths
 
 25. but that which you have, hold, until I come.
 
-26. And he who conquereth, and he who keepeth until the end my works, I will give to him powerShultono. over the peoples,
+26. And he who conquereth, and he who keepeth until the end my works, I will give to him power
 
 27. and he shall rule them with a rod of iron, and as a vessel of the potter shall they be destroyed, as also I have received from my Father;
 
@@ -112,15 +112,15 @@
 
 4. But thou hast a few names in Sardis who have not defiled their vestments; and they shall walk with me in white, because they are worthy.
 
-5. He who overcometh shall be clothed in white vestments, and I will not blot theirShemo dilhun. name from the book of life; and I will confess their name before my Father, and before his angels.
+5. He who overcometh shall be clothed in white vestments, and I will not blot their
 
 6. He who hath ears, let him hear what the Spirit saith to the churches.
 
-7. And to the angel of the church which is in Philadelphia write: These saith the Holy, the True, who hath the key of David; who openeth and no man shutteth,Lit. holdeth. and who shutteth and no man openeth.
+7. And to the angel of the church which is in Philadelphia write: These saith the Holy, the True, who hath the key of David; who openeth and no man shutteth,
 
 8. I know thy works; and, behold, I have given before thee an open door, which no man can shut; because thou hast a little strength, and hast kept my word, and hast not denied my name.
 
-9. Behold, I will giveto those of the synagogue of Satana, who say that they are Jihudoyee, and are not, but lie; behold, I will make them to come and worship before thy feet, and they shall know that I have loved thee.
+9. Behold, I will give
 
 10. Because thou hast kept the word of my patience, I will keep thee from the hour of temptation, which is to come upon all the habitable world, to try them who dwell upon the earth.
 
@@ -152,21 +152,21 @@
 
 1. AFTER these I saw, and, behold, a door (was) open in heaven. And the first voice that I had heard as a trumpet talking with me, said, Come up hither, and I will make thee see the (things) which must be after these.
 
-2. At once I was in the spirit: and, behold, a throneKursio, a seat of state. placed in heaven, and upon the throne (One) sat.
+2. At once I was in the spirit: and, behold, a throne
 
 3. And he who sat was like to the appearance of the stone of jaspon, and of sardion; and the bow of the clouds was around the throne, in resemblance to the appearance of zmragda.
 
-4. Around the throneThronos. were seatsKursothee. twenty and four; and upon those seats twenty and four presbytersKashishee. sitting, who were robed in white vestments, and upon their heads wore coronetsKalilee. of gold.
+4. Around the throne
 
 5. And from the throne went forth lightnings and the voice of thunders. And there were seven lamps of fire which burned before His throne, which are the seven Spirits of Aloha.
 
-6. And before the throne was a sea of brightnessZagugitho, Heb. Zechuchith; root, zakak, to shine, be transparent. like chrystalos; and in the midst of the throne, and around it, and before the throne, four living-ones,Chaivothee, " animated beings; " from chai, " to live." who were full of eyes before and behind.
+6. And before the throne was a sea of brightness
 
 7. And the first living-one was like the lion, and the second living-one was like the calf, and the third living-one had a face as a man, and the fourth living-one was like the eagle which flieth.
 
 8. And these four living-ones, each of them, had six wings round about; and within were full of eyes; and they rest not day and night from saying, Holy, holy, holy, Lord God Almighty, Who wast, and art, and art to come.
 
-9. And when those living-ones give glory and honour and thanksMore strictly, (kubol-taibutho,) acceptance of thanks, that is, as by the divine hand. unto Him who sitteth upon the throne, to Him who liveth for ever and ever,
+9. And when those living-ones give glory and honour and thanks
 
 10. the four and twenty presbyters fell before Him who sitteth upon the throne, and worshipped Him who liveth for ever and ever, and cast their crowns before the throne, saying,
 
@@ -174,7 +174,7 @@
 
 ## Revelation 5
 
-1. AND I saw in the right hand of him who sat on the throne a writing which was written within and on the back, and sealedTabi. with seven seals.Tabee.
+1. AND I saw in the right hand of him who sat on the throne a writing which was written within and on the back, and sealed
 
 2. And I saw a mighty angel who proclaimed with a great voice: Who is worthy to open the book, and to loose the seals thereof?
 
@@ -182,7 +182,7 @@
 
 4. And I wept much, because no one could be found who was worthy to open the book, or to inspect it.
 
-5. And one of the presbyters said to me, Weep not; behold, the Lion of the tribe of Jihuda, who is the root of David, hath prevailed. He will open the book and the seven sealChetomee. thereof.
+5. And one of the presbyters said to me, Weep not; behold, the Lion of the tribe of Jihuda, who is the root of David, hath prevailed. He will open the book and the seven seal
 
 6. And I saw, in the midst of the presbyters, a Lamb standing, as slain, who had seven horns and seven eyes which are the seven Spirits of Aloha, which are sent forth to all the earth.
 
@@ -192,7 +192,7 @@
 
 9. And they hymned a new hymn, saying, Thou art worthy to take the book, And to open the seals thereof; Because thou wast slain, And hast redeemed us to Aloha by thy blood, From every tribe and tongue and people and nation.
 
-10. And thou hast made themEnun. to our God kings and priests, And reigning upon the earth.
+10. And thou hast made them
 
 11. And I saw and heard as the voice of many angels around the throne, and the living-ones, and the presbyters, and the number of them was ten thousand times ten thousand, and thousands of thousands,
 
@@ -218,7 +218,7 @@
 
 7. And when he had opened the FOURTH SEAL, I heard the fourth living-one, saying, Come, and see!
 
-8. And I saw a green horse,Susio Uroko. and he who sat upon him had the name of Death, and Shiul followed after him. And there was given to him power over the fourth of the earth, to kill with the sword, and with famine, and with death, and with the toothed beast of the earth.
+8. And I saw a green horse,
 
 9. And when he had opened the FIFTH SEAL, I saw under the altar the souls of them who had been killed for the word of Aloha, and for the testimony of the Lamb, which had been theirs.
 
@@ -230,7 +230,7 @@
 
 13. and the stars of heaven fell to the earth, as the fig-tree casteth her figs, when from a great wind she is shaken.
 
-14. And the heavens were sunderedEthphareshu. as a book that is rolled, and all the mountains and islands from their places were moved;
+14. And the heavens were sundered
 
 15. and the kings of the earth and great ones, and the chiefs of thousands, and the rich and the mighty ones, and every servant, and every freeman, hid them in the caverns, and in the rocks of the mountains,
 
@@ -254,7 +254,7 @@
 
 7. of the tribe of Shemun, twelve thousand; of the tribe of Levi, twelve thousand; of the tribe of Isokar, twelve thousand;
 
-8. of the tribe of Zabolon, twelve thousand; of the tribe of Jauseph, twelve thousand; of the tribe of Benjomin, twelve thousandwere sealed.
+8. of the tribe of Zabolon, twelve thousand; of the tribe of Jauseph, twelve thousand; of the tribe of Benjomin, twelve thousand
 
 9. After these I saw, and, behold, a great assembly, which to number no man was able, from all people and nations and tribes and tongues, were standing before the throne and before the Lamb, arrayed in white robes, and with palms in their hands;
 
@@ -268,7 +268,7 @@
 
 14. And I said to him, My lord, thou knowest. And he said to me, These are they who have come from great affliction, and have washed their robes, and made them white in the blood of the Lamb.
 
-15. On account of this they are before the throne of Aloha, and minister to him day and night in his temple. And he who sitteth upon the throne will protect them.Nageen alihun, " shadow over them."
+15. On account of this they are before the throne of Aloha, and minister to him day and night in his temple. And he who sitteth upon the throne will protect them.
 
 16. They will not hunger or thirst again, nor will the sun come down upon them, nor any heat;
 
@@ -282,7 +282,7 @@
 
 3. And another angel came, and stood at the altar, and he had a censer of gold, and many perfumes were given to him, which he should give with the prayers of all saints upon the altar of gold that is before the throne;
 
-4. and the cloudAtaro. of the perfumes of the prayers of the saints ascended from the hand of the angel before Aloha.
+4. and the cloud
 
 5. And the angel took the censer, and filled it from the fire of the altar, and cast forth upon the earth. And there were thunders, and lightnings, and voices, and movement.
 
@@ -300,13 +300,13 @@
 
 12. And the Fourth angel sounded. And the third of the sun was absorbed, and the third of the moon, and the third of the stars, as that the third of them should be darkened; and they were darkened, and the day shone not a third of it, and the night, in like manner.
 
-13. And I beheld, and heard an eagle, An eagle. This is considered a good reading, and has been given by Griesbach in his Greek text. flying in the midst, having a tail of blood,Here the Syrian translator was at fault. His Greek copy, without separating the words, read, "in the midst of heaven;" which he appears to have decomposed thus: ("the midst") + ("a tail") + ("blood,") so as to produce the singular expression given above. saying with a great voice, Woe, woe, to those who dwell upon earth, from the voice of the rest of the trumpets of the three angels which are about to sound!
+13. And I beheld, and heard an eagle,
 
 ## Revelation 9
 
 1. AND the Fifth angel sounded. And I saw a star which fell from heaven unto the earth and there was given to him the key of the pit of the abyss.
 
-2. And he opened the pit of the abyss,Biro dathumo. and smoke ascended from the pit, as the smoke of a burning furnace; and the sun was darkened, and the air, from the smoke of the pit.
+2. And he opened the pit of the abyss,
 
 3. And from the smoke came forth locusts upon the earth. And there was given to them power such as scorpions have upon the earth.
 
@@ -316,7 +316,7 @@
 
 6. And in those days men shall seek death, and shall not find; and shall desire to die, and death will flee from them.
 
-7. And the likeness of those locusts (was this): they resemble the appearanceOr, they are like as the likeness of. of horses prepared for battle. And upon their heads (was) a crown of the likeness of gold; and their faces (were) as the faces of men.
+7. And the likeness of those locusts (was this): they resemble the appearance
 
 8. And they had hair as the hair of women, and their teeth were as of lions;
 
@@ -374,7 +374,7 @@
 
 1. AND there was given to me a reed, like a staff; and the angel stood, saying, Arise, measure the temple of Aloha, and the altar, and them who worship therein;
 
-2. and the court which is without the temple cast out,Aphek men lebar. and do not measure it, because it is given to the Gentiles, and the holy city shall be trodden down, MONTHS FORTY AND TWO.
+2. and the court which is without the temple cast out,
 
 3. And I will give my two witnesses, and they shall prophesy, DAYS A THOUSAND AND TWO HUNDRED AND SIXTY, clothed in sackcloth.
 
@@ -382,9 +382,9 @@
 
 5. And if a man willeth to wound them, fire cometh forth from their mouth, and devoureth their adversaries. And if a man willeth to wound (them), thus must he be killed.
 
-6. These have power to shut heaven, that rain it may not rain in those days;" Days of prophecy."-POLYGLOTS. and power have they over the waters, to turn them into blood, and to smite the earth with every plague as many times as they will.
+6. These have power to shut heaven, that rain it may not rain in those days;
 
-7. And when they shall have completed their testimony, the beast of prey, which ascended from the abyss, will make war against them, and overcome them,and kill them, Ibid.
+7. And when they shall have completed their testimony, the beast of prey, which ascended from the abyss, will make war against them, and overcome them,
 
 8. and their dead bodies (will be) upon the wide street of the great city, which is called, spiritually, Sedum, and Metsreen, where also our Lord hath been crucified.
 
@@ -394,7 +394,7 @@
 
 11. And after those three days and a half, the spirit of life from Aloha entered into them, and they arose upon their feet. And great fear fell upon them who saw them.
 
-12. And they heard"I heard."-POLYGLOTS. a great voice from heaven, saying to them, Ascend hither. And they ascended to heaven in a cloud, and their adversaries beheld them.
+12. And they heard
 
 13. And in that hour there was a great movement; and one of ten of the city fell; and there were killed in the movement the names of men seven thousand. And they who were left were made afraid, and gave glory to Aloha.
 
@@ -424,7 +424,7 @@
 
 6. And the woman fled into the desert, where she had a place prepared of Aloha, that there they might nourish her, DAYS A THOUSAND AND TWO HUNDRED AND SIXTY.
 
-7. And there was war in heaven. And Mikoel and his angelscame Polyglot. to fight with the dragon; and the dragon and his angels warred.
+7. And there was war in heaven. And Mikoel and his angels
 
 8. And they could not prevail, and their place was found no more in heaven.
 
@@ -448,13 +448,13 @@
 
 ## Revelation 13
 
-1. And he stood upon the sand of the sea. AND I saw that a beast of preyLiterally, (chaivith sheno,) a beast of the tooth, i. e., a carnivorous animal. The same expression occurs throughout. ascended from the sea, having ten horns and seven heads, and upon his horns seven diadems; and upon his heads names of blasphemy.
+1. And he stood upon the sand of the sea. AND I saw that a beast of prey
 
 2. And the beast of prey which I saw was like a leopard, and his feet were as (those) of a bear, and his mouth as the mouth of a lion, and the dragon gave to him his power, and his throne, and great authority.
 
 3. And one of his heads was wounded as to death. And his stroke of death was healed; and all the earth wondered after the beast of prey.
 
-4. And they worshipped the dragon because he had given authority to the beast of prey, (saying, Who is like the beast of prey,)Polyglots. and who is able to make war with him?
+4. And they worshipped the dragon because he had given authority to the beast of prey, (saying, Who is like the beast of prey,)
 
 5. And there was given him a mouth speaking great sayings and blasphemies, and authority was given him to act, MONTHS, FORTY AND TWO.
 
@@ -476,7 +476,7 @@
 
 14. And he will seduce those who dwell upon earth to the making an image of the beast of prey who had the wound of the sword and lived.
 
-15. And it was given to him to give spirit to the image of the beast of prey, (that the image also of the beast of prey should speak,)Polyglots. and to cause that all those whosoever who worshipped not the image of the beast of prey should be killed.
+15. And it was given to him to give spirit to the image of the beast of prey, (that the image also of the beast of prey should speak,)
 
 16. And he caused all, small and great, and rich and poor, and sons of freedom and slaves, to have given to them a signature upon their right hands, or upon their foreheads;
 
@@ -490,13 +490,13 @@
 
 2. And I heard a voice from heaven, as the sound of many waters, and as the sound of great thunder; and the voice which I heard was as harpers striking on their harps.
 
-3. And they hymned a new hymn before the throne, and before the four living-ones, and the presbyters. And no man was able to learn the hymn, but the hundred and forty and four thousand (who were redeemed from the earth)Ibid..
+3. And they hymned a new hymn before the throne, and before the four living-ones, and the presbyters. And no man was able to learn the hymn, but the hundred and forty and four thousand (who were redeemed from the earth)
 
 4. These are they who with women have not been defiled, for they are virgins. These are they who follow the Lamb wherever he goeth. These by Jeshu were redeemed from men, first-fruits unto Aloha and to the Lamb.
 
 5. And in their mouth falsehood was not found, for they are without spot.
 
-6. And I saw another angel flying through heaven, who with bloodSo SCHAFF, DE DlEU, and GUTBIR'S texts: but the Polyglots have not " with blood," a reading which admits of the same explanation as that given page 469. had the everlasting gospel to preach to them who dwell on the earth, and unto every nation and tribe, and tongue and people;
+6. And I saw another angel flying through heaven, who with blood
 
 7. saying with a great voice, Serve Aloha, and give him glory: For the hour of his judgment cometh: And worship him who made heaven and earth, And the sea, and the fountains of waters.
 
@@ -504,7 +504,7 @@
 
 9. And another angel, a third, followed them saying with a great voice, If any man worship the beast of prey and his image, And receive his mark on his brow, or in his hand,
 
-10. He also shall drink of the wine of the wrath of Aloha, Which is mingled without sparingVide SCHLEUSNER, sub? (No. 2,) which is the word here incorporated into the Syrian text. In the cup of his anger. And he shall be tormented in fire and sulphur, Before his holy angels and before the throne:
+10. He also shall drink of the wine of the wrath of Aloha, Which is mingled without sparing
 
 11. And the smoke of their torment For ever and ever will ascend. And they have no rest day and night Who worship the beast of prey and his image.
 
@@ -524,7 +524,7 @@
 
 19. And the angel thrust forth his sickle unto the earth, and reaped the vintage of the earth, and he cast into the winepress of the wrath of Aloha the Great.
 
-20. And the winepress was trodden (without the city, and blood flowed from the winepress)Polyglot. unto the bridles of the horses, a thousand and six hundred stadia.
+20. And the winepress was trodden (without the city, and blood flowed from the winepress)
 
 ## Revelation 15
 
@@ -534,7 +534,7 @@
 
 3. And they sang the song of Musha the servant of Aloha, and the song of the Lamb, saying, Great and wondrous are thy works, Lord God Omnipotent; Just and true are thy ways, King of ages!
 
-4. Who shall not fear thee, Lord, And glorify thy name? For thou only artgood 2 and holy and just; Therefore all nations shall come And worship before thee; Because thy judgments are revealed.
+4. Who shall not fear thee, Lord, And glorify thy name? For thou only art
 
 5. After these I saw, and the temple of the tabernacle of testimony which is in heaven was opened.
 
@@ -546,7 +546,7 @@
 
 ## Revelation 16
 
-1. AND I heard a great voicefrom the temple 2 saying to the seven angels, Go, and pour forth the seven vials of the wrath of Aloha upon the earth.
+1. AND I heard a great voice
 
 2. And the first went, and poured his vial upon the earth: and there became an ulcer, evil and painful, upon the men who had the mark of the beast of prey, and who worshipped the image of him.
 
@@ -558,7 +558,7 @@
 
 6. For the blood of saints and of prophets have they shed, And blood to them hast thou given to drink For they are worthy.
 
-7. And I heard from the altarvoices saying, Yes, Lord God Almighty! True and just is thy judgment.
+7. And I heard from the altar
 
 8. And the fourth poured out his vial upon the sun, and it was given to him to scorch men with fire;
 
@@ -594,9 +594,9 @@
 
 2. with whom the kings of the earth have committed fornication, and they who dwell in the earth have been made drunk by the wine of her fornication.
 
-3. And he led me into the desert, in the spirit; and I saw a woman sitting on a beast of prey which was red,Sumoqo. full of names of blasphemy, (and) having seven heads and ten horns.
+3. And he led me into the desert, in the spirit; and I saw a woman sitting on a beast of prey which was red,
 
-4. And the woman was arrayed in purple and scarlet,Zachurith. and golden with goldMadhabo b'dhabo. and precious stones and pearls; having a cup of gold in her hand, full of pollutions and uncleanness of her fornicationsby which she hath polluted the earth.
+4. And the woman was arrayed in purple and scarlet,
 
 5. And upon her forehead the name was written, Mystery: Babel the Great, the Mother of Harlots and of the Abominations of the Earth.
 
@@ -636,7 +636,7 @@
 
 4. And I heard another voice from heaven, saying: COME OUT OF HER, MY PEOPLE, that you be not partakers of her sins, and lest of her plagues you receive.
 
-5. For her sins have reachedLit. adhered. unto heaven, and Aloha hath remembered her iniquity.
+5. For her sins have reached
 
 6. Deal with her as she hath dealt with you, and double to her according to her works. In the cup which she mingled mingle to her double.
 
@@ -652,7 +652,7 @@
 
 12. No more (shall there be in thee) the burden of gold, and of silver and of precious stones, and of pearls; and of fine linen, and of purple, and of silk and scarlet; and of every aromatic wood, and every vessel of elephant's-tooth, and every vessel of wood of great price, and of brass and of iron and of marble;
 
-13. and cinnamon and omomunSpikenard. Gr. text, - which the Syr. retains untranslated. and perfumes, and ointment and frankincense and wine and oil, and fine meal, and wheat, and cattle, and slaves, and horses and chariots, and bodies and souls of men.
+13. and cinnamon and omomun
 
 14. And the fruit of the desire of thy soul hath gone from thee, and all those things which are delicious and brilliant have perished from thee,
 
@@ -812,7 +812,7 @@
 
 2. In the midst of the wide street of it, and by the river, here and there, (was) the tree of life, which produced twelve fruits, in every month giving each one its fruit. And the leaves of the tree (are) for the healing of the nations.
 
-3. And there shall be no more falling away;Nethro. and the throne of Aloha and of the Lamb shall be in it, and his servants shall serve him.
+3. And there shall be no more falling away;
 
 4. And they shall see his face, and his name shall be upon their foreheads.
 
@@ -820,7 +820,7 @@
 
 6. And he said to me, These sayings are faithfulness and truth. And the Lord God of the spirit of the prophets hath sent me, his angel, to show to his servants the things which must soon be done.
 
-7. And behold, I come quickly. Blessed is he who keepeth the words of the prophecy of this book.Polyglot, "Of this prophecy."
+7. And behold, I come quickly. Blessed is he who keepeth the words of the prophecy of this book.
 
 8. And also I Juhanon am he who heard and saw these. And when I had heard and seen, I fell to worship before the feet of the angel who showed them to me.
 

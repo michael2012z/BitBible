@@ -12,7 +12,7 @@
 
 5. And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt-offerings according to the number of them all; for Job said: 'It may be that my sons have sinned, and blasphemed G-d in their hearts.' Thus did Job continually.
 
-6. Now it fell upon a day, that the sons of G-d came to present themselves before HaShem, and SatanThat is, the Adversary. came also among them.
+6. Now it fell upon a day, that the sons of G-d came to present themselves before HaShem, and Satan
 
 7. And HaShem said unto Satan: 'Whence comest thou?' Then Satan answered HaShem, and said: 'From going to and fro in the earth, and from walking up and down in it.'
 
@@ -2216,7 +2216,7 @@
 
 13. He had also seven sons and three daughters.
 
-14. And he called the name of the first, Jemimah;That is, Dove. and the name of the second, Keziah;That is, Cassia. and the name of the third, Keren-happuch.That is, Horn of eye-paint.
+14. And he called the name of the first, Jemimah;
 
 15. And in all the land were no women found so fair as the daughters of Job; and their father gave them inheritance among their brethren.
 

@@ -16,9 +16,9 @@
 
 7. unto another gospel, which it is not; but there are men who disturb you, and (who) wish to remove you from the gospel of the Meshiha.
 
-8. But if we also, or an angel from heaven, should preach to you other than what we have preached to you, let him be accursed.Cherem
+8. But if we also, or an angel from heaven, should preach to you other than what we have preached to you, let him be accursed.
 
-9. As I have said before, and now again say to you, If any man preach to you other than what you have received, let him be accursed.Cherem
+9. As I have said before, and now again say to you, If any man preach to you other than what you have received, let him be accursed.
 
 10. For now do I persuade men, or Aloha? or do I seek to please men? For if until now I had pleased men, I should not have been the servant of the Meshiha.
 
@@ -26,7 +26,7 @@
 
 12. for neither from man had I received it and taught it, but by the revelation of Jeshu the Meshiha.
 
-13. For you have heard of my former manners in JudaismYehudoyutha, that I exceedingly persecuted the church of Aloha, and made it desolate.
+13. For you have heard of my former manners in Judaism
 
 14. And I excelled in Judaism more than many of the sons of my years who were of my kindred, and was exceedingly zealous for the doctrine of my fathers.
 
@@ -40,7 +40,7 @@
 
 19. But others of the apostles I saw not, only Jakub, the brother of our Lord.
 
-20. But these which I write to you, behold, before Aloha,I aver that I lie not.
+20. But these which I write to you, behold, before Aloha,
 
 21. And after these I went to the regions of Syria and of Cilicia.
 
@@ -58,13 +58,13 @@
 
 3. Titos also who was with me, who was an Aramoya, was not constrained to be circumcised.
 
-4. But on account of false brethren, who entered upon us that they might espy the liberty which we have in Jeshu Meshiha as that they might bring meWALTON reads, " us" into subjection;
+4. But on account of false brethren, who entered upon us that they might espy the liberty which we have in Jeshu Meshiha as that they might bring me
 
-5. yet not for the spaceOr, the fulness of an hour of an hour did we cast ourselves down to be subject to them; that the truth of the gospel might continue with you.
+5. yet not for the space
 
 6. But, they who were considered to be somewhat,---but what they were I care not, for Aloha accepteth not men?s faces,---they themselves added nothing unto me;
 
-7. but otherwise: for seeing that I was intrusted with the gospel of the uncircumcision, as Kipha was intrusted withthat of the circumcision;
+7. but otherwise: for seeing that I was intrusted with the gospel of the uncircumcision, as Kipha was intrusted with
 
 8. ---for he who wrought effectually with Kipha for the apostleship of the circumcision, wrought effectually also with me for the apostleship of the Gentiles;
 
@@ -82,7 +82,7 @@
 
 15. If we who by our nature are Jihudoyee, and are not of the Gentile sinners,
 
-16. because we know that man is not justified by the works of the law, but by the faith of Jeshu Meshiha, also in him, in Jeshu Meshiha, have believed, that from the faith of the Meshiha we may be justified, and not from the works of the law; because from the works of the law shall no flesh be justified:This division of sections interferes with the sense
+16. because we know that man is not justified by the works of the law, but by the faith of Jeshu Meshiha, also in him, in Jeshu Meshiha, have believed, that from the faith of the Meshiha we may be justified, and not from the works of the law; because from the works of the law shall no flesh be justified:
 
 17. ---If, while we seek to be justified through the Meshiha, we also ourselves are found sinners, is Jeshu Meshiha therefore the minister of sin? It cannot be.
 
@@ -96,19 +96,19 @@
 
 ## Galatians 3
 
-1. O deficient-mindedChasiri-reyonee Galatoyee, who bewildereth you? For, behold, as if depicted before your eyes, hath Jeshu the Meshiha been crucified.
+1. O deficient-minded
 
 2. This only would I know from you: Through the works of the law received you the Spirit, or through the hearing of faith?
 
-3. Are you so foolishSaklin atun that having begun in the Spirit you are now finishing in the flesh?
+3. Are you so foolish
 
-4. And all these have you borne in vain? But would it be in vain?This division of sections interferes with the sense.
+4. And all these have you borne in vain? But would it be in vain?
 
-5. Then, he who imparted to you the Spirit, and wrought miracles among you, (did he so) through the works of the law, or through the hearing of faith?Chasiri-reyonee.
+5. Then, he who imparted to you the Spirit, and wrought miracles among you, (did he so) through the works of the law, or through the hearing of faith?
 
-6. As Abraham believed Aloha, and it was reckoned to him for righteousness,Saklin atun.
+6. As Abraham believed Aloha, and it was reckoned to him for righteousness,
 
-7. know therefore that they who are of faith are the children of Abraham.Or, tutor.
+7. know therefore that they who are of faith are the children of Abraham.
 
 8. For Aloha who knew before that he would justify the Gentiles through faith, evangelized before unto Abraham; as saith the holy scripture: In thee all the nations shall be blessed:
 
@@ -136,13 +136,13 @@
 
 20. But a Mediator is not of one; but Aloha is one.
 
-21. Is the law therefore against the promise of Aloha? Impossible: for if a law had been given which could makeguilty man to live, certainly righteousness would have been by the law.
+21. Is the law therefore against the promise of Aloha? Impossible: for if a law had been given which could make
 
 22. But the scripture hath included all under sin, that the promise through faith of Jeshu Meshiha might be given to them who believe.
 
 23. But until (the dispensation of) faith came, the law kept us, as shut up unto the faith which was to be revealed.
 
-24. The law therefore was our conductorOr, tutor to the Meshiha, that we might be justified by faith.
+24. The law therefore was our conductor
 
 25. But faith being come, we are not under the conductor.
 
@@ -240,7 +240,7 @@
 
 10. I am confident of you in our Lord, that no other thing you will think; and he who disturbeth you shall bear judgment, whoever he is.
 
-11. But I, my brethren, if yet I have preached for circumcisionba-gezurtho, why have I been persecuted? Hath the scandal of the cross ceased?
+11. But I, my brethren, if yet I have preached for circumcision
 
 12. But I would that they who disturb you were even cut off.
 

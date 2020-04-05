@@ -8,7 +8,7 @@
 
 3. concerning his Son, who was born, according to the flesh, of the seed of the house of David,
 
-4. and is knownOr, acknowledged. (to be) the Son of Aloha by power, and by the Holy Spirit, who raised him from among the dead, Jeshu Meshiha our Lord:
+4. and is known
 
 5. by whom we have received grace and apostleship among all nations, that they should become obedient unto the faith of his name:
 
@@ -40,11 +40,11 @@
 
 19. Because the knowledge of Aloha is revealed in them; for Aloha revealed it in them.
 
-20. For the occult thingsKasyotheh d'Aloha. of Aloha from the foundations of the world, unto his creatures by intelligence are apparent, and his power and his Godhead eternal, that they may be without excuse.
+20. For the occult things
 
 21. For when they knew Aloha, they did not as Aloha glorify him and praise him, but became vain in their imaginations, and their heart was darkened, that they understood not.
 
-22. And while thinking in themselves that they were wise, they were fools.Or, befooled.
+22. And while thinking in themselves that they were wise, they were fools.
 
 23. And they changed the glory of Aloha the Incorruptible into the likeness of the image of corruptible man, and into the likeness of birds and of four-footed (beasts) and of reptiles of the earth.
 
@@ -110,7 +110,7 @@
 
 21. Thou, then, who teachest others, dost thou not teach thyself? and who preachest that men should not steal, dost thou steal?
 
-22. and who sayest they should not commit adultery, dost thou commit adultery? And thou who condemnest idols, dost thou despoil the sanctuary?The house of holiness.
+22. and who sayest they should not commit adultery, dost thou commit adultery? And thou who condemnest idols, dost thou despoil the sanctuary?
 
 23. And thou who boastest of the law, in this that thou transgressest against the law, Aloha himself despisest thou?
 
@@ -170,7 +170,7 @@
 
 21. But now, without the law the righteousness of Aloha is revealed, and the law and the prophets (themselves) testify of it.
 
-22. But the righteousness of Aloha is by faithLit. " By the hand of faith." of Jeshu Meshiha, unto all and also upon all who believe in him. For there is no distinction:
+22. But the righteousness of Aloha is by faith
 
 23. for all have sinned, and have failed of the glory of Aloha;
 
@@ -214,7 +214,7 @@
 
 11. For he received the sign of circumcision (as) a seal of the righteousness of his faith, which (was his) in uncircumcision, that he should be the father of all them who believe of the uncircumcision; that it might be accounted also to them for righteousness:
 
-12. and the father of the circumcision, not of them who are of the circumcision only, but of them who pursueOr, accomplish, fulfil. the footsteps of the faith of uncircumcision of our father Abraham.
+12. and the father of the circumcision, not of them who are of the circumcision only, but of them who pursue
 
 13. FOR not through the law was the promise unto Abraham and to his seed that he should be the heir of the world, but through the righteousness of faith.
 
@@ -250,7 +250,7 @@
 
 3. And not thus only, but also in afflictions we exult; for we know that affliction perfecteth patience in us,
 
-4. and patience experience,Or, proof, probation. and experience hope:
+4. and patience experience,
 
 5. but hope maketh us not ashamed, because the love of Aloha is shed forth upon our hearts by the Spirit of Holiness who is given to us.
 
@@ -262,7 +262,7 @@
 
 9. how much more, then, shall we be now justified through his blood, and by him be delivered from wrath?
 
-10. For if, while we were adversaries, Aloha was reconciled with us through the death of his Son, how much more, then, in reconciliation with him,Or, in his reconciliation. shall we be saved by his life?
+10. For if, while we were adversaries, Aloha was reconciled with us through the death of his Son, how much more, then, in reconciliation with him,
 
 11. And not thus only, but we also exult in Aloha through our Lord Jeshu Meshiha, by whom we have now received the reconciliation.
 
@@ -278,7 +278,7 @@
 
 17. For if because of the transgression of one death was made to reign, much more (shall) they who receive the abundance of the grace and of the gift and of righteousness, reign in life by one, Jeshu Meshiha.
 
-18. As then on account of the transgression of one was the condemnation of all men, so, on account of the righteousness of one shall there be acquittalZokutho, Victoria, innocentia, justificatio. Heb. Zakah, Purum fuit, purum pronunciavit. unto the life of all men.
+18. As then on account of the transgression of one was the condemnation of all men, so, on account of the righteousness of one shall there be acquittal
 
 19. For as on account of the disobedience of one man many became sinners, so also on account of the obedience of one many became righteous.
 
@@ -290,7 +290,7 @@
 
 1. WHAT, then, shall we say, Let us remain in sin, that grace may abound?
 
-2. Not so. For how shall they who are dead toOr, by, on account of, sin: the particle admitting of either meaning. Compare the Syr. Apoc. xx. 11; I Peter i. 5; 2Co 8:14. sin live yet in it?
+2. Not so. For how shall they who are dead to
 
 3. Or do you not know, that they who have been baptized into Jeshu Meshiha, into his death have been baptized?
 
@@ -306,7 +306,7 @@
 
 9. for we know that the Meshiha rose from among the dead, and no more dieth, nor hath death dominion over him.
 
-10. Foras he who died on account of sin died once, and he who liveth liveth unto Aloha;
+10. For
 
 11. so also reckon yourselves to be dead unto sin, and alive unto Aloha by our Lord Jeshu Meshiha.
 
@@ -328,9 +328,9 @@
 
 20. For when you were the servants of sin, you were free from righteousness.
 
-21. And what productOdsho. had you then from that of which to-day you are ashamed? For the end of it is death.
+21. And what product
 
-22. And now made free from sin, and become servants to Aloha, you have holy fruits,Phiree. of which the end is the life of eternity.
+22. And now made free from sin, and become servants to Aloha, you have holy fruits,
 
 23. For the wages of sin is death; and the gift of Aloha the life of eternity by our Lord Jeshu Meshiha.
 
@@ -344,7 +344,7 @@
 
 4. And now, my brethren, you also are dead to the law, through the body of the Meshiha, that you should be married to another, (namely, to) him who rose from the dead, that you may render fruit unto Aloha.
 
-5. For while we were in the flesh, the affections of sin, which are againstCompare the same particle, 2Co 7:2. the law, wrought powerfully in our members to yield fruits unto death;
+5. For while we were in the flesh, the affections of sin, which are against
 
 6. but now we are loosed from the law, and are dead to that which held us, that we might serve henceforth in the newness of the spirit, and not in the oldness of the writing.
 
@@ -362,11 +362,11 @@
 
 13. The good, then, unto me, unto death was made? Not so. But sin, that it might be seen what sin is, by the good (law) effected death in me, that sin might be the more condemned by the commandment.
 
-14. For we know that the law is spiritual;Da-ruch, "Of the spirit." but I am carnal, and sold unto sin.
+14. For we know that the law is spiritual;
 
-15. For what I work, I knowOr, acknowledge, approve. not; and not that which I will, I do; but what I hate, that I do.
+15. For what I work, I know
 
-16. And if the thing that I would not, I do, I witness of the law that it is good.Shaphir.
+16. And if the thing that I would not, I do, I witness of the law that it is good.
 
 17. But now it is not I who work this, but sin which dwelleth in me.
 
@@ -382,7 +382,7 @@
 
 23. but I see another law in my members, which warreth against the law of my mind, making me captive to the law of sin that is in my members.
 
-24. I give thanks to Aloha! (it is) by the hand of our Lord Jeshu Meshiha. Now then, I in my mind am the servant of the law of Aloha, but in my fleshCompare verse 13 with John 3:6,7. I am the servant of the law of sin.
+24. I give thanks to Aloha! (it is) by the hand of our Lord Jeshu Meshiha. Now then, I in my mind am the servant of the law of Aloha, but in my flesh
 
 ## Romans 8
 
@@ -414,7 +414,7 @@
 
 14. For they who by the Spirit of Aloha are led, they are the sons of Aloha.
 
-15. For we have not received the spirit of servitude again unto fear, but we have received the Spirit of the adoptionRucho da-simath benayo: The Spirit of the constituting of sons. of sons, by whom we cry, Father, our Father!
+15. For we have not received the spirit of servitude again unto fear, but we have received the Spirit of the adoption
 
 16. And the Spirit himself witnesseth with our spirit, that we are the sons of Aloha.
 
@@ -424,7 +424,7 @@
 
 19. For the whole creation hopeth and waiteth for the manifestation of the sons of Aloha.
 
-20. For the creation hath been subjected to vanity, not willingly,Or, not with her will. but on account of him who subjected her, upon the hope
+20. For the creation hath been subjected to vanity, not willingly,
 
 21. that the creation herself also shall be made free from the servitude of corruption into the liberty of the glory of the sons of Aloha.
 
@@ -442,7 +442,7 @@
 
 28. BUT we know that those who love Aloha, in every thing he helpeth them for good; them whom he set before that they might be called.
 
-29. And from the first he knew them, and signifiedVar'sham enum, Signed, designated, notified them. them in the likeness of the image of his Son, that he might be the first-born of many brethren.
+29. And from the first he knew them, and signified
 
 30. But whom he before signified, them he called; and whom he called, them he justified; and whom he justified, them he glorified.
 
@@ -470,13 +470,13 @@
 
 2. that I have great grief, and (that) the sorrow of my heart ceaseth not.
 
-3. For I could pray that I myself might be one accursed from MeshihaCherem from Meshiha. instead of my brethren and my kinsmen who are in the flesh;
+3. For I could pray that I myself might be one accursed from Meshiha
 
 4. who are the sons of Israel, and whose was the adoption of sons, and the glory, and the covenants, and the law, and the ministry, and the promises,
 
 5. and the fathers; and from whom appeared the Meshiha in the flesh, who is Aloha over all: his be praises and benedictions to the age of ages. Amen.
 
-6. FOR the word of Aloha hath not really fallen:Fallen to fall. for not all who are of Israel are Israel;
+6. FOR the word of Aloha hath not really fallen:
 
 7. neither also are they who are of the seed of Abraham all children; because it was said, In Ishok shall be called unto thee the seed:
 
@@ -526,7 +526,7 @@
 
 30. WHAT then shall we say? That the Gentiles who have not followed after righteousness have attained righteousness, but that righteousness which is of faith:
 
-31. but Israel, who followedOr, ran. after the law of righteousness, unto the law of righteousness have not attained.
+31. but Israel, who followed
 
 32. For why? Because it was not by faith, but by the works of the law: for they stumbled at the stone of stumbling;
 
@@ -534,9 +534,9 @@
 
 ## Romans 10
 
-1. My brethren, (it is) the wishOr, will. of my heart, and my prayer to Aloha concerning them, that they may be saved.
+1. My brethren, (it is) the wish
 
-2. For I testify of them that they have zeal for Aloha,Or, the zeal of Aloha. but not in knowledge.
+2. For I testify of them that they have zeal for Aloha,
 
 3. But the righteousness of Aloha they know not, but seek the righteousness of themselves to establish, and on this account to the righteousness of Aloha they have not become subject.
 
@@ -564,7 +564,7 @@
 
 15. Or how shall they preach if they are not sent? As it is written, How beautiful the feet of them who evangelize peace, And who evangelize good things!
 
-16. But all of them have not obeyedLit. " heard." the preaching of the gospel: for Eshaia saith, My Lord, who hath believed our voice?
+16. But all of them have not obeyed
 
 17. Therefore faith is from the hearing of the ear, and the hearing of the ear from the word of Aloha.
 
@@ -592,17 +592,17 @@
 
 7. What then, That which Israel sought he hath not found; but the election hath found: but the rest of them are blinded in their hearts.
 
-8. As it is written, Aloha hath given them the spirit of trouble,Spiritum stupidum.-WALTON. And eyes that see not, and ears that hear not, until the present day.Until the day of to-day.
+8. As it is written, Aloha hath given them the spirit of trouble,
 
 9. And David again saith, Let their table become a snare before them, And their reward be for a stumbling-block:
 
 10. Let their eyes be darkened, that they may not see, And their back at all times be bowed;
 
-11. But I say, Have they stumbled so as to fall? Not so: but, by their stumbling was salvation to the Gentiles, untothe stirring up of their zeal.
+11. But I say, Have they stumbled so as to fall? Not so: but, by their stumbling was salvation to the Gentiles, unto
 
 12. And if their stumbling were wealth to the world, and their condemnation wealth to the Gentiles, how much then will their fulness be?
 
-13. To you, Gentiles, I speak, I, who am apostle of the Gentiles, in my ministry I glory,Or, boast.
+13. To you, Gentiles, I speak, I, who am apostle of the Gentiles, in my ministry I glory,
 
 14. if I may provoke my fleshly kindred, and save some of them.
 
@@ -628,7 +628,7 @@
 
 25. But I would have you know, my brethren, this mystery, that you may not be wise in your own mind,-that blindness of heart for a little space is unto Israel until the fulness of the Gentiles be brought in:
 
-26. and then all Israel shall be saved. As it is written, The Redeemer shall come from Sion,Nithe men Tshiun Poruko. And turn iniquity from Jakub;
+26. and then all Israel shall be saved. As it is written, The Redeemer shall come from Sion,
 
 27. And then shall be to them my covenant, When I have forgiven them their sins.
 
@@ -652,7 +652,7 @@
 
 ## Romans 12
 
-1. I BESEECH then of you, my brethren, by the mercies of Aloha, that you presentOr, make to stand, constitute. your bodies a sacrifice, living and holy and acceptable unto Aloha, in a rationalMeliltho. Compare the use of the corresponding Chaldee word in the Targum of Onkelos on Ge. 2:7, where the divine afflatus is described as creating in man ruch memalla, " a speaking or rational spirit." service.
+1. I BESEECH then of you, my brethren, by the mercies of Aloha, that you present
 
 2. And be not likened unto this world, but be changed by the renewing of your minds, that you may discern what is the will of Aloha, good, and acceptable, and perfect.
 
@@ -666,7 +666,7 @@
 
 7. Hath (another the gift) of ministry? (let him be employed) in his ministry; he who is a teacher, (let him labour) in his teaching;
 
-8. he who is an exhorter, in his exhorting; as he who giveth, (let him give with simplicity;) and he who presideth,Lit. " standeth at the head." (let it be) with diligence; and he who (is engaged in works) of mercy, with cheerfulness.
+8. he who is an exhorter, in his exhorting; as he who giveth, (let him give with simplicity;) and he who presideth,
 
 9. And let not your love be guileful; abhor things evil, cleave to the good.
 
@@ -706,9 +706,9 @@
 
 5. And because of this are we bound to be subject, not for the wrath only, but also because of conscience.
 
-6. On this account also give we tributeLit. " head-silver." to them; for they are the servants of Aloha over these things constituted.
+6. On this account also give we tribute
 
-7. Render therefore to every man as is due to him: to whom tributeLit. " head-silver." (is due,) tribute;Lit. " head-silver." and to whom custom, custom; and to whom reverence, reverence; and to whom honour, honour.
+7. Render therefore to every man as is due to him: to whom tribute
 
 8. And to no man owe any thing, but one another to love. For whoever loveth his neighbour fulfilleth the law:
 
@@ -734,7 +734,7 @@
 
 4. Who art thou that judgest a servant who is not thine? who, if he stand, unto his Lord he standeth, and if he fall, falleth unto his Lord. But standing, he standeth; for there is power in the hands of his Lord to make him stand.
 
-5. There is who distinguishethOr, judgeth. day from day, and there is who judgeth all days (to be alike); but let every man in the convictionOr, knowledge, intelligence. of his (own) mind be confirmed.
+5. There is who distinguisheth
 
 6. He who thinketh of the day, to his Lord he thinketh; and every one who thinketh not of the day, unto his Lord he thinketh not (of it). He who eateth, to his Lord he eateth, and to Aloha giveth thanks;
 
@@ -750,25 +750,25 @@
 
 12. Therefore, every one of us the answer for himself shall give unto Aloha.
 
-13. Then judge not one another, but this determineOr, judge. rather, to lay not a stumbling-block for thy brother.
+13. Then judge not one another, but this determine
 
 14. For I know, and am persuaded in the Lord Jeshu, that a thing which is unclean from itself is not (so); but to him who judgeth of any thing that it is polluted, to him only it is polluted.
 
 15. But if on account of meat thou grievest thy brother, thou walkest not in love: destroy not by thy meat him on account of whom the Meshiha died.
 
-16. Let not our goodToböthan, plural. (things) be blasphemed.
+16. Let not our good
 
 17. For the kingdom of Aloha is not meat and drink, but righteousness and peace and joy in the Spirit of Holiness.
 
 18. For who in these things serveth the Meshiha pleaseth Aloha, and before men is approved.
 
-19. Now, after peace let us pursue,Run. and after the edification of one another,
+19. Now, after peace let us pursue,
 
 20. and not for the sake of meats undo the work of Aloha. For each thing is pure, yet evil is it to the man who eateth with offence.
 
 21. It is well not to eat flesh, nor to drink wine, nor any thing by which our brother is offended.
 
-22. Hast thou confidence? In thyself retain it before Aloha. Blessed is he who condemnethJudgeth. not himself in what he distinguisheth.
+22. Hast thou confidence? In thyself retain it before Aloha. Blessed is he who condemneth
 
 23. For he who doubteth and eateth is made guilty, because he eateth not with confidence. For every thing that is not of confidence is sin.
 
@@ -782,13 +782,13 @@
 
 4. For every thing that hath before been written for our instruction was written, that by the patience and consolation of the scriptures we might have hope.
 
-5. But the God of patience and of consolation give to you that with impartialityEquality. you may think one of another in Jeshu Meshiha,
+5. But the God of patience and of consolation give to you that with impartiality
 
 6. that with one mind and with one mouth you may glorify Aloha, the Father of our Lord Jeshu Meshiha.
 
 7. Therefore, receive and bear with one another, as also the Meshiha hath received you, to the glory of Aloha.
 
-8. But I say that Jeshu Meshiha ministeredto the circumcision, on behalf of the truth of Aloha, that he might confirm the promise of the fathers,
+8. But I say that Jeshu Meshiha ministered
 
 9. and the Gentiles might glorify Aloha for his mercy that was upon them. As it is written, I will confess thee among the Gentiles, And to thy name will I sing.
 
@@ -802,7 +802,7 @@
 
 14. BUT I am persuaded also concerning you, my brethren, that you are also full of good, and filled with all knowledge, and able also to instruct others.
 
-15. But I have somewhatOr, a little. boldly written to you, my brethren, as that I may put you in remembrance, through the grace which is given to me from Aloha,
+15. But I have somewhat
 
 16. to be a minister of Jeshu Meshiha among the Gentiles, and to labour in the gospel of Aloha, that there may be an oblation of the Gentiles, acceptable and holy through the Spirit of Holiness.
 
@@ -814,13 +814,13 @@
 
 20. being anxious to preach, not where the name of Meshiha had been called, that I might not build upon another foundation,
 
-21. but as it is written, They to whom it hath not been told of him, they shall see him; and they who have not heard shall be persuaded.Or, be obedient.
+21. but as it is written, They to whom it hath not been told of him, they shall see him; and they who have not heard shall be persuaded.
 
 22. On this account I have been hindered many times when I would have come to you.
 
 23. But now, because I have no place in these countries, and have desired for many years to come to you,
 
-24. when I go into Ispania, I hope to come and see you; and you shall lead me thitherward, when I shall in some measureKalil men sagi, "a little from much." have been gladdened with the sight of you.
+24. when I go into Ispania, I hope to come and see you; and you shall lead me thitherward, when I shall in some measure
 
 25. But now I go to Urishlem to minister to the saints.
 
@@ -844,13 +844,13 @@
 
 1. I COMMEND to you Phebe our sister, who is a deaconess of the church of Kancreos,
 
-2. that you receive her in the Lord, as is right for saints; and, in every thing which she requests from you, assistOr, stand by. her; because she also hath assisted many, and myself also.
+2. that you receive her in the Lord, as is right for saints; and, in every thing which she requests from you, assist
 
-3. Ask for the peace ofShalu bashalomo; the same form as in the Hebrew of Psalm cxxii. 6: Shaalu shelowm Yerushalaim,, "Ask the peace of Jerusalem. " Priskela and Akulos, labourers with me in Jeshu Meshiha;
+3. Ask for the peace of
 
 4. for they themselves for my life have given their necks; and not only do I praise them, but also all the churches of the Gentiles.
 
-5. And give salutationShalomo. to the church which is in their house. Ask the peace of Epenetos, my beloved, who was the first-fruits of Akaia in the Meshiha.
+5. And give salutation
 
 6. Ask the peace of Maria, who hath laboured much with you.
 
@@ -878,7 +878,7 @@
 
 18. For they who are thus serve not our Lord Jeshu Meshiha, but their bellies; and with sweet words and benedictions seduce the hearts of the simple.
 
-19. But your obedience is known to every one; I rejoice therefore in you, and I wish you to be wise unto good (works), and pure with regard tothose which are evil.
+19. But your obedience is known to every one; I rejoice therefore in you, and I wish you to be wise unto good (works), and pure with regard to
 
 20. But the God of peace will soon bruise Satana beneath your feet. The grace of our Lord Jeshu Meshiha be with you!
 
