@@ -15,6 +15,7 @@ class BooksWindow(Window):
         super(BooksWindow, self).__init__(main_window, y, x, h, w, title)
         log("books window height = {}".format(self.height))
         self.grid_columns = 3
+        self.buffer_upper_line = 0
         self.grid_cell_width = self.columns // self.grid_columns
         last_location = self.read_last_location()
         if last_location == None:
@@ -38,21 +39,32 @@ class BooksWindow(Window):
         # flush blank screen
         for i in range(self.height):
             self.win.addstr(i+1, 0, " " * self.columns)
-            
+
         data = self.grid_view_data[self.grid_view_index]
+
+        # check the relation with upper line
+        if (len(data["list"]) // self.grid_columns) > self.height:
+            selected_buffer_line = data["selected"] // self.grid_columns
+            # we need to set self.buffer_upper_line
+            if selected_buffer_line - self.buffer_upper_line > self.height - 1:
+                self.buffer_upper_line = selected_buffer_line - self.height + 1
+            if selected_buffer_line < self.buffer_upper_line:
+                self.buffer_upper_line = selected_buffer_line
+                    
         for i in range(len(data["list"])):
+            if not (i // self.grid_columns) in range(self.buffer_upper_line, self.buffer_upper_line + self.height):
+                continue
             text = data["list"][i]
             s = ' ' * ((self.grid_cell_width - len(text)) // 2)
             s += text
             s += ' ' * (self.grid_cell_width - len(s))
             display_row = (i // self.grid_columns) + 1
             display_col = (i % self.grid_columns) * self.grid_cell_width
-            if display_row > self.height:
-                break
+
             if i == data["selected"]:
-                self.win.addstr( display_row, display_col, s, curses.color_pair(3))
+                self.win.addstr( display_row - self.buffer_upper_line, display_col, s, curses.color_pair(3))
             else:
-                self.win.addstr( display_row, display_col, s)
+                self.win.addstr( display_row - self.buffer_upper_line, display_col, s)
 
         self.win.refresh()
 
@@ -107,6 +119,7 @@ class BooksWindow(Window):
         self.grid_view_data[self.VIEW_INDEX_BOOK] = books
         self.grid_view_index = self.VIEW_INDEX_BOOK
         self.set_title("Books: " + version)
+        self.buffer_upper_line = 0
         #self.refresh()
 
     def load_books(self, version, selected="Gen"):
@@ -133,6 +146,7 @@ class BooksWindow(Window):
             self.grid_view_data[self.VIEW_INDEX_CHAPTER] = chapters
             self.grid_view_index = self.VIEW_INDEX_CHAPTER
             self.set_title("Books: " + version + "/" + book)
+        self.buffer_upper_line = 0
         #self.refresh()
 
     def load_chapters(self, version, book, selected=0):
@@ -158,6 +172,7 @@ class BooksWindow(Window):
         if chapter == "-return-":
             self.grid_view_index = self.VIEW_INDEX_BOOK
             self.set_title("Books: " + version)
+            self.buffer_upper_line = 0
             #self.refresh()
         else:
             bible = loader.load_bible(version)

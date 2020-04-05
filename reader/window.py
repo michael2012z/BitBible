@@ -97,25 +97,20 @@ class Window(object):
         
     def move_to_next_line(self):
         # Simulate the senario that highlight is at the end of the screen
-        log("move_to_next_line: 1 self.current_line = {}, self.buffer_lower_line = {}, self.buffer_upper_line".format(self.current_line, self.buffer_lower_line, self.buffer_upper_line))    
         if self.show_highlight == False:
             self.current_line = self.buffer_lower_line - 1 - self.buffer_upper_line
 
         if self.current_line + self.buffer_upper_line < self.buffer_lower_line - 1:
             # highlighted line in middle 
             self.current_line += 1
-            log("move_to_next_line: 2 self.current_line = {}, self.buffer_lower_line = {}, self.buffer_upper_line".format(self.current_line, self.buffer_lower_line, self.buffer_upper_line))    
         else: # lighlighted line on lower boundary
             if self.buffer_lower_line == len(self.display_buffer):
                 # lower boundary is in the middle of screen, no move
-                log("move_to_next_line: 3 self.current_line = {}, self.buffer_lower_line = {}, self.buffer_upper_line".format(self.current_line, self.buffer_lower_line, self.buffer_upper_line))    
-
                 return
             else:
                 # move page one line down
                 self.buffer_upper_line += 1
                 self.buffer_lower_line += 1
-                log("move_to_next_line: 4 self.current_line = {}, self.buffer_lower_line = {}, self.buffer_upper_line".format(self.current_line, self.buffer_lower_line, self.buffer_upper_line))    
 
         self.refresh()
                 
