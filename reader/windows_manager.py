@@ -25,17 +25,22 @@ class WindowsManager(object):
     def get_current_window(self):
         return self.windows_list[self.current_window]
 
-    def switch_window(self):
-        log("current window = {}".format(self.current_window))
+    def switch_window(self, reverse = False):
         self.windows_list[self.current_window].set_nonfocus()
-        self.current_window += 1
-        if self.current_window == len(self.windows_list):
+        if reverse:
+            self.current_window -= 1
+        else:
+            self.current_window += 1
+        if self.current_window > len(self.windows_list) - 1:
             self.current_window = 0
-        log("next window = {}".format(self.current_window))
+        elif self.current_window < 0:
+            self.current_window = len(self.windows_list) - 1
         self.windows_list[self.current_window].set_focus()
 
     def handle_key(self, char):
         if char == "o": # switch window
             self.switch_window()
+        if char == "i": # switch window
+            self.switch_window(reverse=True)
         else:
             self.get_current_window().handle_key(char)

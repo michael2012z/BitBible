@@ -15,12 +15,14 @@ class DictionaryWindow(Window):
         # self.wordnet_lemmatizer.lemmatize("early", 'v')
         super(DictionaryWindow, self).__init__(main_window, y, x, h, w, title)
         self.help_text = [
-                          "Ctl + o: switch window",
-                          "Ctl + n: to next line",
-                          "Ctl + p: to preview line",
-                          "Ctl + f: to next word",
-                          "Ctl + b: to preview word",
-                          "Ctl + e: enter",
+                          " Key settings:"
+                          "   Ctl + o: switch window",
+                          "   Ctl + i: switch window (inversely)",
+                          "   Ctl + n: to next line",
+                          "   Ctl + p: to preview line",
+                          "   Ctl + f: to next word",
+                          "   Ctl + b: to preview word",
+                          "   Ctl + e: enter",
                           ]
         self.translate(self.word)
 
