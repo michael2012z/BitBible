@@ -74,6 +74,10 @@ class TextWindow(Window):
         for i in range(self.height):
             if (i + self.buffer_upper_line) < self.buffer_lower_line:
                 self.print_line(i+1, self.display_buffer[self.buffer_upper_line + i], i == self.current_line)
+            else:
+                # flush blank screen
+                self.print_line(i+1, " " * self.columns)
+
         self.win.refresh()
     
     def make_verse_meta_data(self, raw_text):
